@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_19	1	1	XIX	ORG
+shakespeare-sonnets_19	2	1	Devouring Time	PERSON
+shakespeare-sonnets_19	2	2	Devouring Time	PRODUCT
+shakespeare-sonnets_19	2	3	Pluck	GPE
+shakespeare-sonnets_19	2	4	whate'er thou wilt	PERSON
+shakespeare-sonnets_19	2	5	Time	ORG
+shakespeare-sonnets_19	3	1	thy hours	TIME

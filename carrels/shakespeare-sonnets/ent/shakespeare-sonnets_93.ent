@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_93	1	1	XCIII	ORG
+shakespeare-sonnets_93	2	1	May	DATE
+shakespeare-sonnets_93	2	2	Thy	PERSON
+shakespeare-sonnets_93	4	1	Whate'er	PERSON
+shakespeare-sonnets_93	4	2	Thy	PERSON
+shakespeare-sonnets_93	5	1	Eve	PERSON

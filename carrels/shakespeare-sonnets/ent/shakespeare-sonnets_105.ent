@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_105	2	1	one	CARDINAL
+shakespeare-sonnets_105	2	2	one	CARDINAL
+shakespeare-sonnets_105	3	1	One	CARDINAL
+shakespeare-sonnets_105	4	1	Three	CARDINAL
+shakespeare-sonnets_105	5	1	three	CARDINAL
+shakespeare-sonnets_105	5	2	one	CARDINAL

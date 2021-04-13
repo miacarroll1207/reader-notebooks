@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_20	3	1	wert thou	PERSON
+shakespeare-sonnets_20	3	2	first	ORDINAL
+shakespeare-sonnets_20	3	3	Till Nature	PERSON
+shakespeare-sonnets_20	3	4	one	CARDINAL

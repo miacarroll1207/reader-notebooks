@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_02	2	1	forty winters	DATE
+shakespeare-sonnets_02	2	2	forty	QUANTITY
+shakespeare-sonnets_02	2	3	winters	DATE
+shakespeare-sonnets_02	2	4	Thy	PERSON
+shakespeare-sonnets_02	3	1	Shall	ORG

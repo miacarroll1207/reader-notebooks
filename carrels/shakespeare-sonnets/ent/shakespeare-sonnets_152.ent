@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_152	1	1	CLII	ORG
+shakespeare-sonnets_152	2	1	vow broke	PERSON
+shakespeare-sonnets_152	2	2	two	CARDINAL
+shakespeare-sonnets_152	2	3	twenty	CARDINAL
+shakespeare-sonnets_152	3	1	Oaths	PERSON

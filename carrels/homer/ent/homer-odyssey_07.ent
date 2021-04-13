@@ -1,0 +1,102 @@
+id	sid	eid	entity	type
+homer-odyssey_07	3	1	Apeira	ORG
+homer-odyssey_07	4	1	Apeira	ORG
+homer-odyssey_07	4	2	Phaeacians	NORP
+homer-odyssey_07	5	1	Nausicaa	ORG
+homer-odyssey_07	6	1	Minerva	PERSON
+homer-odyssey_07	6	2	Phaeacians	NORP
+homer-odyssey_07	8	1	Ulysses	ORG
+homer-odyssey_07	10	1	Minerva	PERSON
+homer-odyssey_07	12	1	Neptune	LOC
+homer-odyssey_07	13	1	Ulysses	ORG
+homer-odyssey_07	13	2	one	CARDINAL
+homer-odyssey_07	13	3	Phaeacians	NORP
+homer-odyssey_07	13	4	Minerva	PERSON
+homer-odyssey_07	14	1	Minerva	ORG
+homer-odyssey_07	16	1	First	ORDINAL
+homer-odyssey_07	17	1	Arete	ORG
+homer-odyssey_07	18	1	Neptune	ORG
+homer-odyssey_07	18	2	Periboea	ORG
+homer-odyssey_07	19	1	Eurymedon	GPE
+homer-odyssey_07	19	2	one	CARDINAL
+homer-odyssey_07	20	1	Neptune	ORG
+homer-odyssey_07	20	2	Phaeacians	NORP
+homer-odyssey_07	21	1	two	CARDINAL
+homer-odyssey_07	21	2	Apollo	ORG
+homer-odyssey_07	21	3	first	ORDINAL
+homer-odyssey_07	21	4	Arete	PERSON
+homer-odyssey_07	24	1	Minerva	PERSON
+homer-odyssey_07	24	2	Scheria	GPE
+homer-odyssey_07	25	1	Marathon	GPE
+homer-odyssey_07	25	2	Athens	GPE
+homer-odyssey_07	25	3	Erechtheus	GPE
+homer-odyssey_07	25	4	Ulysses	GPE
+homer-odyssey_07	28	1	Vulcan	NORP
+homer-odyssey_07	30	1	Phaeacians	NORP
+homer-odyssey_07	30	2	all seasons	DATE
+homer-odyssey_07	30	3	night	TIME
+homer-odyssey_07	31	1	fifty	CARDINAL
+homer-odyssey_07	32	1	Phaeacians	NORP
+homer-odyssey_07	32	2	Minerva	PERSON
+homer-odyssey_07	33	1	about four acres	QUANTITY
+homer-odyssey_07	36	1	year	DATE
+homer-odyssey_07	36	2	winter nor summer	DATE
+homer-odyssey_07	38	1	all the year round	DATE
+homer-odyssey_07	39	1	Two	CARDINAL
+homer-odyssey_07	39	2	one	CARDINAL
+homer-odyssey_07	39	3	house	ORG
+homer-odyssey_07	41	1	Ulysses	GPE
+homer-odyssey_07	42	1	Phaeacians	NORP
+homer-odyssey_07	42	2	Mercury	ORG
+homer-odyssey_07	42	3	the night	TIME
+homer-odyssey_07	43	1	Minerva	ORG
+homer-odyssey_07	43	2	Arete	ORG
+homer-odyssey_07	45	1	Queen Arete	PERSON
+homer-odyssey_07	46	1	Echeneus	PERSON
+homer-odyssey_07	46	2	Phaeacians	NORP
+homer-odyssey_07	47	1	Laodamas	GPE
+homer-odyssey_07	48	1	Ulysses	ORG
+homer-odyssey_07	51	1	Aldermen	GPE
+homer-odyssey_07	51	2	Phaeacians	NORP
+homer-odyssey_07	53	1	morning	TIME
+homer-odyssey_07	56	1	Cyclopes	ORG
+homer-odyssey_07	57	1	Ulysses	ORG
+homer-odyssey_07	57	2	Pray, Alcinous	WORK_OF_ART
+homer-odyssey_07	62	1	day	DATE
+homer-odyssey_07	66	1	Ulysses	ORG
+homer-odyssey_07	67	1	first	ORDINAL
+homer-odyssey_07	67	2	Ulysses	GPE
+homer-odyssey_07	67	3	Stranger	EVENT
+homer-odyssey_07	70	1	Ulysses	ORG
+homer-odyssey_07	70	2	Ogygian	NORP
+homer-odyssey_07	71	1	Calypso	ORG
+homer-odyssey_07	71	2	Atlas	PERSON
+homer-odyssey_07	73	1	mid - ocean	DATE
+homer-odyssey_07	74	1	nine days	DATE
+homer-odyssey_07	74	2	Ogygian	NORP
+homer-odyssey_07	76	1	Calypso	ORG
+homer-odyssey_07	76	2	seven years	DATE
+homer-odyssey_07	76	3	the eighth year	DATE
+homer-odyssey_07	76	4	Jove	PERSON
+homer-odyssey_07	79	1	Days seven and ten	DATE
+homer-odyssey_07	79	2	eighteenth	ORDINAL
+homer-odyssey_07	79	3	first	ORDINAL
+homer-odyssey_07	80	1	Neptune	ORG
+homer-odyssey_07	84	1	all night	TIME
+homer-odyssey_07	84	2	the next day	DATE
+homer-odyssey_07	88	1	first	ORDINAL
+homer-odyssey_07	89	1	Ulysses	ORG
+homer-odyssey_07	92	1	Jove	PERSON
+homer-odyssey_07	92	2	Minerva	PERSON
+homer-odyssey_07	92	3	Apollo	ORG
+homer-odyssey_07	93	1	tomorrow	DATE
+homer-odyssey_07	94	1	Euboea	NORP
+homer-odyssey_07	94	2	Rhadamanthus	PERSON
+homer-odyssey_07	94	3	Tityus	PERSON
+homer-odyssey_07	94	4	Gaia	PERSON
+homer-odyssey_07	94	5	a single day	DATE
+homer-odyssey_07	96	1	Ulysses	ORG
+homer-odyssey_07	96	2	Jove	PERSON
+homer-odyssey_07	98	1	Arete	ORG
+homer-odyssey_07	98	2	Ulysses	ORG
+homer-odyssey_07	99	1	Ulysses	GPE

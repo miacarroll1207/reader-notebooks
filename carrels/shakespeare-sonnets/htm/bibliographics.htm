@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "asc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Bibliographics</li>
+		</ol>
+	</nav>
+
+<h1>Bibliographics</h1>
+<p>This is a table of authors, titles, dates and other bibliographic information; it is a list metadata describing the content of your study carrel. Think of it as your library.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>author</th>
+                <th>title</th>
+                <th>date</th>
+                <th>words</th>
+                <th>sentences</th>
+                <th>pages</th>
+                <th>cache</th>
+                <th>text</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>shakespeare-sonnets_01</td><td>nan</td><td>shakespeare-sonnets_01</td><td>nan</td><td>117</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_01.txt</td><td>./txt/shakespeare-sonnets_01.txt</td></tr>
+<tr><td>shakespeare-sonnets_02</td><td>nan</td><td>shakespeare-sonnets_02</td><td>nan</td><td>126</td><td>6</td><td>nan</td><td>./cache/shakespeare-sonnets_02.txt</td><td>./txt/shakespeare-sonnets_02.txt</td></tr>
+<tr><td>shakespeare-sonnets_03</td><td>nan</td><td>shakespeare-sonnets_03</td><td>nan</td><td>127</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_03.txt</td><td>./txt/shakespeare-sonnets_03.txt</td></tr>
+<tr><td>shakespeare-sonnets_04</td><td>nan</td><td>shakespeare-sonnets_04</td><td>nan</td><td>113</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_04.txt</td><td>./txt/shakespeare-sonnets_04.txt</td></tr>
+<tr><td>shakespeare-sonnets_05</td><td>nan</td><td>shakespeare-sonnets_05</td><td>nan</td><td>115</td><td>5</td><td>nan</td><td>./cache/shakespeare-sonnets_05.txt</td><td>./txt/shakespeare-sonnets_05.txt</td></tr>
+<tr><td>shakespeare-sonnets_06</td><td>nan</td><td>shakespeare-sonnets_06</td><td>nan</td><td>123</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_06.txt</td><td>./txt/shakespeare-sonnets_06.txt</td></tr>
+<tr><td>shakespeare-sonnets_07</td><td>nan</td><td>shakespeare-sonnets_07</td><td>nan</td><td>109</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_07.txt</td><td>./txt/shakespeare-sonnets_07.txt</td></tr>
+<tr><td>shakespeare-sonnets_08</td><td>nan</td><td>shakespeare-sonnets_08</td><td>nan</td><td>119</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_08.txt</td><td>./txt/shakespeare-sonnets_08.txt</td></tr>
+<tr><td>shakespeare-sonnets_09</td><td>nan</td><td>shakespeare-sonnets_09</td><td>nan</td><td>133</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_09.txt</td><td>./txt/shakespeare-sonnets_09.txt</td></tr>
+<tr><td>shakespeare-sonnets_100</td><td>nan</td><td>shakespeare-sonnets_100</td><td>nan</td><td>123</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_100.txt</td><td>./txt/shakespeare-sonnets_100.txt</td></tr>
+<tr><td>shakespeare-sonnets_101</td><td>nan</td><td>shakespeare-sonnets_101</td><td>nan</td><td>124</td><td>16</td><td>nan</td><td>./cache/shakespeare-sonnets_101.txt</td><td>./txt/shakespeare-sonnets_101.txt</td></tr>
+<tr><td>shakespeare-sonnets_102</td><td>nan</td><td>shakespeare-sonnets_102</td><td>nan</td><td>130</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_102.txt</td><td>./txt/shakespeare-sonnets_102.txt</td></tr>
+<tr><td>shakespeare-sonnets_103</td><td>nan</td><td>shakespeare-sonnets_103</td><td>nan</td><td>125</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_103.txt</td><td>./txt/shakespeare-sonnets_103.txt</td></tr>
+<tr><td>shakespeare-sonnets_104</td><td>nan</td><td>shakespeare-sonnets_104</td><td>nan</td><td>127</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_104.txt</td><td>./txt/shakespeare-sonnets_104.txt</td></tr>
+<tr><td>shakespeare-sonnets_105</td><td>nan</td><td>shakespeare-sonnets_105</td><td>nan</td><td>113</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_105.txt</td><td>./txt/shakespeare-sonnets_105.txt</td></tr>
+<tr><td>shakespeare-sonnets_106</td><td>nan</td><td>shakespeare-sonnets_106</td><td>nan</td><td>119</td><td>7</td><td>nan</td><td>./cache/shakespeare-sonnets_106.txt</td><td>./txt/shakespeare-sonnets_106.txt</td></tr>
+<tr><td>shakespeare-sonnets_107</td><td>nan</td><td>shakespeare-sonnets_107</td><td>nan</td><td>123</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_107.txt</td><td>./txt/shakespeare-sonnets_107.txt</td></tr>
+<tr><td>shakespeare-sonnets_108</td><td>nan</td><td>shakespeare-sonnets_108</td><td>nan</td><td>128</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_108.txt</td><td>./txt/shakespeare-sonnets_108.txt</td></tr>
+<tr><td>shakespeare-sonnets_109</td><td>nan</td><td>shakespeare-sonnets_109</td><td>nan</td><td>125</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_109.txt</td><td>./txt/shakespeare-sonnets_109.txt</td></tr>
+<tr><td>shakespeare-sonnets_10</td><td>nan</td><td>shakespeare-sonnets_10</td><td>nan</td><td>124</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_10.txt</td><td>./txt/shakespeare-sonnets_10.txt</td></tr>
+<tr><td>shakespeare-sonnets_110</td><td>nan</td><td>shakespeare-sonnets_110</td><td>nan</td><td>129</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_110.txt</td><td>./txt/shakespeare-sonnets_110.txt</td></tr>
+<tr><td>shakespeare-sonnets_111</td><td>nan</td><td>shakespeare-sonnets_111</td><td>nan</td><td>120</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_111.txt</td><td>./txt/shakespeare-sonnets_111.txt</td></tr>
+<tr><td>shakespeare-sonnets_112</td><td>nan</td><td>shakespeare-sonnets_112</td><td>nan</td><td>125</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_112.txt</td><td>./txt/shakespeare-sonnets_112.txt</td></tr>
+<tr><td>shakespeare-sonnets_113</td><td>nan</td><td>shakespeare-sonnets_113</td><td>nan</td><td>128</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_113.txt</td><td>./txt/shakespeare-sonnets_113.txt</td></tr>
+<tr><td>shakespeare-sonnets_114</td><td>nan</td><td>shakespeare-sonnets_114</td><td>nan</td><td>124</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_114.txt</td><td>./txt/shakespeare-sonnets_114.txt</td></tr>
+<tr><td>shakespeare-sonnets_115</td><td>nan</td><td>shakespeare-sonnets_115</td><td>nan</td><td>126</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_115.txt</td><td>./txt/shakespeare-sonnets_115.txt</td></tr>
+<tr><td>shakespeare-sonnets_116</td><td>nan</td><td>shakespeare-sonnets_116</td><td>nan</td><td>123</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_116.txt</td><td>./txt/shakespeare-sonnets_116.txt</td></tr>
+<tr><td>shakespeare-sonnets_117</td><td>nan</td><td>shakespeare-sonnets_117</td><td>nan</td><td>119</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_117.txt</td><td>./txt/shakespeare-sonnets_117.txt</td></tr>
+<tr><td>shakespeare-sonnets_118</td><td>nan</td><td>shakespeare-sonnets_118</td><td>nan</td><td>121</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_118.txt</td><td>./txt/shakespeare-sonnets_118.txt</td></tr>
+<tr><td>shakespeare-sonnets_119</td><td>nan</td><td>shakespeare-sonnets_119</td><td>nan</td><td>122</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_119.txt</td><td>./txt/shakespeare-sonnets_119.txt</td></tr>
+<tr><td>shakespeare-sonnets_11</td><td>nan</td><td>shakespeare-sonnets_11</td><td>nan</td><td>127</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_11.txt</td><td>./txt/shakespeare-sonnets_11.txt</td></tr>
+<tr><td>shakespeare-sonnets_120</td><td>nan</td><td>shakespeare-sonnets_120</td><td>nan</td><td>126</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_120.txt</td><td>./txt/shakespeare-sonnets_120.txt</td></tr>
+<tr><td>shakespeare-sonnets_121</td><td>nan</td><td>shakespeare-sonnets_121</td><td>nan</td><td>123</td><td>8</td><td>nan</td><td>./cache/shakespeare-sonnets_121.txt</td><td>./txt/shakespeare-sonnets_121.txt</td></tr>
+<tr><td>shakespeare-sonnets_122</td><td>nan</td><td>shakespeare-sonnets_122</td><td>nan</td><td>114</td><td>4</td><td>nan</td><td>./cache/shakespeare-sonnets_122.txt</td><td>./txt/shakespeare-sonnets_122.txt</td></tr>
+<tr><td>shakespeare-sonnets_123</td><td>nan</td><td>shakespeare-sonnets_123</td><td>nan</td><td>127</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_123.txt</td><td>./txt/shakespeare-sonnets_123.txt</td></tr>
+<tr><td>shakespeare-sonnets_124</td><td>nan</td><td>shakespeare-sonnets_124</td><td>nan</td><td>122</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_124.txt</td><td>./txt/shakespeare-sonnets_124.txt</td></tr>
+<tr><td>shakespeare-sonnets_125</td><td>nan</td><td>shakespeare-sonnets_125</td><td>nan</td><td>114</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_125.txt</td><td>./txt/shakespeare-sonnets_125.txt</td></tr>
+<tr><td>shakespeare-sonnets_126</td><td>nan</td><td>shakespeare-sonnets_126</td><td>nan</td><td>107</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_126.txt</td><td>./txt/shakespeare-sonnets_126.txt</td></tr>
+<tr><td>shakespeare-sonnets_127</td><td>nan</td><td>shakespeare-sonnets_127</td><td>nan</td><td>125</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_127.txt</td><td>./txt/shakespeare-sonnets_127.txt</td></tr>
+<tr><td>shakespeare-sonnets_128</td><td>nan</td><td>shakespeare-sonnets_128</td><td>nan</td><td>121</td><td>8</td><td>nan</td><td>./cache/shakespeare-sonnets_128.txt</td><td>./txt/shakespeare-sonnets_128.txt</td></tr>
+<tr><td>shakespeare-sonnets_129</td><td>nan</td><td>shakespeare-sonnets_129</td><td>nan</td><td>120</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_129.txt</td><td>./txt/shakespeare-sonnets_129.txt</td></tr>
+<tr><td>shakespeare-sonnets_12</td><td>nan</td><td>shakespeare-sonnets_12</td><td>nan</td><td>131</td><td>6</td><td>nan</td><td>./cache/shakespeare-sonnets_12.txt</td><td>./txt/shakespeare-sonnets_12.txt</td></tr>
+<tr><td>shakespeare-sonnets_130</td><td>nan</td><td>shakespeare-sonnets_130</td><td>nan</td><td>132</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_130.txt</td><td>./txt/shakespeare-sonnets_130.txt</td></tr>
+<tr><td>shakespeare-sonnets_131</td><td>nan</td><td>shakespeare-sonnets_131</td><td>nan</td><td>130</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_131.txt</td><td>./txt/shakespeare-sonnets_131.txt</td></tr>
+<tr><td>shakespeare-sonnets_132</td><td>nan</td><td>shakespeare-sonnets_132</td><td>nan</td><td>124</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_132.txt</td><td>./txt/shakespeare-sonnets_132.txt</td></tr>
+<tr><td>shakespeare-sonnets_133</td><td>nan</td><td>shakespeare-sonnets_133</td><td>nan</td><td>135</td><td>19</td><td>nan</td><td>./cache/shakespeare-sonnets_133.txt</td><td>./txt/shakespeare-sonnets_133.txt</td></tr>
+<tr><td>shakespeare-sonnets_134</td><td>nan</td><td>shakespeare-sonnets_134</td><td>nan</td><td>132</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_134.txt</td><td>./txt/shakespeare-sonnets_134.txt</td></tr>
+<tr><td>shakespeare-sonnets_135</td><td>nan</td><td>shakespeare-sonnets_135</td><td>nan</td><td>125</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_135.txt</td><td>./txt/shakespeare-sonnets_135.txt</td></tr>
+<tr><td>shakespeare-sonnets_136</td><td>nan</td><td>shakespeare-sonnets_136</td><td>nan</td><td>136</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_136.txt</td><td>./txt/shakespeare-sonnets_136.txt</td></tr>
+<tr><td>shakespeare-sonnets_137</td><td>nan</td><td>shakespeare-sonnets_137</td><td>nan</td><td>136</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_137.txt</td><td>./txt/shakespeare-sonnets_137.txt</td></tr>
+<tr><td>shakespeare-sonnets_138</td><td>nan</td><td>shakespeare-sonnets_138</td><td>nan</td><td>130</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_138.txt</td><td>./txt/shakespeare-sonnets_138.txt</td></tr>
+<tr><td>shakespeare-sonnets_139</td><td>nan</td><td>shakespeare-sonnets_139</td><td>nan</td><td>129</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_139.txt</td><td>./txt/shakespeare-sonnets_139.txt</td></tr>
+<tr><td>shakespeare-sonnets_13</td><td>nan</td><td>shakespeare-sonnets_13</td><td>nan</td><td>124</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_13.txt</td><td>./txt/shakespeare-sonnets_13.txt</td></tr>
+<tr><td>shakespeare-sonnets_140</td><td>nan</td><td>shakespeare-sonnets_140</td><td>nan</td><td>128</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_140.txt</td><td>./txt/shakespeare-sonnets_140.txt</td></tr>
+<tr><td>shakespeare-sonnets_141</td><td>nan</td><td>shakespeare-sonnets_141</td><td>nan</td><td>131</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_141.txt</td><td>./txt/shakespeare-sonnets_141.txt</td></tr>
+<tr><td>shakespeare-sonnets_142</td><td>nan</td><td>shakespeare-sonnets_142</td><td>nan</td><td>127</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_142.txt</td><td>./txt/shakespeare-sonnets_142.txt</td></tr>
+<tr><td>shakespeare-sonnets_143</td><td>nan</td><td>shakespeare-sonnets_143</td><td>nan</td><td>130</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_143.txt</td><td>./txt/shakespeare-sonnets_143.txt</td></tr>
+<tr><td>shakespeare-sonnets_144</td><td>nan</td><td>shakespeare-sonnets_144</td><td>nan</td><td>123</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_144.txt</td><td>./txt/shakespeare-sonnets_144.txt</td></tr>
+<tr><td>shakespeare-sonnets_145</td><td>nan</td><td>shakespeare-sonnets_145</td><td>nan</td><td>108</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_145.txt</td><td>./txt/shakespeare-sonnets_145.txt</td></tr>
+<tr><td>shakespeare-sonnets_146</td><td>nan</td><td>shakespeare-sonnets_146</td><td>nan</td><td>124</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_146.txt</td><td>./txt/shakespeare-sonnets_146.txt</td></tr>
+<tr><td>shakespeare-sonnets_147</td><td>nan</td><td>shakespeare-sonnets_147</td><td>nan</td><td>117</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_147.txt</td><td>./txt/shakespeare-sonnets_147.txt</td></tr>
+<tr><td>shakespeare-sonnets_148</td><td>nan</td><td>shakespeare-sonnets_148</td><td>nan</td><td>137</td><td>18</td><td>nan</td><td>./cache/shakespeare-sonnets_148.txt</td><td>./txt/shakespeare-sonnets_148.txt</td></tr>
+<tr><td>shakespeare-sonnets_149</td><td>nan</td><td>shakespeare-sonnets_149</td><td>nan</td><td>129</td><td>20</td><td>nan</td><td>./cache/shakespeare-sonnets_149.txt</td><td>./txt/shakespeare-sonnets_149.txt</td></tr>
+<tr><td>shakespeare-sonnets_14</td><td>nan</td><td>shakespeare-sonnets_14</td><td>nan</td><td>124</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_14.txt</td><td>./txt/shakespeare-sonnets_14.txt</td></tr>
+<tr><td>shakespeare-sonnets_150</td><td>nan</td><td>shakespeare-sonnets_150</td><td>nan</td><td>128</td><td>17</td><td>nan</td><td>./cache/shakespeare-sonnets_150.txt</td><td>./txt/shakespeare-sonnets_150.txt</td></tr>
+<tr><td>shakespeare-sonnets_151</td><td>nan</td><td>shakespeare-sonnets_151</td><td>nan</td><td>130</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_151.txt</td><td>./txt/shakespeare-sonnets_151.txt</td></tr>
+<tr><td>shakespeare-sonnets_152</td><td>nan</td><td>shakespeare-sonnets_152</td><td>nan</td><td>133</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_152.txt</td><td>./txt/shakespeare-sonnets_152.txt</td></tr>
+<tr><td>shakespeare-sonnets_153</td><td>nan</td><td>shakespeare-sonnets_153</td><td>nan</td><td>120</td><td>5</td><td>nan</td><td>./cache/shakespeare-sonnets_153.txt</td><td>./txt/shakespeare-sonnets_153.txt</td></tr>
+<tr><td>shakespeare-sonnets_154</td><td>nan</td><td>shakespeare-sonnets_154</td><td>nan</td><td>117</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_154.txt</td><td>./txt/shakespeare-sonnets_154.txt</td></tr>
+<tr><td>shakespeare-sonnets_15</td><td>nan</td><td>shakespeare-sonnets_15</td><td>nan</td><td>119</td><td>5</td><td>nan</td><td>./cache/shakespeare-sonnets_15.txt</td><td>./txt/shakespeare-sonnets_15.txt</td></tr>
+<tr><td>shakespeare-sonnets_16</td><td>nan</td><td>shakespeare-sonnets_16</td><td>nan</td><td>120</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_16.txt</td><td>./txt/shakespeare-sonnets_16.txt</td></tr>
+<tr><td>shakespeare-sonnets_17</td><td>nan</td><td>shakespeare-sonnets_17</td><td>nan</td><td>133</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_17.txt</td><td>./txt/shakespeare-sonnets_17.txt</td></tr>
+<tr><td>shakespeare-sonnets_18</td><td>nan</td><td>shakespeare-sonnets_18</td><td>nan</td><td>127</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_18.txt</td><td>./txt/shakespeare-sonnets_18.txt</td></tr>
+<tr><td>shakespeare-sonnets_19</td><td>nan</td><td>shakespeare-sonnets_19</td><td>nan</td><td>128</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_19.txt</td><td>./txt/shakespeare-sonnets_19.txt</td></tr>
+<tr><td>shakespeare-sonnets_20</td><td>nan</td><td>shakespeare-sonnets_20</td><td>nan</td><td>134</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_20.txt</td><td>./txt/shakespeare-sonnets_20.txt</td></tr>
+<tr><td>shakespeare-sonnets_21</td><td>nan</td><td>shakespeare-sonnets_21</td><td>nan</td><td>133</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_21.txt</td><td>./txt/shakespeare-sonnets_21.txt</td></tr>
+<tr><td>shakespeare-sonnets_22</td><td>nan</td><td>shakespeare-sonnets_22</td><td>nan</td><td>133</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_22.txt</td><td>./txt/shakespeare-sonnets_22.txt</td></tr>
+<tr><td>shakespeare-sonnets_23</td><td>nan</td><td>shakespeare-sonnets_23</td><td>nan</td><td>127</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_23.txt</td><td>./txt/shakespeare-sonnets_23.txt</td></tr>
+<tr><td>shakespeare-sonnets_24</td><td>nan</td><td>shakespeare-sonnets_24</td><td>nan</td><td>133</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_24.txt</td><td>./txt/shakespeare-sonnets_24.txt</td></tr>
+<tr><td>shakespeare-sonnets_25</td><td>nan</td><td>shakespeare-sonnets_25</td><td>nan</td><td>119</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_25.txt</td><td>./txt/shakespeare-sonnets_25.txt</td></tr>
+<tr><td>shakespeare-sonnets_26</td><td>nan</td><td>shakespeare-sonnets_26</td><td>nan</td><td>128</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_26.txt</td><td>./txt/shakespeare-sonnets_26.txt</td></tr>
+<tr><td>shakespeare-sonnets_27</td><td>nan</td><td>shakespeare-sonnets_27</td><td>nan</td><td>124</td><td>6</td><td>nan</td><td>./cache/shakespeare-sonnets_27.txt</td><td>./txt/shakespeare-sonnets_27.txt</td></tr>
+<tr><td>shakespeare-sonnets_28</td><td>nan</td><td>shakespeare-sonnets_28</td><td>nan</td><td>127</td><td>17</td><td>nan</td><td>./cache/shakespeare-sonnets_28.txt</td><td>./txt/shakespeare-sonnets_28.txt</td></tr>
+<tr><td>shakespeare-sonnets_29</td><td>nan</td><td>shakespeare-sonnets_29</td><td>nan</td><td>129</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_29.txt</td><td>./txt/shakespeare-sonnets_29.txt</td></tr>
+<tr><td>shakespeare-sonnets_30</td><td>nan</td><td>shakespeare-sonnets_30</td><td>nan</td><td>128</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_30.txt</td><td>./txt/shakespeare-sonnets_30.txt</td></tr>
+<tr><td>shakespeare-sonnets_31</td><td>nan</td><td>shakespeare-sonnets_31</td><td>nan</td><td>124</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_31.txt</td><td>./txt/shakespeare-sonnets_31.txt</td></tr>
+<tr><td>shakespeare-sonnets_32</td><td>nan</td><td>shakespeare-sonnets_32</td><td>nan</td><td>125</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_32.txt</td><td>./txt/shakespeare-sonnets_32.txt</td></tr>
+<tr><td>shakespeare-sonnets_33</td><td>nan</td><td>shakespeare-sonnets_33</td><td>nan</td><td>120</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_33.txt</td><td>./txt/shakespeare-sonnets_33.txt</td></tr>
+<tr><td>shakespeare-sonnets_34</td><td>nan</td><td>shakespeare-sonnets_34</td><td>nan</td><td>131</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_34.txt</td><td>./txt/shakespeare-sonnets_34.txt</td></tr>
+<tr><td>shakespeare-sonnets_35</td><td>nan</td><td>shakespeare-sonnets_35</td><td>nan</td><td>117</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_35.txt</td><td>./txt/shakespeare-sonnets_35.txt</td></tr>
+<tr><td>shakespeare-sonnets_36</td><td>nan</td><td>shakespeare-sonnets_36</td><td>nan</td><td>125</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_36.txt</td><td>./txt/shakespeare-sonnets_36.txt</td></tr>
+<tr><td>shakespeare-sonnets_37</td><td>nan</td><td>shakespeare-sonnets_37</td><td>nan</td><td>124</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_37.txt</td><td>./txt/shakespeare-sonnets_37.txt</td></tr>
+<tr><td>shakespeare-sonnets_38</td><td>nan</td><td>shakespeare-sonnets_38</td><td>nan</td><td>125</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_38.txt</td><td>./txt/shakespeare-sonnets_38.txt</td></tr>
+<tr><td>shakespeare-sonnets_39</td><td>nan</td><td>shakespeare-sonnets_39</td><td>nan</td><td>129</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_39.txt</td><td>./txt/shakespeare-sonnets_39.txt</td></tr>
+<tr><td>shakespeare-sonnets_40</td><td>nan</td><td>shakespeare-sonnets_40</td><td>nan</td><td>135</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_40.txt</td><td>./txt/shakespeare-sonnets_40.txt</td></tr>
+<tr><td>shakespeare-sonnets_41</td><td>nan</td><td>shakespeare-sonnets_41</td><td>nan</td><td>118</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_41.txt</td><td>./txt/shakespeare-sonnets_41.txt</td></tr>
+<tr><td>shakespeare-sonnets_42</td><td>nan</td><td>shakespeare-sonnets_42</td><td>nan</td><td>143</td><td>18</td><td>nan</td><td>./cache/shakespeare-sonnets_42.txt</td><td>./txt/shakespeare-sonnets_42.txt</td></tr>
+<tr><td>shakespeare-sonnets_43</td><td>nan</td><td>shakespeare-sonnets_43</td><td>nan</td><td>134</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_43.txt</td><td>./txt/shakespeare-sonnets_43.txt</td></tr>
+<tr><td>shakespeare-sonnets_44</td><td>nan</td><td>shakespeare-sonnets_44</td><td>nan</td><td>129</td><td>7</td><td>nan</td><td>./cache/shakespeare-sonnets_44.txt</td><td>./txt/shakespeare-sonnets_44.txt</td></tr>
+<tr><td>shakespeare-sonnets_45</td><td>nan</td><td>shakespeare-sonnets_45</td><td>nan</td><td>115</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_45.txt</td><td>./txt/shakespeare-sonnets_45.txt</td></tr>
+<tr><td>shakespeare-sonnets_46</td><td>nan</td><td>shakespeare-sonnets_46</td><td>nan</td><td>130</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_46.txt</td><td>./txt/shakespeare-sonnets_46.txt</td></tr>
+<tr><td>shakespeare-sonnets_47</td><td>nan</td><td>shakespeare-sonnets_47</td><td>nan</td><td>137</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_47.txt</td><td>./txt/shakespeare-sonnets_47.txt</td></tr>
+<tr><td>shakespeare-sonnets_48</td><td>nan</td><td>shakespeare-sonnets_48</td><td>nan</td><td>127</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_48.txt</td><td>./txt/shakespeare-sonnets_48.txt</td></tr>
+<tr><td>shakespeare-sonnets_49</td><td>nan</td><td>shakespeare-sonnets_49</td><td>nan</td><td>123</td><td>7</td><td>nan</td><td>./cache/shakespeare-sonnets_49.txt</td><td>./txt/shakespeare-sonnets_49.txt</td></tr>
+<tr><td>shakespeare-sonnets_50</td><td>nan</td><td>shakespeare-sonnets_50</td><td>nan</td><td>129</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_50.txt</td><td>./txt/shakespeare-sonnets_50.txt</td></tr>
+<tr><td>shakespeare-sonnets_51</td><td>nan</td><td>shakespeare-sonnets_51</td><td>nan</td><td>129</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_51.txt</td><td>./txt/shakespeare-sonnets_51.txt</td></tr>
+<tr><td>shakespeare-sonnets_52</td><td>nan</td><td>shakespeare-sonnets_52</td><td>nan</td><td>119</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_52.txt</td><td>./txt/shakespeare-sonnets_52.txt</td></tr>
+<tr><td>shakespeare-sonnets_53</td><td>nan</td><td>shakespeare-sonnets_53</td><td>nan</td><td>117</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_53.txt</td><td>./txt/shakespeare-sonnets_53.txt</td></tr>
+<tr><td>shakespeare-sonnets_54</td><td>nan</td><td>shakespeare-sonnets_54</td><td>nan</td><td>122</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_54.txt</td><td>./txt/shakespeare-sonnets_54.txt</td></tr>
+<tr><td>shakespeare-sonnets_55</td><td>nan</td><td>shakespeare-sonnets_55</td><td>nan</td><td>114</td><td>8</td><td>nan</td><td>./cache/shakespeare-sonnets_55.txt</td><td>./txt/shakespeare-sonnets_55.txt</td></tr>
+<tr><td>shakespeare-sonnets_56</td><td>nan</td><td>shakespeare-sonnets_56</td><td>nan</td><td>123</td><td>8</td><td>nan</td><td>./cache/shakespeare-sonnets_56.txt</td><td>./txt/shakespeare-sonnets_56.txt</td></tr>
+<tr><td>shakespeare-sonnets_57</td><td>nan</td><td>shakespeare-sonnets_57</td><td>nan</td><td>128</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_57.txt</td><td>./txt/shakespeare-sonnets_57.txt</td></tr>
+<tr><td>shakespeare-sonnets_58</td><td>nan</td><td>shakespeare-sonnets_58</td><td>nan</td><td>122</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_58.txt</td><td>./txt/shakespeare-sonnets_58.txt</td></tr>
+<tr><td>shakespeare-sonnets_59</td><td>nan</td><td>shakespeare-sonnets_59</td><td>nan</td><td>118</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_59.txt</td><td>./txt/shakespeare-sonnets_59.txt</td></tr>
+<tr><td>shakespeare-sonnets_60</td><td>nan</td><td>shakespeare-sonnets_60</td><td>nan</td><td>120</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_60.txt</td><td>./txt/shakespeare-sonnets_60.txt</td></tr>
+<tr><td>shakespeare-sonnets_61</td><td>nan</td><td>shakespeare-sonnets_61</td><td>nan</td><td>131</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_61.txt</td><td>./txt/shakespeare-sonnets_61.txt</td></tr>
+<tr><td>shakespeare-sonnets_62</td><td>nan</td><td>shakespeare-sonnets_62</td><td>nan</td><td>114</td><td>16</td><td>nan</td><td>./cache/shakespeare-sonnets_62.txt</td><td>./txt/shakespeare-sonnets_62.txt</td></tr>
+<tr><td>shakespeare-sonnets_63</td><td>nan</td><td>shakespeare-sonnets_63</td><td>nan</td><td>126</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_63.txt</td><td>./txt/shakespeare-sonnets_63.txt</td></tr>
+<tr><td>shakespeare-sonnets_64</td><td>nan</td><td>shakespeare-sonnets_64</td><td>nan</td><td>123</td><td>5</td><td>nan</td><td>./cache/shakespeare-sonnets_64.txt</td><td>./txt/shakespeare-sonnets_64.txt</td></tr>
+<tr><td>shakespeare-sonnets_65</td><td>nan</td><td>shakespeare-sonnets_65</td><td>nan</td><td>125</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_65.txt</td><td>./txt/shakespeare-sonnets_65.txt</td></tr>
+<tr><td>shakespeare-sonnets_66</td><td>nan</td><td>shakespeare-sonnets_66</td><td>nan</td><td>99</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_66.txt</td><td>./txt/shakespeare-sonnets_66.txt</td></tr>
+<tr><td>shakespeare-sonnets_67</td><td>nan</td><td>shakespeare-sonnets_67</td><td>nan</td><td>114</td><td>18</td><td>nan</td><td>./cache/shakespeare-sonnets_67.txt</td><td>./txt/shakespeare-sonnets_67.txt</td></tr>
+<tr><td>shakespeare-sonnets_68</td><td>nan</td><td>shakespeare-sonnets_68</td><td>nan</td><td>120</td><td>7</td><td>nan</td><td>./cache/shakespeare-sonnets_68.txt</td><td>./txt/shakespeare-sonnets_68.txt</td></tr>
+<tr><td>shakespeare-sonnets_69</td><td>nan</td><td>shakespeare-sonnets_69</td><td>nan</td><td>136</td><td>14</td><td>nan</td><td>./cache/shakespeare-sonnets_69.txt</td><td>./txt/shakespeare-sonnets_69.txt</td></tr>
+<tr><td>shakespeare-sonnets_70</td><td>nan</td><td>shakespeare-sonnets_70</td><td>nan</td><td>123</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_70.txt</td><td>./txt/shakespeare-sonnets_70.txt</td></tr>
+<tr><td>shakespeare-sonnets_71</td><td>nan</td><td>shakespeare-sonnets_71</td><td>nan</td><td>132</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_71.txt</td><td>./txt/shakespeare-sonnets_71.txt</td></tr>
+<tr><td>shakespeare-sonnets_72</td><td>nan</td><td>shakespeare-sonnets_72</td><td>nan</td><td>128</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_72.txt</td><td>./txt/shakespeare-sonnets_72.txt</td></tr>
+<tr><td>shakespeare-sonnets_73</td><td>nan</td><td>shakespeare-sonnets_73</td><td>nan</td><td>132</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_73.txt</td><td>./txt/shakespeare-sonnets_73.txt</td></tr>
+<tr><td>shakespeare-sonnets_74</td><td>nan</td><td>shakespeare-sonnets_74</td><td>nan</td><td>122</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_74.txt</td><td>./txt/shakespeare-sonnets_74.txt</td></tr>
+<tr><td>shakespeare-sonnets_75</td><td>nan</td><td>shakespeare-sonnets_75</td><td>nan</td><td>128</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_75.txt</td><td>./txt/shakespeare-sonnets_75.txt</td></tr>
+<tr><td>shakespeare-sonnets_76</td><td>nan</td><td>shakespeare-sonnets_76</td><td>nan</td><td>124</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_76.txt</td><td>./txt/shakespeare-sonnets_76.txt</td></tr>
+<tr><td>shakespeare-sonnets_77</td><td>nan</td><td>shakespeare-sonnets_77</td><td>nan</td><td>121</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_77.txt</td><td>./txt/shakespeare-sonnets_77.txt</td></tr>
+<tr><td>shakespeare-sonnets_78</td><td>nan</td><td>shakespeare-sonnets_78</td><td>nan</td><td>121</td><td>10</td><td>nan</td><td>./cache/shakespeare-sonnets_78.txt</td><td>./txt/shakespeare-sonnets_78.txt</td></tr>
+<tr><td>shakespeare-sonnets_79</td><td>nan</td><td>shakespeare-sonnets_79</td><td>nan</td><td>126</td><td>15</td><td>nan</td><td>./cache/shakespeare-sonnets_79.txt</td><td>./txt/shakespeare-sonnets_79.txt</td></tr>
+<tr><td>shakespeare-sonnets_80</td><td>nan</td><td>shakespeare-sonnets_80</td><td>nan</td><td>126</td><td>17</td><td>nan</td><td>./cache/shakespeare-sonnets_80.txt</td><td>./txt/shakespeare-sonnets_80.txt</td></tr>
+<tr><td>shakespeare-sonnets_81</td><td>nan</td><td>shakespeare-sonnets_81</td><td>nan</td><td>127</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_81.txt</td><td>./txt/shakespeare-sonnets_81.txt</td></tr>
+<tr><td>shakespeare-sonnets_82</td><td>nan</td><td>shakespeare-sonnets_82</td><td>nan</td><td>114</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_82.txt</td><td>./txt/shakespeare-sonnets_82.txt</td></tr>
+<tr><td>shakespeare-sonnets_83</td><td>nan</td><td>shakespeare-sonnets_83</td><td>nan</td><td>126</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_83.txt</td><td>./txt/shakespeare-sonnets_83.txt</td></tr>
+<tr><td>shakespeare-sonnets_84</td><td>nan</td><td>shakespeare-sonnets_84</td><td>nan</td><td>125</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_84.txt</td><td>./txt/shakespeare-sonnets_84.txt</td></tr>
+<tr><td>shakespeare-sonnets_85</td><td>nan</td><td>shakespeare-sonnets_85</td><td>nan</td><td>120</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_85.txt</td><td>./txt/shakespeare-sonnets_85.txt</td></tr>
+<tr><td>shakespeare-sonnets_86</td><td>nan</td><td>shakespeare-sonnets_86</td><td>nan</td><td>122</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_86.txt</td><td>./txt/shakespeare-sonnets_86.txt</td></tr>
+<tr><td>shakespeare-sonnets_87</td><td>nan</td><td>shakespeare-sonnets_87</td><td>nan</td><td>127</td><td>17</td><td>nan</td><td>./cache/shakespeare-sonnets_87.txt</td><td>./txt/shakespeare-sonnets_87.txt</td></tr>
+<tr><td>shakespeare-sonnets_88</td><td>nan</td><td>shakespeare-sonnets_88</td><td>nan</td><td>123</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_88.txt</td><td>./txt/shakespeare-sonnets_88.txt</td></tr>
+<tr><td>shakespeare-sonnets_89</td><td>nan</td><td>shakespeare-sonnets_89</td><td>nan</td><td>124</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_89.txt</td><td>./txt/shakespeare-sonnets_89.txt</td></tr>
+<tr><td>shakespeare-sonnets_90</td><td>nan</td><td>shakespeare-sonnets_90</td><td>nan</td><td>132</td><td>8</td><td>nan</td><td>./cache/shakespeare-sonnets_90.txt</td><td>./txt/shakespeare-sonnets_90.txt</td></tr>
+<tr><td>shakespeare-sonnets_91</td><td>nan</td><td>shakespeare-sonnets_91</td><td>nan</td><td>126</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_91.txt</td><td>./txt/shakespeare-sonnets_91.txt</td></tr>
+<tr><td>shakespeare-sonnets_92</td><td>nan</td><td>shakespeare-sonnets_92</td><td>nan</td><td>130</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_92.txt</td><td>./txt/shakespeare-sonnets_92.txt</td></tr>
+<tr><td>shakespeare-sonnets_93</td><td>nan</td><td>shakespeare-sonnets_93</td><td>nan</td><td>129</td><td>11</td><td>nan</td><td>./cache/shakespeare-sonnets_93.txt</td><td>./txt/shakespeare-sonnets_93.txt</td></tr>
+<tr><td>shakespeare-sonnets_94</td><td>nan</td><td>shakespeare-sonnets_94</td><td>nan</td><td>120</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_94.txt</td><td>./txt/shakespeare-sonnets_94.txt</td></tr>
+<tr><td>shakespeare-sonnets_95</td><td>nan</td><td>shakespeare-sonnets_95</td><td>nan</td><td>124</td><td>12</td><td>nan</td><td>./cache/shakespeare-sonnets_95.txt</td><td>./txt/shakespeare-sonnets_95.txt</td></tr>
+<tr><td>shakespeare-sonnets_96</td><td>nan</td><td>shakespeare-sonnets_96</td><td>nan</td><td>129</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_96.txt</td><td>./txt/shakespeare-sonnets_96.txt</td></tr>
+<tr><td>shakespeare-sonnets_97</td><td>nan</td><td>shakespeare-sonnets_97</td><td>nan</td><td>119</td><td>13</td><td>nan</td><td>./cache/shakespeare-sonnets_97.txt</td><td>./txt/shakespeare-sonnets_97.txt</td></tr>
+<tr><td>shakespeare-sonnets_98</td><td>nan</td><td>shakespeare-sonnets_98</td><td>nan</td><td>130</td><td>9</td><td>nan</td><td>./cache/shakespeare-sonnets_98.txt</td><td>./txt/shakespeare-sonnets_98.txt</td></tr>
+<tr><td>shakespeare-sonnets_99</td><td>nan</td><td>shakespeare-sonnets_99</td><td>nan</td><td>134</td><td>17</td><td>nan</td><td>./cache/shakespeare-sonnets_99.txt</td><td>./txt/shakespeare-sonnets_99.txt</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

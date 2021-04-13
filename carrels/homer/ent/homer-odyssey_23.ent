@@ -1,0 +1,84 @@
+id	sid	eid	entity	type
+homer-odyssey_23	1	1	EUMAEUS	ORG
+homer-odyssey_23	4	1	Penelope	PERSON
+homer-odyssey_23	6	1	Penelope	PERSON
+homer-odyssey_23	10	1	the day	DATE
+homer-odyssey_23	14	1	Ulysses	ORG
+homer-odyssey_23	17	1	Penelope	PERSON
+homer-odyssey_23	23	1	Ulysses	ORG
+homer-odyssey_23	25	1	Penelope	PERSON
+homer-odyssey_23	27	1	Ulysses	GPE
+homer-odyssey_23	27	2	Achaean	NORP
+homer-odyssey_23	31	1	Penelope	PERSON
+homer-odyssey_23	35	1	one	CARDINAL
+homer-odyssey_23	36	1	one	CARDINAL
+homer-odyssey_23	38	1	twenty years	DATE
+homer-odyssey_23	39	1	Penelope	PERSON
+homer-odyssey_23	41	1	two	CARDINAL
+homer-odyssey_23	44	1	one	CARDINAL
+homer-odyssey_23	44	2	Ithaca	ORG
+homer-odyssey_23	48	1	Ulysses	GPE
+homer-odyssey_23	49	1	First	ORDINAL
+homer-odyssey_23	49	2	Phemius	ORG
+homer-odyssey_23	52	1	First	ORDINAL
+homer-odyssey_23	53	1	Phemius	PERSON
+homer-odyssey_23	57	1	Minerva	PERSON
+homer-odyssey_23	57	2	Vulcan	PERSON
+homer-odyssey_23	57	3	Minerva	PERSON
+homer-odyssey_23	60	1	twenty years	DATE
+homer-odyssey_23	62	1	Penelope	PERSON
+homer-odyssey_23	62	2	Ithaca	GPE
+homer-odyssey_23	65	1	Ulysses	ORG
+homer-odyssey_23	73	1	crimson leather	ORG
+homer-odyssey_23	77	1	Ulysses	ORG
+homer-odyssey_23	81	1	Jove	PERSON
+homer-odyssey_23	81	2	Helen	PERSON
+homer-odyssey_23	81	3	Achaeans	NORP
+homer-odyssey_23	83	1	Actor	GPE
+homer-odyssey_23	85	1	Neptune	ORG
+homer-odyssey_23	85	2	two	CARDINAL
+homer-odyssey_23	86	1	Minerva	PERSON
+homer-odyssey_23	86	2	the far west	LOC
+homer-odyssey_23	86	3	Dawn	PERSON
+homer-odyssey_23	86	4	Oceanus	ORG
+homer-odyssey_23	86	5	two	CARDINAL
+homer-odyssey_23	86	6	Lampus and Phaethon	ORG
+homer-odyssey_23	86	7	the day	DATE
+homer-odyssey_23	87	1	Ulysses	ORG
+homer-odyssey_23	89	1	Teiresias	ORG
+homer-odyssey_23	89	2	the day	DATE
+homer-odyssey_23	91	1	Penelope	PERSON
+homer-odyssey_23	94	1	Ulysses	ORG
+homer-odyssey_23	96	1	Teiresias	ORG
+homer-odyssey_23	100	1	Neptune	ORG
+homer-odyssey_23	101	1	years	DATE
+homer-odyssey_23	103	1	Penelope	PERSON
+homer-odyssey_23	105	1	Ulysses	GPE
+homer-odyssey_23	105	2	Penelope	PERSON
+homer-odyssey_23	107	1	Philoetius	PERSON
+homer-odyssey_23	109	1	Ulysses	GPE
+homer-odyssey_23	109	2	Penelope	PERSON
+homer-odyssey_23	113	1	Cicons	ORG
+homer-odyssey_23	113	2	Lotus-	NORP
+homer-odyssey_23	114	1	Cyclops	ORG
+homer-odyssey_23	114	2	Aeolus	NORP
+homer-odyssey_23	114	3	Laestrygonian	NORP
+homer-odyssey_23	114	4	Telepylos	GPE
+homer-odyssey_23	115	1	Circe	PERSON
+homer-odyssey_23	115	2	Theban	ORG
+homer-odyssey_23	115	3	Teiresias	ORG
+homer-odyssey_23	115	4	Sirens	PERSON
+homer-odyssey_23	115	5	Charybdis	ORG
+homer-odyssey_23	115	6	Scylla	GPE
+homer-odyssey_23	115	7	Ogygian	NORP
+homer-odyssey_23	115	8	Calypso	ORG
+homer-odyssey_23	115	9	Phaeacians	NORP
+homer-odyssey_23	117	1	Minerva	PERSON
+homer-odyssey_23	118	1	Ulysses	ORG
+homer-odyssey_23	118	2	Dawn	PERSON
+homer-odyssey_23	118	3	Oceanus	ORG
+homer-odyssey_23	119	1	Penelope	PERSON
+homer-odyssey_23	121	1	Achaeans	NORP
+homer-odyssey_23	126	1	Philoetius	PERSON
+homer-odyssey_23	126	2	Eumaeus	PERSON
+homer-odyssey_23	129	1	Minerva	PERSON

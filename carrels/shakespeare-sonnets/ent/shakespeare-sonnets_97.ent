@@ -1,0 +1,12 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_97	1	1	XCVII	GPE
+shakespeare-sonnets_97	2	1	winter	DATE
+shakespeare-sonnets_97	2	2	winter	DATE
+shakespeare-sonnets_97	2	3	the fleeting year	DATE
+shakespeare-sonnets_97	3	1	days	DATE
+shakespeare-sonnets_97	4	1	December	DATE
+shakespeare-sonnets_97	5	1	summer	DATE
+shakespeare-sonnets_97	5	2	autumn	DATE
+shakespeare-sonnets_97	5	3	wanton	ORG
+shakespeare-sonnets_97	5	4	summer	DATE
+shakespeare-sonnets_97	5	5	winter	DATE

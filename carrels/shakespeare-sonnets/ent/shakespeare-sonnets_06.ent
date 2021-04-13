@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_06	2	1	winter	DATE
+shakespeare-sonnets_06	2	2	winter	DATE
+shakespeare-sonnets_06	3	1	ten	CARDINAL
+shakespeare-sonnets_06	3	2	ten	CARDINAL
+shakespeare-sonnets_06	3	3	one	CARDINAL
+shakespeare-sonnets_06	3	4	Ten	CARDINAL
+shakespeare-sonnets_06	3	5	ten	CARDINAL
+shakespeare-sonnets_06	3	6	ten	CARDINAL

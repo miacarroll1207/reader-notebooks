@@ -1,0 +1,162 @@
+id	sid	eid	entity	type
+chapter-003	39	1	Thou	PERSON
+chapter-003	45	1	Thy	PERSON
+chapter-003	46	1	Thee	PERSON
+chapter-003	46	2	Thou	PERSON
+chapter-003	47	1	Thy Church	ORG
+chapter-003	47	2	Thou	PERSON
+chapter-003	47	3	Thou	PERSON
+chapter-003	47	4	Thee	PERSON
+chapter-003	47	5	Thine	GPE
+chapter-003	50	1	Thou knowest	PERSON
+chapter-003	50	2	Subverters	WORK_OF_ART
+chapter-003	51	1	i.e.	GPE
+chapter-003	53	1	Subverters	WORK_OF_ART
+chapter-003	54	1	first	ORDINAL
+chapter-003	56	1	Cicero	ORG
+chapter-003	57	1	Hortensius	ORG
+chapter-003	59	1	Thee	PERSON
+chapter-003	60	1	year	DATE
+chapter-003	60	2	two years	DATE
+chapter-003	61	1	Thee	PERSON
+chapter-003	61	2	Thou	PERSON
+chapter-003	62	1	Thee	PERSON
+chapter-003	63	1	Greek	NORP
+chapter-003	64	1	Thy Spirit	PERSON
+chapter-003	64	2	Christ	ORG
+chapter-003	66	1	Thou	PERSON
+chapter-003	66	2	Apostolic Scripture	PERSON
+chapter-003	66	3	Christ	ORG
+chapter-003	67	1	Thy	PERSON
+chapter-003	67	2	Saviour Thy Son	PERSON
+chapter-003	70	1	Scriptures	PRODUCT
+chapter-003	73	1	Devil	PERSON
+chapter-003	73	2	Thy	PERSON
+chapter-003	73	3	Jesus Christ	PERSON
+chapter-003	73	4	the Holy Ghost	PERSON
+chapter-003	73	5	Comforter	PERSON
+chapter-003	75	1	Truth, Truth	WORK_OF_ART
+chapter-003	75	2	Thee	PERSON
+chapter-003	75	3	Truth	LOC
+chapter-003	75	4	Thy	PERSON
+chapter-003	76	1	Thee	PERSON
+chapter-003	77	1	Truth	LOC
+chapter-003	77	2	Thee	PERSON
+chapter-003	77	3	Thee	PERSON
+chapter-003	78	1	Thee	PERSON
+chapter-003	78	2	Thee	PERSON
+chapter-003	78	3	Sun	PERSON
+chapter-003	78	4	Moon	PERSON
+chapter-003	78	5	Thine	GPE
+chapter-003	78	6	first	ORDINAL
+chapter-003	80	1	first	ORDINAL
+chapter-003	80	2	Thine	WORK_OF_ART
+chapter-003	80	3	Thee Thyself	PERSON
+chapter-003	80	4	Truth	LOC
+chapter-003	81	1	Thee	PERSON
+chapter-003	81	2	Thou	PERSON
+chapter-003	81	3	Thou	PERSON
+chapter-003	81	4	Thou	PERSON
+chapter-003	83	1	Thee	PERSON
+chapter-003	83	2	Thou	PERSON
+chapter-003	86	1	Thou	PERSON
+chapter-003	86	2	Love	PERSON
+chapter-003	86	3	Thou	PERSON
+chapter-003	86	4	Thou	PERSON
+chapter-003	86	5	Thy	PERSON
+chapter-003	87	1	Thou	PERSON
+chapter-003	87	2	Thou	PERSON
+chapter-003	89	1	Thou	PERSON
+chapter-003	91	1	Thee	PERSON
+chapter-003	93	1	Medea	PERSON
+chapter-003	93	2	five	CARDINAL
+chapter-003	93	3	five	CARDINAL
+chapter-003	94	1	Medea	PERSON
+chapter-003	96	1	Thee	PERSON
+chapter-003	96	2	Thee	PERSON
+chapter-003	96	3	wherein Thou	PERSON
+chapter-003	97	1	Thou wert	PERSON
+chapter-003	98	1	Solomon	PERSON
+chapter-003	98	2	Eat ye	PERSON
+chapter-003	98	3	ye stolen	PERSON
+chapter-003	103	1	Spirit	ORG
+chapter-003	103	2	Spirit	ORG
+chapter-003	105	1	one	CARDINAL
+chapter-003	105	2	one	CARDINAL
+chapter-003	105	3	Abraham	PERSON
+chapter-003	105	4	Isaac	PERSON
+chapter-003	105	5	Jacob	PERSON
+chapter-003	105	6	Moses	PERSON
+chapter-003	105	7	David	PERSON
+chapter-003	106	1	one	CARDINAL
+chapter-003	106	2	a day	DATE
+chapter-003	106	3	afternoon	TIME
+chapter-003	106	4	one	CARDINAL
+chapter-003	106	5	one	CARDINAL
+chapter-003	106	6	one	CARDINAL
+chapter-003	106	7	one	CARDINAL
+chapter-003	107	1	one	CARDINAL
+chapter-003	107	2	one day	DATE
+chapter-003	107	3	one	CARDINAL
+chapter-003	107	4	one	CARDINAL
+chapter-003	110	1	days	DATE
+chapter-003	110	2	earth	LOC
+chapter-003	112	1	one metre	QUANTITY
+chapter-003	117	1	Sodom	ORG
+chapter-003	124	1	one	CARDINAL
+chapter-003	124	2	one	CARDINAL
+chapter-003	124	3	one	CARDINAL
+chapter-003	124	4	one	CARDINAL
+chapter-003	125	1	two	CARDINAL
+chapter-003	125	2	three	CARDINAL
+chapter-003	125	3	seven	CARDINAL
+chapter-003	125	4	ten	CARDINAL
+chapter-003	125	5	Thy Ten Commandments	PERSON
+chapter-003	126	1	Thee	PERSON
+chapter-003	127	1	Thee	PERSON
+chapter-003	128	1	Thou	PERSON
+chapter-003	128	2	Thee	PERSON
+chapter-003	128	3	Thou	PERSON
+chapter-003	128	4	Thee	PERSON
+chapter-003	129	1	Thou	PERSON
+chapter-003	129	2	Creator	PERSON
+chapter-003	129	3	one	CARDINAL
+chapter-003	130	1	Thee	PERSON
+chapter-003	130	2	Thou cleansest	PERSON
+chapter-003	130	3	Thee	PERSON
+chapter-003	130	4	Thee	PERSON
+chapter-003	132	1	Thee	PERSON
+chapter-003	133	1	Thy	PERSON
+chapter-003	133	2	Thou	PERSON
+chapter-003	134	1	Thou	PERSON
+chapter-003	134	2	Thou	PERSON
+chapter-003	134	3	Thee	PERSON
+chapter-003	138	1	Thee	PERSON
+chapter-003	139	1	Manichaean	NORP
+chapter-003	140	1	earth	LOC
+chapter-003	141	1	Manichaean	NORP
+chapter-003	142	1	Thou	PERSON
+chapter-003	142	2	Thine	NORP
+chapter-003	142	3	Thy	PERSON
+chapter-003	142	4	Thee	PERSON
+chapter-003	143	1	Thee	PERSON
+chapter-003	143	2	Thou	PERSON
+chapter-003	143	3	Thou	PERSON
+chapter-003	143	4	yea Thou	PERSON
+chapter-003	144	1	Thou	PERSON
+chapter-003	146	1	daily	DATE
+chapter-003	148	1	Thine	NORP
+chapter-003	149	1	Thou Good	PERSON
+chapter-003	149	2	Thou	PERSON
+chapter-003	150	1	one day	DATE
+chapter-003	151	1	Thee	PERSON
+chapter-003	151	2	Thy	PERSON
+chapter-003	151	3	spake,--even	PERSON
+chapter-003	152	1	almost nine years	DATE
+chapter-003	153	1	all hours	TIME
+chapter-003	153	2	Thee	PERSON
+chapter-003	154	1	Thou	PERSON
+chapter-003	155	1	Thee	PRODUCT
+chapter-003	156	1	Bishop	PRODUCT
+chapter-003	156	2	Thy Church	ORG
+chapter-003	159	1	Manichees	PRODUCT

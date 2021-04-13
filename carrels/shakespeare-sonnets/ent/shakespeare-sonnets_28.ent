@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_28	1	1	XXVIII	ORG
+shakespeare-sonnets_28	3	1	day	DATE
+shakespeare-sonnets_28	3	2	night	TIME
+shakespeare-sonnets_28	3	3	day	DATE
+shakespeare-sonnets_28	3	4	night	TIME
+shakespeare-sonnets_28	4	1	the day	DATE
+shakespeare-sonnets_28	5	1	day	DATE
+shakespeare-sonnets_28	5	2	daily	DATE

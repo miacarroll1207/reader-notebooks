@@ -1,0 +1,115 @@
+id	sid	eid	entity	type
+homer-odyssey_02	1	1	ITHACA	ORG
+homer-odyssey_02	2	1	Dawn	ORG
+homer-odyssey_02	4	1	two	CARDINAL
+homer-odyssey_02	5	1	Minerva	ORG
+homer-odyssey_02	6	1	Aegyptius	ORG
+homer-odyssey_02	6	2	first	ORDINAL
+homer-odyssey_02	7	1	Antiphus	PERSON
+homer-odyssey_02	7	2	Ulysses	NORP
+homer-odyssey_02	7	3	Ilius	GPE
+homer-odyssey_02	7	4	Cyclops	PERSON
+homer-odyssey_02	8	1	three	CARDINAL
+homer-odyssey_02	8	2	two	CARDINAL
+homer-odyssey_02	8	3	third	ORDINAL
+homer-odyssey_02	8	4	Eurynomus	PERSON
+homer-odyssey_02	8	5	Antiphus	PERSON
+homer-odyssey_02	10	1	the day	DATE
+homer-odyssey_02	12	1	Jove	PERSON
+homer-odyssey_02	15	1	Aegyptius	ORG
+homer-odyssey_02	17	1	two	CARDINAL
+homer-odyssey_02	18	1	first	ORDINAL
+homer-odyssey_02	18	2	second	ORDINAL
+homer-odyssey_02	20	1	Icarius	ORG
+homer-odyssey_02	22	1	all my days	DATE
+homer-odyssey_02	25	1	Jove	PERSON
+homer-odyssey_02	25	2	Themis	PRODUCT
+homer-odyssey_02	25	3	Ulysses	GPE
+homer-odyssey_02	25	4	Achaeans	NORP
+homer-odyssey_02	26	1	house	ORG
+homer-odyssey_02	26	2	house	ORG
+homer-odyssey_02	30	1	This three years past	DATE
+homer-odyssey_02	30	2	four	CARDINAL
+homer-odyssey_02	30	3	one	CARDINAL
+homer-odyssey_02	30	4	one	CARDINAL
+homer-odyssey_02	35	1	all day long	DATE
+homer-odyssey_02	35	2	night	TIME
+homer-odyssey_02	36	1	three years	DATE
+homer-odyssey_02	36	2	her fourth year	DATE
+homer-odyssey_02	36	3	one	CARDINAL
+homer-odyssey_02	37	1	Achaeans	NORP
+homer-odyssey_02	37	2	Minerva	PERSON
+homer-odyssey_02	38	1	Tyro	ORG
+homer-odyssey_02	38	2	Alcmena	GPE
+homer-odyssey_02	38	3	Mycene	ORG
+homer-odyssey_02	38	4	one	CARDINAL
+homer-odyssey_02	40	1	one	CARDINAL
+homer-odyssey_02	44	1	Erinyes	ORG
+homer-odyssey_02	46	1	one	CARDINAL
+homer-odyssey_02	47	1	Jove	ORG
+homer-odyssey_02	47	2	two	CARDINAL
+homer-odyssey_02	49	1	Ithaca	ORG
+homer-odyssey_02	50	1	Ithaca	GPE
+homer-odyssey_02	52	1	Ulysses	GPE
+homer-odyssey_02	52	2	Argives	NORP
+homer-odyssey_02	52	3	Troy	GPE
+homer-odyssey_02	53	1	the twentieth year	DATE
+homer-odyssey_02	54	1	Polybus	PERSON
+homer-odyssey_02	57	1	first	ORDINAL
+homer-odyssey_02	61	1	day	DATE
+homer-odyssey_02	63	1	Eurymachus	PERSON
+homer-odyssey_02	63	2	Ithaca	ORG
+homer-odyssey_02	64	1	twenty	CARDINAL
+homer-odyssey_02	64	2	Sparta	GPE
+homer-odyssey_02	64	3	Pylos	PERSON
+homer-odyssey_02	66	1	another twelve months	DATE
+homer-odyssey_02	68	1	Mentor	ORG
+homer-odyssey_02	68	2	Ulysses	GPE
+homer-odyssey_02	69	1	Ithaca	ORG
+homer-odyssey_02	69	2	Ulysses	ORG
+homer-odyssey_02	70	1	half	CARDINAL
+homer-odyssey_02	70	2	Ulysses	ORG
+homer-odyssey_02	71	1	Evenor	PRODUCT
+homer-odyssey_02	71	2	Mentor	WORK_OF_ART
+homer-odyssey_02	72	1	one	CARDINAL
+homer-odyssey_02	73	1	Ulysses	ORG
+homer-odyssey_02	75	1	Mentor	ORG
+homer-odyssey_02	75	2	Halitherses	ORG
+homer-odyssey_02	76	1	Ulysses	GPE
+homer-odyssey_02	77	1	Minerva	PERSON
+homer-odyssey_02	78	1	yesterday	DATE
+homer-odyssey_02	79	1	Achaeans	NORP
+homer-odyssey_02	80	1	Minerva	PERSON
+homer-odyssey_02	80	2	Mentor	GPE
+homer-odyssey_02	81	1	Ulysses	ORG
+homer-odyssey_02	81	2	half	CARDINAL
+homer-odyssey_02	82	1	Ulysses	GPE
+homer-odyssey_02	82	2	Penelope	PERSON
+homer-odyssey_02	84	1	the same day	DATE
+homer-odyssey_02	87	1	Ithaca	GPE
+homer-odyssey_02	88	1	Minerva	PERSON
+homer-odyssey_02	91	1	Achaeans	NORP
+homer-odyssey_02	91	2	Pylos	PERSON
+homer-odyssey_02	94	1	Pylos	PERSON
+homer-odyssey_02	98	1	one	CARDINAL
+homer-odyssey_02	98	2	Pylos	PERSON
+homer-odyssey_02	98	3	Sparta	GPE
+homer-odyssey_02	99	1	Ephyra	PERSON
+homer-odyssey_02	104	1	Ulysses	GPE
+homer-odyssey_02	105	1	Pisenor	ORG
+homer-odyssey_02	107	1	twelve	CARDINAL
+homer-odyssey_02	107	2	about twenty	CARDINAL
+homer-odyssey_02	109	1	this evening	TIME
+homer-odyssey_02	109	2	the night	TIME
+homer-odyssey_02	110	1	Sparta	GPE
+homer-odyssey_02	110	2	Pylos	PERSON
+homer-odyssey_02	112	1	one	CARDINAL
+homer-odyssey_02	113	1	the barren ocean	LOC
+homer-odyssey_02	114	1	ten or twelve days	DATE
+homer-odyssey_02	116	1	Minerva	PERSON
+homer-odyssey_02	118	1	Phronius	ORG
+homer-odyssey_02	121	1	Ulysses	GPE
+homer-odyssey_02	123	1	Mentor	GPE
+homer-odyssey_02	126	1	Telemachus	PERSON
+homer-odyssey_02	128	1	Minerva	PERSON
+homer-odyssey_02	130	1	Minerva	ORG

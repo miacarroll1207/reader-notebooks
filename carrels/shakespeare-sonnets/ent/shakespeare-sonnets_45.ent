@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_45	1	1	XLV	ORG
+shakespeare-sonnets_45	2	1	two	CARDINAL
+shakespeare-sonnets_45	2	2	two	CARDINAL
+shakespeare-sonnets_45	2	3	first	ORDINAL
+shakespeare-sonnets_45	3	1	four	CARDINAL
+shakespeare-sonnets_45	3	2	two	CARDINAL
+shakespeare-sonnets_45	3	3	Sinks	PERSON

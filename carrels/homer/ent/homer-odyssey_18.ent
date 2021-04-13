@@ -1,0 +1,120 @@
+id	sid	eid	entity	type
+homer-odyssey_18	2	1	Ithaca	GPE
+homer-odyssey_18	3	1	Arnaeus	PERSON
+homer-odyssey_18	3	2	Irus	ORG
+homer-odyssey_18	4	1	Ulysses	ORG
+homer-odyssey_18	12	1	tomorrow	DATE
+homer-odyssey_18	12	2	Ulysses	GPE
+homer-odyssey_18	13	1	Irus	ORG
+homer-odyssey_18	13	2	glutton	PERSON
+homer-odyssey_18	13	3	fag	PERSON
+homer-odyssey_18	18	1	Irus	ORG
+homer-odyssey_18	19	1	two	CARDINAL
+homer-odyssey_18	21	1	Ulysses	GPE
+homer-odyssey_18	22	1	Irus	ORG
+homer-odyssey_18	24	1	more than one	CARDINAL
+homer-odyssey_18	26	1	Ulysses	ORG
+homer-odyssey_18	26	2	Minerva	PERSON
+homer-odyssey_18	27	1	Irus	ORG
+homer-odyssey_18	28	1	Irus	ORG
+homer-odyssey_18	30	1	Echetus	ORG
+homer-odyssey_18	32	1	Irus	ORG
+homer-odyssey_18	32	2	two	CARDINAL
+homer-odyssey_18	33	1	Achaeans	NORP
+homer-odyssey_18	34	1	Irus	ORG
+homer-odyssey_18	34	2	Ulysses	GPE
+homer-odyssey_18	34	3	Ulysses	GPE
+homer-odyssey_18	34	4	Irus	ORG
+homer-odyssey_18	34	5	Ulysses	ORG
+homer-odyssey_18	38	1	Echetus	ORG
+homer-odyssey_18	40	1	Amphinomus	ORG
+homer-odyssey_18	40	2	two	CARDINAL
+homer-odyssey_18	42	1	Ulysses	ORG
+homer-odyssey_18	42	2	Amphinomus	PERSON
+homer-odyssey_18	43	1	Nisus of Dulichium	ORG
+homer-odyssey_18	46	1	daily	DATE
+homer-odyssey_18	46	2	day	DATE
+homer-odyssey_18	46	3	day	DATE
+homer-odyssey_18	48	1	some day	DATE
+homer-odyssey_18	49	1	the day of his	DATE
+homer-odyssey_18	50	1	Amphinomus	PERSON
+homer-odyssey_18	51	1	Minerva	PERSON
+homer-odyssey_18	53	1	Minerva	PERSON
+homer-odyssey_18	53	2	Penelope	PERSON
+homer-odyssey_18	57	1	first	ORDINAL
+homer-odyssey_18	59	1	Eurynome	GPE
+homer-odyssey_18	59	2	Penelope	PERSON
+homer-odyssey_18	59	3	the day	DATE
+homer-odyssey_18	59	4	Autonoe	PERSON
+homer-odyssey_18	59	5	Hippodamia	GPE
+homer-odyssey_18	62	1	Minerva	PERSON
+homer-odyssey_18	62	2	Penelope	PERSON
+homer-odyssey_18	63	1	Achaeans	NORP
+homer-odyssey_18	64	1	Venus	LOC
+homer-odyssey_18	65	1	Minerva	PERSON
+homer-odyssey_18	65	2	Penelope	PERSON
+homer-odyssey_18	67	1	Diana	PERSON
+homer-odyssey_18	67	2	Achaeans	NORP
+homer-odyssey_18	68	1	two	CARDINAL
+homer-odyssey_18	68	2	one	CARDINAL
+homer-odyssey_18	76	1	First	ORDINAL
+homer-odyssey_18	77	1	Irus	ORG
+homer-odyssey_18	78	1	Jove	PERSON
+homer-odyssey_18	78	2	Minerva	PERSON
+homer-odyssey_18	78	3	Apollo	ORG
+homer-odyssey_18	78	4	Irus	ORG
+homer-odyssey_18	81	1	Queen Penelope	PERSON
+homer-odyssey_18	81	2	Icarius	GPE
+homer-odyssey_18	81	3	Achaeans	NORP
+homer-odyssey_18	81	4	Iasian Argos	LOC
+homer-odyssey_18	81	5	tomorrow	DATE
+homer-odyssey_18	81	6	morning	TIME
+homer-odyssey_18	82	1	Penelope	PERSON
+homer-odyssey_18	82	2	Eurymachus	PERSON
+homer-odyssey_18	82	3	Argives	NORP
+homer-odyssey_18	85	1	Troy	GPE
+homer-odyssey_18	85	2	Trojans	NORP
+homer-odyssey_18	87	1	Troy	ORG
+homer-odyssey_18	91	1	Jove	GPE
+homer-odyssey_18	95	1	Ulysses	ORG
+homer-odyssey_18	96	1	Queen Penelope	PERSON
+homer-odyssey_18	96	2	Icarius	GPE
+homer-odyssey_18	97	1	one	CARDINAL
+homer-odyssey_18	99	1	twelve	CARDINAL
+homer-odyssey_18	101	1	Eurydamas	ORG
+homer-odyssey_18	101	2	two	CARDINAL
+homer-odyssey_18	101	3	three	CARDINAL
+homer-odyssey_18	101	4	Pisander	PERSON
+homer-odyssey_18	103	1	evening	TIME
+homer-odyssey_18	104	1	three	CARDINAL
+homer-odyssey_18	105	1	Ulysses	ORG
+homer-odyssey_18	105	2	Ulysses	ORG
+homer-odyssey_18	107	1	morning	TIME
+homer-odyssey_18	109	1	Dolius	ORG
+homer-odyssey_18	109	2	Penelope	PERSON
+homer-odyssey_18	109	3	Eurymachus	PERSON
+homer-odyssey_18	114	1	Irus	ORG
+homer-odyssey_18	115	1	Vixen	ORG
+homer-odyssey_18	115	2	Ulysses	ORG
+homer-odyssey_18	119	1	Minerva	PERSON
+homer-odyssey_18	119	2	one	CARDINAL
+homer-odyssey_18	119	3	Eurymachus	PERSON
+homer-odyssey_18	119	4	Polybus	PERSON
+homer-odyssey_18	120	1	Queen Penelope	PERSON
+homer-odyssey_18	121	1	Ulysses	GPE
+homer-odyssey_18	122	1	Stranger	PRODUCT
+homer-odyssey_18	124	1	year	DATE
+homer-odyssey_18	127	1	early summer	DATE
+homer-odyssey_18	127	2	the days	DATE
+homer-odyssey_18	128	1	four acre	QUANTITY
+homer-odyssey_18	129	1	this day	DATE
+homer-odyssey_18	132	1	Eurymachus	PERSON
+homer-odyssey_18	135	1	Irus	ORG
+homer-odyssey_18	136	1	Ulysses	ORG
+homer-odyssey_18	136	2	Amphinomus of Dulichium	ORG
+homer-odyssey_18	144	1	Amphinomus	PERSON
+homer-odyssey_18	144	2	Nisus	ORG
+homer-odyssey_18	144	3	Aretias	ORG
+homer-odyssey_18	145	1	Ulysses	ORG
+homer-odyssey_18	148	1	Mulius of Dulichium	ORG
+homer-odyssey_18	148	2	Amphinomus	PERSON

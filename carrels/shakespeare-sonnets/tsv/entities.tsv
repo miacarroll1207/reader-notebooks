@@ -1,0 +1,204 @@
+entity	type	frequency
+time	ORG	24
+thou	PERSON	12
+muse	ORG	7
+earth	LOC	6
+love	ORG	6
+thy	PERSON	5
+thou shalt	PERSON	4
+shall	ORG	4
+lest	ORG	4
+whereto	PERSON	3
+tis	PERSON	3
+lo	PERSON	3
+hath	PERSON	3
+thou wert	PERSON	2
+thou shalt wane	PERSON	2
+thou bear''st	PERSON	2
+lover	PERSON	2
+wherein	PERSON	2
+siren	GPE	2
+reserve	PERSON	2
+nay	PERSON	2
+nature	ORG	2
+mark	PERSON	2
+fortune	ORG	2
+ere	PERSON	2
+die	PERSON	2
+wolf betray	PERSON	1
+whate''er thou wilt	PERSON	1
+wert thou	PERSON	1
+wanton	ORG	1
+wander''st	PERSON	1
+vow broke	PERSON	1
+thou issueless shalt hap	ORG	1
+thou gav''st	PERSON	1
+the sober west	LOC	1
+sharp''st	ORG	1
+sea	LOC	1
+saucy jacks	PERSON	1
+putt''st	PERSON	1
+pour''st	ORG	1
+perceiv''st	ORG	1
+o''erworn	GPE	1
+limbecks foul	PERSON	1
+glutton	PERSON	1
+deformed''st	PERSON	1
+decay	GPE	1
+churl mak''st	PERSON	1
+burthen	GPE	1
+xxxviii	ORG	1
+xxxvii	ORG	1
+xxxvi	ORG	1
+xxxv	ORG	1
+xxxiv	ORG	1
+xxxiii	ORG	1
+xxxii	ORG	1
+xxxi	ORG	1
+xxx	ORG	1
+xxviii	ORG	1
+xxvii	ORG	1
+xxvi	ORG	1
+xxv	ORG	1
+xxiii	ORG	1
+xxii	ORG	1
+xxi	ORG	1
+xviii	ORG	1
+xvii	ORG	1
+xvi	ORG	1
+xlviii	ORG	1
+xlvii	GPE	1
+xlvi	ORG	1
+xlv	ORG	1
+xliv	ORG	1
+xlii	ORG	1
+xli	ORG	1
+xl	ORG	1
+xix	ORG	1
+xiv	ORG	1
+xiii	ORG	1
+xii	ORG	1
+xcviii	ORG	1
+xcvii	GPE	1
+xcvi	ORG	1
+xcv	ORG	1
+xcix	ORG	1
+xciv	ORG	1
+xciii	ORG	1
+xcii	ORG	1
+xci	ORG	1
+xc	ORG	1
+whoe''er	PERSON	1
+whereon	ORG	1
+whate''er	PERSON	1
+vii	ORG	1
+unlook''d	ORG	1
+triumph	PERSON	1
+till nature	PERSON	1
+thou usurer	PERSON	1
+thou mak''st	PERSON	1
+thou gav''st	PERSON	1
+tempteth	PERSON	1
+tan	PERSON	1
+sweet	PERSON	1
+swear	ORG	1
+suspect	PERSON	1
+suns	ORG	1
+steal	ORG	1
+spend''st	PERSON	1
+sinks	PERSON	1
+sin	PERSON	1
+shall neigh--	ORG	1
+savage	ORG	1
+sap	PERSON	1
+ruin hath	PERSON	1
+revenge	ORG	1
+pluck	GPE	1
+perforce	PERSON	1
+oaths	PERSON	1
+o''ercharg''d	PERSON	1
+my saucy bark	PERSON	1
+muses	ORG	1
+mineeye	PERSON	1
+mars	LOC	1
+laid	PERSON	1
+lxxxvii	GPE	1
+lxxxvi	ORG	1
+lxxxv	ORG	1
+lxxxiv	ORG	1
+lxxx	ORG	1
+lxxviii	ORG	1
+lxxvii	GPE	1
+lxxvi	ORG	1
+lxxv	ORG	1
+lxxiii	ORG	1
+lxvii	GPE	1
+lxvi	ORG	1
+lxv	ORG	1
+lxiv	ORG	1
+lxi	ORG	1
+lx	ORG	1
+lviii	ORG	1
+lvii	GPE	1
+lvi	ORG	1
+lix	ORG	1
+liii	ORG	1
+lii	ORG	1
+li	ORG	1
+kissing	GPE	1
+junes	GPE	1
+iii	ORG	1
+i.	ORG	1
+herein	PERSON	1
+helen	PERSON	1
+harsh	ORG	1
+grecian	GPE	1
+gor''d	ORG	1
+forgot	ORG	1
+eve	PERSON	1
+drawn	PERSON	1
+divert	PERSON	1
+distill''d	PERSON	1
+dissuade	ORG	1
+devouring time	PERSON	1
+desire	PERSON	1
+describe adonis	PERSON	1
+death	PERSON	1
+cupid	GPE	1
+creep	PERSON	1
+cheered	ORG	1
+canst	ORG	1
+cxxxvi	ORG	1
+cxxxv	ORG	1
+cxxxiv	ORG	1
+cxxx	ORG	1
+cxxv	ORG	1
+cxxix	ORG	1
+cxxii	ORG	1
+cxxi	ORG	1
+cxx	ORG	1
+cxvi	ORG	1
+cxv	ORG	1
+cxlvii	ORG	1
+cxlii	ORG	1
+cxli	ORG	1
+cxiv	ORG	1
+cxii	ORG	1
+cxi	ORG	1
+cviii	ORG	1
+cvii	PERSON	1
+cvi	ORG	1
+cliii	ORG	1
+clii	ORG	1
+cli	ORG	1
+cix	ORG	1
+ci	ORG	1
+borne	PERSON	1
+betwixt	ORG	1
+beggar''d	ORG	1
+beauty	PERSON	1
+bare	PERSON	1
+awakes	PERSON	1
+art	PERSON	1
+anon	PERSON	1
+alack	ORG	1

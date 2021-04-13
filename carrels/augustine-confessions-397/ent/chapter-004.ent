@@ -1,0 +1,174 @@
+id	sid	eid	entity	type
+chapter-004	1	1	nine years	DATE
+chapter-004	1	2	my nineteenth year	DATE
+chapter-004	3	1	Gods	ORG
+chapter-004	5	1	Thee	PERSON
+chapter-004	5	2	Thee	PERSON
+chapter-004	6	1	Thee	PERSON
+chapter-004	6	2	Thee	PERSON
+chapter-004	6	3	thanksgiving	DATE
+chapter-004	7	1	Thee	PERSON
+chapter-004	8	1	Thee	PERSON
+chapter-004	10	1	Thee	ORG
+chapter-004	11	1	those years	DATE
+chapter-004	12	1	Thou knowest	PERSON
+chapter-004	13	1	Thou	PERSON
+chapter-004	14	1	those years	DATE
+chapter-004	14	2	one	CARDINAL
+chapter-004	17	1	Thee	PERSON
+chapter-004	17	2	Thee	PERSON
+chapter-004	18	1	Thee	PERSON
+chapter-004	21	1	Mathematicians	NORP
+chapter-004	21	2	Christian	NORP
+chapter-004	22	1	Thee	PERSON
+chapter-004	22	2	Thee	PERSON
+chapter-004	22	3	Behold	PERSON
+chapter-004	23	1	This did Venus	WORK_OF_ART
+chapter-004	23	2	Saturn	ORG
+chapter-004	23	3	Mars	LOC
+chapter-004	23	4	Creator	PERSON
+chapter-004	25	1	Thou	PERSON
+chapter-004	26	1	those days	DATE
+chapter-004	26	2	Agonistic	NORP
+chapter-004	27	1	Thou	PERSON
+chapter-004	28	1	years	DATE
+chapter-004	32	1	Thou	PERSON
+chapter-004	33	1	Nebridius	ORG
+chapter-004	34	1	those years	DATE
+chapter-004	34	2	first	ORDINAL
+chapter-004	34	3	one	CARDINAL
+chapter-004	34	4	first	ORDINAL
+chapter-004	36	1	Thee	PERSON
+chapter-004	36	2	the Holy Ghost	ORG
+chapter-004	39	1	Thou wert	PERSON
+chapter-004	39	2	Thou	PERSON
+chapter-004	39	3	one whole year	DATE
+chapter-004	40	1	one	CARDINAL
+chapter-004	41	1	Thou	PERSON
+chapter-004	41	2	Thy	PERSON
+chapter-004	44	1	Forthwith	PERSON
+chapter-004	47	1	Thee	PERSON
+chapter-004	47	2	a few days	DATE
+chapter-004	52	1	Trust	PERSON
+chapter-004	55	1	Thee	PERSON
+chapter-004	55	2	Thou	PERSON
+chapter-004	56	1	Thee	PERSON
+chapter-004	57	1	Thou	PERSON
+chapter-004	57	2	Thyself	GPE
+chapter-004	58	1	Thine	GPE
+chapter-004	60	1	Thou hearest	PERSON
+chapter-004	61	1	Thee	ORG
+chapter-004	67	1	Thee	PERSON
+chapter-004	71	1	Pylades and Orestes	ORG
+chapter-004	75	1	Thee	PERSON
+chapter-004	76	1	second	ORDINAL
+chapter-004	77	1	one	CARDINAL
+chapter-004	77	2	half	CARDINAL
+chapter-004	77	3	one	CARDINAL
+chapter-004	77	4	two	CARDINAL
+chapter-004	87	1	Thee	PERSON
+chapter-004	87	2	Thee	PERSON
+chapter-004	87	3	Thee	PERSON
+chapter-004	87	4	Thou wert	PERSON
+chapter-004	88	1	Thou	PERSON
+chapter-004	94	1	Thagaste	GPE
+chapter-004	99	1	Thee	PERSON
+chapter-004	102	1	a thousand	CARDINAL
+chapter-004	105	1	loveth Thee	PERSON
+chapter-004	105	2	Thee	PERSON
+chapter-004	105	3	Thee	PERSON
+chapter-004	107	1	earth	LOC
+chapter-004	108	1	Thee	PERSON
+chapter-004	109	1	Thee	PERSON
+chapter-004	109	2	Thee	PERSON
+chapter-004	109	3	Thee	PERSON
+chapter-004	111	1	Thou	PERSON
+chapter-004	112	1	Hosts	ORG
+chapter-004	113	1	Thee	PERSON
+chapter-004	114	1	Thee	PERSON
+chapter-004	114	2	Thee	PERSON
+chapter-004	118	1	Thou	PERSON
+chapter-004	119	1	one	CARDINAL
+chapter-004	120	1	Thee	PERSON
+chapter-004	120	2	Creator	PERSON
+chapter-004	123	1	yea	ORG
+chapter-004	126	1	Thy Word	PERSON
+chapter-004	134	1	Entrust Truth	ORG
+chapter-004	134	2	Truth	LOC
+chapter-004	134	3	standeth	LOC
+chapter-004	140	1	one	CARDINAL
+chapter-004	148	1	ye transgressors	ORG
+chapter-004	149	1	ye shall	ORG
+chapter-004	159	1	first	ORDINAL
+chapter-004	159	2	Virgin	PERSON
+chapter-004	165	1	ye sons	ORG
+chapter-004	177	1	two	CARDINAL
+chapter-004	177	2	three	CARDINAL
+chapter-004	178	1	Thou knowest	PERSON
+chapter-004	179	1	Hierius	ORG
+chapter-004	179	2	Rome	GPE
+chapter-004	180	1	Syrian	NORP
+chapter-004	180	2	Greek	NORP
+chapter-004	180	3	Latin	NORP
+chapter-004	181	1	One	CARDINAL
+chapter-004	183	1	loveth	PERSON
+chapter-004	185	1	Thine	GPE
+chapter-004	188	1	one	CARDINAL
+chapter-004	192	1	Thou	PERSON
+chapter-004	192	2	Thee	PERSON
+chapter-004	194	1	Thee	PERSON
+chapter-004	195	1	Thee	PERSON
+chapter-004	202	1	the "fair and fit	LAW
+chapter-004	203	1	Thou Omnipotent	PERSON
+chapter-004	207	1	first	ORDINAL
+chapter-004	208	1	Thee	PERSON
+chapter-004	209	1	first	ORDINAL
+chapter-004	212	1	Thou	PERSON
+chapter-004	212	2	Thou	PERSON
+chapter-004	212	3	Thy	PERSON
+chapter-004	212	4	Thou	PERSON
+chapter-004	212	5	Thee	PERSON
+chapter-004	213	1	Thee	PERSON
+chapter-004	213	2	Thee	PERSON
+chapter-004	215	1	Thee	PERSON
+chapter-004	215	2	Thou	PERSON
+chapter-004	216	1	Thee	PERSON
+chapter-004	216	2	Thou	PERSON
+chapter-004	216	3	Thee	PERSON
+chapter-004	216	4	Thee	PERSON
+chapter-004	218	1	Thy	PERSON
+chapter-004	221	1	some six or seven and twenty years old	CARDINAL
+chapter-004	221	2	Thee	PERSON
+chapter-004	221	3	Bridegroom	ORG
+chapter-004	222	1	Thou	PERSON
+chapter-004	223	1	twenty years old	DATE
+chapter-004	223	2	Aristotle	PRODUCT
+chapter-004	223	3	ten	CARDINAL
+chapter-004	225	1	nine	CARDINAL
+chapter-004	225	2	Predicaments	ORG
+chapter-004	227	1	ten	CARDINAL
+chapter-004	227	2	Thy	PERSON
+chapter-004	227	3	Thou	PERSON
+chapter-004	227	4	Thine	NORP
+chapter-004	227	5	Thee	PERSON
+chapter-004	227	6	Thou	PERSON
+chapter-004	228	1	Thee	PERSON
+chapter-004	229	1	Thou hadst	PERSON
+chapter-004	229	2	earth	LOC
+chapter-004	233	1	Thou knowest	PERSON
+chapter-004	233	2	Thee	PERSON
+chapter-004	234	1	Thee	PERSON
+chapter-004	234	2	Thee	PERSON
+chapter-004	237	1	Thou	PERSON
+chapter-004	237	2	Truth	GPE
+chapter-004	240	1	Thee Thy	PERSON
+chapter-004	240	2	Thee	PERSON
+chapter-004	240	3	Thee	PERSON
+chapter-004	242	1	Thee	PERSON
+chapter-004	242	2	Thy Church	ORG
+chapter-004	244	1	Thou	PERSON
+chapter-004	244	2	Thou carry	PERSON
+chapter-004	244	3	Thou	PERSON
+chapter-004	245	1	Thee	PERSON
+chapter-004	246	1	Thee	PERSON
+chapter-004	246	2	Thou	PERSON

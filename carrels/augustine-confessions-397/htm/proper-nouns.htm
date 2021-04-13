@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">proper</li>
+		</ol>
+	</nav>
+
+<h1>proper</h1>
+<p>This is a table of type proper and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>proper</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>thou</td><td>1063</td></tr>
+<tr><td>thee</td><td>877</td></tr>
+<tr><td>thy</td><td>814</td></tr>
+<tr><td>god</td><td>510</td></tr>
+<tr><td>lord</td><td>314</td></tr>
+<tr><td>heaven</td><td>186</td></tr>
+<tr><td>thine</td><td>93</td></tr>
+<tr><td>spirit</td><td>62</td></tr>
+<tr><td>word</td><td>58</td></tr>
+<tr><td>yea</td><td>56</td></tr>
+<tr><td>ye</td><td>52</td></tr>
+<tr><td>hath</td><td>43</td></tr>
+<tr><td>christ</td><td>42</td></tr>
+<tr><td>holy</td><td>35</td></tr>
+<tr><td>creator</td><td>32</td></tr>
+<tr><td>father</td><td>31</td></tr>
+<tr><td>church</td><td>31</td></tr>
+<tr><td>son</td><td>29</td></tr>
+<tr><td>alypius</td><td>29</td></tr>
+<tr><td>knowest</td><td>28</td></tr>
+<tr><td>heavens</td><td>28</td></tr>
+<tr><td>whereof</td><td>26</td></tr>
+<tr><td>moses</td><td>25</td></tr>
+<tr><td>thyself</td><td>23</td></tr>
+<tr><td>hadst</td><td>23</td></tr>
+<tr><td>truth</td><td>21</td></tr>
+<tr><td>hast</td><td>20</td></tr>
+<tr><td>lo</td><td>20</td></tr>
+<tr><td>rome</td><td>20</td></tr>
+<tr><td>behold</td><td>19</td></tr>
+<tr><td>knoweth</td><td>18</td></tr>
+<tr><td>wisdom</td><td>16</td></tr>
+<tr><td>nebridius</td><td>15</td></tr>
+<tr><td>manichees</td><td>15</td></tr>
+<tr><td>jesus</td><td>15</td></tr>
+<tr><td>whoso</td><td>14</td></tr>
+<tr><td>christian</td><td>14</td></tr>
+<tr><td>catholic</td><td>14</td></tr>
+<tr><td>ghost</td><td>13</td></tr>
+<tr><td>ambrose</td><td>11</td></tr>
+<tr><td>book</td><td>11</td></tr>
+<tr><td>latin</td><td>11</td></tr>
+<tr><td>victorinus</td><td>10</td></tr>
+<tr><td>trinity</td><td>10</td></tr>
+<tr><td>scripture</td><td>10</td></tr>
+<tr><td>psalm</td><td>10</td></tr>
+<tr><td>madest</td><td>10</td></tr>
+<tr><td>greek</td><td>10</td></tr>
+<tr><td>almighty</td><td>10</td></tr>
+<tr><td>woe</td><td>9</td></tr>
+<tr><td>milan</td><td>9</td></tr>
+<tr><td>master</td><td>9</td></tr>
+<tr><td>herein</td><td>9</td></tr>
+<tr><td>faith</td><td>8</td></tr>
+<tr><td>begotten</td><td>8</td></tr>
+<tr><td>earth</td><td>8</td></tr>
+<tr><td>name</td><td>8</td></tr>
+<tr><td>therewith</td><td>8</td></tr>
+<tr><td>substance</td><td>7</td></tr>
+<tr><td>simplicianus</td><td>7</td></tr>
+<tr><td>scriptures</td><td>7</td></tr>
+<tr><td>gospel</td><td>7</td></tr>
+<tr><td>faustus</td><td>7</td></tr>
+<tr><td>apostle</td><td>7</td></tr>
+<tr><td>adam</td><td>7</td></tr>
+<tr><td>jerusalem</td><td>6</td></tr>
+<tr><td>betwixt</td><td>6</td></tr>
+<tr><td>canst</td><td>6</td></tr>
+<tr><td>didst</td><td>6</td></tr>
+<tr><td>doth</td><td>6</td></tr>
+<tr><td>emperor</td><td>6</td></tr>
+<tr><td>firminus</td><td>6</td></tr>
+<tr><td>good</td><td>6</td></tr>
+<tr><td>life</td><td>6</td></tr>
+<tr><td>mediator</td><td>6</td></tr>
+<tr><td>mightest</td><td>6</td></tr>
+<tr><td>sacrament</td><td>6</td></tr>
+<tr><td>saviour</td><td>6</td></tr>
+<tr><td>whom</td><td>6</td></tr>
+<tr><td>light</td><td>6</td></tr>
+<tr><td>catechumen</td><td>5</td></tr>
+<tr><td>beginning</td><td>5</td></tr>
+<tr><td>carthage</td><td>5</td></tr>
+<tr><td>bridegroom</td><td>5</td></tr>
+<tr><td>bishop</td><td>5</td></tr>
+<tr><td>ministry</td><td>5</td></tr>
+<tr><td>angel</td><td>5</td></tr>
+<tr><td>aeneas</td><td>5</td></tr>
+<tr><td>abideth</td><td>5</td></tr>
+<tr><td>east</td><td>5</td></tr>
+<tr><td>divine</td><td>5</td></tr>
+<tr><td>thence</td><td>5</td></tr>
+<tr><td>eternity</td><td>5</td></tr>
+<tr><td>gentiles</td><td>5</td></tr>
+<tr><td>griefs</td><td>5</td></tr>
+<tr><td>king</td><td>5</td></tr>
+<tr><td>man</td><td>5</td></tr>
+<tr><td>manichaeus</td><td>5</td></tr>
+<tr><td>only</td><td>5</td></tr>
+<tr><td>paul</td><td>5</td></tr>
+<tr><td>unity</td><td>5</td></tr>
+<tr><td>forthwith</td><td>4</td></tr>
+<tr><td>law</td><td>4</td></tr>
+<tr><td>jacob</td><td>4</td></tr>
+<tr><td>genesis</td><td>4</td></tr>
+<tr><td>fountain</td><td>4</td></tr>
+<tr><td>platonists</td><td>4</td></tr>
+<tr><td>eternal</td><td>4</td></tr>
+<tr><td>david</td><td>4</td></tr>
+<tr><td>bodily</td><td>4</td></tr>
+<tr><td>authority</td><td>4</td></tr>
+<tr><td>manichaean</td><td>4</td></tr>
+<tr><td>withal</td><td>4</td></tr>
+<tr><td>pontitianus</td><td>4</td></tr>
+<tr><td>universe</td><td>4</td></tr>
+<tr><td>priest</td><td>4</td></tr>
+<tr><td>verecundus</td><td>4</td></tr>
+<tr><td>us</td><td>4</td></tr>
+<tr><td>willeth</td><td>4</td></tr>
+<tr><td>self</td><td>4</td></tr>
+<tr><td>sciences</td><td>4</td></tr>
+<tr><td>sacraments</td><td>4</td></tr>
+<tr><td>prophets</td><td>4</td></tr>
+<tr><td>dost</td><td>3</td></tr>
+<tr><td>gift</td><td>3</td></tr>
+<tr><td>eve</td><td>3</td></tr>
+<tr><td>essence</td><td>3</td></tr>
+<tr><td>esau</td><td>3</td></tr>
+<tr><td>elijah</td><td>3</td></tr>
+<tr><td>elect</td><td>3</td></tr>
+<tr><td>egypt</td><td>3</td></tr>
+<tr><td>christians</td><td>3</td></tr>
+<tr><td>dido</td><td>3</td></tr>
+<tr><td>createdst</td><td>3</td></tr>
+<tr><td>confessions</td><td>3</td></tr>
+<tr><td>comforter</td><td>3</td></tr>
+<tr><td>grace</td><td>3</td></tr>
+<tr><td>beauty</td><td>3</td></tr>
+<tr><td>antony</td><td>3</td></tr>
+<tr><td>governor</td><td>3</td></tr>
+<tr><td>africa</td><td>3</td></tr>
+<tr><td>great</td><td>3</td></tr>
+<tr><td>psalms</td><td>3</td></tr>
+<tr><td>hearken</td><td>3</td></tr>
+<tr><td>will</td><td>3</td></tr>
+<tr><td>virgin</td><td>3</td></tr>
+<tr><td>supreme</td><td>3</td></tr>
+<tr><td>saith</td><td>3</td></tr>
+<tr><td>rob</td><td>3</td></tr>
+<tr><td>rhetoric</td><td>3</td></tr>
+<tr><td>sacrifice</td><td>3</td></tr>
+<tr><td>predicaments</td><td>3</td></tr>
+<tr><td>ostia</td><td>3</td></tr>
+<tr><td>manichee</td><td>3</td></tr>
+<tr><td>judgeth</td><td>3</td></tr>
+<tr><td>jove</td><td>3</td></tr>
+<tr><td>hymns</td><td>3</td></tr>
+<tr><td>philippians</td><td>3</td></tr>
+<tr><td>homer</td><td>3</td></tr>
+<tr><td>epicurus</td><td>2</td></tr>
+<tr><td>fair</td><td>2</td></tr>
+<tr><td>evangelists</td><td>2</td></tr>
+<tr><td>divinity</td><td>2</td></tr>
+<tr><td>enlighteneth</td><td>2</td></tr>
+<tr><td>enlightener</td><td>2</td></tr>
+<tr><td>dwellest</td><td>2</td></tr>
+<tr><td>grecian</td><td>2</td></tr>
+<tr><td>godhead</td><td>2</td></tr>
+<tr><td>israel</td><td>2</td></tr>
+<tr><td>guardian</td><td>2</td></tr>
+<tr><td>heareth</td><td>2</td></tr>
+<tr><td>hebrew</td><td>2</td></tr>
+<tr><td>hereby</td><td>2</td></tr>
+<tr><td>himself</td><td>2</td></tr>
+<tr><td>hortensius</td><td>2</td></tr>
+<tr><td>image</td><td>2</td></tr>
+<tr><td>isaac</td><td>2</td></tr>
+<tr><td>devil</td><td>2</td></tr>
+<tr><td>juno</td><td>2</td></tr>
+<tr><td>disposer</td><td>2</td></tr>
+<tr><td>becometh</td><td>2</td></tr>
+<tr><td>cross</td><td>2</td></tr>
+<tr><td>creation</td><td>2</td></tr>
+<tr><td>latins</td><td>2</td></tr>
+<tr><td>abraham</td><td>2</td></tr>
+<tr><td>academics</td><td>2</td></tr>
+<tr><td>adeodatus</td><td>2</td></tr>
+<tr><td>afric</td><td>2</td></tr>
+<tr><td>all</td><td>2</td></tr>
+<tr><td>altar</td><td>2</td></tr>
+<tr><td>angels</td><td>2</td></tr>
+<tr><td>anon</td><td>2</td></tr>
+<tr><td>ariseth</td><td>2</td></tr>
+<tr><td>assessor</td><td>2</td></tr>
+<tr><td>babylon</td><td>2</td></tr>
+<tr><td>baptism</td><td>2</td></tr>
+<tr><td>books</td><td>2</td></tr>
+<tr><td>calledst</td><td>2</td></tr>
+<tr><td>churches</td><td>2</td></tr>
+<tr><td>cicero</td><td>2</td></tr>
+<tr><td>circus</td><td>2</td></tr>
+<tr><td>city</td><td>2</td></tr>
+<tr><td>knewest</td><td>2</td></tr>
+<tr><td>euodius</td><td>2</td></tr>
+<tr><td>lieth</td><td>2</td></tr>
+<tr><td>to</td><td>2</td></tr>
+<tr><td>sabbath</td><td>2</td></tr>
+<tr><td>sayest</td><td>2</td></tr>
+<tr><td>sovereign</td><td>2</td></tr>
+<tr><td>speakest</td><td>2</td></tr>
+<tr><td>strength</td><td>2</td></tr>
+<tr><td>subverters</td><td>2</td></tr>
+<tr><td>sun</td><td>2</td></tr>
+<tr><td>testament</td><td>2</td></tr>
+<tr><td>time</td><td>2</td></tr>
+<tr><td>treasury</td><td>2</td></tr>
+<tr><td>repent</td><td>2</td></tr>
+<tr><td>tully</td><td>2</td></tr>
+<tr><td>unchangeable</td><td>2</td></tr>
+<tr><td>venus</td><td>2</td></tr>
+<tr><td>victor</td><td>2</td></tr>
+<tr><td>whence</td><td>2</td></tr>
+<tr><td>wherefore</td><td>2</td></tr>
+<tr><td>whereupon</td><td>2</td></tr>
+<tr><td>lovest</td><td>2</td></tr>
+<tr><td>writ</td><td>2</td></tr>
+<tr><td>righteousness</td><td>2</td></tr>
+<tr><td>thagaste</td><td>2</td></tr>
+<tr><td>remaineth</td><td>2</td></tr>
+<tr><td>one</td><td>2</td></tr>
+<tr><td>rejoiceth</td><td>2</td></tr>
+<tr><td>maker</td><td>2</td></tr>
+<tr><td>medea</td><td>2</td></tr>
+<tr><td>mirth</td><td>2</td></tr>
+<tr><td>moon</td><td>2</td></tr>
+<tr><td>mother</td><td>2</td></tr>
+<tr><td>multitude</td><td>2</td></tr>
+<tr><td>o</td><td>2</td></tr>
+<tr><td>multiply</td><td>2</td></tr>
+<tr><td>passion</td><td>2</td></tr>
+<tr><td>patricius</td><td>2</td></tr>
+<tr><td>macedonia</td><td>2</td></tr>
+<tr><td>physician</td><td>2</td></tr>
+<tr><td>power</td><td>2</td></tr>
+<tr><td>professorship</td><td>2</td></tr>
+<tr><td>psalter</td><td>2</td></tr>
+<tr><td>madness</td><td>2</td></tr>
+<tr><td>rejoicest</td><td>2</td></tr>
+<tr><td>forum</td><td>1</td></tr>
+<tr><td>gainst</td><td>1</td></tr>
+<tr><td>fro</td><td>1</td></tr>
+<tr><td>foul</td><td>1</td></tr>
+<tr><td>form</td><td>1</td></tr>
+<tr><td>forsaken,--thou</td><td>1</td></tr>
+<tr><td>formedst</td><td>1</td></tr>
+<tr><td>general</td><td>1</td></tr>
+<tr><td>galatians</td><td>1</td></tr>
+<tr><td>greeks</td><td>1</td></tr>
+<tr><td>gervasius</td><td>1</td></tr>
+<tr><td>glad</td><td>1</td></tr>
+<tr><td>glorieth</td><td>1</td></tr>
+<tr><td>gods</td><td>1</td></tr>
+<tr><td>grammar</td><td>1</td></tr>
+<tr><td>grammarians</td><td>1</td></tr>
+<tr><td>gratias</td><td>1</td></tr>
+<tr><td>greediness</td><td>1</td></tr>
+<tr><td>groaneth</td><td>1</td></tr>
+<tr><td>forego</td><td>1</td></tr>
+<tr><td>guide</td><td>1</td></tr>
+<tr><td>forgiven</td><td>1</td></tr>
+<tr><td>entrust</td><td>1</td></tr>
+<tr><td>folly</td><td>1</td></tr>
+<tr><td>evil</td><td>1</td></tr>
+<tr><td>enlarge</td><td>1</td></tr>
+<tr><td>enricher</td><td>1</td></tr>
+<tr><td>hap</td><td>1</td></tr>
+<tr><td>envy</td><td>1</td></tr>
+<tr><td>epaphroditus</td><td>1</td></tr>
+<tr><td>episcopal</td><td>1</td></tr>
+<tr><td>epistles</td><td>1</td></tr>
+<tr><td>ere</td><td>1</td></tr>
+<tr><td>ergo</td><td>1</td></tr>
+<tr><td>exodus</td><td>1</td></tr>
+<tr><td>followest</td><td>1</td></tr>
+<tr><td>exterior</td><td>1</td></tr>
+<tr><td>facio</td><td>1</td></tr>
+<tr><td>factito</td><td>1</td></tr>
+<tr><td>fame</td><td>1</td></tr>
+<tr><td>fathers</td><td>1</td></tr>
+<tr><td>feedest</td><td>1</td></tr>
+<tr><td>feedeth</td><td>1</td></tr>
+<tr><td>findeth</td><td>1</td></tr>
+<tr><td>firmament</td><td>1</td></tr>
+<tr><td>gulf</td><td>1</td></tr>
+<tr><td>hitherto</td><td>1</td></tr>
+<tr><td>hatred</td><td>1</td></tr>
+<tr><td>he</td><td>1</td></tr>
+<tr><td>i.e</td><td>1</td></tr>
+<tr><td>ignorant</td><td>1</td></tr>
+<tr><td>ii</td><td>1</td></tr>
+<tr><td>ill</td><td>1</td></tr>
+<tr><td>incarnation</td><td>1</td></tr>
+<tr><td>infinite</td><td>1</td></tr>
+<tr><td>inflame</td><td>1</td></tr>
+<tr><td>inhabitant</td><td>1</td></tr>
+<tr><td>innocency</td><td>1</td></tr>
+<tr><td>insomuch</td><td>1</td></tr>
+<tr><td>instructest</td><td>1</td></tr>
+<tr><td>instructor</td><td>1</td></tr>
+<tr><td>interior</td><td>1</td></tr>
+<tr><td>internal</td><td>1</td></tr>
+<tr><td>isaiah</td><td>1</td></tr>
+<tr><td>italian</td><td>1</td></tr>
+<tr><td>italy</td><td>1</td></tr>
+<tr><td>iv</td><td>1</td></tr>
+<tr><td>ix</td><td>1</td></tr>
+<tr><td>jarring</td><td>1</td></tr>
+<tr><td>jeer</td><td>1</td></tr>
+<tr><td>i.</td><td>1</td></tr>
+<tr><td>husband</td><td>1</td></tr>
+<tr><td>howsoever</td><td>1</td></tr>
+<tr><td>helpidius</td><td>1</td></tr>
+<tr><td>head</td><td>1</td></tr>
+<tr><td>health</td><td>1</td></tr>
+<tr><td>hear</td><td>1</td></tr>
+<tr><td>hearest</td><td>1</td></tr>
+<tr><td>hearsay</td><td>1</td></tr>
+<tr><td>heathen</td><td>1</td></tr>
+<tr><td>heavens,--that</td><td>1</td></tr>
+<tr><td>hell</td><td>1</td></tr>
+<tr><td>hellish</td><td>1</td></tr>
+<tr><td>hereof</td><td>1</td></tr>
+<tr><td>hosts</td><td>1</td></tr>
+<tr><td>hereon</td><td>1</td></tr>
+<tr><td>hereupon</td><td>1</td></tr>
+<tr><td>hierius</td><td>1</td></tr>
+<tr><td>highness</td><td>1</td></tr>
+<tr><td>him</td><td>1</td></tr>
+<tr><td>hindereth</td><td>1</td></tr>
+<tr><td>hippocrates</td><td>1</td></tr>
+<tr><td>encompasseth</td><td>1</td></tr>
+<tr><td>hope</td><td>1</td></tr>
+<tr><td>enigma</td><td>1</td></tr>
+<tr><td>deep,--unlike</td><td>1</td></tr>
+<tr><td>eastern</td><td>1</td></tr>
+<tr><td>blamest</td><td>1</td></tr>
+<tr><td>balaneion</td><td>1</td></tr>
+<tr><td>basilica</td><td>1</td></tr>
+<tr><td>bear</td><td>1</td></tr>
+<tr><td>beareth</td><td>1</td></tr>
+<tr><td>begun</td><td>1</td></tr>
+<tr><td>belongeth</td><td>1</td></tr>
+<tr><td>bestowedst</td><td>1</td></tr>
+<tr><td>bible</td><td>1</td></tr>
+<tr><td>black</td><td>1</td></tr>
+<tr><td>blessedness</td><td>1</td></tr>
+<tr><td>author</td><td>1</td></tr>
+<tr><td>blesseth</td><td>1</td></tr>
+<tr><td>body</td><td>1</td></tr>
+<tr><td>book,--such</td><td>1</td></tr>
+<tr><td>bread</td><td>1</td></tr>
+<tr><td>breathedst</td><td>1</td></tr>
+<tr><td>bridal</td><td>1</td></tr>
+<tr><td>bride</td><td>1</td></tr>
+<tr><td>caesar</td><td>1</td></tr>
+<tr><td>canticles</td><td>1</td></tr>
+<tr><td>awake</td><td>1</td></tr>
+<tr><td>athenians</td><td>1</td></tr>
+<tr><td>careth</td><td>1</td></tr>
+<tr><td>anaximenes</td><td>1</td></tr>
+<tr><td>jews</td><td>1</td></tr>
+<tr><td>.</td><td>1</td></tr>
+<tr><td>academicians</td><td>1</td></tr>
+<tr><td>african</td><td>1</td></tr>
+<tr><td>agito</td><td>1</td></tr>
+<tr><td>alexandria</td><td>1</td></tr>
+<tr><td>all);--could</td><td>1</td></tr>
+<tr><td>ambrosian</td><td>1</td></tr>
+<tr><td>amphitheatre</td><td>1</td></tr>
+<tr><td>answer</td><td>1</td></tr>
+<tr><td>athanasius</td><td>1</td></tr>
+<tr><td>anubis</td><td>1</td></tr>
+<tr><td>apostles</td><td>1</td></tr>
+<tr><td>apostolic</td><td>1</td></tr>
+<tr><td>arians</td><td>1</td></tr>
+<tr><td>arise</td><td>1</td></tr>
+<tr><td>aristotle</td><td>1</td></tr>
+<tr><td>artificer</td><td>1</td></tr>
+<tr><td>ashamed</td><td>1</td></tr>
+<tr><td>asketh</td><td>1</td></tr>
+<tr><td>caredst</td><td>1</td></tr>
+<tr><td>cassiacum</td><td>1</td></tr>
+<tr><td>earth,--not</td><td>1</td></tr>
+<tr><td>disapproveth</td><td>1</td></tr>
+<tr><td>deceased</td><td>1</td></tr>
+<tr><td>defended;--he</td><td>1</td></tr>
+<tr><td>depart,--(for</td><td>1</td></tr>
+<tr><td>deridedst</td><td>1</td></tr>
+<tr><td>descend</td><td>1</td></tr>
+<tr><td>desire</td><td>1</td></tr>
+<tr><td>deus</td><td>1</td></tr>
+<tr><td>dieth</td><td>1</td></tr>
+<tr><td>diminisheth</td><td>1</td></tr>
+<tr><td>discern</td><td>1</td></tr>
+<tr><td>cyprian</td><td>1</td></tr>
+<tr><td>dispenser</td><td>1</td></tr>
+<tr><td>displease</td><td>1</td></tr>
+<tr><td>dispraisest</td><td>1</td></tr>
+<tr><td>distributest</td><td>1</td></tr>
+<tr><td>divide</td><td>1</td></tr>
+<tr><td>divorceth</td><td>1</td></tr>
+<tr><td>dominions</td><td>1</td></tr>
+<tr><td>drunkard</td><td>1</td></tr>
+<tr><td>duad;--anger</td><td>1</td></tr>
+<tr><td>danae</td><td>1</td></tr>
+<tr><td>cup</td><td>1</td></tr>
+<tr><td>catholics</td><td>1</td></tr>
+<tr><td>confesseth</td><td>1</td></tr>
+<tr><td>catiline</td><td>1</td></tr>
+<tr><td>charity</td><td>1</td></tr>
+<tr><td>cherubim</td><td>1</td></tr>
+<tr><td>coeternal</td><td>1</td></tr>
+<tr><td>cogito</td><td>1</td></tr>
+<tr><td>commandest</td><td>1</td></tr>
+<tr><td>commandment</td><td>1</td></tr>
+<tr><td>commandments</td><td>1</td></tr>
+<tr><td>commission</td><td>1</td></tr>
+<tr><td>conjugal</td><td>1</td></tr>
+<tr><td>crown</td><td>1</td></tr>
+<tr><td>consist</td><td>1</td></tr>
+<tr><td>contemplateth</td><td>1</td></tr>
+<tr><td>continence</td><td>1</td></tr>
+<tr><td>continency</td><td>1</td></tr>
+<tr><td>couldest</td><td>1</td></tr>
+<tr><td>court</td><td>1</td></tr>
+<tr><td>covetousness</td><td>1</td></tr>
+<tr><td>creepeth</td><td>1</td></tr>
+<tr><td>creusa</td><td>1</td></tr>
+<tr><td>jew</td><td>1</td></tr>
+<tr><td>showeth</td><td>1</td></tr>
+<tr><td>joineth</td><td>1</td></tr>
+<tr><td>jordan</td><td>1</td></tr>
+<tr><td>shouldest</td><td>1</td></tr>
+<tr><td>simple</td><td>1</td></tr>
+<tr><td>singeth</td><td>1</td></tr>
+<tr><td>sodom</td><td>1</td></tr>
+<tr><td>solitude</td><td>1</td></tr>
+<tr><td>solomon</td><td>1</td></tr>
+<tr><td>soul</td><td>1</td></tr>
+<tr><td>soundeth</td><td>1</td></tr>
+<tr><td>sport</td><td>1</td></tr>
+<tr><td>sudden</td><td>1</td></tr>
+<tr><td>sufficeth</td><td>1</td></tr>
+<tr><td>sung</td><td>1</td></tr>
+<tr><td>symmachus</td><td>1</td></tr>
+<tr><td>sympathy</td><td>1</td></tr>
+<tr><td>talketh</td><td>1</td></tr>
+<tr><td>teacheth</td><td>1</td></tr>
+<tr><td>temple</td><td>1</td></tr>
+<tr><td>terence</td><td>1</td></tr>
+<tr><td>thee,--thy</td><td>1</td></tr>
+<tr><td>theft</td><td>1</td></tr>
+<tr><td>them,--for</td><td>1</td></tr>
+<tr><td>shine</td><td>1</td></tr>
+<tr><td>shepherd</td><td>1</td></tr>
+<tr><td>shalt</td><td>1</td></tr>
+<tr><td>sanctuary</td><td>1</td></tr>
+<tr><td>relapseth</td><td>1</td></tr>
+<tr><td>renew''d</td><td>1</td></tr>
+<tr><td>reposeth</td><td>1</td></tr>
+<tr><td>resistest</td><td>1</td></tr>
+<tr><td>riseth</td><td>1</td></tr>
+<tr><td>roman</td><td>1</td></tr>
+<tr><td>saidst</td><td>1</td></tr>
+<tr><td>saints</td><td>1</td></tr>
+<tr><td>same</td><td>1</td></tr>
+<tr><td>saturn</td><td>1</td></tr>
+<tr><td>seraphim</td><td>1</td></tr>
+<tr><td>saul</td><td>1</td></tr>
+<tr><td>save</td><td>1</td></tr>
+<tr><td>school</td><td>1</td></tr>
+<tr><td>schools</td><td>1</td></tr>
+<tr><td>scruple</td><td>1</td></tr>
+<tr><td>sea</td><td>1</td></tr>
+<tr><td>seekest</td><td>1</td></tr>
+<tr><td>seneca</td><td>1</td></tr>
+<tr><td>sense";--while</td><td>1</td></tr>
+<tr><td>thessalonica</td><td>1</td></tr>
+<tr><td>things:--it</td><td>1</td></tr>
+<tr><td>thirst</td><td>1</td></tr>
+<tr><td>whereto</td><td>1</td></tr>
+<tr><td>vintage</td><td>1</td></tr>
+<tr><td>virgil</td><td>1</td></tr>
+<tr><td>vouchsafe</td><td>1</td></tr>
+<tr><td>wantonness</td><td>1</td></tr>
+<tr><td>wavy</td><td>1</td></tr>
+<tr><td>wedlock</td><td>1</td></tr>
+<tr><td>weeps</td><td>1</td></tr>
+<tr><td>whereat</td><td>1</td></tr>
+<tr><td>whereon</td><td>1</td></tr>
+<tr><td>whosoever</td><td>1</td></tr>
+<tr><td>vii</td><td>1</td></tr>
+<tr><td>wills</td><td>1</td></tr>
+<tr><td>wilt</td><td>1</td></tr>
+<tr><td>wouldest</td><td>1</td></tr>
+<tr><td>wretched</td><td>1</td></tr>
+<tr><td>x</td><td>1</td></tr>
+<tr><td>xi</td><td>1</td></tr>
+<tr><td>xiii</td><td>1</td></tr>
+<tr><td>yieldeth</td><td>1</td></tr>
+<tr><td>zeal</td><td>1</td></tr>
+<tr><td>vindicianus</td><td>1</td></tr>
+<tr><td>victim</td><td>1</td></tr>
+<tr><td>thirsteth</td><td>1</td></tr>
+<tr><td>troy</td><td>1</td></tr>
+<tr><td>thither</td><td>1</td></tr>
+<tr><td>thrones</td><td>1</td></tr>
+<tr><td>tibi</td><td>1</td></tr>
+<tr><td>tobias</td><td>1</td></tr>
+<tr><td>torrent</td><td>1</td></tr>
+<tr><td>triers</td><td>1</td></tr>
+<tr><td>trine</td><td>1</td></tr>
+<tr><td>triumpheth</td><td>1</td></tr>
+<tr><td>trojan</td><td>1</td></tr>
+<tr><td>true,--what</td><td>1</td></tr>
+<tr><td>vi</td><td>1</td></tr>
+<tr><td>trust</td><td>1</td></tr>
+<tr><td>understandeth</td><td>1</td></tr>
+<tr><td>united</td><td>1</td></tr>
+<tr><td>unity,--who</td><td>1</td></tr>
+<tr><td>v</td><td>1</td></tr>
+<tr><td>valentinian</td><td>1</td></tr>
+<tr><td>vehement</td><td>1</td></tr>
+<tr><td>verity</td><td>1</td></tr>
+<tr><td>very</td><td>1</td></tr>
+<tr><td>redemption</td><td>1</td></tr>
+<tr><td>redeemer</td><td>1</td></tr>
+<tr><td>receiveth</td><td>1</td></tr>
+<tr><td>merry</td><td>1</td></tr>
+<tr><td>mammon</td><td>1</td></tr>
+<tr><td>mars</td><td>1</td></tr>
+<tr><td>mary</td><td>1</td></tr>
+<tr><td>mathematicians</td><td>1</td></tr>
+<tr><td>matter,--the</td><td>1</td></tr>
+<tr><td>medicine</td><td>1</td></tr>
+<tr><td>meek</td><td>1</td></tr>
+<tr><td>men:--thou</td><td>1</td></tr>
+<tr><td>mercy</td><td>1</td></tr>
+<tr><td>middle</td><td>1</td></tr>
+<tr><td>lustfulness</td><td>1</td></tr>
+<tr><td>milanese</td><td>1</td></tr>
+<tr><td>mine</td><td>1</td></tr>
+<tr><td>minerva</td><td>1</td></tr>
+<tr><td>minister</td><td>1</td></tr>
+<tr><td>monad</td><td>1</td></tr>
+<tr><td>monnica</td><td>1</td></tr>
+<tr><td>moon,--what</td><td>1</td></tr>
+<tr><td>morrow</td><td>1</td></tr>
+<tr><td>mortal</td><td>1</td></tr>
+<tr><td>madaura</td><td>1</td></tr>
+<tr><td>loveth</td><td>1</td></tr>
+<tr><td>nearer</td><td>1</td></tr>
+<tr><td>knowledge</td><td>1</td></tr>
+<tr><td>joseph</td><td>1</td></tr>
+<tr><td>judgest</td><td>1</td></tr>
+<tr><td>julian</td><td>1</td></tr>
+<tr><td>jupiter</td><td>1</td></tr>
+<tr><td>justina</td><td>1</td></tr>
+<tr><td>keepest</td><td>1</td></tr>
+<tr><td>kindle</td><td>1</td></tr>
+<tr><td>knocketh</td><td>1</td></tr>
+<tr><td>knowing</td><td>1</td></tr>
+<tr><td>laden</td><td>1</td></tr>
+<tr><td>lovely</td><td>1</td></tr>
+<tr><td>lashest</td><td>1</td></tr>
+<tr><td>latinum</td><td>1</td></tr>
+<tr><td>lay</td><td>1</td></tr>
+<tr><td>leadeth</td><td>1</td></tr>
+<tr><td>leaven</td><td>1</td></tr>
+<tr><td>libanus</td><td>1</td></tr>
+<tr><td>loosen</td><td>1</td></tr>
+<tr><td>lord);--though</td><td>1</td></tr>
+<tr><td>lord,--not</td><td>1</td></tr>
+<tr><td>narrow</td><td>1</td></tr>
+<tr><td>neglecteth</td><td>1</td></tr>
+<tr><td>rebuke</td><td>1</td></tr>
+<tr><td>principalities</td><td>1</td></tr>
+<tr><td>paulus</td><td>1</td></tr>
+<tr><td>perceiveth</td><td>1</td></tr>
+<tr><td>photinus</td><td>1</td></tr>
+<tr><td>powers</td><td>1</td></tr>
+<tr><td>preacher</td><td>1</td></tr>
+<tr><td>precedeth</td><td>1</td></tr>
+<tr><td>predicament</td><td>1</td></tr>
+<tr><td>prelate</td><td>1</td></tr>
+<tr><td>presence</td><td>1</td></tr>
+<tr><td>proconsul</td><td>1</td></tr>
+<tr><td>paradise</td><td>1</td></tr>
+<tr><td>professor</td><td>1</td></tr>
+<tr><td>prophet</td><td>1</td></tr>
+<tr><td>protasius</td><td>1</td></tr>
+<tr><td>providedst</td><td>1</td></tr>
+<tr><td>provision</td><td>1</td></tr>
+<tr><td>psalmody</td><td>1</td></tr>
+<tr><td>pylades</td><td>1</td></tr>
+<tr><td>quickenest</td><td>1</td></tr>
+<tr><td>raisedst</td><td>1</td></tr>
+<tr><td>passeth</td><td>1</td></tr>
+<tr><td>paraclete</td><td>1</td></tr>
+<tr><td>neptune</td><td>1</td></tr>
+<tr><td>only.-if</td><td>1</td></tr>
+<tr><td>new</td><td>1</td></tr>
+<tr><td>nigh</td><td>1</td></tr>
+<tr><td>noah</td><td>1</td></tr>
+<tr><td>nod</td><td>1</td></tr>
+<tr><td>oft</td><td>1</td></tr>
+<tr><td>old</td><td>1</td></tr>
+<tr><td>omnipotency</td><td>1</td></tr>
+<tr><td>omnipotent</td><td>1</td></tr>
+<tr><td>onesiphorus</td><td>1</td></tr>
+<tr><td>openeth</td><td>1</td></tr>
+<tr><td>pairs</td><td>1</td></tr>
+<tr><td>oppresseth</td><td>1</td></tr>
+<tr><td>orations</td><td>1</td></tr>
+<tr><td>oratory</td><td>1</td></tr>
+<tr><td>ordainer</td><td>1</td></tr>
+<tr><td>orderer</td><td>1</td></tr>
+<tr><td>orestes</td><td>1</td></tr>
+<tr><td>outer</td><td>1</td></tr>
+<tr><td>owe</td><td>1</td></tr>
+<tr><td>pair</td><td>1</td></tr>
+<tr><td>--thou</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

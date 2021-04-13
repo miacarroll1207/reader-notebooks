@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_60	1	1	LX	ORG
+shakespeare-sonnets_60	3	1	Crawls	PRODUCT
+shakespeare-sonnets_60	3	2	Time	ORG
+shakespeare-sonnets_60	4	1	Time	ORG

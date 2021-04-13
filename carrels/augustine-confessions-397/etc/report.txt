@@ -1,0 +1,512 @@
+
+
+Summary of your 'study carrel'
+==============================
+
+This is a summary of your Distant Reader 'study carrel'.
+
+The Distant Reader harvested & cached your content into a
+collection/corpus. It then applied sets of natural language
+processing and text mining against the collection. The results of
+this process was reduced to a database file -- a 'study carrel'.
+The study carrel can then be queried, thus bringing light
+specific characteristics for your collection. These
+characteristics can help you summarize the collection as well as
+enumerate things you might want to investigate more closely.
+
+This report is a terse narrative report, and when processing 
+is complete you will be linked to a more complete narrative
+report. 
+
+                               Eric Lease Morgan <emorgan@nd.edu>
+
+
+Number of items in the collection; 'How big is my corpus?'
+----------------------------------------------------------
+13
+
+
+Average length of all items measured in words; "More or less, how big is each item?"
+------------------------------------------------------------------------------------
+8636
+
+
+Average readability score of all items (0 = difficult; 100 = easy)
+------------------------------------------------------------------
+74
+
+
+Top 50 statistically significant keywords; "What is my collection about?"
+-------------------------------------------------------------------------
+13	Thou
+12	Thy
+12	Thee
+10	God
+2	Lord
+1	Alypius
+
+
+Top 50 lemmatized nouns; "What is discussed?"
+---------------------------------------------
+714	thing
+409	man
+326	time
+241	soul
+235	earth
+202	life
+196	heart
+190	mind
+184	truth
+163	body
+162	word
+156	art
+155	way
+141	day
+125	nothing
+124	memory
+122	hast
+120	light
+107	eye
+104	form
+100	joy
+99	world
+98	place
+93	flesh
+88	mercy
+87	sense
+85	one
+84	didst
+80	image
+79	whence
+79	name
+78	voice
+78	love
+78	creature
+76	water
+73	will
+73	matter
+72	part
+71	year
+70	sin
+70	mother
+67	book
+66	space
+64	pleasure
+62	hand
+62	darkness
+59	nature
+59	law
+59	ear
+59	death
+
+
+Top 50 proper nouns; "What are the names of persons or places?"
+--------------------------------------------------------------
+989	Thou
+869	Thee
+814	Thy
+509	God
+312	Lord
+170	heaven
+93	Thine
+74	thou
+58	Word
+57	Spirit
+54	yea
+47	ye
+43	hath
+42	Christ
+32	Creator
+31	Father
+31	Church
+29	Son
+29	Alypius
+28	knowest
+28	heavens
+28	Holy
+26	whereof
+25	Moses
+23	hadst
+23	Thyself
+21	Truth
+20	Rome
+19	hast
+18	Behold
+17	lo
+16	knoweth
+16	Wisdom
+16	Heaven
+15	Nebridius
+15	Manichees
+15	Jesus
+14	Christian
+14	Catholic
+13	Ghost
+11	whoso
+11	Latin
+11	Ambrose
+10	madest
+10	Victorinus
+10	Trinity
+10	Scripture
+10	Psalm
+10	Greek
+10	Almighty
+
+
+Top 50 personal pronouns nouns; "To whom are things referred?"
+-------------------------------------------------------------
+2524	i
+1620	it
+952	me
+868	he
+789	they
+593	we
+493	them
+426	him
+305	us
+231	she
+195	myself
+147	itself
+96	themselves
+90	himself
+87	her
+52	you
+37	thyself
+31	thee
+18	ourselves
+17	herself
+12	one
+10	theirs
+8	mine
+6	ye
+4	ours
+2	his
+2	''s
+1	whereof
+1	truth;--of
+1	ourself
+
+
+Top 50 lemmatized verbs; "What do things do?"
+---------------------------------------------
+4880	be
+1052	have
+614	do
+382	make
+356	say
+327	know
+326	see
+202	love
+185	come
+181	let
+178	find
+174	give
+159	hear
+155	speak
+134	go
+131	seek
+130	call
+121	pass
+112	take
+103	believe
+102	understand
+102	think
+97	remember
+91	learn
+89	create
+88	live
+84	bring
+82	become
+82	bear
+80	read
+78	confess
+76	measure
+75	hold
+73	receive
+72	begin
+70	turn
+65	tell
+64	behold
+64	ask
+63	desire
+58	set
+54	teach
+54	seem
+53	follow
+52	fear
+49	form
+49	fall
+49	conceive
+48	draw
+45	answer
+
+
+Top 50 lemmatized adjectives and adverbs; "How are things described?"
+---------------------------------------------------------------------
+1845	not
+478	so
+439	then
+337	yet
+280	more
+279	now
+259	also
+251	good
+195	even
+182	own
+180	only
+177	such
+169	other
+164	long
+156	very
+154	most
+144	up
+144	great
+139	many
+136	much
+133	same
+130	therefore
+123	well
+120	thus
+117	true
+116	away
+115	far
+114	out
+110	there
+108	present
+96	again
+84	as
+83	first
+78	ever
+78	certain
+73	forth
+71	never
+70	rather
+68	still
+65	together
+63	little
+61	past
+60	whole
+60	less
+60	alone
+58	down
+56	too
+54	all
+53	deep
+51	already
+
+
+Top 50 lemmatized superlative adjectives; "How are things described to the extreme?"
+-------------------------------------------------------------------------
+19	most
+12	least
+10	may
+10	good
+9	high
+9	giv
+9	gav
+8	low
+7	would
+7	l
+4	work
+4	say
+4	resid
+3	will
+3	held
+3	fill
+3	deep
+2	small
+2	sent
+2	remitt
+2	pure
+2	minute
+2	manif
+2	great
+2	extreme
+2	enjoin
+2	chief
+2	chang
+1	wound
+1	wilt
+1	weak
+1	vouchsaf
+1	surpass
+1	speak
+1	shon
+1	sang
+1	rest
+1	requit
+1	rejoic
+1	pour
+1	pay
+1	number
+1	liv
+1	j
+1	intense
+1	heard
+1	go
+1	forsak
+1	fit
+1	fine
+
+
+Top 50 lemmatized superlative adverbs; "How do things do to the extreme?"
+------------------------------------------------------------------------
+135	most
+2	well
+2	lest
+1	thunderest
+1	sufferest
+1	sawest
+1	remainest
+1	readest
+1	least
+1	hearest
+1	gavest
+1	fillest
+1	fairest
+1	cementest
+
+
+Top 50 Internet domains; "What Webbed places are alluded to in this corpus?"
+----------------------------------------------------------------------------
+
+
+Top 50 URLs; "What is hyperlinked from this corpus?"
+----------------------------------------------------
+
+
+Top 50 email addresses; "Who are you gonna call?"
+-------------------------------------------------
+
+
+Top 50 positive assertions; "What sentences are in the shape of noun-verb-noun?"
+-------------------------------------------------------------------------------
+10	god made heaven
+7	earth was invisible
+4	god created heaven
+3	thou make heaven
+2	god is eternal
+2	hast had compassion
+2	light was not
+2	thee is nothing
+2	thee is rest
+2	thing is eternal
+2	things are true
+1	art made whole
+1	body be sometimes
+1	body is not
+1	body is time
+1	day gives not
+1	day is not
+1	day is thine
+1	day was now
+1	days are few
+1	earth be fruitful
+1	earth bringing forth
+1	earth brings forth
+1	earth brings not
+1	earth speak thy
+1	eyes being heavy
+1	eyes love fair
+1	eyes was not
+1	flesh did not
+1	flesh is slow
+1	formed are superior
+1	god are clearly
+1	god had not
+1	god have mercy
+1	god is even
+1	god is god
+1	god is good
+1	god is not
+1	god made man
+1	god made matter
+1	god make heaven
+1	god make void
+1	hast been gracious
+1	hast born again
+1	hast created good
+1	hast made man
+1	heart are thy
+1	heart be there
+1	heart is restless
+1	heart was self
+
+
+Top 50 negative assertions; "What sentences are in the shape of noun-verb-no|not-noun?"
+---------------------------------------------------------------------------------------
+1	body is not great
+1	day is not daily
+1	earth brings not forth
+1	lord had not yet
+1	man was not readily
+1	men were not here
+1	things is no place
+1	time has no relation
+1	truth was not altogether
+1	words are no longer
+
+
+Sizes of items; "Measures in words, how big is each item?"
+----------------------------------------------------------
+16376	chapter-010
+12636	chapter-013
+10235	chapter-012
+9556	chapter-011
+8868	chapter-009
+8447	chapter-007
+8152	chapter-008
+7880	chapter-006
+7099	chapter-001
+7003	chapter-004
+6723	chapter-005
+5495	chapter-003
+3797	chapter-002
+
+
+Readability of items; "How difficult is each item to read?"
+-----------------------------------------------------------
+84.0	chapter-011
+83.0	chapter-001
+80.0	chapter-010
+79.0	chapter-002
+78.0	chapter-004
+77.0	chapter-008
+72.0	chapter-009
+71.0	chapter-003
+71.0	chapter-007
+70.0	chapter-013
+68.0	chapter-006
+67.0	chapter-005
+67.0	chapter-012
+
+
+Item summaries; "In a narrative form, how can each item be abstracted?"
+-----------------------------------------------------------------------
+chapter-001	for Thy mercies'' sake, tell me, O Lord my God, what Thou art unto me. Behold, Lord, my heart is before Thee; open Thou the ears thereof, and say unto my soul, I am thy salvation. Thou, then, O Lord my God, who gavest life to this my infancy, furnishing thus with senses (as we see) the frame Thou gavest, compacting its limbs, ornamenting its proportions, and, for its general good and safety, implanting in it all vital functions, Thou commandest me to praise Thee in these things, to confess unto Thee, and sing unto Thy name, Thou most Highest. For those first lessons were better certainly, because more certain; by them I obtained, and still retain, the power of reading what I find written, and myself writing what I will; whereas in the others, I was forced to learn the wanderings of one Aeneas, forgetful of my own, and to weep for dead Dido, because she killed herself for love; the while, with dry eyes, I endured my miserable self dying among these things, far from Thee, O God my life.
+
+chapter-002	I will now call to mind my past foulness, and the carnal corruptions of my soul; not because I love them, but that I may love Thee, O my God. For love of Thy love I do it; reviewing my most wicked ways in the very bitterness of my remembrance, that Thou mayest grow sweet unto me (Thou sweetness never failing, Thou blissful and assured sweetness); and gathering me again out of that my dissipation, wherein I was torn piecemeal, while turned from Thee, the One Good, I lost myself among a multiplicity of things. Upon occasion of all these, and the like, is sin committed, while through an immoderate inclination towards these goods of the lowest order, the better and higher are forsaken,--Thou, our Lord God, Thy truth, and Thy law.
+
+chapter-003	But those were not even any way like to Thee, as Thou hast now spoken to me; for those were corporeal fantasies, false bodies, than which these true bodies, celestial or terrestrial, which with our fleshly sight we behold, are far more certain: these things the beasts and birds discern as well as we, and they are more certain than when we fancy them. For other than this, that which really is I knew not; and was, as it were through sharpness of wit, persuaded to assent to foolish deceivers, when they asked me, "whence is evil?" "is God bounded by a bodily shape, and has hairs and nails?" "are they to be esteemed righteous who had many wives at once, and did kill men, and sacrifice living creatures?" At which I, in my ignorance, was much troubled, and departing from the truth, seemed to myself to be making towards it; because as yet I knew not that evil was nothing but a privation of good, until at last a thing ceases altogether to be; which how should I see, the sight of whose eyes reached only to bodies, and of my mind to a phantasm?
+
+chapter-004	For, it is a good thing to confess unto Thee, and to say, Have mercy upon me, heal my soul, for I have sinned against Thee; and not to abuse Thy mercy for a licence to sin, but to remember the Lord''s words, Behold, thou art made whole, sin no more, lest a worse thing come unto thee. May I learn from Thee, who art Truth, and approach the ear of my heart unto Thy mouth, that Thou mayest tell me why weeping is sweet to the miserable? But far better than these is He who made all; and He is our God, nor doth He pass away, for neither doth aught succeed Him. If bodies please thee, praise God on occasion of them, and turn back thy love upon their Maker; lest in these things which please thee, thou displease.
+
+chapter-005	They discourse many things truly concerning the creature; but Truth, Artificer of the creature, they seek not piously, and therefore find Him not; or if they find Him, knowing Him to be God, they glorify Him not as God, neither are thankful, but become vain in their imaginations, and profess themselves to be wise, attributing to themselves what is Thine; and thereby with most perverse blindness, study to impute to Thee what is their own, forging lies of Thee who art the Truth, and changing the glory of uncorruptible God into an image made like corruptible man, and to birds, and four-footed beasts, and creeping things, changing Thy truth into a lie, and worshipping and serving the creature more than the Creator. For Thy hands, O my God, in the secret purpose of Thy providence, did not forsake my soul; and out of my mother''s heart''s blood, through her tears night and day poured out, was a sacrifice offered for me unto Thee; and Thou didst deal with me by wondrous ways.
+
+chapter-006	Then Thou, O Lord, little by little with most tender and most merciful hand, touching and composing my heart, didst persuade me--considering what innumerable things I believed, which I saw not, nor was present while they were done, as so many things in secular history, so many reports of places and of cities, which I had not seen; so many of friends, so many of physicians, so many continually of other men, which unless we should believe, we should do nothing at all in this life; lastly, with how unshaken an assurance I believed of what parents I was born, which I could not know, had I not believed upon hearsay--considering all this, Thou didst persuade me, that not they who believed Thy Books (which Thou hast established in so great authority among almost all nations), but they who believed them not, were to be blamed; and that they were not to be heard, who should say to me, "How knowest thou those Scriptures to have been imparted unto mankind by the Spirit of the one true and most true God?" For this very thing was of all most to be believed, since no contentiousness of blasphemous questionings, of all that multitude which I had read in the self-contradicting philosophers, could wring this belief from me, "That Thou art" whatsoever Thou wert (what I knew not), and "That the government of human things belongs to Thee."
+
+chapter-007	And I, a man, and such a man, sought to conceive of Thee the sovereign, only, true God; and I did in my inmost soul believe that Thou wert incorruptible, and uninjurable, and unchangeable; because though not knowing whence or how, yet I saw plainly, and was sure, that that which may be corrupted must be inferior to that which cannot; what could not be injured I preferred unhesitatingly to what could receive injury; the unchangeable to things subject to change.
+
+chapter-008	But after that by reading and earnest thought he had gathered firmness, and feared to be denied by Christ before the holy angels, should he now be afraid to confess Him before men, and appeared to himself guilty of a heavy offence, in being ashamed of the Sacraments of the humility of Thy Word, and not being ashamed of the sacrilegious rites of those proud daemons, whose pride he had imitated and their rites adopted, he became bold-faced against vanity, and shame-faced towards the truth, and suddenly and unexpectedly said to Simplicianus (as himself told me), "Go we to the Church; I wish to be made a Christian." But he, not containing himself for joy, went with him.
+
+chapter-009	Thanks unto Thee, our God, we are Thine: Thy suggestions and consolations tell us, Faithful in promises, Thou now requitest Verecundus for his country-house of Cassiacum, where from the fever of the world we reposed in Thee, with the eternal freshness of Thy Paradise: for that Thou hast forgiven him his sins upon earth, in that rich mountain, that mountain which yieldeth milk, Thine own mountain. Whom, not long after our conversion and regeneration by Thy Baptism, being also a faithful member of the Church Catholic, and serving Thee in perfect chastity and continence amongst his people in Africa, his whole house having through him first been made Christian, didst Thou release from the flesh; and now he lives in Abraham''s bosom. I trembled for fear, and again kindled with hope, and with rejoicing in Thy mercy, O Father; and all issued forth both by mine eyes and voice, when Thy good Spirit turning unto us, said, O ye sons of men, how long slow of heart?
+
+chapter-010	For, what is literature, what the art of disputing, how many kinds of questions there be, whatsoever of these I know, in such manner exists in my memory, as that I have not taken in the image, and left out the thing, or that it should have sounded and passed away like a voice fixed on the ear by that impress, whereby it might be recalled, as if it sounded, when it no longer sounded; or as a smell while it passes and evaporates into air affects the sense of smell, whence it conveys into the memory an image of itself, which remembering, we renew, or as meat, which verily in the belly hath now no taste, and yet in the memory still in a manner tasteth; or as any thing which the body by touch perceiveth, and which when removed from us, the memory still conceives.
+
+chapter-011	Let me confess unto Thee whatsoever I shall find in Thy books, and hear the voice of praise, and drink in Thee, and meditate on the wonderful things out of Thy law; even from the beginning, wherein Thou madest the heaven and the earth, unto the everlasting reigning of Thy holy city with Thee. But Thou precedest all things past, by the sublimity of an ever-present eternity; and surpassest all future because they are future, and when they come, they shall be past; but Thou art the Same, and Thy years fail not. And if any should ask me, "How knowest thou?" I might answer, "I know, that we do measure, nor can we measure things that are not; and things past and to come, are not." But time present how do we measure, seeing it hath no space?
+
+chapter-012	In which words, is the formlessness conveyed unto us (that such capacities may hereby be drawn on by degrees, as are not able to conceive an utter privation of all form, without yet coming to nothing), out of which another Heaven might be created, together with a visible and well-formed earth: and the waters diversly ordered, and whatsoever further is in the formation of the world, recorded to have been, not without days, created; and that, as being of such nature, that the successive changes of times may take place in them, as being subject to appointed alterations of motions and of forms.
+
+chapter-013	Angels fell away, man''s soul fell away, and thereby pointed the abyss in that dark depth, ready for the whole spiritual creation, hadst not Thou said from the beginning, Let there be light, and there had been light, and every obedient intelligence of Thy heavenly City had cleaved to Thee, and rested in Thy Spirit, Which is borne unchangeably over every thing changeable. But the souls that thirst after Thee, and that appear before Thee (being by other bounds divided from the society of the sea), Thou waterest by a sweet spring, that the earth may bring forth her fruit, and Thou, Lord God, so commanding, our soul may bud forth works of mercy according to their kind, loving our neighbour in the relief of his bodily necessities, having seed in itself according to its likeness, when from feeling of our infirmity, we compassionate so as to relieve the needy; helping them, as we would be helped; if we were in like need; not only in things easy, as in herb yielding seed, but also in the protection of our assistance, with our best strength, like the tree yielding fruit: that is, well-doing in rescuing him that suffers wrong, from the hand of the powerful, and giving him the shelter of protection, by the mighty strength of just judgment.
+

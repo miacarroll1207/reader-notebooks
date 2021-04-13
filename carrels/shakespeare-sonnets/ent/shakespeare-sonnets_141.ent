@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_141	1	1	CXLI	ORG
+shakespeare-sonnets_141	2	1	thousand	CARDINAL
+shakespeare-sonnets_141	3	1	five	CARDINAL
+shakespeare-sonnets_141	3	2	five	CARDINAL
+shakespeare-sonnets_141	3	3	Dissuade	ORG
+shakespeare-sonnets_141	3	4	one	CARDINAL

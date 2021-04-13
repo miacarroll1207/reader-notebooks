@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_58	1	1	LVIII	ORG
+shakespeare-sonnets_58	2	1	first	ORDINAL
+shakespeare-sonnets_58	2	2	first	ORDINAL
+shakespeare-sonnets_58	2	3	hours	TIME

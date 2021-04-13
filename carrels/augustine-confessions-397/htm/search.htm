@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="../js/elasticlunr.js"></script>
+</head>
+<body>
+
+<form>
+<input id='query' type='text' />
+<input onclick="search()" type='submit' value='search' />
+</form>
+
+<script>
+	function search() {
+		
+		var query = document.getElementById("query").value;
+		var data  = [{"summary":"for Thy mercies'' sake, tell me, O Lord my God, what Thou art unto me. Behold, Lord, my heart is before Thee; open Thou the ears thereof, and say unto my soul, I am thy salvation. Thou, then, O Lord my God, who gavest life to this my infancy, furnishing thus with senses (as we see) the frame Thou gavest, compacting its limbs, ornamenting its proportions, and, for its general good and safety, implanting in it all vital functions, Thou commandest me to praise Thee in these things, to confess unto Thee, and sing unto Thy name, Thou most Highest. For those first lessons were better certainly, because more certain; by them I obtained, and still retain, the power of reading what I find written, and myself writing what I will; whereas in the others, I was forced to learn the wanderings of one Aeneas, forgetful of my own, and to weep for dead Dido, because she killed herself for love; the while, with dry eyes, I endured my miserable self dying among these things, far from Thee, O God my life.","id":"chapter-001","title":"chapter-001"},{"title":"chapter-002","id":"chapter-002","summary":"I will now call to mind my past foulness, and the carnal corruptions of my soul; not because I love them, but that I may love Thee, O my God. For love of Thy love I do it; reviewing my most wicked ways in the very bitterness of my remembrance, that Thou mayest grow sweet unto me (Thou sweetness never failing, Thou blissful and assured sweetness); and gathering me again out of that my dissipation, wherein I was torn piecemeal, while turned from Thee, the One Good, I lost myself among a multiplicity of things. Upon occasion of all these, and the like, is sin committed, while through an immoderate inclination towards these goods of the lowest order, the better and higher are forsaken,--Thou, our Lord God, Thy truth, and Thy law."},{"title":"chapter-003","id":"chapter-003","summary":"But those were not even any way like to Thee, as Thou hast now spoken to me; for those were corporeal fantasies, false bodies, than which these true bodies, celestial or terrestrial, which with our fleshly sight we behold, are far more certain: these things the beasts and birds discern as well as we, and they are more certain than when we fancy them. For other than this, that which really is I knew not; and was, as it were through sharpness of wit, persuaded to assent to foolish deceivers, when they asked me, \"whence is evil?\" \"is God bounded by a bodily shape, and has hairs and nails?\" \"are they to be esteemed righteous who had many wives at once, and did kill men, and sacrifice living creatures?\" At which I, in my ignorance, was much troubled, and departing from the truth, seemed to myself to be making towards it; because as yet I knew not that evil was nothing but a privation of good, until at last a thing ceases altogether to be; which how should I see, the sight of whose eyes reached only to bodies, and of my mind to a phantasm?"},{"summary":"For, it is a good thing to confess unto Thee, and to say, Have mercy upon me, heal my soul, for I have sinned against Thee; and not to abuse Thy mercy for a licence to sin, but to remember the Lord''s words, Behold, thou art made whole, sin no more, lest a worse thing come unto thee. May I learn from Thee, who art Truth, and approach the ear of my heart unto Thy mouth, that Thou mayest tell me why weeping is sweet to the miserable? But far better than these is He who made all; and He is our God, nor doth He pass away, for neither doth aught succeed Him. If bodies please thee, praise God on occasion of them, and turn back thy love upon their Maker; lest in these things which please thee, thou displease.","id":"chapter-004","title":"chapter-004"},{"id":"chapter-005","summary":"They discourse many things truly concerning the creature; but Truth, Artificer of the creature, they seek not piously, and therefore find Him not; or if they find Him, knowing Him to be God, they glorify Him not as God, neither are thankful, but become vain in their imaginations, and profess themselves to be wise, attributing to themselves what is Thine; and thereby with most perverse blindness, study to impute to Thee what is their own, forging lies of Thee who art the Truth, and changing the glory of uncorruptible God into an image made like corruptible man, and to birds, and four-footed beasts, and creeping things, changing Thy truth into a lie, and worshipping and serving the creature more than the Creator. For Thy hands, O my God, in the secret purpose of Thy providence, did not forsake my soul; and out of my mother''s heart''s blood, through her tears night and day poured out, was a sacrifice offered for me unto Thee; and Thou didst deal with me by wondrous ways.","title":"chapter-005"},{"title":"chapter-006","id":"chapter-006","summary":"Then Thou, O Lord, little by little with most tender and most merciful hand, touching and composing my heart, didst persuade me--considering what innumerable things I believed, which I saw not, nor was present while they were done, as so many things in secular history, so many reports of places and of cities, which I had not seen; so many of friends, so many of physicians, so many continually of other men, which unless we should believe, we should do nothing at all in this life; lastly, with how unshaken an assurance I believed of what parents I was born, which I could not know, had I not believed upon hearsay--considering all this, Thou didst persuade me, that not they who believed Thy Books (which Thou hast established in so great authority among almost all nations), but they who believed them not, were to be blamed; and that they were not to be heard, who should say to me, \"How knowest thou those Scriptures to have been imparted unto mankind by the Spirit of the one true and most true God?\" For this very thing was of all most to be believed, since no contentiousness of blasphemous questionings, of all that multitude which I had read in the self-contradicting philosophers, could wring this belief from me, \"That Thou art\" whatsoever Thou wert (what I knew not), and \"That the government of human things belongs to Thee.\""},{"summary":"And I, a man, and such a man, sought to conceive of Thee the sovereign, only, true God; and I did in my inmost soul believe that Thou wert incorruptible, and uninjurable, and unchangeable; because though not knowing whence or how, yet I saw plainly, and was sure, that that which may be corrupted must be inferior to that which cannot; what could not be injured I preferred unhesitatingly to what could receive injury; the unchangeable to things subject to change.","id":"chapter-007","title":"chapter-007"},{"id":"chapter-008","summary":"But after that by reading and earnest thought he had gathered firmness, and feared to be denied by Christ before the holy angels, should he now be afraid to confess Him before men, and appeared to himself guilty of a heavy offence, in being ashamed of the Sacraments of the humility of Thy Word, and not being ashamed of the sacrilegious rites of those proud daemons, whose pride he had imitated and their rites adopted, he became bold-faced against vanity, and shame-faced towards the truth, and suddenly and unexpectedly said to Simplicianus (as himself told me), \"Go we to the Church; I wish to be made a Christian.\" But he, not containing himself for joy, went with him.","title":"chapter-008"},{"title":"chapter-009","id":"chapter-009","summary":"Thanks unto Thee, our God, we are Thine: Thy suggestions and consolations tell us, Faithful in promises, Thou now requitest Verecundus for his country-house of Cassiacum, where from the fever of the world we reposed in Thee, with the eternal freshness of Thy Paradise: for that Thou hast forgiven him his sins upon earth, in that rich mountain, that mountain which yieldeth milk, Thine own mountain. Whom, not long after our conversion and regeneration by Thy Baptism, being also a faithful member of the Church Catholic, and serving Thee in perfect chastity and continence amongst his people in Africa, his whole house having through him first been made Christian, didst Thou release from the flesh; and now he lives in Abraham''s bosom. I trembled for fear, and again kindled with hope, and with rejoicing in Thy mercy, O Father; and all issued forth both by mine eyes and voice, when Thy good Spirit turning unto us, said, O ye sons of men, how long slow of heart?"},{"title":"chapter-010","id":"chapter-010","summary":"For, what is literature, what the art of disputing, how many kinds of questions there be, whatsoever of these I know, in such manner exists in my memory, as that I have not taken in the image, and left out the thing, or that it should have sounded and passed away like a voice fixed on the ear by that impress, whereby it might be recalled, as if it sounded, when it no longer sounded; or as a smell while it passes and evaporates into air affects the sense of smell, whence it conveys into the memory an image of itself, which remembering, we renew, or as meat, which verily in the belly hath now no taste, and yet in the memory still in a manner tasteth; or as any thing which the body by touch perceiveth, and which when removed from us, the memory still conceives."},{"title":"chapter-011","id":"chapter-011","summary":"Let me confess unto Thee whatsoever I shall find in Thy books, and hear the voice of praise, and drink in Thee, and meditate on the wonderful things out of Thy law; even from the beginning, wherein Thou madest the heaven and the earth, unto the everlasting reigning of Thy holy city with Thee. But Thou precedest all things past, by the sublimity of an ever-present eternity; and surpassest all future because they are future, and when they come, they shall be past; but Thou art the Same, and Thy years fail not. And if any should ask me, \"How knowest thou?\" I might answer, \"I know, that we do measure, nor can we measure things that are not; and things past and to come, are not.\" But time present how do we measure, seeing it hath no space?"},{"id":"chapter-012","summary":"In which words, is the formlessness conveyed unto us (that such capacities may hereby be drawn on by degrees, as are not able to conceive an utter privation of all form, without yet coming to nothing), out of which another Heaven might be created, together with a visible and well-formed earth: and the waters diversly ordered, and whatsoever further is in the formation of the world, recorded to have been, not without days, created; and that, as being of such nature, that the successive changes of times may take place in them, as being subject to appointed alterations of motions and of forms.","title":"chapter-012"},{"summary":"Angels fell away, man''s soul fell away, and thereby pointed the abyss in that dark depth, ready for the whole spiritual creation, hadst not Thou said from the beginning, Let there be light, and there had been light, and every obedient intelligence of Thy heavenly City had cleaved to Thee, and rested in Thy Spirit, Which is borne unchangeably over every thing changeable. But the souls that thirst after Thee, and that appear before Thee (being by other bounds divided from the society of the sea), Thou waterest by a sweet spring, that the earth may bring forth her fruit, and Thou, Lord God, so commanding, our soul may bud forth works of mercy according to their kind, loving our neighbour in the relief of his bodily necessities, having seed in itself according to its likeness, when from feeling of our infirmity, we compassionate so as to relieve the needy; helping them, as we would be helped; if we were in like need; not only in things easy, as in herb yielding seed, but also in the protection of our assistance, with our best strength, like the tree yielding fruit: that is, well-doing in rescuing him that suffers wrong, from the hand of the powerful, and giving him the shelter of protection, by the mighty strength of just judgment.","id":"chapter-013","title":"chapter-013"}];
+		
+		// initialize the index
+		var index = elasticlunr(function () {
+			this.setRef('id');
+			this.addField('title');
+			this.addField('summary');
+		});
+
+		// loop through each item in the data
+		for ( var item in data ) {
+	
+			// parse
+			var record = {
+				'id'      : data[item].id,
+				'title'   : data[item].title,
+				'summary' : data[item].summary,
+			}
+	
+			// update the index
+			index.addDoc( record );
+	
+		}
+
+		// configure searching
+		var configuration = { bool: "and" };
+
+		// search
+		var results = index.search( query, configuration );
+
+		// initialize and build a list of search results
+		var list = '<ol>';
+		for ( var item in results ) {
+
+			list += '<li>' + results[item].doc.title
+			list += '<ul>'
+			if (results[item].doc.summary ) { list += '<li>' + results[item].doc.summary + '</li>' }
+			list += '<li>' + results[item].ref + '</li>'
+			list += '<li>' + results[item].score + '</li>'
+			list += '</ul>'
+
+		}
+		list += '</ol>'
+
+		// output & done
+		document.write( list )
+
+	}
+</script>
+
+</body>
+</html>

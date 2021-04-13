@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_114	1	1	CXIV	ORG
+shakespeare-sonnets_114	5	1	first	ORDINAL
+shakespeare-sonnets_114	5	2	Mineeye	PERSON
+shakespeare-sonnets_114	5	3	first	ORDINAL

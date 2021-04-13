@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_68	2	1	days	DATE
+shakespeare-sonnets_68	2	2	days	DATE
+shakespeare-sonnets_68	2	3	second	ORDINAL
+shakespeare-sonnets_68	2	4	second	ORDINAL
+shakespeare-sonnets_68	2	5	Ere	PERSON
+shakespeare-sonnets_68	2	6	those holy antique hours	TIME
+shakespeare-sonnets_68	2	7	Nature	WORK_OF_ART

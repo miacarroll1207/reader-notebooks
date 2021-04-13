@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "asc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Bibliographics</li>
+		</ol>
+	</nav>
+
+<h1>Bibliographics</h1>
+<p>This is a table of authors, titles, dates and other bibliographic information; it is a list metadata describing the content of your study carrel. Think of it as your library.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>author</th>
+                <th>title</th>
+                <th>date</th>
+                <th>words</th>
+                <th>sentences</th>
+                <th>pages</th>
+                <th>cache</th>
+                <th>text</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>homer-iliad_01</td><td>nan</td><td>homer-iliad_01</td><td>nan</td><td>5850</td><td>252</td><td>nan</td><td>./cache/homer-iliad_01.txt</td><td>./txt/homer-iliad_01.txt</td></tr>
+<tr><td>homer-iliad_02</td><td>nan</td><td>homer-iliad_02</td><td>nan</td><td>7966</td><td>308</td><td>nan</td><td>./cache/homer-iliad_02.txt</td><td>./txt/homer-iliad_02.txt</td></tr>
+<tr><td>homer-iliad_03</td><td>nan</td><td>homer-iliad_03</td><td>nan</td><td>4055</td><td>167</td><td>nan</td><td>./cache/homer-iliad_03.txt</td><td>./txt/homer-iliad_03.txt</td></tr>
+<tr><td>homer-iliad_04</td><td>nan</td><td>homer-iliad_04</td><td>nan</td><td>5094</td><td>191</td><td>nan</td><td>./cache/homer-iliad_04.txt</td><td>./txt/homer-iliad_04.txt</td></tr>
+<tr><td>homer-iliad_05</td><td>nan</td><td>homer-iliad_05</td><td>nan</td><td>8656</td><td>328</td><td>nan</td><td>./cache/homer-iliad_05.txt</td><td>./txt/homer-iliad_05.txt</td></tr>
+<tr><td>homer-iliad_06</td><td>nan</td><td>homer-iliad_06</td><td>nan</td><td>4997</td><td>184</td><td>nan</td><td>./cache/homer-iliad_06.txt</td><td>./txt/homer-iliad_06.txt</td></tr>
+<tr><td>homer-iliad_07</td><td>nan</td><td>homer-iliad_07</td><td>nan</td><td>4434</td><td>160</td><td>nan</td><td>./cache/homer-iliad_07.txt</td><td>./txt/homer-iliad_07.txt</td></tr>
+<tr><td>homer-iliad_08</td><td>nan</td><td>homer-iliad_08</td><td>nan</td><td>5347</td><td>202</td><td>nan</td><td>./cache/homer-iliad_08.txt</td><td>./txt/homer-iliad_08.txt</td></tr>
+<tr><td>homer-iliad_09</td><td>nan</td><td>homer-iliad_09</td><td>nan</td><td>6878</td><td>248</td><td>nan</td><td>./cache/homer-iliad_09.txt</td><td>./txt/homer-iliad_09.txt</td></tr>
+<tr><td>homer-iliad_10</td><td>nan</td><td>homer-iliad_10</td><td>nan</td><td>5540</td><td>217</td><td>nan</td><td>./cache/homer-iliad_10.txt</td><td>./txt/homer-iliad_10.txt</td></tr>
+<tr><td>homer-iliad_11</td><td>nan</td><td>homer-iliad_11</td><td>nan</td><td>8571</td><td>269</td><td>nan</td><td>./cache/homer-iliad_11.txt</td><td>./txt/homer-iliad_11.txt</td></tr>
+<tr><td>homer-iliad_12</td><td>nan</td><td>homer-iliad_12</td><td>nan</td><td>4767</td><td>140</td><td>nan</td><td>./cache/homer-iliad_12.txt</td><td>./txt/homer-iliad_12.txt</td></tr>
+<tr><td>homer-iliad_13</td><td>nan</td><td>homer-iliad_13</td><td>nan</td><td>8410</td><td>252</td><td>nan</td><td>./cache/homer-iliad_13.txt</td><td>./txt/homer-iliad_13.txt</td></tr>
+<tr><td>homer-iliad_14</td><td>nan</td><td>homer-iliad_14</td><td>nan</td><td>5256</td><td>165</td><td>nan</td><td>./cache/homer-iliad_14.txt</td><td>./txt/homer-iliad_14.txt</td></tr>
+<tr><td>homer-iliad_15</td><td>nan</td><td>homer-iliad_15</td><td>nan</td><td>7425</td><td>259</td><td>nan</td><td>./cache/homer-iliad_15.txt</td><td>./txt/homer-iliad_15.txt</td></tr>
+<tr><td>homer-iliad_16</td><td>nan</td><td>homer-iliad_16</td><td>nan</td><td>8944</td><td>302</td><td>nan</td><td>./cache/homer-iliad_16.txt</td><td>./txt/homer-iliad_16.txt</td></tr>
+<tr><td>homer-iliad_17</td><td>nan</td><td>homer-iliad_17</td><td>nan</td><td>7293</td><td>226</td><td>nan</td><td>./cache/homer-iliad_17.txt</td><td>./txt/homer-iliad_17.txt</td></tr>
+<tr><td>homer-iliad_18</td><td>nan</td><td>homer-iliad_18</td><td>nan</td><td>6046</td><td>207</td><td>nan</td><td>./cache/homer-iliad_18.txt</td><td>./txt/homer-iliad_18.txt</td></tr>
+<tr><td>homer-iliad_19</td><td>nan</td><td>homer-iliad_19</td><td>nan</td><td>4033</td><td>134</td><td>nan</td><td>./cache/homer-iliad_19.txt</td><td>./txt/homer-iliad_19.txt</td></tr>
+<tr><td>homer-iliad_20</td><td>nan</td><td>homer-iliad_20</td><td>nan</td><td>5040</td><td>175</td><td>nan</td><td>./cache/homer-iliad_20.txt</td><td>./txt/homer-iliad_20.txt</td></tr>
+<tr><td>homer-iliad_21</td><td>nan</td><td>homer-iliad_21</td><td>nan</td><td>6222</td><td>219</td><td>nan</td><td>./cache/homer-iliad_21.txt</td><td>./txt/homer-iliad_21.txt</td></tr>
+<tr><td>homer-iliad_22</td><td>nan</td><td>homer-iliad_22</td><td>nan</td><td>5477</td><td>170</td><td>nan</td><td>./cache/homer-iliad_22.txt</td><td>./txt/homer-iliad_22.txt</td></tr>
+<tr><td>homer-iliad_23</td><td>nan</td><td>homer-iliad_23</td><td>nan</td><td>8987</td><td>306</td><td>nan</td><td>./cache/homer-iliad_23.txt</td><td>./txt/homer-iliad_23.txt</td></tr>
+<tr><td>homer-iliad_24</td><td>nan</td><td>homer-iliad_24</td><td>nan</td><td>8365</td><td>293</td><td>nan</td><td>./cache/homer-iliad_24.txt</td><td>./txt/homer-iliad_24.txt</td></tr>
+<tr><td>homer-odyssey_01</td><td>nan</td><td>homer-odyssey_01</td><td>nan</td><td>4147</td><td>161</td><td>nan</td><td>./cache/homer-odyssey_01.txt</td><td>./txt/homer-odyssey_01.txt</td></tr>
+<tr><td>homer-odyssey_02</td><td>nan</td><td>homer-odyssey_02</td><td>nan</td><td>4246</td><td>161</td><td>nan</td><td>./cache/homer-odyssey_02.txt</td><td>./txt/homer-odyssey_02.txt</td></tr>
+<tr><td>homer-odyssey_03</td><td>nan</td><td>homer-odyssey_03</td><td>nan</td><td>4737</td><td>187</td><td>nan</td><td>./cache/homer-odyssey_03.txt</td><td>./txt/homer-odyssey_03.txt</td></tr>
+<tr><td>homer-odyssey_04</td><td>nan</td><td>homer-odyssey_04</td><td>nan</td><td>8113</td><td>317</td><td>nan</td><td>./cache/homer-odyssey_04.txt</td><td>./txt/homer-odyssey_04.txt</td></tr>
+<tr><td>homer-odyssey_05</td><td>nan</td><td>homer-odyssey_05</td><td>nan</td><td>4709</td><td>175</td><td>nan</td><td>./cache/homer-odyssey_05.txt</td><td>./txt/homer-odyssey_05.txt</td></tr>
+<tr><td>homer-odyssey_06</td><td>nan</td><td>homer-odyssey_06</td><td>nan</td><td>3459</td><td>120</td><td>nan</td><td>./cache/homer-odyssey_06.txt</td><td>./txt/homer-odyssey_06.txt</td></tr>
+<tr><td>homer-odyssey_07</td><td>nan</td><td>homer-odyssey_07</td><td>nan</td><td>3370</td><td>118</td><td>nan</td><td>./cache/homer-odyssey_07.txt</td><td>./txt/homer-odyssey_07.txt</td></tr>
+<tr><td>homer-odyssey_08</td><td>nan</td><td>homer-odyssey_08</td><td>nan</td><td>5629</td><td>218</td><td>nan</td><td>./cache/homer-odyssey_08.txt</td><td>./txt/homer-odyssey_08.txt</td></tr>
+<tr><td>homer-odyssey_09</td><td>nan</td><td>homer-odyssey_09</td><td>nan</td><td>5838</td><td>180</td><td>nan</td><td>./cache/homer-odyssey_09.txt</td><td>./txt/homer-odyssey_09.txt</td></tr>
+<tr><td>homer-odyssey_10</td><td>nan</td><td>homer-odyssey_10</td><td>nan</td><td>5718</td><td>185</td><td>nan</td><td>./cache/homer-odyssey_10.txt</td><td>./txt/homer-odyssey_10.txt</td></tr>
+<tr><td>homer-odyssey_11</td><td>nan</td><td>homer-odyssey_11</td><td>nan</td><td>6060</td><td>195</td><td>nan</td><td>./cache/homer-odyssey_11.txt</td><td>./txt/homer-odyssey_11.txt</td></tr>
+<tr><td>homer-odyssey_12</td><td>nan</td><td>homer-odyssey_12</td><td>nan</td><td>4624</td><td>138</td><td>nan</td><td>./cache/homer-odyssey_12.txt</td><td>./txt/homer-odyssey_12.txt</td></tr>
+<tr><td>homer-odyssey_13</td><td>nan</td><td>homer-odyssey_13</td><td>nan</td><td>4219</td><td>160</td><td>nan</td><td>./cache/homer-odyssey_13.txt</td><td>./txt/homer-odyssey_13.txt</td></tr>
+<tr><td>homer-odyssey_14</td><td>nan</td><td>homer-odyssey_14</td><td>nan</td><td>5412</td><td>180</td><td>nan</td><td>./cache/homer-odyssey_14.txt</td><td>./txt/homer-odyssey_14.txt</td></tr>
+<tr><td>homer-odyssey_15</td><td>nan</td><td>homer-odyssey_15</td><td>nan</td><td>5435</td><td>226</td><td>nan</td><td>./cache/homer-odyssey_15.txt</td><td>./txt/homer-odyssey_15.txt</td></tr>
+<tr><td>homer-odyssey_16</td><td>nan</td><td>homer-odyssey_16</td><td>nan</td><td>4565</td><td>193</td><td>nan</td><td>./cache/homer-odyssey_16.txt</td><td>./txt/homer-odyssey_16.txt</td></tr>
+<tr><td>homer-odyssey_17</td><td>nan</td><td>homer-odyssey_17</td><td>nan</td><td>5882</td><td>248</td><td>nan</td><td>./cache/homer-odyssey_17.txt</td><td>./txt/homer-odyssey_17.txt</td></tr>
+<tr><td>homer-odyssey_18</td><td>nan</td><td>homer-odyssey_18</td><td>nan</td><td>4179</td><td>187</td><td>nan</td><td>./cache/homer-odyssey_18.txt</td><td>./txt/homer-odyssey_18.txt</td></tr>
+<tr><td>homer-odyssey_19</td><td>nan</td><td>homer-odyssey_19</td><td>nan</td><td>6053</td><td>210</td><td>nan</td><td>./cache/homer-odyssey_19.txt</td><td>./txt/homer-odyssey_19.txt</td></tr>
+<tr><td>homer-odyssey_20</td><td>nan</td><td>homer-odyssey_20</td><td>nan</td><td>3860</td><td>153</td><td>nan</td><td>./cache/homer-odyssey_20.txt</td><td>./txt/homer-odyssey_20.txt</td></tr>
+<tr><td>homer-odyssey_21</td><td>nan</td><td>homer-odyssey_21</td><td>nan</td><td>4278</td><td>170</td><td>nan</td><td>./cache/homer-odyssey_21.txt</td><td>./txt/homer-odyssey_21.txt</td></tr>
+<tr><td>homer-odyssey_22</td><td>nan</td><td>homer-odyssey_22</td><td>nan</td><td>4578</td><td>195</td><td>nan</td><td>./cache/homer-odyssey_22.txt</td><td>./txt/homer-odyssey_22.txt</td></tr>
+<tr><td>homer-odyssey_23</td><td>nan</td><td>homer-odyssey_23</td><td>nan</td><td>3716</td><td>150</td><td>nan</td><td>./cache/homer-odyssey_23.txt</td><td>./txt/homer-odyssey_23.txt</td></tr>
+<tr><td>homer-odyssey_24</td><td>nan</td><td>homer-odyssey_24</td><td>nan</td><td>5228</td><td>218</td><td>nan</td><td>./cache/homer-odyssey_24.txt</td><td>./txt/homer-odyssey_24.txt</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

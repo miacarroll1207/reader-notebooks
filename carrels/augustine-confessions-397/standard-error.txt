@@ -1,0 +1,697 @@
+mv: ‘./input-file.zip’ and ‘./input-file.zip’ are the same file
+Creating study carrel named augustine-confessions-397
+
+Initializing database
+Unzipping 
+Archive:  input-file.zip
+   creating: ./tmp/input/augustine-confessions-397/
+  inflating: ./tmp/input/augustine-confessions-397/chapter-008.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-009.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-004.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-010.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-011.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-005.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-013.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-007.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-006.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-012.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-002.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-003.txt  
+  inflating: ./tmp/input/augustine-confessions-397/chapter-001.txt  
+=== updating bibliographic database
+Building study carrel named augustine-confessions-397
+  FILE: cache/chapter-004.txt
+OUTPUT: txt/chapter-004.txt
+  FILE: cache/chapter-005.txt
+OUTPUT: txt/chapter-005.txt
+  FILE: cache/chapter-011.txt
+OUTPUT: txt/chapter-011.txt
+  FILE: cache/chapter-012.txt
+OUTPUT: txt/chapter-012.txt
+  FILE: cache/chapter-007.txt
+OUTPUT: txt/chapter-007.txt
+  FILE: cache/chapter-006.txt
+OUTPUT: txt/chapter-006.txt
+  FILE: cache/chapter-013.txt
+OUTPUT: txt/chapter-013.txt
+  FILE: cache/chapter-003.txt
+OUTPUT: txt/chapter-003.txt
+  FILE: cache/chapter-008.txt
+OUTPUT: txt/chapter-008.txt
+  FILE: cache/chapter-009.txt
+OUTPUT: txt/chapter-009.txt
+  FILE: cache/chapter-010.txt
+OUTPUT: txt/chapter-010.txt
+  FILE: cache/chapter-002.txt
+OUTPUT: txt/chapter-002.txt
+  FILE: cache/chapter-001.txt
+OUTPUT: txt/chapter-001.txt
+=== file2bib.sh ===
+         id: chapter-002
+     author: 
+      title: chapter-002
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-002.txt
+      cache: ./cache/chapter-002.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-002.txt'
+=== file2bib.sh ===
+         id: chapter-003
+     author: 
+      title: chapter-003
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-003.txt
+      cache: ./cache/chapter-003.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-003.txt'
+=== file2bib.sh ===
+         id: chapter-005
+     author: 
+      title: chapter-005
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-005.txt
+      cache: ./cache/chapter-005.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-005.txt'
+=== file2bib.sh ===
+         id: chapter-004
+     author: 
+      title: chapter-004
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-004.txt
+      cache: ./cache/chapter-004.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-004.txt'
+=== file2bib.sh ===
+         id: chapter-001
+     author: 
+      title: chapter-001
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-001.txt
+      cache: ./cache/chapter-001.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-001.txt'
+=== file2bib.sh ===
+         id: chapter-007
+     author: 
+      title: chapter-007
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-007.txt
+      cache: ./cache/chapter-007.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-007.txt'
+=== file2bib.sh ===
+         id: chapter-006
+     author: 
+      title: chapter-006
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-006.txt
+      cache: ./cache/chapter-006.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-006.txt'
+=== file2bib.sh ===
+         id: chapter-008
+     author: 
+      title: chapter-008
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-008.txt
+      cache: ./cache/chapter-008.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-008.txt'
+=== file2bib.sh ===
+         id: chapter-009
+     author: 
+      title: chapter-009
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-009.txt
+      cache: ./cache/chapter-009.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	3
+resourceName	b'chapter-009.txt'
+=== file2bib.sh ===
+         id: chapter-011
+     author: 
+      title: chapter-011
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-011.txt
+      cache: ./cache/chapter-011.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-011.txt'
+=== file2bib.sh ===
+         id: chapter-012
+     author: 
+      title: chapter-012
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-012.txt
+      cache: ./cache/chapter-012.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-012.txt'
+=== file2bib.sh ===
+         id: chapter-013
+     author: 
+      title: chapter-013
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-013.txt
+      cache: ./cache/chapter-013.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	2
+resourceName	b'chapter-013.txt'
+=== file2bib.sh ===
+         id: chapter-010
+     author: 
+      title: chapter-010
+       date: 
+      pages: 
+  extension: .txt
+        txt: ./txt/chapter-010.txt
+      cache: ./cache/chapter-010.txt
+
+Content-Encoding	ISO-8859-1
+Content-Type	text/plain; charset=ISO-8859-1
+X-Parsed-By	['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.csv.TextAndCSVParser']
+X-TIKA:content_handler	ToTextContentHandler
+X-TIKA:embedded_depth	0
+X-TIKA:parse_time_millis	1
+resourceName	b'chapter-010.txt'
+chapter-002  txt/../ent/chapter-002.ent
+chapter-003  txt/../ent/chapter-003.ent
+chapter-005  txt/../ent/chapter-005.ent
+chapter-004  txt/../ent/chapter-004.ent
+chapter-006  txt/../ent/chapter-006.ent
+chapter-001  txt/../ent/chapter-001.ent
+chapter-007  txt/../ent/chapter-007.ent
+chapter-008  txt/../ent/chapter-008.ent
+chapter-009  txt/../ent/chapter-009.ent
+chapter-012  txt/../ent/chapter-012.ent
+chapter-011  txt/../ent/chapter-011.ent
+chapter-013  txt/../ent/chapter-013.ent
+chapter-010  txt/../ent/chapter-010.ent
+chapter-002  txt/../pos/chapter-002.pos
+chapter-003  txt/../pos/chapter-003.pos
+chapter-005  txt/../pos/chapter-005.pos
+chapter-004  txt/../pos/chapter-004.pos
+chapter-001  txt/../pos/chapter-001.pos
+chapter-006  txt/../pos/chapter-006.pos
+chapter-008  txt/../pos/chapter-008.pos
+chapter-007  txt/../pos/chapter-007.pos
+chapter-009  txt/../pos/chapter-009.pos
+chapter-011  txt/../pos/chapter-011.pos
+chapter-012  txt/../pos/chapter-012.pos
+chapter-013  txt/../pos/chapter-013.pos
+chapter-010  txt/../pos/chapter-010.pos
+chapter-002  txt/../wrd/chapter-002.wrd
+chapter-003  txt/../wrd/chapter-003.wrd
+chapter-005  txt/../wrd/chapter-005.wrd
+chapter-004  txt/../wrd/chapter-004.wrd
+chapter-001  txt/../wrd/chapter-001.wrd
+chapter-008  txt/../wrd/chapter-008.wrd
+chapter-006  txt/../wrd/chapter-006.wrd
+chapter-007  txt/../wrd/chapter-007.wrd
+chapter-009  txt/../wrd/chapter-009.wrd
+chapter-011  txt/../wrd/chapter-011.wrd
+chapter-012  txt/../wrd/chapter-012.wrd
+chapter-013  txt/../wrd/chapter-013.wrd
+chapter-010  txt/../wrd/chapter-010.wrd
+Done mapping.
+Reducing augustine-confessions-397
+=== reduce.pl bib ===
+         id = chapter-008
+     author = 
+      title = chapter-008
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 8152
+  sentences = 327
+     flesch = 77
+    summary = But after that by reading and earnest thought he had gathered firmness, and feared to be denied by Christ before the holy angels, should he now be afraid to confess Him before men, and appeared to himself guilty of a heavy offence, in being ashamed of the Sacraments of the humility of Thy Word, and not being ashamed of the sacrilegious rites of those proud daemons, whose pride he had imitated and their rites adopted, he became bold-faced against vanity, and shame-faced towards the truth, and suddenly and unexpectedly said to Simplicianus (as himself told me), "Go we to the Church; I wish to be made a Christian." But he, not containing himself for joy, went with him.
+      cache = ./cache/chapter-008.txt
+       txt  = ./txt/chapter-008.txt
+=== reduce.pl bib ===
+         id = chapter-009
+     author = 
+      title = chapter-009
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 8868
+  sentences = 304
+     flesch = 72
+    summary = Thanks unto Thee, our God, we are Thine: Thy suggestions and consolations tell us, Faithful in promises, Thou now requitest Verecundus for his country-house of Cassiacum, where from the fever of the world we reposed in Thee, with the eternal freshness of Thy Paradise: for that Thou hast forgiven him his sins upon earth, in that rich mountain, that mountain which yieldeth milk, Thine own mountain. Whom, not long after our conversion and regeneration by Thy Baptism, being also a faithful member of the Church Catholic, and serving Thee in perfect chastity and continence amongst his people in Africa, his whole house having through him first been made Christian, didst Thou release from the flesh; and now he lives in Abraham's bosom. I trembled for fear, and again kindled with hope, and with rejoicing in Thy mercy, O Father; and all issued forth both by mine eyes and voice, when Thy good Spirit turning unto us, said, O ye sons of men, how long slow of heart?
+      cache = ./cache/chapter-009.txt
+       txt  = ./txt/chapter-009.txt
+=== reduce.pl bib ===
+         id = chapter-004
+     author = 
+      title = chapter-004
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 7003
+  sentences = 282
+     flesch = 78
+    summary = For, it is a good thing to confess unto Thee, and to say, Have mercy upon me, heal my soul, for I have sinned against Thee; and not to abuse Thy mercy for a licence to sin, but to remember the Lord's words, Behold, thou art made whole, sin no more, lest a worse thing come unto thee. May I learn from Thee, who art Truth, and approach the ear of my heart unto Thy mouth, that Thou mayest tell me why weeping is sweet to the miserable? But far better than these is He who made all; and He is our God, nor doth He pass away, for neither doth aught succeed Him. If bodies please thee, praise God on occasion of them, and turn back thy love upon their Maker; lest in these things which please thee, thou displease.
+      cache = ./cache/chapter-004.txt
+       txt  = ./txt/chapter-004.txt
+=== reduce.pl bib ===
+         id = chapter-010
+     author = 
+      title = chapter-010
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 16376
+  sentences = 707
+     flesch = 80
+    summary = For, what is literature, what the art of disputing, how many kinds of questions there be, whatsoever of these I know, in such manner exists in my memory, as that I have not taken in the image, and left out the thing, or that it should have sounded and passed away like a voice fixed on the ear by that impress, whereby it might be recalled, as if it sounded, when it no longer sounded; or as a smell while it passes and evaporates into air affects the sense of smell, whence it conveys into the memory an image of itself, which remembering, we renew, or as meat, which verily in the belly hath now no taste, and yet in the memory still in a manner tasteth; or as any thing which the body by touch perceiveth, and which when removed from us, the memory still conceives.
+      cache = ./cache/chapter-010.txt
+       txt  = ./txt/chapter-010.txt
+=== reduce.pl bib ===
+         id = chapter-011
+     author = 
+      title = chapter-011
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 9556
+  sentences = 438
+     flesch = 84
+    summary = Let me confess unto Thee whatsoever I shall find in Thy books, and hear the voice of praise, and drink in Thee, and meditate on the wonderful things out of Thy law; even from the beginning, wherein Thou madest the heaven and the earth, unto the everlasting reigning of Thy holy city with Thee. But Thou precedest all things past, by the sublimity of an ever-present eternity; and surpassest all future because they are future, and when they come, they shall be past; but Thou art the Same, and Thy years fail not. And if any should ask me, "How knowest thou?" I might answer, "I know, that we do measure, nor can we measure things that are not; and things past and to come, are not." But time present how do we measure, seeing it hath no space?
+      cache = ./cache/chapter-011.txt
+       txt  = ./txt/chapter-011.txt
+=== reduce.pl bib ===
+         id = chapter-005
+     author = 
+      title = chapter-005
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 6723
+  sentences = 205
+     flesch = 67
+    summary = They discourse many things truly concerning the creature; but Truth, Artificer of the creature, they seek not piously, and therefore find Him not; or if they find Him, knowing Him to be God, they glorify Him not as God, neither are thankful, but become vain in their imaginations, and profess themselves to be wise, attributing to themselves what is Thine; and thereby with most perverse blindness, study to impute to Thee what is their own, forging lies of Thee who art the Truth, and changing the glory of uncorruptible God into an image made like corruptible man, and to birds, and four-footed beasts, and creeping things, changing Thy truth into a lie, and worshipping and serving the creature more than the Creator. For Thy hands, O my God, in the secret purpose of Thy providence, did not forsake my soul; and out of my mother's heart's blood, through her tears night and day poured out, was a sacrifice offered for me unto Thee; and Thou didst deal with me by wondrous ways.
+      cache = ./cache/chapter-005.txt
+       txt  = ./txt/chapter-005.txt
+=== reduce.pl bib ===
+         id = chapter-013
+     author = 
+      title = chapter-013
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 12636
+  sentences = 423
+     flesch = 70
+    summary = Angels fell away, man's soul fell away, and thereby pointed the abyss in that dark depth, ready for the whole spiritual creation, hadst not Thou said from the beginning, Let there be light, and there had been light, and every obedient intelligence of Thy heavenly City had cleaved to Thee, and rested in Thy Spirit, Which is borne unchangeably over every thing changeable. But the souls that thirst after Thee, and that appear before Thee (being by other bounds divided from the society of the sea), Thou waterest by a sweet spring, that the earth may bring forth her fruit, and Thou, Lord God, so commanding, our soul may bud forth works of mercy according to their kind, loving our neighbour in the relief of his bodily necessities, having seed in itself according to its likeness, when from feeling of our infirmity, we compassionate so as to relieve the needy; helping them, as we would be helped; if we were in like need; not only in things easy, as in herb yielding seed, but also in the protection of our assistance, with our best strength, like the tree yielding fruit: that is, well-doing in rescuing him that suffers wrong, from the hand of the powerful, and giving him the shelter of protection, by the mighty strength of just judgment.
+      cache = ./cache/chapter-013.txt
+       txt  = ./txt/chapter-013.txt
+=== reduce.pl bib ===
+         id = chapter-007
+     author = 
+      title = chapter-007
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 8447
+  sentences = 274
+     flesch = 71
+    summary = And I, a man, and such a man, sought to conceive of Thee the sovereign, only, true God; and I did in my inmost soul believe that Thou wert incorruptible, and uninjurable, and unchangeable; because though not knowing whence or how, yet I saw plainly, and was sure, that that which may be corrupted must be inferior to that which cannot; what could not be injured I preferred unhesitatingly to what could receive injury; the unchangeable to things subject to change.
+      cache = ./cache/chapter-007.txt
+       txt  = ./txt/chapter-007.txt
+=== reduce.pl bib ===
+         id = chapter-006
+     author = 
+      title = chapter-006
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 7880
+  sentences = 250
+     flesch = 68
+    summary = Then Thou, O Lord, little by little with most tender and most merciful hand, touching and composing my heart, didst persuade me--considering what innumerable things I believed, which I saw not, nor was present while they were done, as so many things in secular history, so many reports of places and of cities, which I had not seen; so many of friends, so many of physicians, so many continually of other men, which unless we should believe, we should do nothing at all in this life; lastly, with how unshaken an assurance I believed of what parents I was born, which I could not know, had I not believed upon hearsay--considering all this, Thou didst persuade me, that not they who believed Thy Books (which Thou hast established in so great authority among almost all nations), but they who believed them not, were to be blamed; and that they were not to be heard, who should say to me, "How knowest thou those Scriptures to have been imparted unto mankind by the Spirit of the one true and most true God?" For this very thing was of all most to be believed, since no contentiousness of blasphemous questionings, of all that multitude which I had read in the self-contradicting philosophers, could wring this belief from me, "That Thou art" whatsoever Thou wert (what I knew not), and "That the government of human things belongs to Thee."
+      cache = ./cache/chapter-006.txt
+       txt  = ./txt/chapter-006.txt
+=== reduce.pl bib ===
+         id = chapter-012
+     author = 
+      title = chapter-012
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 10235
+  sentences = 323
+     flesch = 67
+    summary = In which words, is the formlessness conveyed unto us (that such capacities may hereby be drawn on by degrees, as are not able to conceive an utter privation of all form, without yet coming to nothing), out of which another Heaven might be created, together with a visible and well-formed earth: and the waters diversly ordered, and whatsoever further is in the formation of the world, recorded to have been, not without days, created; and that, as being of such nature, that the successive changes of times may take place in them, as being subject to appointed alterations of motions and of forms.
+      cache = ./cache/chapter-012.txt
+       txt  = ./txt/chapter-012.txt
+=== reduce.pl bib ===
+         id = chapter-002
+     author = 
+      title = chapter-002
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 3797
+  sentences = 176
+     flesch = 79
+    summary = I will now call to mind my past foulness, and the carnal corruptions of my soul; not because I love them, but that I may love Thee, O my God. For love of Thy love I do it; reviewing my most wicked ways in the very bitterness of my remembrance, that Thou mayest grow sweet unto me (Thou sweetness never failing, Thou blissful and assured sweetness); and gathering me again out of that my dissipation, wherein I was torn piecemeal, while turned from Thee, the One Good, I lost myself among a multiplicity of things. Upon occasion of all these, and the like, is sin committed, while through an immoderate inclination towards these goods of the lowest order, the better and higher are forsaken,--Thou, our Lord God, Thy truth, and Thy law.
+      cache = ./cache/chapter-002.txt
+       txt  = ./txt/chapter-002.txt
+=== reduce.pl bib ===
+         id = chapter-003
+     author = 
+      title = chapter-003
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 5495
+  sentences = 189
+     flesch = 71
+    summary = But those were not even any way like to Thee, as Thou hast now spoken to me; for those were corporeal fantasies, false bodies, than which these true bodies, celestial or terrestrial, which with our fleshly sight we behold, are far more certain: these things the beasts and birds discern as well as we, and they are more certain than when we fancy them. For other than this, that which really is I knew not; and was, as it were through sharpness of wit, persuaded to assent to foolish deceivers, when they asked me, "whence is evil?" "is God bounded by a bodily shape, and has hairs and nails?" "are they to be esteemed righteous who had many wives at once, and did kill men, and sacrifice living creatures?" At which I, in my ignorance, was much troubled, and departing from the truth, seemed to myself to be making towards it; because as yet I knew not that evil was nothing but a privation of good, until at last a thing ceases altogether to be; which how should I see, the sight of whose eyes reached only to bodies, and of my mind to a phantasm?
+      cache = ./cache/chapter-003.txt
+       txt  = ./txt/chapter-003.txt
+=== reduce.pl bib ===
+         id = chapter-001
+     author = 
+      title = chapter-001
+       date = 
+      pages = 
+  extension = .txt
+       mime = text/plain
+      words = 7099
+  sentences = 341
+     flesch = 83
+    summary = for Thy mercies' sake, tell me, O Lord my God, what Thou art unto me. Behold, Lord, my heart is before Thee; open Thou the ears thereof, and say unto my soul, I am thy salvation. Thou, then, O Lord my God, who gavest life to this my infancy, furnishing thus with senses (as we see) the frame Thou gavest, compacting its limbs, ornamenting its proportions, and, for its general good and safety, implanting in it all vital functions, Thou commandest me to praise Thee in these things, to confess unto Thee, and sing unto Thy name, Thou most Highest. For those first lessons were better certainly, because more certain; by them I obtained, and still retain, the power of reading what I find written, and myself writing what I will; whereas in the others, I was forced to learn the wanderings of one Aeneas, forgetful of my own, and to weep for dead Dido, because she killed herself for love; the while, with dry eyes, I endured my miserable self dying among these things, far from Thee, O God my life.
+      cache = ./cache/chapter-001.txt
+       txt  = ./txt/chapter-001.txt
+Building ./etc/reader.txt
+chapter-010
+chapter-013
+chapter-012
+chapter-012
+chapter-013
+chapter-011
+                number of items: 13
+                   sum of words: 112,267
+          average size in words: 8,635
+      average readability score: 74
+
+                          nouns: things; man; earth; time; soul; life; mind; heart; truth; thing; men; art; nothing; memory; hast; body; words; way; day; light; times; world; joy; flesh; form; didst; eyes; place; whence; name; love; mercy; voice; matter; mother; one; darkness; will; death; others; waters; hand; years; law; creature; thy; senses; rest; power; part
+                          verbs: is; be; was; had; are; have; were; made; do; did; being; say; know; let; see; been; said; come; am; love; make; speak; found; loved; hear; find; created; knew; remember; seeing; give; heard; thought; read; called; go; having; given; done; confess; seek; behold; measure; believe; pass; sought; set; become; saw; understand
+                     adjectives: good; own; such; other; many; same; true; great; present; more; certain; very; long; little; whole; past; much; holy; happy; eternal; human; better; spiritual; invisible; first; evil; deep; able; corporeal; full; false; vain; sweet; light; beautiful; less; faithful; wise; secret; miserable; visible; high; greater; strong; old; proud; like; wonderful; unchangeable; pure
+                        adverbs: not; so; then; yet; now; also; even; more; only; up; most; therefore; thus; away; out; there; far; again; as; much; very; ever; forth; never; rather; still; together; down; well; too; long; all; already; truly; first; whatsoever; that; indeed; alone; back; therein; once; no; else; often; on; before; altogether; is; longer
+                       pronouns: i; it; my; me; he; they; we; them; him; his; our; us; their; she; her; myself; its; itself; themselves; himself; you; thyself; thee; thy; your; ourselves; herself; mine; one; theirs; ye; ours; ''s; whereof; truth;--of; ourself
+                   proper nouns: thou; thee; thy; god; lord; heaven; thine; spirit; word; yea; ye; hath; christ; holy; creator; father; church; son; alypius; knowest; heavens; whereof; moses; thyself; hadst; truth; rome; lo; hast; behold; knoweth; wisdom; nebridius; manichees; jesus; whoso; christian; catholic; ghost; latin; book; ambrose; victorinus; trinity; scripture; psalm; madest; greek; almighty; woe
+                       keywords: thou; thy; thee; god; lord; alypius
+
+       one topic; one dimension: thou
+                        file(s): ./cache/chapter-008.txt
+                      titles(s): chapter-008
+
+    three topics; one dimension: thou; thy; theft
+                        file(s): ./cache/chapter-010.txt, ./cache/chapter-008.txt, ./cache/chapter-002.txt
+                      titles(s): chapter-010 | chapter-008 | chapter-002
+
+  five topics; three dimensions: thou thee thy; thou time thy; thou thy thee; thou alypius great; usual intricate retire
+                        file(s): ./cache/chapter-010.txt, ./cache/chapter-011.txt, ./cache/chapter-008.txt, ./cache/chapter-006.txt, ./cache/chapter-002.txt
+                      titles(s): chapter-010 | chapter-011 | chapter-008 | chapter-006 | chapter-002
+
+      Type: zip2carrel
+     title: augustine-confessions-397
+      date: 2021-02-07
+      time: 14:38
+  username: emorgan
+    patron: Eric Morgan
+     email: emorgan@nd.edu
+     input: e2u1XyR54E.zip
+==== make-pages.sh htm files
+==== make-pages.sh complex files
+==== make-pages.sh named enities
+==== making bibliographics
+         id: chapter-001
+     author: 
+      title: chapter-001
+       date: 
+      words: 7099
+  sentences: 341
+      pages: 
+     flesch: 83
+      cache: ./cache/chapter-001.txt
+        txt: ./txt/chapter-001.txt
+    summary: for Thy mercies'' sake, tell me, O Lord my God, what Thou art unto me. Behold, Lord, my heart is before Thee; open Thou the ears thereof, and say unto my soul, I am thy salvation. Thou, then, O Lord my God, who gavest life to this my infancy, furnishing thus with senses (as we see) the frame Thou gavest, compacting its limbs, ornamenting its proportions, and, for its general good and safety, implanting in it all vital functions, Thou commandest me to praise Thee in these things, to confess unto Thee, and sing unto Thy name, Thou most Highest. For those first lessons were better certainly, because more certain; by them I obtained, and still retain, the power of reading what I find written, and myself writing what I will; whereas in the others, I was forced to learn the wanderings of one Aeneas, forgetful of my own, and to weep for dead Dido, because she killed herself for love; the while, with dry eyes, I endured my miserable self dying among these things, far from Thee, O God my life.
+
+         id: chapter-002
+     author: 
+      title: chapter-002
+       date: 
+      words: 3797
+  sentences: 176
+      pages: 
+     flesch: 79
+      cache: ./cache/chapter-002.txt
+        txt: ./txt/chapter-002.txt
+    summary: I will now call to mind my past foulness, and the carnal corruptions of my soul; not because I love them, but that I may love Thee, O my God. For love of Thy love I do it; reviewing my most wicked ways in the very bitterness of my remembrance, that Thou mayest grow sweet unto me (Thou sweetness never failing, Thou blissful and assured sweetness); and gathering me again out of that my dissipation, wherein I was torn piecemeal, while turned from Thee, the One Good, I lost myself among a multiplicity of things. Upon occasion of all these, and the like, is sin committed, while through an immoderate inclination towards these goods of the lowest order, the better and higher are forsaken,--Thou, our Lord God, Thy truth, and Thy law.
+
+         id: chapter-003
+     author: 
+      title: chapter-003
+       date: 
+      words: 5495
+  sentences: 189
+      pages: 
+     flesch: 71
+      cache: ./cache/chapter-003.txt
+        txt: ./txt/chapter-003.txt
+    summary: But those were not even any way like to Thee, as Thou hast now spoken to me; for those were corporeal fantasies, false bodies, than which these true bodies, celestial or terrestrial, which with our fleshly sight we behold, are far more certain: these things the beasts and birds discern as well as we, and they are more certain than when we fancy them. For other than this, that which really is I knew not; and was, as it were through sharpness of wit, persuaded to assent to foolish deceivers, when they asked me, "whence is evil?" "is God bounded by a bodily shape, and has hairs and nails?" "are they to be esteemed righteous who had many wives at once, and did kill men, and sacrifice living creatures?" At which I, in my ignorance, was much troubled, and departing from the truth, seemed to myself to be making towards it; because as yet I knew not that evil was nothing but a privation of good, until at last a thing ceases altogether to be; which how should I see, the sight of whose eyes reached only to bodies, and of my mind to a phantasm?
+
+         id: chapter-004
+     author: 
+      title: chapter-004
+       date: 
+      words: 7003
+  sentences: 282
+      pages: 
+     flesch: 78
+      cache: ./cache/chapter-004.txt
+        txt: ./txt/chapter-004.txt
+    summary: For, it is a good thing to confess unto Thee, and to say, Have mercy upon me, heal my soul, for I have sinned against Thee; and not to abuse Thy mercy for a licence to sin, but to remember the Lord''s words, Behold, thou art made whole, sin no more, lest a worse thing come unto thee. May I learn from Thee, who art Truth, and approach the ear of my heart unto Thy mouth, that Thou mayest tell me why weeping is sweet to the miserable? But far better than these is He who made all; and He is our God, nor doth He pass away, for neither doth aught succeed Him. If bodies please thee, praise God on occasion of them, and turn back thy love upon their Maker; lest in these things which please thee, thou displease.
+
+         id: chapter-005
+     author: 
+      title: chapter-005
+       date: 
+      words: 6723
+  sentences: 205
+      pages: 
+     flesch: 67
+      cache: ./cache/chapter-005.txt
+        txt: ./txt/chapter-005.txt
+    summary: They discourse many things truly concerning the creature; but Truth, Artificer of the creature, they seek not piously, and therefore find Him not; or if they find Him, knowing Him to be God, they glorify Him not as God, neither are thankful, but become vain in their imaginations, and profess themselves to be wise, attributing to themselves what is Thine; and thereby with most perverse blindness, study to impute to Thee what is their own, forging lies of Thee who art the Truth, and changing the glory of uncorruptible God into an image made like corruptible man, and to birds, and four-footed beasts, and creeping things, changing Thy truth into a lie, and worshipping and serving the creature more than the Creator. For Thy hands, O my God, in the secret purpose of Thy providence, did not forsake my soul; and out of my mother''s heart''s blood, through her tears night and day poured out, was a sacrifice offered for me unto Thee; and Thou didst deal with me by wondrous ways.
+
+         id: chapter-006
+     author: 
+      title: chapter-006
+       date: 
+      words: 7880
+  sentences: 250
+      pages: 
+     flesch: 68
+      cache: ./cache/chapter-006.txt
+        txt: ./txt/chapter-006.txt
+    summary: Then Thou, O Lord, little by little with most tender and most merciful hand, touching and composing my heart, didst persuade me--considering what innumerable things I believed, which I saw not, nor was present while they were done, as so many things in secular history, so many reports of places and of cities, which I had not seen; so many of friends, so many of physicians, so many continually of other men, which unless we should believe, we should do nothing at all in this life; lastly, with how unshaken an assurance I believed of what parents I was born, which I could not know, had I not believed upon hearsay--considering all this, Thou didst persuade me, that not they who believed Thy Books (which Thou hast established in so great authority among almost all nations), but they who believed them not, were to be blamed; and that they were not to be heard, who should say to me, "How knowest thou those Scriptures to have been imparted unto mankind by the Spirit of the one true and most true God?" For this very thing was of all most to be believed, since no contentiousness of blasphemous questionings, of all that multitude which I had read in the self-contradicting philosophers, could wring this belief from me, "That Thou art" whatsoever Thou wert (what I knew not), and "That the government of human things belongs to Thee."
+
+         id: chapter-007
+     author: 
+      title: chapter-007
+       date: 
+      words: 8447
+  sentences: 274
+      pages: 
+     flesch: 71
+      cache: ./cache/chapter-007.txt
+        txt: ./txt/chapter-007.txt
+    summary: And I, a man, and such a man, sought to conceive of Thee the sovereign, only, true God; and I did in my inmost soul believe that Thou wert incorruptible, and uninjurable, and unchangeable; because though not knowing whence or how, yet I saw plainly, and was sure, that that which may be corrupted must be inferior to that which cannot; what could not be injured I preferred unhesitatingly to what could receive injury; the unchangeable to things subject to change.
+
+         id: chapter-008
+     author: 
+      title: chapter-008
+       date: 
+      words: 8152
+  sentences: 327
+      pages: 
+     flesch: 77
+      cache: ./cache/chapter-008.txt
+        txt: ./txt/chapter-008.txt
+    summary: But after that by reading and earnest thought he had gathered firmness, and feared to be denied by Christ before the holy angels, should he now be afraid to confess Him before men, and appeared to himself guilty of a heavy offence, in being ashamed of the Sacraments of the humility of Thy Word, and not being ashamed of the sacrilegious rites of those proud daemons, whose pride he had imitated and their rites adopted, he became bold-faced against vanity, and shame-faced towards the truth, and suddenly and unexpectedly said to Simplicianus (as himself told me), "Go we to the Church; I wish to be made a Christian." But he, not containing himself for joy, went with him.
+
+         id: chapter-009
+     author: 
+      title: chapter-009
+       date: 
+      words: 8868
+  sentences: 304
+      pages: 
+     flesch: 72
+      cache: ./cache/chapter-009.txt
+        txt: ./txt/chapter-009.txt
+    summary: Thanks unto Thee, our God, we are Thine: Thy suggestions and consolations tell us, Faithful in promises, Thou now requitest Verecundus for his country-house of Cassiacum, where from the fever of the world we reposed in Thee, with the eternal freshness of Thy Paradise: for that Thou hast forgiven him his sins upon earth, in that rich mountain, that mountain which yieldeth milk, Thine own mountain. Whom, not long after our conversion and regeneration by Thy Baptism, being also a faithful member of the Church Catholic, and serving Thee in perfect chastity and continence amongst his people in Africa, his whole house having through him first been made Christian, didst Thou release from the flesh; and now he lives in Abraham''s bosom. I trembled for fear, and again kindled with hope, and with rejoicing in Thy mercy, O Father; and all issued forth both by mine eyes and voice, when Thy good Spirit turning unto us, said, O ye sons of men, how long slow of heart?
+
+         id: chapter-010
+     author: 
+      title: chapter-010
+       date: 
+      words: 16376
+  sentences: 707
+      pages: 
+     flesch: 80
+      cache: ./cache/chapter-010.txt
+        txt: ./txt/chapter-010.txt
+    summary: For, what is literature, what the art of disputing, how many kinds of questions there be, whatsoever of these I know, in such manner exists in my memory, as that I have not taken in the image, and left out the thing, or that it should have sounded and passed away like a voice fixed on the ear by that impress, whereby it might be recalled, as if it sounded, when it no longer sounded; or as a smell while it passes and evaporates into air affects the sense of smell, whence it conveys into the memory an image of itself, which remembering, we renew, or as meat, which verily in the belly hath now no taste, and yet in the memory still in a manner tasteth; or as any thing which the body by touch perceiveth, and which when removed from us, the memory still conceives.
+
+         id: chapter-011
+     author: 
+      title: chapter-011
+       date: 
+      words: 9556
+  sentences: 438
+      pages: 
+     flesch: 84
+      cache: ./cache/chapter-011.txt
+        txt: ./txt/chapter-011.txt
+    summary: Let me confess unto Thee whatsoever I shall find in Thy books, and hear the voice of praise, and drink in Thee, and meditate on the wonderful things out of Thy law; even from the beginning, wherein Thou madest the heaven and the earth, unto the everlasting reigning of Thy holy city with Thee. But Thou precedest all things past, by the sublimity of an ever-present eternity; and surpassest all future because they are future, and when they come, they shall be past; but Thou art the Same, and Thy years fail not. And if any should ask me, "How knowest thou?" I might answer, "I know, that we do measure, nor can we measure things that are not; and things past and to come, are not." But time present how do we measure, seeing it hath no space?
+
+         id: chapter-012
+     author: 
+      title: chapter-012
+       date: 
+      words: 10235
+  sentences: 323
+      pages: 
+     flesch: 67
+      cache: ./cache/chapter-012.txt
+        txt: ./txt/chapter-012.txt
+    summary: In which words, is the formlessness conveyed unto us (that such capacities may hereby be drawn on by degrees, as are not able to conceive an utter privation of all form, without yet coming to nothing), out of which another Heaven might be created, together with a visible and well-formed earth: and the waters diversly ordered, and whatsoever further is in the formation of the world, recorded to have been, not without days, created; and that, as being of such nature, that the successive changes of times may take place in them, as being subject to appointed alterations of motions and of forms.
+
+         id: chapter-013
+     author: 
+      title: chapter-013
+       date: 
+      words: 12636
+  sentences: 423
+      pages: 
+     flesch: 70
+      cache: ./cache/chapter-013.txt
+        txt: ./txt/chapter-013.txt
+    summary: Angels fell away, man''s soul fell away, and thereby pointed the abyss in that dark depth, ready for the whole spiritual creation, hadst not Thou said from the beginning, Let there be light, and there had been light, and every obedient intelligence of Thy heavenly City had cleaved to Thee, and rested in Thy Spirit, Which is borne unchangeably over every thing changeable. But the souls that thirst after Thee, and that appear before Thee (being by other bounds divided from the society of the sea), Thou waterest by a sweet spring, that the earth may bring forth her fruit, and Thou, Lord God, so commanding, our soul may bud forth works of mercy according to their kind, loving our neighbour in the relief of his bodily necessities, having seed in itself according to its likeness, when from feeling of our infirmity, we compassionate so as to relieve the needy; helping them, as we would be helped; if we were in like need; not only in things easy, as in herb yielding seed, but also in the protection of our assistance, with our best strength, like the tree yielding fruit: that is, well-doing in rescuing him that suffers wrong, from the hand of the powerful, and giving him the shelter of protection, by the mighty strength of just judgment.
+
+==== make-pages.sh questions
+==== make-pages.sh search
+==== make-pages.sh topic modeling corpus
+Zipping study carrel
+

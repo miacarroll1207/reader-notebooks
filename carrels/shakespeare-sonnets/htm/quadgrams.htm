@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">quadgram</li>
+		</ol>
+	</nav>
+
+<h1>quadgram</h1>
+<p>This is a table of type quadgram and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>quadgram</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>mine eye and heart</td><td>4</td></tr>
+<tr><td>when i have seen</td><td>4</td></tr>
+<tr><td>how can i then</td><td>3</td></tr>
+<tr><td>for i have sworn</td><td>3</td></tr>
+<tr><td>my love is as</td><td>3</td></tr>
+<tr><td>more doth beauty beauteous</td><td>2</td></tr>
+<tr><td>doth the impression fill</td><td>2</td></tr>
+<tr><td>sail of his great</td><td>2</td></tr>
+<tr><td>me as with that</td><td>2</td></tr>
+<tr><td>actor on the stage</td><td>2</td></tr>
+<tr><td>you have i been</td><td>2</td></tr>
+<tr><td>in faith i do</td><td>2</td></tr>
+<tr><td>makes my heart to</td><td>2</td></tr>
+<tr><td>call not me to</td><td>2</td></tr>
+<tr><td>how much more doth</td><td>2</td></tr>
+<tr><td>your love and pity</td><td>2</td></tr>
+<tr><td>is the time that</td><td>2</td></tr>
+<tr><td>do count the clock</td><td>2</td></tr>
+<tr><td>is it for fear</td><td>2</td></tr>
+<tr><td>i invoked thee for</td><td>2</td></tr>
+<tr><td>forward violet thus did</td><td>2</td></tr>
+<tr><td>me to justify the</td><td>2</td></tr>
+<tr><td>have i been absent</td><td>2</td></tr>
+<tr><td>thou this powerful might</td><td>2</td></tr>
+<tr><td>the painter and hath</td><td>2</td></tr>
+<tr><td>love possesseth all mine</td><td>2</td></tr>
+<tr><td>is endeared with all</td><td>2</td></tr>
+<tr><td>shall i compare thee</td><td>2</td></tr>
+<tr><td>do not love thee</td><td>2</td></tr>
+<tr><td>thou promise such a</td><td>2</td></tr>
+<tr><td>in thy breast doth</td><td>2</td></tr>
+<tr><td>i faint when i</td><td>2</td></tr>
+<tr><td>age black was not</td><td>2</td></tr>
+<tr><td>if thy soul check</td><td>2</td></tr>
+<tr><td>muse what shall be</td><td>2</td></tr>
+<tr><td>of his great verse</td><td>2</td></tr>
+<tr><td>look in thy glass</td><td>2</td></tr>
+<tr><td>at a mortal war</td><td>2</td></tr>
+<tr><td>as with that muse</td><td>2</td></tr>
+<tr><td>such a beauteous day</td><td>2</td></tr>
+<tr><td>that made me first</td><td>2</td></tr>
+<tr><td>with manners may i</td><td>2</td></tr>
+<tr><td>cheek the map of</td><td>2</td></tr>
+<tr><td>i consider every thing</td><td>2</td></tr>
+<tr><td>i my judgement pluck</td><td>2</td></tr>
+<tr><td>do not you a</td><td>2</td></tr>
+<tr><td>and heart are at</td><td>2</td></tr>
+<tr><td>the face thou viewest</td><td>2</td></tr>
+<tr><td>they that have power</td><td>2</td></tr>
+<tr><td>is too young to</td><td>2</td></tr>
+<tr><td>that thou didst forsake</td><td>2</td></tr>
+<tr><td>she is made of</td><td>2</td></tr>
+<tr><td>have gone here and</td><td>2</td></tr>
+<tr><td>those pretty wrongs that</td><td>2</td></tr>
+<tr><td>my sake do you</td><td>2</td></tr>
+<tr><td>drunk of siren tears</td><td>2</td></tr>
+<tr><td>i haste me to</td><td>2</td></tr>
+<tr><td>of comfort and despair</td><td>2</td></tr>
+<tr><td>with me as with</td><td>2</td></tr>
+<tr><td>how sweet and lovely</td><td>2</td></tr>
+<tr><td>the forward violet thus</td><td>2</td></tr>
+<tr><td>those lines that i</td><td>2</td></tr>
+<tr><td>i do but tend</td><td>2</td></tr>
+<tr><td>make towards the pebbled</td><td>2</td></tr>
+<tr><td>you with fortune chide</td><td>2</td></tr>
+<tr><td>as a careful housewife</td><td>2</td></tr>
+<tr><td>if thou survive my</td><td>2</td></tr>
+<tr><td>shall be thy amends</td><td>2</td></tr>
+<tr><td>to make our appetite</td><td>2</td></tr>
+<tr><td>the chronicle of wasted</td><td>2</td></tr>
+<tr><td>truant muse what shall</td><td>2</td></tr>
+<tr><td>make our appetite more</td><td>2</td></tr>
+<tr><td>the child of state</td><td>2</td></tr>
+<tr><td>from you have i</td><td>2</td></tr>
+<tr><td>thou didst forsake me</td><td>2</td></tr>
+<tr><td>shall besiege thy brow</td><td>2</td></tr>
+<tr><td>from fairest creatures we</td><td>2</td></tr>
+<tr><td>be wise as thou</td><td>2</td></tr>
+<tr><td>i when i took</td><td>2</td></tr>
+<tr><td>violet thus did i</td><td>2</td></tr>
+<tr><td>muse want subject to</td><td>2</td></tr>
+<tr><td>pity doth the impression</td><td>2</td></tr>
+<tr><td>muse in manners holds</td><td>2</td></tr>
+<tr><td>are you to my</td><td>2</td></tr>
+<tr><td>is it thy will</td><td>2</td></tr>
+<tr><td>a fever longing still</td><td>2</td></tr>
+<tr><td>have sworn thee fair</td><td>2</td></tr>
+<tr><td>not mine own fears</td><td>2</td></tr>
+<tr><td>absent in the spring</td><td>2</td></tr>
+<tr><td>ever that time come</td><td>2</td></tr>
+<tr><td>have writ do lie</td><td>2</td></tr>
+<tr><td>faith i do not</td><td>2</td></tr>
+<tr><td>to me i bore</td><td>2</td></tr>
+<tr><td>shalt not boast that</td><td>2</td></tr>
+<tr><td>i grant thou wert</td><td>2</td></tr>
+<tr><td>with infection should he</td><td>2</td></tr>
+<tr><td>mine is thy good</td><td>2</td></tr>
+<tr><td>not persuade me i</td><td>2</td></tr>
+<tr><td>say thy fault is</td><td>2</td></tr>
+<tr><td>glorious morning have i</td><td>2</td></tr>
+<tr><td>my flesh were thought</td><td>2</td></tr>
+<tr><td>as thou art cruel</td><td>2</td></tr>
+<tr><td>put in my head</td><td>2</td></tr>
+<tr><td>but wherefore do not</td><td>2</td></tr>
+<tr><td>when i do count</td><td>2</td></tr>
+<tr><td>i as the rich</td><td>2</td></tr>
+<tr><td>thy worth with manners</td><td>2</td></tr>
+<tr><td>and thou shalt find</td><td>2</td></tr>
+<tr><td>but the child of</td><td>2</td></tr>
+<tr><td>too young to know</td><td>2</td></tr>
+<tr><td>when forty winters shall</td><td>2</td></tr>
+<tr><td>a waste of shame</td><td>2</td></tr>
+<tr><td>know what conscience is</td><td>2</td></tr>
+<tr><td>a careful housewife runs</td><td>2</td></tr>
+<tr><td>not love thee with</td><td>2</td></tr>
+<tr><td>eye is in my</td><td>2</td></tr>
+<tr><td>why is my verse</td><td>2</td></tr>
+<tr><td>not from the stars</td><td>2</td></tr>
+<tr><td>that makes my heart</td><td>2</td></tr>
+<tr><td>from what power hast</td><td>2</td></tr>
+<tr><td>when i consider every</td><td>2</td></tr>
+<tr><td>that time of year</td><td>2</td></tr>
+<tr><td>excuse the slow offence</td><td>2</td></tr>
+<tr><td>as fast as thou</td><td>2</td></tr>
+<tr><td>thy dear virtue hate</td><td>2</td></tr>
+<tr><td>forsake me for some</td><td>2</td></tr>
+<tr><td>i before have writ</td><td>2</td></tr>
+<tr><td>let me confess that</td><td>2</td></tr>
+<tr><td>will believe my verse</td><td>2</td></tr>
+<tr><td>beshrew that heart that</td><td>2</td></tr>
+<tr><td>thus is his cheek</td><td>2</td></tr>
+<tr><td>slave what should i</td><td>2</td></tr>
+<tr><td>in the old age</td><td>2</td></tr>
+<tr><td>what is your substance</td><td>2</td></tr>
+<tr><td>that i before have</td><td>2</td></tr>
+<tr><td>say i love thee</td><td>2</td></tr>
+<tr><td>tired with all these</td><td>2</td></tr>
+<tr><td>towards the pebbled shore</td><td>2</td></tr>
+<tr><td>the marriage of true</td><td>2</td></tr>
+<tr><td>laid by his brand</td><td>2</td></tr>
+<tr><td>grant thou wert not</td><td>2</td></tr>
+<tr><td>that we two must</td><td>2</td></tr>
+<tr><td>as i am now</td><td>2</td></tr>
+<tr><td>is as a fever</td><td>2</td></tr>
+<tr><td>decrepit father takes delight</td><td>2</td></tr>
+<tr><td>promise such a beauteous</td><td>2</td></tr>
+<tr><td>chronicle of wasted time</td><td>2</td></tr>
+<tr><td>not all my grief</td><td>2</td></tr>
+<tr><td>how like a winter</td><td>2</td></tr>
+<tr><td>though more weak in</td><td>2</td></tr>
+<tr><td>orient when the gracious</td><td>2</td></tr>
+<tr><td>in manners holds her</td><td>2</td></tr>
+<tr><td>that i have scanted</td><td>2</td></tr>
+<tr><td>love excuse the slow</td><td>2</td></tr>
+<tr><td>thou muse that thou</td><td>2</td></tr>
+<tr><td>be it not said</td><td>2</td></tr>
+<tr><td>were but the child</td><td>2</td></tr>
+<tr><td>me when i am</td><td>2</td></tr>
+<tr><td>my heart to groan</td><td>2</td></tr>
+<tr><td>glory in their birth</td><td>2</td></tr>
+<tr><td>i do count the</td><td>2</td></tr>
+<tr><td>so as thou art</td><td>2</td></tr>
+<tr><td>love thee in such</td><td>2</td></tr>
+<tr><td>marriage of true minds</td><td>2</td></tr>
+<tr><td>his brand and fell</td><td>2</td></tr>
+<tr><td>restful death i cry</td><td>2</td></tr>
+<tr><td>in time to come</td><td>2</td></tr>
+<tr><td>what should i do</td><td>2</td></tr>
+<tr><td>two loves i have</td><td>2</td></tr>
+<tr><td>how heavy do i</td><td>2</td></tr>
+<tr><td>return in happy plight</td><td>2</td></tr>
+<tr><td>do i journey on</td><td>2</td></tr>
+<tr><td>when in disgrace with</td><td>2</td></tr>
+<tr><td>nor the prophetic soul</td><td>2</td></tr>
+<tr><td>it not with me</td><td>2</td></tr>
+<tr><td>worth with manners may</td><td>2</td></tr>
+<tr><td>once unkind befriends me</td><td>2</td></tr>
+<tr><td>the treasure of thy</td><td>2</td></tr>
+<tr><td>take all my loves</td><td>2</td></tr>
+<tr><td>thee that i come</td><td>2</td></tr>
+<tr><td>was false of heart</td><td>2</td></tr>
+<tr><td>some in their skill</td><td>2</td></tr>
+<tr><td>own hand did make</td><td>2</td></tr>
+<tr><td>to whom in vassalage</td><td>2</td></tr>
+<tr><td>by his brand and</td><td>2</td></tr>
+<tr><td>what eyes hath love</td><td>2</td></tr>
+<tr><td>how thy worth with</td><td>2</td></tr>
+<tr><td>heart a league is</td><td>2</td></tr>
+<tr><td>thou shalt not boast</td><td>2</td></tr>
+<tr><td>did call upon thy</td><td>2</td></tr>
+<tr><td>fear to wet a</td><td>2</td></tr>
+<tr><td>as food to life</td><td>2</td></tr>
+<tr><td>that you did painting</td><td>2</td></tr>
+<tr><td>in disgrace with fortune</td><td>2</td></tr>
+<tr><td>and tell the face</td><td>2</td></tr>
+<tr><td>i have of comfort</td><td>2</td></tr>
+<tr><td>the waves make towards</td><td>2</td></tr>
+<tr><td>as the waves make</td><td>2</td></tr>
+<tr><td>full many a glorious</td><td>2</td></tr>
+<tr><td>for fear to wet</td><td>2</td></tr>
+<tr><td>if my dear love</td><td>2</td></tr>
+<tr><td>when i of you</td><td>2</td></tr>
+<tr><td>can my muse want</td><td>2</td></tr>
+<tr><td>so shall i live</td><td>2</td></tr>
+<tr><td>if the dull substance</td><td>2</td></tr>
+<tr><td>can my love excuse</td><td>2</td></tr>
+<tr><td>who in thy power</td><td>2</td></tr>
+<tr><td>have i drunk of</td><td>2</td></tr>
+<tr><td>her it is not</td><td>2</td></tr>
+<tr><td>centre of my sinful</td><td>2</td></tr>
+<tr><td>poverty my muse brings</td><td>2</td></tr>
+<tr><td>unkind befriends me now</td><td>2</td></tr>
+<tr><td>creatures we desire increase</td><td>2</td></tr>
+<tr><td>do i my judgement</td><td>2</td></tr>
+<tr><td>hath love put in</td><td>2</td></tr>
+<tr><td>and will do none</td><td>2</td></tr>
+<tr><td>eye and heart a</td><td>2</td></tr>
+<tr><td>am i as the</td><td>2</td></tr>
+<tr><td>and pity doth the</td><td>2</td></tr>
+<tr><td>i journey on the</td><td>2</td></tr>
+<tr><td>mine eye is in</td><td>2</td></tr>
+<tr><td>i never saw that</td><td>2</td></tr>
+<tr><td>tied muse in manners</td><td>2</td></tr>
+<tr><td>for me when i</td><td>2</td></tr>
+<tr><td>i then return in</td><td>2</td></tr>
+<tr><td>love shall be as</td><td>2</td></tr>
+<tr><td>my thoughts as food</td><td>2</td></tr>
+<tr><td>the better part of</td><td>2</td></tr>
+<tr><td>so barren of new</td><td>2</td></tr>
+<tr><td>of thee that the</td><td>2</td></tr>
+<tr><td>i compare thee to</td><td>2</td></tr>
+<tr><td>hast her it is</td><td>2</td></tr>
+<tr><td>time of year thou</td><td>2</td></tr>
+<tr><td>gone here and there</td><td>2</td></tr>
+<tr><td>disgrace with fortune and</td><td>2</td></tr>
+<tr><td>what poverty my muse</td><td>2</td></tr>
+<tr><td>how i faint when</td><td>2</td></tr>
+<tr><td>being your slave what</td><td>2</td></tr>
+<tr><td>in a waste of</td><td>2</td></tr>
+<tr><td>aught to me i</td><td>2</td></tr>
+<tr><td>of spirit in a</td><td>2</td></tr>
+<tr><td>when in the chronicle</td><td>2</td></tr>
+<tr><td>me first your slave</td><td>2</td></tr>
+<tr><td>that tells the time</td><td>2</td></tr>
+<tr><td>when i am dead</td><td>2</td></tr>
+<tr><td>thee with mine eyes</td><td>2</td></tr>
+<tr><td>proud full sail of</td><td>2</td></tr>
+<tr><td>longer mourn for me</td><td>2</td></tr>
+<tr><td>not you a mightier</td><td>2</td></tr>
+<tr><td>of my sinful earth</td><td>2</td></tr>
+<tr><td>god lying once asleep</td><td>2</td></tr>
+<tr><td>check thee that i</td><td>2</td></tr>
+<tr><td>have of comfort and</td><td>2</td></tr>
+<tr><td>winters shall besiege thy</td><td>2</td></tr>
+<tr><td>young to know what</td><td>2</td></tr>
+<tr><td>that have power to</td><td>2</td></tr>
+<tr><td>that with gentle work</td><td>2</td></tr>
+<tr><td>careful was i when</td><td>2</td></tr>
+<tr><td>shall be as i</td><td>2</td></tr>
+<tr><td>in the orient when</td><td>2</td></tr>
+<tr><td>was i when i</td><td>2</td></tr>
+<tr><td>i love thee in</td><td>2</td></tr>
+<tr><td>boast that i do</td><td>2</td></tr>
+<tr><td>call upon thy aid</td><td>2</td></tr>
+<tr><td>with gentle work did</td><td>2</td></tr>
+<tr><td>i drunk of siren</td><td>2</td></tr>
+<tr><td>dull substance of my</td><td>2</td></tr>
+<tr><td>the beauty of thy</td><td>2</td></tr>
+<tr><td>not my love be</td><td>2</td></tr>
+<tr><td>of my flesh were</td><td>2</td></tr>
+<tr><td>who will believe my</td><td>2</td></tr>
+<tr><td>but do thy worst</td><td>2</td></tr>
+<tr><td>betwixt mine eye and</td><td>2</td></tr>
+<tr><td>heavy do i journey</td><td>2</td></tr>
+<tr><td>thoughts as food to</td><td>2</td></tr>
+<tr><td>whilst i alone did</td><td>2</td></tr>
+<tr><td>thou wert not married</td><td>2</td></tr>
+<tr><td>i think on thee</td><td>2</td></tr>
+<tr><td>of year thou mayst</td><td>2</td></tr>
+<tr><td>hast thou this powerful</td><td>2</td></tr>
+<tr><td>mourn for me when</td><td>2</td></tr>
+<tr><td>fairest creatures we desire</td><td>2</td></tr>
+<tr><td>fast as thou shalt</td><td>2</td></tr>
+<tr><td>what shall be thy</td><td>2</td></tr>
+<tr><td>but do not so</td><td>2</td></tr>
+<tr><td>that i was false</td><td>2</td></tr>
+<tr><td>haste me to my</td><td>2</td></tr>
+<tr><td>should i do but</td><td>2</td></tr>
+<tr><td>glass shall not persuade</td><td>2</td></tr>
+<tr><td>love were but the</td><td>2</td></tr>
+<tr><td>then hate me when</td><td>2</td></tr>
+<tr><td>how thy beauties wear</td><td>2</td></tr>
+<tr><td>those who are in</td><td>2</td></tr>
+<tr><td>waves make towards the</td><td>2</td></tr>
+<tr><td>o truant muse what</td><td>2</td></tr>
+<tr><td>clock that tells the</td><td>2</td></tr>
+<tr><td>which thou hast done</td><td>2</td></tr>
+<tr><td>some glory in their</td><td>2</td></tr>
+<tr><td>didst forsake me for</td><td>2</td></tr>
+<tr><td>when my love swears</td><td>2</td></tr>
+<tr><td>that you were once</td><td>2</td></tr>
+<tr><td>manners may i sing</td><td>2</td></tr>
+<tr><td>the map of days</td><td>2</td></tr>
+<tr><td>my verse in time</td><td>2</td></tr>
+<tr><td>every thing that grows</td><td>2</td></tr>
+<tr><td>is his cheek the</td><td>2</td></tr>
+<tr><td>that i come so</td><td>2</td></tr>
+<tr><td>lines that i before</td><td>2</td></tr>
+<tr><td>pretty wrongs that liberty</td><td>2</td></tr>
+<tr><td>but that which is</td><td>2</td></tr>
+<tr><td>the clock that tells</td><td>2</td></tr>
+<tr><td>my love swears that</td><td>2</td></tr>
+<tr><td>spirit in a waste</td><td>2</td></tr>
+<tr><td>my glass shall not</td><td>2</td></tr>
+<tr><td>thee for my muse</td><td>2</td></tr>
+<tr><td>made me first your</td><td>2</td></tr>
+<tr><td>more weak in seeming</td><td>2</td></tr>
+<tr><td>can i then return</td><td>2</td></tr>
+<tr><td>so oft have i</td><td>2</td></tr>
+<tr><td>how oft when thou</td><td>2</td></tr>
+<tr><td>love is too young</td><td>2</td></tr>
+<tr><td>what dost thou to</td><td>2</td></tr>
+<tr><td>who are in favour</td><td>2</td></tr>
+<tr><td>i of you do</td><td>2</td></tr>
+<tr><td>me for some fault</td><td>2</td></tr>
+<tr><td>thou mayst in me</td><td>2</td></tr>
+<tr><td>not boast that i</td><td>2</td></tr>
+<tr><td>hate me when thou</td><td>2</td></tr>
+<tr><td>my verse so barren</td><td>2</td></tr>
+<tr><td>cupid laid by his</td><td>2</td></tr>
+<tr><td>thus did i chide</td><td>2</td></tr>
+<tr><td>whoever hath her wish</td><td>2</td></tr>
+<tr><td>i have scanted all</td><td>2</td></tr>
+<tr><td>not with me as</td><td>2</td></tr>
+<tr><td>nothing like the sun</td><td>2</td></tr>
+<tr><td>nor the gilded monuments</td><td>2</td></tr>
+<tr><td>let those who are</td><td>2</td></tr>
+<tr><td>show thee how thy</td><td>2</td></tr>
+<tr><td>power hast thou this</td><td>2</td></tr>
+<tr><td>when that fell arrest</td><td>2</td></tr>
+<tr><td>love swears that she</td><td>2</td></tr>
+<tr><td>no longer mourn for</td><td>2</td></tr>
+<tr><td>wert not married to</td><td>2</td></tr>
+<tr><td>to the sessions of</td><td>2</td></tr>
+<tr><td>thou to mine eyes</td><td>2</td></tr>
+<tr><td>is in my mind</td><td>2</td></tr>
+<tr><td>should task you to</td><td>2</td></tr>
+<tr><td>my love excuse the</td><td>2</td></tr>
+<tr><td>eyes are nothing like</td><td>2</td></tr>
+<tr><td>love is my sin</td><td>2</td></tr>
+<tr><td>manners holds her still</td><td>2</td></tr>
+<tr><td>art thou muse that</td><td>2</td></tr>
+<tr><td>morning have i seen</td><td>2</td></tr>
+<tr><td>task you to recite</td><td>2</td></tr>
+<tr><td>a glorious morning have</td><td>2</td></tr>
+<tr><td>heart are at a</td><td>2</td></tr>
+<tr><td>the sessions of sweet</td><td>2</td></tr>
+<tr><td>thy worst to steal</td><td>2</td></tr>
+<tr><td>if ever that time</td><td>2</td></tr>
+<tr><td>to know what conscience</td><td>2</td></tr>
+<tr><td>glass will show thee</td><td>2</td></tr>
+<tr><td>lord of my love</td><td>2</td></tr>
+<tr><td>it that says most</td><td>2</td></tr>
+<tr><td>worst to steal thyself</td><td>2</td></tr>
+<tr><td>you were once unkind</td><td>2</td></tr>
+<tr><td>be as i am</td><td>2</td></tr>
+<tr><td>will show thee how</td><td>2</td></tr>
+<tr><td>housewife runs to catch</td><td>2</td></tr>
+<tr><td>that ink may character</td><td>2</td></tr>
+<tr><td>i took my way</td><td>2</td></tr>
+<tr><td>have power to hurt</td><td>2</td></tr>
+<tr><td>shall not be thy</td><td>2</td></tr>
+<tr><td>endeared with all hearts</td><td>2</td></tr>
+<tr><td>dost thou to mine</td><td>2</td></tr>
+<tr><td>potions have i drunk</td><td>2</td></tr>
+<tr><td>better part of me</td><td>2</td></tr>
+<tr><td>the centre of my</td><td>2</td></tr>
+<tr><td>confess that we two</td><td>2</td></tr>
+<tr><td>is thy good report</td><td>2</td></tr>
+<tr><td>world should task you</td><td>2</td></tr>
+<tr><td>wherefore with infection should</td><td>2</td></tr>
+<tr><td>i have seen by</td><td>2</td></tr>
+<tr><td>faint when i of</td><td>2</td></tr>
+<tr><td>my love shall be</td><td>2</td></tr>
+<tr><td>were once unkind befriends</td><td>2</td></tr>
+<tr><td>wise as thou art</td><td>2</td></tr>
+<tr><td>thy image should keep</td><td>2</td></tr>
+<tr><td>not me to justify</td><td>2</td></tr>
+<tr><td>thou art too dear</td><td>2</td></tr>
+<tr><td>unperfect actor on the</td><td>2</td></tr>
+<tr><td>so am i as</td><td>2</td></tr>
+<tr><td>or i shall live</td><td>2</td></tr>
+<tr><td>saw that you did</td><td>2</td></tr>
+<tr><td>what potions have i</td><td>2</td></tr>
+<tr><td>your slave what should</td><td>2</td></tr>
+<tr><td>in the chronicle of</td><td>2</td></tr>
+<tr><td>winter hath my absence</td><td>2</td></tr>
+<tr><td>then return in happy</td><td>2</td></tr>
+<tr><td>lest the world should</td><td>2</td></tr>
+<tr><td>the expense of spirit</td><td>2</td></tr>
+<tr><td>i have sworn thee</td><td>2</td></tr>
+<tr><td>say that thou didst</td><td>2</td></tr>
+<tr><td>as an unperfect actor</td><td>2</td></tr>
+<tr><td>so are you to</td><td>2</td></tr>
+<tr><td>me confess that we</td><td>2</td></tr>
+<tr><td>lovely dost thou make</td><td>2</td></tr>
+<tr><td>to steal thyself away</td><td>2</td></tr>
+<tr><td>verse so barren of</td><td>2</td></tr>
+<tr><td>is it not with</td><td>2</td></tr>
+<tr><td>thou art as tyrannous</td><td>2</td></tr>
+<tr><td>black was not counted</td><td>2</td></tr>
+<tr><td>expense of spirit in</td><td>2</td></tr>
+<tr><td>an unperfect actor on</td><td>2</td></tr>
+<tr><td>then do mine eyes</td><td>2</td></tr>
+<tr><td>shall live your epitaph</td><td>2</td></tr>
+<tr><td>do you with fortune</td><td>2</td></tr>
+<tr><td>want subject to invent</td><td>2</td></tr>
+<tr><td>too dear for my</td><td>2</td></tr>
+<tr><td>verse in time to</td><td>2</td></tr>
+<tr><td>sessions of sweet silent</td><td>2</td></tr>
+<tr><td>is made of truth</td><td>2</td></tr>
+<tr><td>let not my love</td><td>2</td></tr>
+<tr><td>thy glass will show</td><td>2</td></tr>
+<tr><td>mayst in me behold</td><td>2</td></tr>
+<tr><td>not be thy defect</td><td>2</td></tr>
+<tr><td>a decrepit father takes</td><td>2</td></tr>
+<tr><td>are at a mortal</td><td>2</td></tr>
+<tr><td>much more doth beauty</td><td>2</td></tr>
+<tr><td>never say that i</td><td>2</td></tr>
+<tr><td>you never can be</td><td>2</td></tr>
+<tr><td>was not counted fair</td><td>2</td></tr>
+<tr><td>stars do i my</td><td>2</td></tr>
+<tr><td>infection should he live</td><td>2</td></tr>
+<tr><td>brand and fell asleep</td><td>2</td></tr>
+<tr><td>which in thy breast</td><td>2</td></tr>
+<tr><td>that heart that makes</td><td>2</td></tr>
+<tr><td>hath my absence been</td><td>2</td></tr>
+<tr><td>the old age black</td><td>2</td></tr>
+<tr><td>in favour with their</td><td>2</td></tr>
+<tr><td>your epitaph to make</td><td>2</td></tr>
+<tr><td>why didst thou promise</td><td>2</td></tr>
+<tr><td>thy fault is youth</td><td>2</td></tr>
+<tr><td>dear for my possessing</td><td>2</td></tr>
+<tr><td>how can my muse</td><td>2</td></tr>
+<tr><td>i love thee not</td><td>2</td></tr>
+<tr><td>when the gracious light</td><td>2</td></tr>
+<tr><td>the world should task</td><td>2</td></tr>
+<tr><td>that she is made</td><td>2</td></tr>
+<tr><td>wrongs that liberty commits</td><td>2</td></tr>
+<tr><td>in loving thee thou</td><td>2</td></tr>
+<tr><td>glass and tell the</td><td>2</td></tr>
+<tr><td>is not all my</td><td>2</td></tr>
+<tr><td>me to my bed</td><td>2</td></tr>
+<tr><td>me i am old</td><td>2</td></tr>
+<tr><td>do thy worst to</td><td>2</td></tr>
+<tr><td>like as the waves</td><td>2</td></tr>
+<tr><td>i do not love</td><td>2</td></tr>
+<tr><td>when thou shalt be</td><td>2</td></tr>
+<tr><td>let me not to</td><td>2</td></tr>
+<tr><td>supposing thou art true</td><td>2</td></tr>
+<tr><td>why dost thou spend</td><td>2</td></tr>
+<tr><td>my muse want subject</td><td>2</td></tr>
+<tr><td>sake do you with</td><td>2</td></tr>
+<tr><td>i bore the canopy</td><td>2</td></tr>
+<tr><td>swears that she is</td><td>2</td></tr>
+<tr><td>for my sake do</td><td>2</td></tr>
+<tr><td>the orient when the</td><td>2</td></tr>
+<tr><td>not to the marriage</td><td>2</td></tr>
+<tr><td>some say thy fault</td><td>2</td></tr>
+<tr><td>favour with their stars</td><td>2</td></tr>
+<tr><td>a winter hath my</td><td>2</td></tr>
+<tr><td>thy bosom is endeared</td><td>2</td></tr>
+<tr><td>thou survive my well</td><td>2</td></tr>
+<tr><td>is my verse so</td><td>2</td></tr>
+<tr><td>never can be old</td><td>2</td></tr>
+<tr><td>which can say more</td><td>2</td></tr>
+<tr><td>and thy dear virtue</td><td>2</td></tr>
+<tr><td>possesseth all mine eye</td><td>2</td></tr>
+<tr><td>you a mightier way</td><td>2</td></tr>
+<tr><td>when most i wink</td><td>2</td></tr>
+<tr><td>me i bore the</td><td>2</td></tr>
+<tr><td>believe my verse in</td><td>2</td></tr>
+<tr><td>and lovely dost thou</td><td>2</td></tr>
+<tr><td>gentle work did frame</td><td>2</td></tr>
+<tr><td>we two must be</td><td>2</td></tr>
+<tr><td>been absent in the</td><td>2</td></tr>
+<tr><td>eye and heart are</td><td>2</td></tr>
+<tr><td>thine eyes i love</td><td>2</td></tr>
+<tr><td>bosom is endeared with</td><td>2</td></tr>
+<tr><td>a league is took</td><td>2</td></tr>
+<tr><td>as thou shalt wane</td><td>2</td></tr>
+<tr><td>i come so near</td><td>2</td></tr>
+<tr><td>love put in my</td><td>2</td></tr>
+<tr><td>are in favour with</td><td>2</td></tr>
+<tr><td>if there be nothing</td><td>2</td></tr>
+<tr><td>alone did call upon</td><td>2</td></tr>
+<tr><td>i have gone here</td><td>2</td></tr>
+<tr><td>it the proud full</td><td>2</td></tr>
+<tr><td>as a decrepit father</td><td>2</td></tr>
+<tr><td>you did painting need</td><td>2</td></tr>
+<tr><td>eyes hath love put</td><td>2</td></tr>
+<tr><td>there be nothing new</td><td>2</td></tr>
+<tr><td>whether doth my mind</td><td>2</td></tr>
+<tr><td>substance of my flesh</td><td>2</td></tr>
+<tr><td>persuade me i am</td><td>2</td></tr>
+<tr><td>the proud full sail</td><td>2</td></tr>
+<tr><td>when to the sessions</td><td>2</td></tr>
+<tr><td>thy soul check thee</td><td>2</td></tr>
+<tr><td>me when thou wilt</td><td>2</td></tr>
+<tr><td>consider every thing that</td><td>2</td></tr>
+<tr><td>be vile than vile</td><td>2</td></tr>
+<tr><td>say that i was</td><td>2</td></tr>
+<tr><td>thy glass and tell</td><td>2</td></tr>
+<tr><td>many a glorious morning</td><td>2</td></tr>
+<tr><td>married to my muse</td><td>2</td></tr>
+<tr><td>thou make the shame</td><td>2</td></tr>
+<tr><td>shall not persuade me</td><td>2</td></tr>
+<tr><td>two must be twain</td><td>2</td></tr>
+<tr><td>thee how to make</td><td>2</td></tr>
+<tr><td>who is it that</td><td>2</td></tr>
+<tr><td>compare thee to a</td><td>2</td></tr>
+<tr><td>how careful was i</td><td>2</td></tr>
+<tr><td>dost thou make the</td><td>2</td></tr>
+<tr><td>oft have i invoked</td><td>2</td></tr>
+<tr><td>i alone did call</td><td>2</td></tr>
+<tr><td>never saw that you</td><td>2</td></tr>
+<tr><td>full sail of his</td><td>2</td></tr>
+<tr><td>at that which thou</td><td>2</td></tr>
+<tr><td>do mine eyes best</td><td>2</td></tr>
+<tr><td>to set me light</td><td>2</td></tr>
+<tr><td>and heart a league</td><td>2</td></tr>
+<tr><td>have i invoked thee</td><td>2</td></tr>
+<tr><td>barren of new pride</td><td>2</td></tr>
+<tr><td>as a fever longing</td><td>2</td></tr>
+<tr><td>whereof are you made</td><td>2</td></tr>
+<tr><td>i been absent in</td><td>2</td></tr>
+<tr><td>heart that makes my</td><td>2</td></tr>
+<tr><td>you were your self</td><td>2</td></tr>
+<tr><td>me not to the</td><td>2</td></tr>
+<tr><td>you to my thoughts</td><td>2</td></tr>
+<tr><td>art too dear for</td><td>2</td></tr>
+<tr><td>thus can my love</td><td>2</td></tr>
+<tr><td>dear love were but</td><td>2</td></tr>
+<tr><td>what power hast thou</td><td>2</td></tr>
+<tr><td>it for fear to</td><td>2</td></tr>
+<tr><td>didst thou promise such</td><td>2</td></tr>
+<tr><td>count the clock that</td><td>2</td></tr>
+<tr><td>thee in such sort</td><td>2</td></tr>
+<tr><td>that thou hast her</td><td>2</td></tr>
+<tr><td>to be vile than</td><td>2</td></tr>
+<tr><td>doth beauty beauteous seem</td><td>2</td></tr>
+<tr><td>loves i have of</td><td>2</td></tr>
+<tr><td>careful housewife runs to</td><td>2</td></tr>
+<tr><td>soul check thee that</td><td>2</td></tr>
+<tr><td>so is it not</td><td>2</td></tr>
+<tr><td>love and pity doth</td><td>2</td></tr>
+<tr><td>year thou mayst in</td><td>2</td></tr>
+<tr><td>parts of thee that</td><td>2</td></tr>
+<tr><td>for restful death i</td><td>2</td></tr>
+<tr><td>old age black was</td><td>2</td></tr>
+<tr><td>of you do write</td><td>2</td></tr>
+<tr><td>in thy glass and</td><td>2</td></tr>
+<tr><td>it is not all</td><td>2</td></tr>
+<tr><td>i shall live your</td><td>2</td></tr>
+<tr><td>against my love shall</td><td>2</td></tr>
+<tr><td>tell the face thou</td><td>2</td></tr>
+<tr><td>thee how thy beauties</td><td>2</td></tr>
+<tr><td>before have writ do</td><td>2</td></tr>
+<tr><td>the dull substance of</td><td>2</td></tr>
+<tr><td>where art thou muse</td><td>2</td></tr>
+<tr><td>are nothing like the</td><td>2</td></tr>
+<tr><td>love thee with mine</td><td>2</td></tr>
+<tr><td>that which thou hast</td><td>2</td></tr>
+<tr><td>was it the proud</td><td>2</td></tr>
+<tr><td>live your epitaph to</td><td>2</td></tr>
+<tr><td>that he is thine</td><td>2</td></tr>
+<tr><td>to justify the wrong</td><td>2</td></tr>
+<tr><td>forty winters shall besiege</td><td>2</td></tr>
+<tr><td>love is as a</td><td>2</td></tr>
+<tr><td>invoked thee for my</td><td>2</td></tr>
+<tr><td>my muse brings forth</td><td>2</td></tr>
+<tr><td>our appetite more keen</td><td>2</td></tr>
+<tr><td>my dear love were</td><td>2</td></tr>
+<tr><td>those parts of thee</td><td>2</td></tr>
+<tr><td>the stars do i</td><td>2</td></tr>
+<tr><td>of sweet silent thought</td><td>2</td></tr>
+<tr><td>image should keep open</td><td>2</td></tr>
+<tr><td>are within my brain</td><td>2</td></tr>
+<tr><td>journey on the way</td><td>2</td></tr>
+<tr><td>like a winter hath</td><td>2</td></tr>
+<tr><td>i was false of</td><td>2</td></tr>
+<tr><td>that you were your</td><td>2</td></tr>
+<tr><td>not married to my</td><td>2</td></tr>
+<tr><td>mine eyes best see</td><td>2</td></tr>
+<tr><td>since i left you</td><td>2</td></tr>
+<tr><td>to my thoughts as</td><td>2</td></tr>
+<tr><td>is it that says</td><td>2</td></tr>
+<tr><td>to the marriage of</td><td>2</td></tr>
+<tr><td>better to be vile</td><td>2</td></tr>
+<tr><td>from the stars do</td><td>2</td></tr>
+<tr><td>wherefore do not you</td><td>2</td></tr>
+<tr><td>sweet and lovely dost</td><td>2</td></tr>
+<tr><td>that i do change</td><td>2</td></tr>
+<tr><td>yea take them all</td><td>2</td></tr>
+<tr><td>his cheek the map</td><td>2</td></tr>
+<tr><td>map of days outworn</td><td>2</td></tr>
+<tr><td>thou hast her it</td><td>2</td></tr>
+<tr><td>or whether doth my</td><td>2</td></tr>
+<tr><td>when i took my</td><td>2</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

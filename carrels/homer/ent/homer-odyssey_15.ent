@@ -1,0 +1,150 @@
+id	sid	eid	entity	type
+homer-odyssey_15	1	1	ITHACA	ORG
+homer-odyssey_15	2	1	Minerva	PERSON
+homer-odyssey_15	2	2	Lacedaemon	GPE
+homer-odyssey_15	2	3	Ulysses	GPE
+homer-odyssey_15	3	1	Menelaus	ORG
+homer-odyssey_15	3	2	all night	TIME
+homer-odyssey_15	3	3	Minerva	PERSON
+homer-odyssey_15	5	1	Eurymachus	PERSON
+homer-odyssey_15	6	1	first	ORDINAL
+homer-odyssey_15	11	1	Sail night	TIME
+homer-odyssey_15	12	1	Ithaca	ORG
+homer-odyssey_15	12	2	the night	TIME
+homer-odyssey_15	12	3	Penelope	PERSON
+homer-odyssey_15	12	4	Pylos	PERSON
+homer-odyssey_15	14	1	Pisistratus	ORG
+homer-odyssey_15	15	1	morning	TIME
+homer-odyssey_15	15	2	Menelaus	ORG
+homer-odyssey_15	17	1	day	DATE
+homer-odyssey_15	17	2	Menelaus	ORG
+homer-odyssey_15	17	3	Helen	PERSON
+homer-odyssey_15	19	1	Menelaus	ORG
+homer-odyssey_15	20	1	Menelaus	ORG
+homer-odyssey_15	23	1	One	CARDINAL
+homer-odyssey_15	26	1	Hellas	PERSON
+homer-odyssey_15	26	2	Peloponnese	NORP
+homer-odyssey_15	27	1	a couple of mules	QUANTITY
+homer-odyssey_15	28	1	Menelaus	ORG
+homer-odyssey_15	29	1	Menelaus	ORG
+homer-odyssey_15	30	1	Eteoneus	PERSON
+homer-odyssey_15	30	2	Menelaus	ORG
+homer-odyssey_15	31	1	Menelaus	ORG
+homer-odyssey_15	31	2	Helen	PERSON
+homer-odyssey_15	32	1	Megapenthes	PERSON
+homer-odyssey_15	33	1	Helen	PERSON
+homer-odyssey_15	34	1	Menelaus	ORG
+homer-odyssey_15	34	2	Juno	PERSON
+homer-odyssey_15	36	1	Vulcan	PRODUCT
+homer-odyssey_15	40	1	Helen	PERSON
+homer-odyssey_15	41	1	Helen	PERSON
+homer-odyssey_15	45	1	Menelaus	PERSON
+homer-odyssey_15	49	1	Menelaus	ORG
+homer-odyssey_15	50	1	Achaeans	NORP
+homer-odyssey_15	52	1	Ulysses	ORG
+homer-odyssey_15	52	2	Ithaca	ORG
+homer-odyssey_15	55	1	whereon Pisistratus	ORG
+homer-odyssey_15	55	2	Menelaus	ORG
+homer-odyssey_15	56	1	Menelaus	ORG
+homer-odyssey_15	56	2	Helen	PERSON
+homer-odyssey_15	61	1	Pherae	ORG
+homer-odyssey_15	61	2	Diocles	GPE
+homer-odyssey_15	61	3	Ortilochus	NORP
+homer-odyssey_15	61	4	Alpheus	PERSON
+homer-odyssey_15	62	1	the night	TIME
+homer-odyssey_15	63	1	morning	TIME
+homer-odyssey_15	63	2	Dawn	PERSON
+homer-odyssey_15	65	1	Pylos	PERSON
+homer-odyssey_15	65	2	Telemachus	PERSON
+homer-odyssey_15	67	1	Menelaus	ORG
+homer-odyssey_15	71	1	Pylians	NORP
+homer-odyssey_15	74	1	Minerva	PERSON
+homer-odyssey_15	74	2	Argos	GPE
+homer-odyssey_15	75	1	Melampus	PERSON
+homer-odyssey_15	75	2	Pylos	PERSON
+homer-odyssey_15	75	3	Neleus	PERSON
+homer-odyssey_15	76	1	Neleus	ORG
+homer-odyssey_15	76	2	a whole year	DATE
+homer-odyssey_15	76	3	Neleus	PERSON
+homer-odyssey_15	76	4	Erinys	ORG
+homer-odyssey_15	77	1	Pylos	ORG
+homer-odyssey_15	77	2	Neleus	PERSON
+homer-odyssey_15	78	1	Argos	LOC
+homer-odyssey_15	79	1	two	CARDINAL
+homer-odyssey_15	79	2	Mantius	PERSON
+homer-odyssey_15	80	1	Oicleus	ORG
+homer-odyssey_15	80	2	Oicleus of Amphiaraus	ORG
+homer-odyssey_15	80	3	Apollo	ORG
+homer-odyssey_15	80	4	Thebes	GPE
+homer-odyssey_15	81	1	Alcmaeon	PERSON
+homer-odyssey_15	81	2	Amphilochus	NORP
+homer-odyssey_15	82	1	Mantius	PERSON
+homer-odyssey_15	82	2	Melampus	PERSON
+homer-odyssey_15	82	3	Cleitus	ORG
+homer-odyssey_15	83	1	Aurora	ORG
+homer-odyssey_15	83	2	Cleitus	ORG
+homer-odyssey_15	83	3	Apollo	ORG
+homer-odyssey_15	83	4	Amphiaraus	ORG
+homer-odyssey_15	84	1	Hyperesia	GPE
+homer-odyssey_15	85	1	Theoclymenus	PERSON
+homer-odyssey_15	90	1	Ithaca	ORG
+homer-odyssey_15	90	2	Ulysses	ORG
+homer-odyssey_15	93	1	Theoclymenus	PERSON
+homer-odyssey_15	94	1	Argos	GPE
+homer-odyssey_15	95	1	earth	LOC
+homer-odyssey_15	98	1	Ithaca	GPE
+homer-odyssey_15	99	1	Theoclymenus	PERSON
+homer-odyssey_15	103	1	Minerva	ORG
+homer-odyssey_15	104	1	Crouni	ORG
+homer-odyssey_15	104	2	Chalcis	ORG
+homer-odyssey_15	106	1	Pheae	GPE
+homer-odyssey_15	106	2	Elis	PERSON
+homer-odyssey_15	106	3	Epeans	NORP
+homer-odyssey_15	108	1	Ulysses	ORG
+homer-odyssey_15	112	1	Ulysses	GPE
+homer-odyssey_15	112	2	Queen Penelope	PERSON
+homer-odyssey_15	115	1	Mercury	ORG
+homer-odyssey_15	123	1	Ulysses	ORG
+homer-odyssey_15	125	1	Eumaeus	PERSON
+homer-odyssey_15	127	1	Ctimene	PERSON
+homer-odyssey_15	128	1	Ctimene to Same and received a	WORK_OF_ART
+homer-odyssey_15	130	1	now	DATE
+homer-odyssey_15	135	1	Eumaeus	PERSON
+homer-odyssey_15	137	1	Eumaeus	PERSON
+homer-odyssey_15	138	1	The nights	DATE
+homer-odyssey_15	140	1	Syra	PERSON
+homer-odyssey_15	140	2	Ortygia	GPE
+homer-odyssey_15	142	1	Apollo	ORG
+homer-odyssey_15	142	2	Diana	PERSON
+homer-odyssey_15	143	1	two	CARDINAL
+homer-odyssey_15	143	2	two	CARDINAL
+homer-odyssey_15	144	1	Ctesius	PERSON
+homer-odyssey_15	144	2	Ormenus	ORG
+homer-odyssey_15	145	1	Phoenicia	PERSON
+homer-odyssey_15	145	2	Phoenicians	NORP
+homer-odyssey_15	146	1	Phoenician	NORP
+homer-odyssey_15	148	1	Sidon	ORG
+homer-odyssey_15	148	2	Arybas	GPE
+homer-odyssey_15	149	1	One day	DATE
+homer-odyssey_15	149	2	Taphian	NORP
+homer-odyssey_15	159	1	Phoenicians	NORP
+homer-odyssey_15	161	1	three	CARDINAL
+homer-odyssey_15	162	1	Phoenician	NORP
+homer-odyssey_15	163	1	six days	DATE
+homer-odyssey_15	163	2	the seventh day	DATE
+homer-odyssey_15	163	3	Diana	PERSON
+homer-odyssey_15	164	1	Ithaca	ORG
+homer-odyssey_15	170	1	evening	TIME
+homer-odyssey_15	170	2	morning	TIME
+homer-odyssey_15	171	1	Theoclymenus	PERSON
+homer-odyssey_15	174	1	Polybus	PERSON
+homer-odyssey_15	174	2	Ithaca	GPE
+homer-odyssey_15	175	1	Ulysses	ORG
+homer-odyssey_15	177	1	Apollo	ORG
+homer-odyssey_15	179	1	Theoclymenus	LOC
+homer-odyssey_15	181	1	Ithaca	GPE
+homer-odyssey_15	184	1	Piraeus	PERSON
+homer-odyssey_15	184	2	Piraeus	PERSON
+homer-odyssey_15	184	3	Clytius	PERSON
+homer-odyssey_15	184	4	Pylos	PERSON
+homer-odyssey_15	185	1	Piraeus	PERSON

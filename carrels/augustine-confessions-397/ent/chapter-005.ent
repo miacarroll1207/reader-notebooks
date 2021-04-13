@@ -1,0 +1,243 @@
+id	sid	eid	entity	type
+chapter-005	1	1	Thou hast	PERSON
+chapter-005	1	2	Thy	PERSON
+chapter-005	2	1	Thee	PERSON
+chapter-005	3	1	Thee	PERSON
+chapter-005	3	2	Thee	PERSON
+chapter-005	3	3	Thy	PERSON
+chapter-005	3	4	Thou	PERSON
+chapter-005	3	5	Thy	PERSON
+chapter-005	4	1	Thee	PERSON
+chapter-005	4	2	Thee	PERSON
+chapter-005	4	3	Thee	PERSON
+chapter-005	4	4	Thee	PERSON
+chapter-005	5	1	Thee	ORG
+chapter-005	5	2	Thee	PERSON
+chapter-005	5	3	Thou	PERSON
+chapter-005	6	1	Thee	PERSON
+chapter-005	6	2	Thou	PERSON
+chapter-005	8	1	Thee	PERSON
+chapter-005	9	1	earth	LOC
+chapter-005	11	1	Thou	PERSON
+chapter-005	12	1	Thee	PERSON
+chapter-005	12	2	Thee	PERSON
+chapter-005	12	3	Thou	PERSON
+chapter-005	12	4	Thou	PERSON
+chapter-005	12	5	Thee	PERSON
+chapter-005	13	1	Thou	PERSON
+chapter-005	14	1	Thou	PERSON
+chapter-005	14	2	Thee	PERSON
+chapter-005	15	1	Thee	PERSON
+chapter-005	15	2	Creator	PERSON
+chapter-005	15	3	Thou	PERSON
+chapter-005	16	1	Thee	PERSON
+chapter-005	16	2	Thou	PERSON
+chapter-005	16	3	Thee	PERSON
+chapter-005	16	4	Thee	PERSON
+chapter-005	16	5	Thy	PERSON
+chapter-005	17	1	Thou	ORG
+chapter-005	17	2	Thou	PERSON
+chapter-005	17	3	Thou	PERSON
+chapter-005	18	1	Thee	PERSON
+chapter-005	19	1	Thou wert	PERSON
+chapter-005	19	2	Thee	PERSON
+chapter-005	20	1	nine-and-twentieth year	DATE
+chapter-005	21	1	Faustus	ORG
+chapter-005	21	2	Devil	PERSON
+chapter-005	21	3	Faustus	ORG
+chapter-005	22	1	Fame	ORG
+chapter-005	23	1	Manichees	ORG
+chapter-005	25	1	Thou draw	PERSON
+chapter-005	26	1	Thou	PERSON
+chapter-005	26	2	this day	DATE
+chapter-005	26	3	what year and month of the year	DATE
+chapter-005	26	4	what day of the month	DATE
+chapter-005	26	5	what hour of the day	TIME
+chapter-005	26	6	moon	PERSON
+chapter-005	26	7	sun	PERSON
+chapter-005	27	1	Thee	PERSON
+chapter-005	29	1	Thou	PERSON
+chapter-005	29	2	Thee	PERSON
+chapter-005	29	3	Thou madest	PERSON
+chapter-005	29	4	Thee	PERSON
+chapter-005	29	5	Thou	PERSON
+chapter-005	30	1	Thy Word	PERSON
+chapter-005	30	2	Whom Thou	PERSON
+chapter-005	31	1	Caesar	PERSON
+chapter-005	34	1	Thine	NORP
+chapter-005	34	2	Thee	PERSON
+chapter-005	34	3	Thee	PERSON
+chapter-005	34	4	Truth	LOC
+chapter-005	34	5	four	CARDINAL
+chapter-005	34	6	Thy	PERSON
+chapter-005	35	1	Manichaeus	PERSON
+chapter-005	37	1	Thee	PERSON
+chapter-005	38	1	Thee	PERSON
+chapter-005	38	2	knoweth Thee	PERSON
+chapter-005	39	1	Thee	PERSON
+chapter-005	39	2	Thee	PERSON
+chapter-005	39	3	Thee	PERSON
+chapter-005	39	4	Thee	PERSON
+chapter-005	39	5	God	PERSON
+chapter-005	40	1	Thee	PERSON
+chapter-005	40	2	Thee	PERSON
+chapter-005	40	3	the Great Bear	FAC
+chapter-005	40	4	neglecteth Thee	PERSON
+chapter-005	41	1	Manichaeus	PERSON
+chapter-005	42	1	Thou hast	PERSON
+chapter-005	43	1	Thee	PERSON
+chapter-005	45	1	the Holy Ghost	PERSON
+chapter-005	45	2	Comforter	PERSON
+chapter-005	46	1	moon	PERSON
+chapter-005	47	1	Christian	NORP
+chapter-005	47	2	Thee	PERSON
+chapter-005	47	3	the Creator	PERSON
+chapter-005	50	1	Thy Holy Spirit	PERSON
+chapter-005	51	1	days	DATE
+chapter-005	51	2	day	DATE
+chapter-005	51	3	night	TIME
+chapter-005	52	1	nine years	DATE
+chapter-005	52	2	Faustus	ORG
+chapter-005	53	1	Faustus	ORG
+chapter-005	59	1	Thou	PERSON
+chapter-005	59	2	Thou	PERSON
+chapter-005	59	3	Thee	PERSON
+chapter-005	64	1	first	ORDINAL
+chapter-005	65	1	Tully's Orations	ORG
+chapter-005	65	2	Seneca	PERSON
+chapter-005	65	3	Latin	LANGUAGE
+chapter-005	66	1	Thou	PERSON
+chapter-005	67	1	Thee	PERSON
+chapter-005	67	2	Thy	PERSON
+chapter-005	68	1	Manichee	PERSON
+chapter-005	69	1	moon	PERSON
+chapter-005	69	2	Manichaeus	PERSON
+chapter-005	70	1	burthen	GPE
+chapter-005	73	1	Thee	PERSON
+chapter-005	77	1	Manichaeus	PERSON
+chapter-005	78	1	one	CARDINAL
+chapter-005	79	1	Faustus	ORG
+chapter-005	80	1	Thee	PERSON
+chapter-005	80	2	Thou	PERSON
+chapter-005	83	1	Rome	GPE
+chapter-005	84	1	Thee	PERSON
+chapter-005	85	1	Rome	GPE
+chapter-005	87	1	one	CARDINAL
+chapter-005	90	1	Thou	PERSON
+chapter-005	90	2	Rome	GPE
+chapter-005	91	1	earth	LOC
+chapter-005	93	1	Thou knewest	PERSON
+chapter-005	95	1	Thou	PERSON
+chapter-005	95	2	Thy Grace	PERSON
+chapter-005	96	1	night	TIME
+chapter-005	96	2	Cyprian	NORP
+chapter-005	98	1	Thee	PERSON
+chapter-005	98	2	Thou	PERSON
+chapter-005	99	1	Thou	PERSON
+chapter-005	99	2	Thou	PERSON
+chapter-005	100	1	Thine	NORP
+chapter-005	100	2	Thou wert	PERSON
+chapter-005	102	1	Eve	PERSON
+chapter-005	103	1	Thee	PERSON
+chapter-005	103	2	Rome	GPE
+chapter-005	104	1	Thee	PERSON
+chapter-005	104	2	Adam	PERSON
+chapter-005	105	1	Thou	PERSON
+chapter-005	105	2	Christ	GPE
+chapter-005	105	3	His Cross	ORG
+chapter-005	105	4	Thee	PERSON
+chapter-005	111	1	Thou	PERSON
+chapter-005	117	1	Thee	PERSON
+chapter-005	118	1	Thou	PERSON
+chapter-005	118	2	Thy	PERSON
+chapter-005	118	3	Thine	NORP
+chapter-005	118	4	Thee	PERSON
+chapter-005	118	5	Thy	PERSON
+chapter-005	118	6	Thou	PERSON
+chapter-005	119	1	Couldest Thou	PERSON
+chapter-005	119	2	Thy	PERSON
+chapter-005	119	3	Thee	PERSON
+chapter-005	120	1	Thou	PERSON
+chapter-005	122	1	Yea	PERSON
+chapter-005	122	2	Thou wert	PERSON
+chapter-005	123	1	Thou shouldest	PERSON
+chapter-005	123	2	Thee	PERSON
+chapter-005	123	3	Thine	NORP
+chapter-005	124	1	Thou	PERSON
+chapter-005	124	2	Thy	PERSON
+chapter-005	124	3	Thou	PERSON
+chapter-005	124	4	Thy	PERSON
+chapter-005	125	1	Thee	PERSON
+chapter-005	126	1	Rome	GPE
+chapter-005	126	2	The Elect	WORK_OF_ART
+chapter-005	127	1	Thou	PERSON
+chapter-005	127	2	Thee	PERSON
+chapter-005	128	1	Thee	PERSON
+chapter-005	128	2	Thee	PERSON
+chapter-005	128	3	Thee	PERSON
+chapter-005	129	1	Thou	PERSON
+chapter-005	131	1	half	CARDINAL
+chapter-005	131	2	Academics	NORP
+chapter-005	132	1	Manichaeus	PERSON
+chapter-005	134	1	Rome	GPE
+chapter-005	134	2	Thy Church	ORG
+chapter-005	134	3	Creator	PERSON
+chapter-005	134	4	Thee	PERSON
+chapter-005	136	1	earth	LOC
+chapter-005	136	2	earth	LOC
+chapter-005	137	1	two	CARDINAL
+chapter-005	139	1	Catholic	NORP
+chapter-005	139	2	Catholic	NORP
+chapter-005	140	1	Thee	PERSON
+chapter-005	140	2	Thee	PERSON
+chapter-005	140	3	Thee	PERSON
+chapter-005	140	4	Thee	PERSON
+chapter-005	141	1	Thee	PERSON
+chapter-005	141	2	Thee	PERSON
+chapter-005	142	1	Yea	PERSON
+chapter-005	143	1	the Virgin Mary	PERSON
+chapter-005	147	1	Manichees	ORG
+chapter-005	147	2	Thy Scriptures	PERSON
+chapter-005	147	3	one	CARDINAL
+chapter-005	147	4	Helpidius	PERSON
+chapter-005	147	5	Scriptures	PRODUCT
+chapter-005	147	6	Manichees	ORG
+chapter-005	149	1	Jews	NORP
+chapter-005	149	2	Christian	NORP
+chapter-005	151	1	Rome	GPE
+chapter-005	151	2	first	ORDINAL
+chapter-005	151	3	lo	PERSON
+chapter-005	151	4	Rome	GPE
+chapter-005	151	5	Africa	LOC
+chapter-005	154	1	Thee	PERSON
+chapter-005	154	2	Thee	PERSON
+chapter-005	154	3	Thee	PERSON
+chapter-005	155	1	Thee	PERSON
+chapter-005	156	1	Thine	WORK_OF_ART
+chapter-005	157	1	Milan	GPE
+chapter-005	157	2	Rome	GPE
+chapter-005	157	3	Manichaean	NORP
+chapter-005	157	4	Symmachus	NORP
+chapter-005	158	1	Milan	GPE
+chapter-005	158	2	Thy	PERSON
+chapter-005	158	3	Thy	PERSON
+chapter-005	159	1	Thee	PERSON
+chapter-005	159	2	Thee	PERSON
+chapter-005	160	1	Episcopal	GPE
+chapter-005	161	1	first	ORDINAL
+chapter-005	161	2	Thy Church	ORG
+chapter-005	162	1	Faustus	ORG
+chapter-005	163	1	Manichaean	NORP
+chapter-005	165	1	Thee	PERSON
+chapter-005	167	1	first	ORDINAL
+chapter-005	167	2	Catholic	NORP
+chapter-005	167	3	Manichees	ORG
+chapter-005	167	4	one	CARDINAL
+chapter-005	167	5	two	CARDINAL
+chapter-005	167	6	the Old Testament	WORK_OF_ART
+chapter-005	168	1	Law	PERSON
+chapter-005	168	2	Prophets	ORG
+chapter-005	169	1	Catholic	NORP
+chapter-005	170	1	Catholic	NORP
+chapter-005	171	1	Hereupon	GPE
+chapter-005	175	1	the Catholic Church	ORG

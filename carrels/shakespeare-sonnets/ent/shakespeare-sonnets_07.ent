@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_07	1	1	VII	ORG
+shakespeare-sonnets_07	3	1	Lo	PERSON
+shakespeare-sonnets_07	4	1	Doth	PRODUCT
+shakespeare-sonnets_07	4	2	the day	DATE
+shakespeare-sonnets_07	4	3	thy noon	TIME

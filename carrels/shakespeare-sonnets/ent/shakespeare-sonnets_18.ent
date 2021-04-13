@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_18	1	1	XVIII	ORG
+shakespeare-sonnets_18	2	1	summer	DATE
+shakespeare-sonnets_18	2	2	day	DATE
+shakespeare-sonnets_18	3	1	summer	DATE
+shakespeare-sonnets_18	3	2	day	DATE
+shakespeare-sonnets_18	4	1	May	DATE
+shakespeare-sonnets_18	4	2	summer	DATE
+shakespeare-sonnets_18	4	3	wander'st	PERSON

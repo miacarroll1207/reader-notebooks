@@ -1,0 +1,326 @@
+id	sid	eid	entity	type
+chapter-009	1	1	Thy	PERSON
+chapter-009	1	2	Thy	PERSON
+chapter-009	1	3	Thy	PERSON
+chapter-009	1	4	Thou	PERSON
+chapter-009	2	1	Thee	PERSON
+chapter-009	3	1	Thee	PERSON
+chapter-009	3	2	Thee	PERSON
+chapter-009	7	1	Thou	PERSON
+chapter-009	7	2	Thy	PERSON
+chapter-009	8	1	Thou	PERSON
+chapter-009	9	1	years	DATE
+chapter-009	9	2	Thy easy yoke	PERSON
+chapter-009	9	3	Thy	PERSON
+chapter-009	9	4	O Christ Jesus	ORG
+chapter-009	9	5	Helper	ORG
+chapter-009	9	6	Redeemer	PERSON
+chapter-009	12	1	Thou	PERSON
+chapter-009	12	2	Thou	PERSON
+chapter-009	13	1	Thyself	GPE
+chapter-009	15	1	Thee	PERSON
+chapter-009	16	1	Thy	PERSON
+chapter-009	17	1	Thee	PERSON
+chapter-009	18	1	Thee	PERSON
+chapter-009	19	1	Thou	PERSON
+chapter-009	20	1	Thou	PERSON
+chapter-009	20	2	kindled	PERSON
+chapter-009	20	3	extinguish	NORP
+chapter-009	21	1	Thy Name's	PERSON
+chapter-009	21	2	Thou hast	PERSON
+chapter-009	23	1	first	ORDINAL
+chapter-009	23	2	this very summer	DATE
+chapter-009	24	1	Thou	PERSON
+chapter-009	24	2	Thou knowest	PERSON
+chapter-009	25	1	some twenty days	DATE
+chapter-009	26	1	Perchance	ORG
+chapter-009	26	2	one hour	TIME
+chapter-009	29	1	Verecundus	ORG
+chapter-009	30	1	Christian	NORP
+chapter-009	30	2	one	CARDINAL
+chapter-009	31	1	Christian	NORP
+chapter-009	33	1	Thou	PERSON
+chapter-009	33	2	Thou hast	PERSON
+chapter-009	34	1	Rome	GPE
+chapter-009	34	2	Christian	NORP
+chapter-009	35	1	Thee	PERSON
+chapter-009	35	2	Thine	NORP
+chapter-009	35	3	Thou	PERSON
+chapter-009	35	4	Verecundus	PERSON
+chapter-009	35	5	Cassiacum	PERSON
+chapter-009	35	6	Thee	PERSON
+chapter-009	35	7	Thy Paradise	PERSON
+chapter-009	35	8	Thou	PERSON
+chapter-009	35	9	Thine	NORP
+chapter-009	36	1	Nebridius joy	PERSON
+chapter-009	37	1	Christian	NORP
+chapter-009	37	2	Thy Son	PERSON
+chapter-009	37	3	Sacraments of Thy Church	ORG
+chapter-009	38	1	Thy Baptism	PERSON
+chapter-009	38	2	the Church Catholic	ORG
+chapter-009	38	3	Thee	PERSON
+chapter-009	38	4	Africa	LOC
+chapter-009	38	5	first	ORDINAL
+chapter-009	38	6	Christian	NORP
+chapter-009	38	7	Thou	PERSON
+chapter-009	38	8	Abraham	PERSON
+chapter-009	39	1	Nebridius	ORG
+chapter-009	43	1	Thou	PERSON
+chapter-009	44	1	Verecundus	PERSON
+chapter-009	44	2	Nebridius	ORG
+chapter-009	45	1	those days	DATE
+chapter-009	45	2	Thee	PERSON
+chapter-009	45	3	Thee	PERSON
+chapter-009	48	1	Thou	PERSON
+chapter-009	49	1	Thee	PERSON
+chapter-009	50	1	Thee	PERSON
+chapter-009	50	2	Nebridius	PERSON
+chapter-009	52	1	Thee	PERSON
+chapter-009	52	2	Thou	PERSON
+chapter-009	52	3	Thou	PERSON
+chapter-009	52	4	Alypius	PERSON
+chapter-009	52	5	Thy Only Begotten	PERSON
+chapter-009	52	6	Saviour Jesus Christ	ORG
+chapter-009	52	7	first	ORDINAL
+chapter-009	53	1	Church	ORG
+chapter-009	54	1	Thee	PERSON
+chapter-009	54	2	David	PERSON
+chapter-009	54	3	Catechumen	GPE
+chapter-009	54	4	Alypius a Catechumen	ORG
+chapter-009	54	5	Christian	NORP
+chapter-009	55	1	Thee	WORK_OF_ART
+chapter-009	55	2	Thee	PERSON
+chapter-009	58	1	Sacraments	ORG
+chapter-009	59	1	fourth	ORDINAL
+chapter-009	59	2	Thou	PERSON
+chapter-009	62	1	Thee	PERSON
+chapter-009	63	1	Thy	PERSON
+chapter-009	64	1	ye love vanity	FAC
+chapter-009	66	1	Thou	PERSON
+chapter-009	66	2	Thy Holy One	PERSON
+chapter-009	66	3	Comforter	PERSON
+chapter-009	68	1	Spirit	ORG
+chapter-009	68	2	Jesus	PERSON
+chapter-009	70	1	ye love vanity	FAC
+chapter-009	76	1	Thou wouldest	PERSON
+chapter-009	76	2	Thee	PERSON
+chapter-009	76	3	Thee	PERSON
+chapter-009	79	1	Yea	PERSON
+chapter-009	83	1	Thee	PERSON
+chapter-009	83	2	Thee	PERSON
+chapter-009	84	1	Thee	PERSON
+chapter-009	90	1	Thee	PERSON
+chapter-009	90	2	Thee	PERSON
+chapter-009	90	3	Thou	PERSON
+chapter-009	90	4	Thou	PERSON
+chapter-009	91	1	Thine	NORP
+chapter-009	92	1	those holy-days	DATE
+chapter-009	94	1	Thee	PERSON
+chapter-009	100	1	Thy Nod	PERSON
+chapter-009	100	2	Thy Name	PERSON
+chapter-009	102	1	Milanese	NORP
+chapter-009	102	2	Thee	PERSON
+chapter-009	103	1	Thy Prelate	PERSON
+chapter-009	103	2	Ambrose	PERSON
+chapter-009	103	3	Thy Scriptures	PERSON
+chapter-009	104	1	Isaiah	PERSON
+chapter-009	104	2	Prophet	PERSON
+chapter-009	104	3	Gospel	ORG
+chapter-009	104	4	Gentiles	PRODUCT
+chapter-009	105	1	first	ORDINAL
+chapter-009	106	1	Milan	GPE
+chapter-009	107	1	Alypius	ORG
+chapter-009	107	2	Thee	PERSON
+chapter-009	107	3	Thy Sacraments	PERSON
+chapter-009	107	4	Italy	GPE
+chapter-009	108	1	Adeodatus	ORG
+chapter-009	109	1	Thou	PERSON
+chapter-009	110	1	fifteen	CARDINAL
+chapter-009	111	1	Thee Thy	PRODUCT
+chapter-009	112	1	Thou	PERSON
+chapter-009	113	1	Thee Thy	PRODUCT
+chapter-009	114	1	The Master	WORK_OF_ART
+chapter-009	115	1	Thou knowest	PERSON
+chapter-009	115	2	his sixteenth year	DATE
+chapter-009	118	1	Thou	PERSON
+chapter-009	119	1	Thou	PERSON
+chapter-009	119	2	earth	LOC
+chapter-009	121	1	those days	DATE
+chapter-009	122	1	Thy Hymns	PERSON
+chapter-009	122	2	Canticles	ORG
+chapter-009	122	3	Church	ORG
+chapter-009	123	1	Truth	LOC
+chapter-009	124	1	the Church of Milan	ORG
+chapter-009	125	1	a year	DATE
+chapter-009	125	2	Justina	GPE
+chapter-009	125	3	the Emperor Valentinian	ORG
+chapter-009	125	4	Thy	PERSON
+chapter-009	125	5	Arians	NORP
+chapter-009	126	1	Church	ORG
+chapter-009	126	2	Bishop Thy	PERSON
+chapter-009	128	1	Thy Spirit	PERSON
+chapter-009	129	1	the Eastern Churches	ORG
+chapter-009	129	2	Hymns	PERSON
+chapter-009	129	3	that day	DATE
+chapter-009	130	1	Thou	PERSON
+chapter-009	130	2	Thy	PERSON
+chapter-009	130	3	Gervasius	PERSON
+chapter-009	130	4	Thou	PERSON
+chapter-009	130	5	Thou	PERSON
+chapter-009	130	6	Empress	ORG
+chapter-009	131	1	the Ambrosian Basilica	LOC
+chapter-009	131	2	many years	DATE
+chapter-009	132	1	Thy	PERSON
+chapter-009	135	1	Thee	PERSON
+chapter-009	136	1	Thou	PERSON
+chapter-009	136	2	Thee	PERSON
+chapter-009	138	1	Thee	PERSON
+chapter-009	139	1	Thy Hymns	PERSON
+chapter-009	139	2	Thee	PERSON
+chapter-009	139	3	Thee	PERSON
+chapter-009	140	1	one	CARDINAL
+chapter-009	140	2	one	CARDINAL
+chapter-009	140	3	Euodius	ORG
+chapter-009	141	1	Court	ORG
+chapter-009	141	2	Thee	PERSON
+chapter-009	141	3	Thine	GPE
+chapter-009	143	1	Thee	PERSON
+chapter-009	143	2	Africa	LOC
+chapter-009	143	3	Ostia	PERSON
+chapter-009	147	1	Thine	NORP
+chapter-009	148	1	Thou	PERSON
+chapter-009	149	1	Thy Christ	PERSON
+chapter-009	149	2	Thine	NORP
+chapter-009	149	3	Christian	NORP
+chapter-009	149	4	Thy Church	ORG
+chapter-009	151	1	Christian	NORP
+chapter-009	153	1	those hours	TIME
+chapter-009	158	1	daily	DATE
+chapter-009	158	2	despiseth	NORP
+chapter-009	161	1	Thou	PERSON
+chapter-009	161	2	Thou	PERSON
+chapter-009	162	1	Thou	PERSON
+chapter-009	164	1	Thou	PERSON
+chapter-009	168	1	Thou	PERSON
+chapter-009	168	2	Thou	PERSON
+chapter-009	170	1	Thou	PERSON
+chapter-009	170	2	one	CARDINAL
+chapter-009	171	1	Thee	PERSON
+chapter-009	171	2	Thee	PERSON
+chapter-009	171	3	Thee	PERSON
+chapter-009	171	4	Thee	PERSON
+chapter-009	171	5	Thou	PERSON
+chapter-009	173	1	Thee	PERSON
+chapter-009	177	1	Patricius	PERSON
+chapter-009	177	2	one day	DATE
+chapter-009	179	1	first	ORDINAL
+chapter-009	181	1	Thine	NORP
+chapter-009	181	2	Thou	PERSON
+chapter-009	184	1	Thee	PERSON
+chapter-009	185	1	Thee	PERSON
+chapter-009	186	1	one	CARDINAL
+chapter-009	186	2	Thee	PERSON
+chapter-009	187	1	Thee	PERSON
+chapter-009	188	1	The day	DATE
+chapter-009	188	2	Thou	PERSON
+chapter-009	188	3	Thy	PERSON
+chapter-009	188	4	Ostia	PERSON
+chapter-009	189	1	Truth	LOC
+chapter-009	189	2	Thou art	PERSON
+chapter-009	190	1	Thee	PERSON
+chapter-009	191	1	moon	PERSON
+chapter-009	191	2	earth	LOC
+chapter-009	191	3	Thy	PERSON
+chapter-009	191	4	Thou	PERSON
+chapter-009	191	5	Israel	GPE
+chapter-009	193	1	Spirit	ORG
+chapter-009	194	1	Thy Word	PERSON
+chapter-009	195	1	earth	LOC
+chapter-009	195	2	His Word	PERSON
+chapter-009	195	3	Angel	ORG
+chapter-009	195	4	two	CARDINAL
+chapter-009	195	5	one	CARDINAL
+chapter-009	198	1	Thou knowest	PERSON
+chapter-009	200	1	One	CARDINAL
+chapter-009	200	2	Catholic	NORP
+chapter-009	200	3	Christian	NORP
+chapter-009	201	1	thee withal	PERSON
+chapter-009	203	1	five days	DATE
+chapter-009	203	2	one day	DATE
+chapter-009	207	1	Behold	WORK_OF_ART
+chapter-009	207	2	Lay	PERSON
+chapter-009	209	1	Thou	PERSON
+chapter-009	209	2	Thou	PERSON
+chapter-009	209	3	Thy	PERSON
+chapter-009	209	4	Thee	PERSON
+chapter-009	210	1	earth	LOC
+chapter-009	213	1	Ostia	PERSON
+chapter-009	213	2	one day	DATE
+chapter-009	215	1	the ninth day	DATE
+chapter-009	215	2	fifty-sixth year	DATE
+chapter-009	215	3	three	CARDINAL
+chapter-009	225	1	Euodius	ORG
+chapter-009	225	2	Psalter	PERSON
+chapter-009	225	3	Psalm	LOC
+chapter-009	225	4	Thee	PERSON
+chapter-009	226	1	Thee	PERSON
+chapter-009	230	1	Thee	PERSON
+chapter-009	230	2	Thee	PERSON
+chapter-009	230	3	Thou	PERSON
+chapter-009	230	4	one	CARDINAL
+chapter-009	231	1	the Greek Balaneion	LAW
+chapter-009	234	1	Thy Ambrose	PERSON
+chapter-009	235	1	Thou	PERSON
+chapter-009	235	2	Ruler	PERSON
+chapter-009	236	1	Thee	PERSON
+chapter-009	236	2	Thy	PERSON
+chapter-009	237	1	Thy	PERSON
+chapter-009	238	1	Thee	PERSON
+chapter-009	239	1	sin therein	PERSON
+chapter-009	239	2	Thine	GPE
+chapter-009	239	3	Thee	PERSON
+chapter-009	239	4	Thy Christ	PERSON
+chapter-009	240	1	Thee	PERSON
+chapter-009	240	2	Thy	PERSON
+chapter-009	240	3	Adam	GPE
+chapter-009	241	1	Christ	ORG
+chapter-009	241	2	Thy	PERSON
+chapter-009	241	3	Thou	PERSON
+chapter-009	241	4	Thy Commandment	PERSON
+chapter-009	242	1	Thy Son	PERSON
+chapter-009	242	2	Truth	LOC
+chapter-009	242	3	Thou	PERSON
+chapter-009	243	1	Thou shouldest examine	PERSON
+chapter-009	244	1	Thou	PERSON
+chapter-009	244	2	Thee	PERSON
+chapter-009	245	1	Thee	PERSON
+chapter-009	245	2	Thee	PERSON
+chapter-009	245	3	Thine	PERSON
+chapter-009	247	1	Thee	PERSON
+chapter-009	247	2	joy	PERSON
+chapter-009	247	3	Thee	PERSON
+chapter-009	248	1	Thee	PERSON
+chapter-009	248	2	Thee	PERSON
+chapter-009	249	1	Thou	PERSON
+chapter-009	250	1	Thee	PERSON
+chapter-009	251	1	Thy	PERSON
+chapter-009	251	2	Thou hast	PERSON
+chapter-009	251	3	Thou	PERSON
+chapter-009	251	4	Thou	PERSON
+chapter-009	251	5	Thou	PERSON
+chapter-009	252	1	Thou hast	PERSON
+chapter-009	253	1	the day	DATE
+chapter-009	254	1	Thy Altar	PERSON
+chapter-009	254	2	one day	DATE
+chapter-009	260	1	Thee	PERSON
+chapter-009	260	2	Thee	PERSON
+chapter-009	261	1	Confessions	GPE
+chapter-009	261	2	Thy Altar	PERSON
+chapter-009	261	3	Monnica Thy	PERSON
+chapter-009	261	4	Patricius	PERSON
+chapter-009	261	5	Thou	PERSON
+chapter-009	262	1	Thee	PERSON
+chapter-009	262	2	Catholic	NORP
+chapter-009	262	3	Jerusalem	GPE
+chapter-009	262	4	sigheth	PERSON
+chapter-009	262	5	Exodus	NORP

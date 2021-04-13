@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_59	1	1	LIX	ORG
+shakespeare-sonnets_59	2	1	second	ORDINAL
+shakespeare-sonnets_59	4	1	five hundred	CARDINAL
+shakespeare-sonnets_59	4	2	first	ORDINAL
+shakespeare-sonnets_59	7	1	former days	DATE

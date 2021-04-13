@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_16	1	1	XVI	ORG
+shakespeare-sonnets_16	2	1	Time	ORG
+shakespeare-sonnets_16	4	1	the top of happy hours	TIME
+shakespeare-sonnets_16	4	2	Time	ORG

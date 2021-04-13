@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_43	3	1	the clear day	DATE
+shakespeare-sonnets_43	4	1	the living day	DATE
+shakespeare-sonnets_43	4	2	night	TIME
+shakespeare-sonnets_43	5	1	All days	DATE

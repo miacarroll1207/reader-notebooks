@@ -1,0 +1,213 @@
+id	sid	eid	entity	type
+homer-odyssey_03	2	1	Neleus	GPE
+homer-odyssey_03	3	1	Pylos	PERSON
+homer-odyssey_03	3	2	Neptune	ORG
+homer-odyssey_03	4	1	nine	CARDINAL
+homer-odyssey_03	4	2	five hundred	CARDINAL
+homer-odyssey_03	4	3	nine	CARDINAL
+homer-odyssey_03	5	1	Neptune	LOC
+homer-odyssey_03	6	1	Minerva	ORG
+homer-odyssey_03	7	1	Nestor	ORG
+homer-odyssey_03	9	1	Mentor	GPE
+homer-odyssey_03	9	2	Nestor	ORG
+homer-odyssey_03	11	1	Minerva	PERSON
+homer-odyssey_03	12	1	Pylian	NORP
+homer-odyssey_03	15	1	Thrasymedes	PERSON
+homer-odyssey_03	16	1	Minerva	ORG
+homer-odyssey_03	17	1	King Neptune	ORG
+homer-odyssey_03	21	1	Minerva	PERSON
+homer-odyssey_03	21	2	first	ORDINAL
+homer-odyssey_03	21	3	Neptune	LOC
+homer-odyssey_03	23	1	Pylian	NORP
+homer-odyssey_03	24	1	Pylos	ORG
+homer-odyssey_03	27	1	Nestor	ORG
+homer-odyssey_03	27	2	Gerene	GPE
+homer-odyssey_03	32	1	Minerva	PERSON
+homer-odyssey_03	33	1	Neleus	ORG
+homer-odyssey_03	33	2	Achaean	NORP
+homer-odyssey_03	34	1	Ithaca	ORG
+homer-odyssey_03	34	2	Neritum	ORG
+homer-odyssey_03	35	1	Ulysses	PERSON
+homer-odyssey_03	35	2	Troy	GPE
+homer-odyssey_03	36	1	Troy	GPE
+homer-odyssey_03	39	1	Achaeans	NORP
+homer-odyssey_03	39	2	Trojans	NORP
+homer-odyssey_03	40	1	Nestor	ORG
+homer-odyssey_03	40	2	Achaeans	NORP
+homer-odyssey_03	40	3	Achilles	PERSON
+homer-odyssey_03	40	4	Priam	PERSON
+homer-odyssey_03	41	1	Achilles	PERSON
+homer-odyssey_03	41	2	Antilochus	PERSON
+homer-odyssey_03	43	1	five years	DATE
+homer-odyssey_03	43	2	six	DATE
+homer-odyssey_03	43	3	Achaeans	NORP
+homer-odyssey_03	44	1	Nine long years	DATE
+homer-odyssey_03	45	1	first	ORDINAL
+homer-odyssey_03	45	2	Argives	NORP
+homer-odyssey_03	46	1	Priam	GPE
+homer-odyssey_03	46	2	Jove	PERSON
+homer-odyssey_03	46	3	Minerva	PERSON
+homer-odyssey_03	46	4	two	CARDINAL
+homer-odyssey_03	46	5	Atreus	ORG
+homer-odyssey_03	47	1	Atreus	PERSON
+homer-odyssey_03	47	2	Achaeans	NORP
+homer-odyssey_03	48	1	Menelaus	ORG
+homer-odyssey_03	48	2	Agamemnon	PERSON
+homer-odyssey_03	48	3	Minerva	PERSON
+homer-odyssey_03	50	1	two	CARDINAL
+homer-odyssey_03	50	2	Achaeans	NORP
+homer-odyssey_03	50	3	two	CARDINAL
+homer-odyssey_03	51	1	That night	TIME
+homer-odyssey_03	51	2	Jove	PERSON
+homer-odyssey_03	52	1	morning	TIME
+homer-odyssey_03	52	2	about half	CARDINAL
+homer-odyssey_03	52	3	Agamemnon	PERSON
+homer-odyssey_03	53	1	half	CARDINAL
+homer-odyssey_03	54	1	second	ORDINAL
+homer-odyssey_03	54	2	Ulysses	GPE
+homer-odyssey_03	54	3	Agamemnon	PERSON
+homer-odyssey_03	55	1	Tydeus	PERSON
+homer-odyssey_03	56	1	Menelaus	ORG
+homer-odyssey_03	56	2	Chios	PRODUCT
+homer-odyssey_03	56	3	Psyra	GPE
+homer-odyssey_03	56	4	Chios	ORG
+homer-odyssey_03	56	5	Mimas	GPE
+homer-odyssey_03	58	1	the night	TIME
+homer-odyssey_03	58	2	Geraestus	PERSON
+homer-odyssey_03	58	3	Neptune	LOC
+homer-odyssey_03	59	1	Four days later	DATE
+homer-odyssey_03	59	2	Diomed	PERSON
+homer-odyssey_03	59	3	Argos	GPE
+homer-odyssey_03	59	4	Pylos	PERSON
+homer-odyssey_03	59	5	the day	DATE
+homer-odyssey_03	62	1	Myrmidons	ORG
+homer-odyssey_03	62	2	Achilles	PERSON
+homer-odyssey_03	62	3	Neoptolemus	PERSON
+homer-odyssey_03	62	4	Poias	GPE
+homer-odyssey_03	63	1	Idomeneus	ORG
+homer-odyssey_03	64	1	Agamemnon	PERSON
+homer-odyssey_03	64	2	Aegisthus	NORP
+homer-odyssey_03	64	3	Aegisthus	NORP
+homer-odyssey_03	65	1	Aegisthus	NORP
+homer-odyssey_03	67	1	Neleus	ORG
+homer-odyssey_03	67	2	Achaean	NORP
+homer-odyssey_03	67	3	Achaeans	NORP
+homer-odyssey_03	69	1	Nestor	ORG
+homer-odyssey_03	71	1	Achaeans	NORP
+homer-odyssey_03	72	1	Minerva	PERSON
+homer-odyssey_03	72	2	Minerva	PERSON
+homer-odyssey_03	76	1	Minerva	ORG
+homer-odyssey_03	78	1	Agamemnon	PERSON
+homer-odyssey_03	78	2	Aegisthus	NORP
+homer-odyssey_03	79	1	a man 's hour	TIME
+homer-odyssey_03	80	1	Mentor	WORK_OF_ART
+homer-odyssey_03	82	1	Nestor	ORG
+homer-odyssey_03	83	1	three	CARDINAL
+homer-odyssey_03	84	1	Nestor	ORG
+homer-odyssey_03	84	2	Agamemnon	PERSON
+homer-odyssey_03	85	1	Menelaus	ORG
+homer-odyssey_03	86	1	Aegisthus	NORP
+homer-odyssey_03	87	1	Menelaus	PERSON
+homer-odyssey_03	87	2	Achaean Argos	LOC
+homer-odyssey_03	87	3	Aegisthus	NORP
+homer-odyssey_03	87	4	Agamemnon	PERSON
+homer-odyssey_03	88	1	Nestor	ORG
+homer-odyssey_03	89	1	Menelaus	PERSON
+homer-odyssey_03	89	2	Troy	GPE
+homer-odyssey_03	89	3	Aegisthus	NORP
+homer-odyssey_03	89	4	Troy	GPE
+homer-odyssey_03	89	5	Aegisthus	NORP
+homer-odyssey_03	89	6	Argos	GPE
+homer-odyssey_03	89	7	Agamemnon	PERSON
+homer-odyssey_03	89	8	Clytemnestra	PERSON
+homer-odyssey_03	90	1	Agamemnon	PERSON
+homer-odyssey_03	90	2	Aegisthus	NORP
+homer-odyssey_03	90	3	Aegisthus	NORP
+homer-odyssey_03	92	1	Menelaus	PERSON
+homer-odyssey_03	92	2	Troy	GPE
+homer-odyssey_03	93	1	Sunium	ORG
+homer-odyssey_03	93	2	Athens	GPE
+homer-odyssey_03	93	3	Apollo	ORG
+homer-odyssey_03	93	4	Menelaus	ORG
+homer-odyssey_03	93	5	Menelaus	ORG
+homer-odyssey_03	94	1	Malean	NORP
+homer-odyssey_03	94	2	Jove	PERSON
+homer-odyssey_03	95	1	one half	CARDINAL
+homer-odyssey_03	95	2	Crete	PRODUCT
+homer-odyssey_03	95	3	Cydonians	NORP
+homer-odyssey_03	95	4	Iardanus	ORG
+homer-odyssey_03	96	1	Gortyn	PERSON
+homer-odyssey_03	96	2	Phaestus	ORG
+homer-odyssey_03	98	1	five	CARDINAL
+homer-odyssey_03	98	2	Egypt	GPE
+homer-odyssey_03	98	3	Menelaus	ORG
+homer-odyssey_03	99	1	Aegisthus	PERSON
+homer-odyssey_03	100	1	seven years	DATE
+homer-odyssey_03	100	2	Agamemnon	PERSON
+homer-odyssey_03	100	3	Mycene	GPE
+homer-odyssey_03	100	4	the eighth year	DATE
+homer-odyssey_03	100	5	Athens	GPE
+homer-odyssey_03	101	1	Aegisthus	NORP
+homer-odyssey_03	101	2	Argos	GPE
+homer-odyssey_03	101	3	Menelaus	PERSON
+homer-odyssey_03	103	1	Menelaus	ORG
+homer-odyssey_03	103	2	a twelve- month	DATE
+homer-odyssey_03	104	1	Lacedaemon	PERSON
+homer-odyssey_03	104	2	Menelaus	ORG
+homer-odyssey_03	106	1	Minerva	PERSON
+homer-odyssey_03	106	2	Neptune	ORG
+homer-odyssey_03	107	1	late hours	TIME
+homer-odyssey_03	108	1	Jove	GPE
+homer-odyssey_03	110	1	Minerva	PERSON
+homer-odyssey_03	110	2	Telemachus	PERSON
+homer-odyssey_03	110	3	Nestor	ORG
+homer-odyssey_03	114	1	Minerva	PERSON
+homer-odyssey_03	116	1	morrow	DATE
+homer-odyssey_03	116	2	Cauconians	NORP
+homer-odyssey_03	117	1	Lacedaemon	PERSON
+homer-odyssey_03	121	1	some day	DATE
+homer-odyssey_03	124	1	a year old	DATE
+homer-odyssey_03	126	1	Minerva	PERSON
+homer-odyssey_03	128	1	eleven years old	DATE
+homer-odyssey_03	129	1	Minerva	ORG
+homer-odyssey_03	130	1	Pisistratus	ORG
+homer-odyssey_03	132	1	morning	TIME
+homer-odyssey_03	132	2	Dawn	PERSON
+homer-odyssey_03	132	3	Nestor	ORG
+homer-odyssey_03	133	1	Neleus	ORG
+homer-odyssey_03	134	1	Echephron	ORG
+homer-odyssey_03	134	2	Stratius, Perseus	ORG
+homer-odyssey_03	134	3	Aretus	ORG
+homer-odyssey_03	134	4	Thrasymedes	LOC
+homer-odyssey_03	134	5	sixth	ORDINAL
+homer-odyssey_03	134	6	Pisistratus	PERSON
+homer-odyssey_03	137	1	first	ORDINAL
+homer-odyssey_03	137	2	Minerva	PERSON
+homer-odyssey_03	137	3	yesterday	DATE
+homer-odyssey_03	138	1	one	CARDINAL
+homer-odyssey_03	139	1	two	CARDINAL
+homer-odyssey_03	144	1	Minerva	PERSON
+homer-odyssey_03	146	1	Stratius	ORG
+homer-odyssey_03	146	2	Echephron	ORG
+homer-odyssey_03	146	3	Aretus	ORG
+homer-odyssey_03	146	4	Perseus	ORG
+homer-odyssey_03	147	1	Minerva	PERSON
+homer-odyssey_03	148	1	Thrasymedes	PERSON
+homer-odyssey_03	148	2	Nestor	ORG
+homer-odyssey_03	148	3	Eurydice	PERSON
+homer-odyssey_03	148	4	Clymenus	PERSON
+homer-odyssey_03	149	1	Pisistratus	ORG
+homer-odyssey_03	151	1	two	CARDINAL
+homer-odyssey_03	153	1	Polycaste	PERSON
+homer-odyssey_03	153	2	Nestor	ORG
+homer-odyssey_03	154	1	Nestor	ORG
+homer-odyssey_03	156	1	Nestor	ORG
+homer-odyssey_03	160	1	Pylos	PERSON
+homer-odyssey_03	162	1	Pherae	ORG
+homer-odyssey_03	162	2	Diocles	GPE
+homer-odyssey_03	162	3	Ortilochus	NORP
+homer-odyssey_03	162	4	Alpheus	PERSON
+homer-odyssey_03	163	1	the night	TIME
+homer-odyssey_03	163	2	Diocles	NORP
+homer-odyssey_03	164	1	morning	TIME
+homer-odyssey_03	164	2	Dawn	PERSON

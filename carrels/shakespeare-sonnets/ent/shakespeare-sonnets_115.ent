@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_115	1	1	CXV	ORG
+shakespeare-sonnets_115	3	1	Time	ORG
+shakespeare-sonnets_115	3	2	Creep	PERSON
+shakespeare-sonnets_115	3	3	Tan	PERSON
+shakespeare-sonnets_115	3	4	sharp'st	ORG
+shakespeare-sonnets_115	3	5	Divert	PERSON
+shakespeare-sonnets_115	4	1	Time	ORG

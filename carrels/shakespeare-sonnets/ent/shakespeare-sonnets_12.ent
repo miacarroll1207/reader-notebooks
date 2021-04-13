@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_12	1	1	XII	ORG
+shakespeare-sonnets_12	2	1	the brave day	DATE
+shakespeare-sonnets_12	2	2	hideous night	TIME
+shakespeare-sonnets_12	2	3	summer	DATE
+shakespeare-sonnets_12	2	4	Borne	PERSON
+shakespeare-sonnets_12	2	5	Time	ORG

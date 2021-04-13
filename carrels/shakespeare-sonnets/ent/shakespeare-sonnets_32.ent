@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_32	1	1	XXXII	ORG
+shakespeare-sonnets_32	2	1	day	DATE
+shakespeare-sonnets_32	2	2	lover	PERSON
+shakespeare-sonnets_32	2	3	Reserve	PERSON

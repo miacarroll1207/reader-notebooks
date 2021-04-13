@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_03	1	1	III	ORG
+shakespeare-sonnets_03	2	1	Thou	PERSON
+shakespeare-sonnets_03	5	1	April	DATE
+shakespeare-sonnets_03	6	1	Die	PERSON

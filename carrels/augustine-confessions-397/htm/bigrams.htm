@@ -1,0 +1,1011 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">bigram</li>
+		</ol>
+	</nav>
+
+<h1>bigram</h1>
+<p>This is a table of type bigram and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>bigram</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>without form</td><td>40</td></tr>
+<tr><td>let us</td><td>30</td></tr>
+<tr><td>god made</td><td>24</td></tr>
+<tr><td>one thing</td><td>23</td></tr>
+<tr><td>happy life</td><td>20</td></tr>
+<tr><td>made heaven</td><td>19</td></tr>
+<tr><td>mine eyes</td><td>17</td></tr>
+<tr><td>lord god</td><td>16</td></tr>
+<tr><td>one day</td><td>16</td></tr>
+<tr><td>pass away</td><td>15</td></tr>
+<tr><td>many things</td><td>14</td></tr>
+<tr><td>formless matter</td><td>13</td></tr>
+<tr><td>holy ghost</td><td>13</td></tr>
+<tr><td>beginning god</td><td>13</td></tr>
+<tr><td>right hand</td><td>13</td></tr>
+<tr><td>every thing</td><td>13</td></tr>
+<tr><td>living soul</td><td>12</td></tr>
+<tr><td>bring forth</td><td>12</td></tr>
+<tr><td>good things</td><td>12</td></tr>
+<tr><td>long time</td><td>11</td></tr>
+<tr><td>called heaven</td><td>11</td></tr>
+<tr><td>nothing else</td><td>11</td></tr>
+<tr><td>thine eyes</td><td>10</td></tr>
+<tr><td>time past</td><td>10</td></tr>
+<tr><td>things past</td><td>10</td></tr>
+<tr><td>little ones</td><td>10</td></tr>
+<tr><td>measure times</td><td>10</td></tr>
+<tr><td>earth invisible</td><td>10</td></tr>
+<tr><td>passed away</td><td>10</td></tr>
+<tr><td>thine ears</td><td>9</td></tr>
+<tr><td>every man</td><td>9</td></tr>
+<tr><td>might see</td><td>8</td></tr>
+<tr><td>jesus christ</td><td>8</td></tr>
+<tr><td>well done</td><td>8</td></tr>
+<tr><td>dry land</td><td>8</td></tr>
+<tr><td>whole world</td><td>8</td></tr>
+<tr><td>thyself art</td><td>8</td></tr>
+<tr><td>will pass</td><td>8</td></tr>
+<tr><td>many years</td><td>8</td></tr>
+<tr><td>takes place</td><td>7</td></tr>
+<tr><td>creeping things</td><td>7</td></tr>
+<tr><td>hadst made</td><td>7</td></tr>
+<tr><td>inner ear</td><td>6</td></tr>
+<tr><td>inner man</td><td>6</td></tr>
+<tr><td>turned away</td><td>6</td></tr>
+<tr><td>good spirit</td><td>6</td></tr>
+<tr><td>make heaven</td><td>6</td></tr>
+<tr><td>catholic faith</td><td>6</td></tr>
+<tr><td>god make</td><td>6</td></tr>
+<tr><td>good works</td><td>6</td></tr>
+<tr><td>god created</td><td>6</td></tr>
+<tr><td>made flesh</td><td>6</td></tr>
+<tr><td>darksome deep</td><td>6</td></tr>
+<tr><td>lord jesus</td><td>6</td></tr>
+<tr><td>yet even</td><td>6</td></tr>
+<tr><td>inmost soul</td><td>6</td></tr>
+<tr><td>things present</td><td>6</td></tr>
+<tr><td>one another</td><td>6</td></tr>
+<tr><td>every one</td><td>5</td></tr>
+<tr><td>brought back</td><td>5</td></tr>
+<tr><td>passeth away</td><td>5</td></tr>
+<tr><td>yet still</td><td>5</td></tr>
+<tr><td>far forth</td><td>5</td></tr>
+<tr><td>altogether nothing</td><td>5</td></tr>
+<tr><td>set forth</td><td>5</td></tr>
+<tr><td>shall find</td><td>5</td></tr>
+<tr><td>god almighty</td><td>5</td></tr>
+<tr><td>one way</td><td>5</td></tr>
+<tr><td>must needs</td><td>5</td></tr>
+<tr><td>things also</td><td>5</td></tr>
+<tr><td>hundred years</td><td>5</td></tr>
+<tr><td>stood still</td><td>5</td></tr>
+<tr><td>one man</td><td>5</td></tr>
+<tr><td>eternal life</td><td>5</td></tr>
+<tr><td>young man</td><td>5</td></tr>
+<tr><td>shall stand</td><td>5</td></tr>
+<tr><td>righteous man</td><td>5</td></tr>
+<tr><td>holy scriptures</td><td>5</td></tr>
+<tr><td>us love</td><td>5</td></tr>
+<tr><td>pass beyond</td><td>5</td></tr>
+<tr><td>word coeternal</td><td>5</td></tr>
+<tr><td>brought forth</td><td>5</td></tr>
+<tr><td>liberal sciences</td><td>5</td></tr>
+<tr><td>strong voice</td><td>5</td></tr>
+<tr><td>art ever</td><td>5</td></tr>
+<tr><td>may live</td><td>5</td></tr>
+<tr><td>yet neither</td><td>5</td></tr>
+<tr><td>ye shall</td><td>5</td></tr>
+<tr><td>createdst heaven</td><td>5</td></tr>
+<tr><td>one hour</td><td>5</td></tr>
+<tr><td>sometimes darkness</td><td>5</td></tr>
+<tr><td>true god</td><td>5</td></tr>
+<tr><td>three times</td><td>5</td></tr>
+<tr><td>gave way</td><td>5</td></tr>
+<tr><td>many ways</td><td>5</td></tr>
+<tr><td>one good</td><td>5</td></tr>
+<tr><td>much less</td><td>5</td></tr>
+<tr><td>almost nothing</td><td>5</td></tr>
+<tr><td>created heaven</td><td>5</td></tr>
+<tr><td>true life</td><td>4</td></tr>
+<tr><td>make man</td><td>4</td></tr>
+<tr><td>teacheth us</td><td>4</td></tr>
+<tr><td>shall see</td><td>4</td></tr>
+<tr><td>corporeal matter</td><td>4</td></tr>
+<tr><td>good pleasure</td><td>4</td></tr>
+<tr><td>much better</td><td>4</td></tr>
+<tr><td>passing away</td><td>4</td></tr>
+<tr><td>soul may</td><td>4</td></tr>
+<tr><td>true joy</td><td>4</td></tr>
+<tr><td>little one</td><td>4</td></tr>
+<tr><td>may hear</td><td>4</td></tr>
+<tr><td>shall say</td><td>4</td></tr>
+<tr><td>yet doth</td><td>4</td></tr>
+<tr><td>sixteenth year</td><td>4</td></tr>
+<tr><td>good master</td><td>4</td></tr>
+<tr><td>good father</td><td>4</td></tr>
+<tr><td>made subject</td><td>4</td></tr>
+<tr><td>alone art</td><td>4</td></tr>
+<tr><td>will say</td><td>4</td></tr>
+<tr><td>ye may</td><td>4</td></tr>
+<tr><td>mind commands</td><td>4</td></tr>
+<tr><td>christ jesus</td><td>4</td></tr>
+<tr><td>take heed</td><td>4</td></tr>
+<tr><td>conflicting wills</td><td>4</td></tr>
+<tr><td>among us</td><td>4</td></tr>
+<tr><td>young men</td><td>4</td></tr>
+<tr><td>one house</td><td>4</td></tr>
+<tr><td>wholly every</td><td>4</td></tr>
+<tr><td>times past</td><td>4</td></tr>
+<tr><td>moses meant</td><td>4</td></tr>
+<tr><td>catholic church</td><td>4</td></tr>
+<tr><td>clearly seen</td><td>4</td></tr>
+<tr><td>human body</td><td>4</td></tr>
+<tr><td>cast away</td><td>4</td></tr>
+<tr><td>moses thought</td><td>4</td></tr>
+<tr><td>one soul</td><td>4</td></tr>
+<tr><td>just judgment</td><td>4</td></tr>
+<tr><td>might find</td><td>4</td></tr>
+<tr><td>good god</td><td>4</td></tr>
+<tr><td>made us</td><td>4</td></tr>
+<tr><td>might hear</td><td>4</td></tr>
+<tr><td>grow sweet</td><td>4</td></tr>
+<tr><td>madest heaven</td><td>4</td></tr>
+<tr><td>two wills</td><td>4</td></tr>
+<tr><td>human society</td><td>4</td></tr>
+<tr><td>even now</td><td>4</td></tr>
+<tr><td>present time</td><td>4</td></tr>
+<tr><td>great one</td><td>4</td></tr>
+<tr><td>great deep</td><td>4</td></tr>
+<tr><td>unchangeable truth</td><td>4</td></tr>
+<tr><td>corporeal creature</td><td>4</td></tr>
+<tr><td>earth may</td><td>4</td></tr>
+<tr><td>remember forgetfulness</td><td>4</td></tr>
+<tr><td>time present</td><td>4</td></tr>
+<tr><td>double time</td><td>4</td></tr>
+<tr><td>art god</td><td>4</td></tr>
+<tr><td>may love</td><td>4</td></tr>
+<tr><td>holy ones</td><td>4</td></tr>
+<tr><td>ye seek</td><td>4</td></tr>
+<tr><td>another way</td><td>4</td></tr>
+<tr><td>true light</td><td>3</td></tr>
+<tr><td>carnal pleasures</td><td>3</td></tr>
+<tr><td>give thanks</td><td>3</td></tr>
+<tr><td>sight clear</td><td>3</td></tr>
+<tr><td>yet know</td><td>3</td></tr>
+<tr><td>might afterwards</td><td>3</td></tr>
+<tr><td>shed abroad</td><td>3</td></tr>
+<tr><td>might appear</td><td>3</td></tr>
+<tr><td>among men</td><td>3</td></tr>
+<tr><td>love vanity</td><td>3</td></tr>
+<tr><td>secret place</td><td>3</td></tr>
+<tr><td>went away</td><td>3</td></tr>
+<tr><td>fly away</td><td>3</td></tr>
+<tr><td>two years</td><td>3</td></tr>
+<tr><td>now will</td><td>3</td></tr>
+<tr><td>past sorrow</td><td>3</td></tr>
+<tr><td>speak falsely</td><td>3</td></tr>
+<tr><td>short syllable</td><td>3</td></tr>
+<tr><td>flying fowls</td><td>3</td></tr>
+<tr><td>may bring</td><td>3</td></tr>
+<tr><td>give way</td><td>3</td></tr>
+<tr><td>far different</td><td>3</td></tr>
+<tr><td>one well</td><td>3</td></tr>
+<tr><td>might learn</td><td>3</td></tr>
+<tr><td>chose rather</td><td>3</td></tr>
+<tr><td>turn away</td><td>3</td></tr>
+<tr><td>every side</td><td>3</td></tr>
+<tr><td>show us</td><td>3</td></tr>
+<tr><td>many days</td><td>3</td></tr>
+<tr><td>bodily senses</td><td>3</td></tr>
+<tr><td>now current</td><td>3</td></tr>
+<tr><td>carry us</td><td>3</td></tr>
+<tr><td>ye transformed</td><td>3</td></tr>
+<tr><td>great mercy</td><td>3</td></tr>
+<tr><td>us make</td><td>3</td></tr>
+<tr><td>hadst given</td><td>3</td></tr>
+<tr><td>one place</td><td>3</td></tr>
+<tr><td>every creature</td><td>3</td></tr>
+<tr><td>evil matter</td><td>3</td></tr>
+<tr><td>create heaven</td><td>3</td></tr>
+<tr><td>may call</td><td>3</td></tr>
+<tr><td>nine years</td><td>3</td></tr>
+<tr><td>will answer</td><td>3</td></tr>
+<tr><td>one god</td><td>3</td></tr>
+<tr><td>earth brings</td><td>3</td></tr>
+<tr><td>lay open</td><td>3</td></tr>
+<tr><td>christian faith</td><td>3</td></tr>
+<tr><td>innumerable things</td><td>3</td></tr>
+<tr><td>new will</td><td>3</td></tr>
+<tr><td>day come</td><td>3</td></tr>
+<tr><td>spiritual creature</td><td>3</td></tr>
+<tr><td>might bring</td><td>3</td></tr>
+<tr><td>like manner</td><td>3</td></tr>
+<tr><td>true faith</td><td>3</td></tr>
+<tr><td>short time</td><td>3</td></tr>
+<tr><td>wondrous depth</td><td>3</td></tr>
+<tr><td>spake truth</td><td>3</td></tr>
+<tr><td>bodily sense</td><td>3</td></tr>
+<tr><td>servant moses</td><td>3</td></tr>
+<tr><td>shall give</td><td>3</td></tr>
+<tr><td>hence also</td><td>3</td></tr>
+<tr><td>come wherein</td><td>3</td></tr>
+<tr><td>human life</td><td>3</td></tr>
+<tr><td>shall pass</td><td>3</td></tr>
+<tr><td>well skilled</td><td>3</td></tr>
+<tr><td>two contrary</td><td>3</td></tr>
+<tr><td>whoso knoweth</td><td>3</td></tr>
+<tr><td>commit fornication</td><td>3</td></tr>
+<tr><td>mine iniquity</td><td>3</td></tr>
+<tr><td>whole house</td><td>3</td></tr>
+<tr><td>whatever else</td><td>3</td></tr>
+<tr><td>things corporeal</td><td>3</td></tr>
+<tr><td>already found</td><td>3</td></tr>
+<tr><td>become vain</td><td>3</td></tr>
+<tr><td>feared lest</td><td>3</td></tr>
+<tr><td>made man</td><td>3</td></tr>
+<tr><td>might receive</td><td>3</td></tr>
+<tr><td>soul shall</td><td>3</td></tr>
+<tr><td>things beautiful</td><td>3</td></tr>
+<tr><td>corporeal heaven</td><td>3</td></tr>
+<tr><td>shall praise</td><td>3</td></tr>
+<tr><td>sobriety abide</td><td>3</td></tr>
+<tr><td>long syllable</td><td>3</td></tr>
+<tr><td>might live</td><td>3</td></tr>
+<tr><td>stuck fast</td><td>3</td></tr>
+<tr><td>remember also</td><td>3</td></tr>
+<tr><td>something better</td><td>3</td></tr>
+<tr><td>power whereby</td><td>3</td></tr>
+<tr><td>things good</td><td>3</td></tr>
+<tr><td>towards us</td><td>3</td></tr>
+<tr><td>thing now</td><td>3</td></tr>
+<tr><td>create something</td><td>3</td></tr>
+<tr><td>yet unformed</td><td>3</td></tr>
+<tr><td>true eternity</td><td>3</td></tr>
+<tr><td>far otherwise</td><td>3</td></tr>
+<tr><td>might know</td><td>3</td></tr>
+<tr><td>every way</td><td>3</td></tr>
+<tr><td>manifestation thereof</td><td>3</td></tr>
+<tr><td>living creatures</td><td>3</td></tr>
+<tr><td>now see</td><td>3</td></tr>
+<tr><td>things changeable</td><td>3</td></tr>
+<tr><td>things visible</td><td>3</td></tr>
+<tr><td>secret ways</td><td>3</td></tr>
+<tr><td>good deeds</td><td>3</td></tr>
+<tr><td>hidden things</td><td>3</td></tr>
+<tr><td>carried away</td><td>3</td></tr>
+<tr><td>rent asunder</td><td>3</td></tr>
+<tr><td>ears also</td><td>3</td></tr>
+<tr><td>blessed life</td><td>3</td></tr>
+<tr><td>laying aside</td><td>3</td></tr>
+<tr><td>church catholic</td><td>3</td></tr>
+<tr><td>nineteenth year</td><td>3</td></tr>
+<tr><td>current month</td><td>3</td></tr>
+<tr><td>might say</td><td>3</td></tr>
+<tr><td>without fear</td><td>3</td></tr>
+<tr><td>hadst already</td><td>3</td></tr>
+<tr><td>dwelt among</td><td>3</td></tr>
+<tr><td>givest grace</td><td>3</td></tr>
+<tr><td>loved vanity</td><td>3</td></tr>
+<tr><td>holy scripture</td><td>3</td></tr>
+<tr><td>yea rather</td><td>3</td></tr>
+<tr><td>now begun</td><td>3</td></tr>
+<tr><td>gathered together</td><td>3</td></tr>
+<tr><td>us now</td><td>3</td></tr>
+<tr><td>maketh intercession</td><td>3</td></tr>
+<tr><td>due season</td><td>3</td></tr>
+<tr><td>already formed</td><td>3</td></tr>
+<tr><td>great age</td><td>3</td></tr>
+<tr><td>see light</td><td>3</td></tr>
+<tr><td>yet suffer</td><td>3</td></tr>
+<tr><td>art truth</td><td>3</td></tr>
+<tr><td>gathering together</td><td>3</td></tr>
+<tr><td>fell away</td><td>3</td></tr>
+<tr><td>put away</td><td>3</td></tr>
+<tr><td>whole self</td><td>3</td></tr>
+<tr><td>wholesome advice</td><td>3</td></tr>
+<tr><td>things whereof</td><td>3</td></tr>
+<tr><td>invisible things</td><td>3</td></tr>
+<tr><td>moving creature</td><td>3</td></tr>
+<tr><td>far country</td><td>3</td></tr>
+<tr><td>may know</td><td>3</td></tr>
+<tr><td>lower things</td><td>3</td></tr>
+<tr><td>visible world</td><td>3</td></tr>
+<tr><td>neither doth</td><td>3</td></tr>
+<tr><td>time neither</td><td>3</td></tr>
+<tr><td>spiritual gifts</td><td>3</td></tr>
+<tr><td>old man</td><td>3</td></tr>
+<tr><td>given us</td><td>3</td></tr>
+<tr><td>called earth</td><td>2</td></tr>
+<tr><td>ye love</td><td>2</td></tr>
+<tr><td>shorter time</td><td>2</td></tr>
+<tr><td>became light</td><td>2</td></tr>
+<tr><td>god exalted</td><td>2</td></tr>
+<tr><td>ever finding</td><td>2</td></tr>
+<tr><td>lighteth every</td><td>2</td></tr>
+<tr><td>foul offences</td><td>2</td></tr>
+<tr><td>true meanings</td><td>2</td></tr>
+<tr><td>poetic fictions</td><td>2</td></tr>
+<tr><td>every tongue</td><td>2</td></tr>
+<tr><td>sober widow</td><td>2</td></tr>
+<tr><td>art eternal</td><td>2</td></tr>
+<tr><td>command entirely</td><td>2</td></tr>
+<tr><td>ministers work</td><td>2</td></tr>
+<tr><td>might stumble</td><td>2</td></tr>
+<tr><td>lowest earth</td><td>2</td></tr>
+<tr><td>never found</td><td>2</td></tr>
+<tr><td>lower world</td><td>2</td></tr>
+<tr><td>easy yoke</td><td>2</td></tr>
+<tr><td>glow inwardly</td><td>2</td></tr>
+<tr><td>past sins</td><td>2</td></tr>
+<tr><td>served god</td><td>2</td></tr>
+<tr><td>seventh day</td><td>2</td></tr>
+<tr><td>will show</td><td>2</td></tr>
+<tr><td>whole corporeal</td><td>2</td></tr>
+<tr><td>holy fear</td><td>2</td></tr>
+<tr><td>may break</td><td>2</td></tr>
+<tr><td>hear something</td><td>2</td></tr>
+<tr><td>vision discover</td><td>2</td></tr>
+<tr><td>laid open</td><td>2</td></tr>
+<tr><td>became fools</td><td>2</td></tr>
+<tr><td>appear manifestly</td><td>2</td></tr>
+<tr><td>without mention</td><td>2</td></tr>
+<tr><td>learned without</td><td>2</td></tr>
+<tr><td>great men</td><td>2</td></tr>
+<tr><td>contrite heart</td><td>2</td></tr>
+<tr><td>without doubt</td><td>2</td></tr>
+<tr><td>spoken eternally</td><td>2</td></tr>
+<tr><td>whither goeth</td><td>2</td></tr>
+<tr><td>cold water</td><td>2</td></tr>
+<tr><td>something concerning</td><td>2</td></tr>
+<tr><td>whence also</td><td>2</td></tr>
+<tr><td>may take</td><td>2</td></tr>
+<tr><td>god knoweth</td><td>2</td></tr>
+<tr><td>become better</td><td>2</td></tr>
+<tr><td>things seen</td><td>2</td></tr>
+<tr><td>incorruptible substance</td><td>2</td></tr>
+<tr><td>things enlightened</td><td>2</td></tr>
+<tr><td>gave notice</td><td>2</td></tr>
+<tr><td>great man</td><td>2</td></tr>
+<tr><td>two evil</td><td>2</td></tr>
+<tr><td>whole day</td><td>2</td></tr>
+<tr><td>will seek</td><td>2</td></tr>
+<tr><td>take pleasure</td><td>2</td></tr>
+<tr><td>moment wherein</td><td>2</td></tr>
+<tr><td>therefore love</td><td>2</td></tr>
+<tr><td>yet formless</td><td>2</td></tr>
+<tr><td>creatures spiritual</td><td>2</td></tr>
+<tr><td>many feet</td><td>2</td></tr>
+<tr><td>will sound</td><td>2</td></tr>
+<tr><td>sweet light</td><td>2</td></tr>
+<tr><td>drawn together</td><td>2</td></tr>
+<tr><td>good lord</td><td>2</td></tr>
+<tr><td>two great</td><td>2</td></tr>
+<tr><td>gratuitously evil</td><td>2</td></tr>
+<tr><td>many others</td><td>2</td></tr>
+<tr><td>may say</td><td>2</td></tr>
+<tr><td>stars shine</td><td>2</td></tr>
+<tr><td>human mind</td><td>2</td></tr>
+<tr><td>many true</td><td>2</td></tr>
+<tr><td>another faith</td><td>2</td></tr>
+<tr><td>therefore didst</td><td>2</td></tr>
+<tr><td>one true</td><td>2</td></tr>
+<tr><td>rough ways</td><td>2</td></tr>
+<tr><td>therefore think</td><td>2</td></tr>
+<tr><td>enjoinest continency</td><td>2</td></tr>
+<tr><td>neither colour</td><td>2</td></tr>
+<tr><td>catholic mother</td><td>2</td></tr>
+<tr><td>things future</td><td>2</td></tr>
+<tr><td>human race</td><td>2</td></tr>
+<tr><td>behold god</td><td>2</td></tr>
+<tr><td>every soul</td><td>2</td></tr>
+<tr><td>things made</td><td>2</td></tr>
+<tr><td>yet behold</td><td>2</td></tr>
+<tr><td>altogether ignorant</td><td>2</td></tr>
+<tr><td>eminent authority</td><td>2</td></tr>
+<tr><td>taken away</td><td>2</td></tr>
+<tr><td>whither go</td><td>2</td></tr>
+<tr><td>live ill</td><td>2</td></tr>
+<tr><td>cast aside</td><td>2</td></tr>
+<tr><td>spoken truly</td><td>2</td></tr>
+<tr><td>see therein</td><td>2</td></tr>
+<tr><td>great authority</td><td>2</td></tr>
+<tr><td>never done</td><td>2</td></tr>
+<tr><td>bringing forth</td><td>2</td></tr>
+<tr><td>eternal creator</td><td>2</td></tr>
+<tr><td>speak thereof</td><td>2</td></tr>
+<tr><td>yet baptised</td><td>2</td></tr>
+<tr><td>shall call</td><td>2</td></tr>
+<tr><td>entire will</td><td>2</td></tr>
+<tr><td>divers kinds</td><td>2</td></tr>
+<tr><td>another voice</td><td>2</td></tr>
+<tr><td>now held</td><td>2</td></tr>
+<tr><td>made one</td><td>2</td></tr>
+<tr><td>turn back</td><td>2</td></tr>
+<tr><td>brought together</td><td>2</td></tr>
+<tr><td>didst set</td><td>2</td></tr>
+<tr><td>well pleased</td><td>2</td></tr>
+<tr><td>somewhat less</td><td>2</td></tr>
+<tr><td>shalt light</td><td>2</td></tr>
+<tr><td>therefore true</td><td>2</td></tr>
+<tr><td>minutest points</td><td>2</td></tr>
+<tr><td>dost show</td><td>2</td></tr>
+<tr><td>grievous perplexities</td><td>2</td></tr>
+<tr><td>faithful also</td><td>2</td></tr>
+<tr><td>forth works</td><td>2</td></tr>
+<tr><td>forth fruit</td><td>2</td></tr>
+<tr><td>second day</td><td>2</td></tr>
+<tr><td>passing voice</td><td>2</td></tr>
+<tr><td>one time</td><td>2</td></tr>
+<tr><td>holy conversation</td><td>2</td></tr>
+<tr><td>body might</td><td>2</td></tr>
+<tr><td>ten predicaments</td><td>2</td></tr>
+<tr><td>teach rhetoric</td><td>2</td></tr>
+<tr><td>beginning didst</td><td>2</td></tr>
+<tr><td>divers things</td><td>2</td></tr>
+<tr><td>eternal will</td><td>2</td></tr>
+<tr><td>neither shadow</td><td>2</td></tr>
+<tr><td>strong cries</td><td>2</td></tr>
+<tr><td>yet ever</td><td>2</td></tr>
+<tr><td>bodily sickness</td><td>2</td></tr>
+<tr><td>good thing</td><td>2</td></tr>
+<tr><td>brotherly mind</td><td>2</td></tr>
+<tr><td>vanished away</td><td>2</td></tr>
+<tr><td>amid much</td><td>2</td></tr>
+<tr><td>never die</td><td>2</td></tr>
+<tr><td>darkened affections</td><td>2</td></tr>
+<tr><td>yet unless</td><td>2</td></tr>
+<tr><td>whole frame</td><td>2</td></tr>
+<tr><td>higher parts</td><td>2</td></tr>
+<tr><td>mother charity</td><td>2</td></tr>
+<tr><td>sound faith</td><td>2</td></tr>
+<tr><td>yet hadst</td><td>2</td></tr>
+<tr><td>things intellectual</td><td>2</td></tr>
+<tr><td>will whereby</td><td>2</td></tr>
+<tr><td>may remember</td><td>2</td></tr>
+<tr><td>inward eye</td><td>2</td></tr>
+<tr><td>ever present</td><td>2</td></tr>
+<tr><td>poor wretch</td><td>2</td></tr>
+<tr><td>flying creatures</td><td>2</td></tr>
+<tr><td>will abide</td><td>2</td></tr>
+<tr><td>time also</td><td>2</td></tr>
+<tr><td>boy adeodatus</td><td>2</td></tr>
+<tr><td>continent unless</td><td>2</td></tr>
+<tr><td>carnal people</td><td>2</td></tr>
+<tr><td>man christ</td><td>2</td></tr>
+<tr><td>will confess</td><td>2</td></tr>
+<tr><td>took pleasure</td><td>2</td></tr>
+<tr><td>corruptible man</td><td>2</td></tr>
+<tr><td>flesh lusteth</td><td>2</td></tr>
+<tr><td>intellectual creature</td><td>2</td></tr>
+<tr><td>gave birth</td><td>2</td></tr>
+<tr><td>understood many</td><td>2</td></tr>
+<tr><td>bearing seed</td><td>2</td></tr>
+<tr><td>go ye</td><td>2</td></tr>
+<tr><td>inward goads</td><td>2</td></tr>
+<tr><td>mightest make</td><td>2</td></tr>
+<tr><td>make way</td><td>2</td></tr>
+<tr><td>fain know</td><td>2</td></tr>
+<tr><td>chief good</td><td>2</td></tr>
+<tr><td>innumerable ages</td><td>2</td></tr>
+<tr><td>asked whether</td><td>2</td></tr>
+<tr><td>things divine</td><td>2</td></tr>
+<tr><td>mercy endureth</td><td>2</td></tr>
+<tr><td>whose eyes</td><td>2</td></tr>
+<tr><td>perfect man</td><td>2</td></tr>
+<tr><td>pure heart</td><td>2</td></tr>
+<tr><td>though without</td><td>2</td></tr>
+<tr><td>may arrive</td><td>2</td></tr>
+<tr><td>small interval</td><td>2</td></tr>
+<tr><td>without passion</td><td>2</td></tr>
+<tr><td>ye sent</td><td>2</td></tr>
+<tr><td>men go</td><td>2</td></tr>
+<tr><td>turned aside</td><td>2</td></tr>
+<tr><td>either kind</td><td>2</td></tr>
+<tr><td>corruption injures</td><td>2</td></tr>
+<tr><td>hadst created</td><td>2</td></tr>
+<tr><td>foolish heart</td><td>2</td></tr>
+<tr><td>daily say</td><td>2</td></tr>
+<tr><td>first lessons</td><td>2</td></tr>
+<tr><td>certain formless</td><td>2</td></tr>
+<tr><td>whether spiritual</td><td>2</td></tr>
+<tr><td>one sovereign</td><td>2</td></tr>
+<tr><td>every good</td><td>2</td></tr>
+<tr><td>might cleave</td><td>2</td></tr>
+<tr><td>let now</td><td>2</td></tr>
+<tr><td>tree yielding</td><td>2</td></tr>
+<tr><td>difference whence</td><td>2</td></tr>
+<tr><td>man shall</td><td>2</td></tr>
+<tr><td>bearing fruit</td><td>2</td></tr>
+<tr><td>whose gift</td><td>2</td></tr>
+<tr><td>word pass</td><td>2</td></tr>
+<tr><td>now certain</td><td>2</td></tr>
+<tr><td>present life</td><td>2</td></tr>
+<tr><td>also know</td><td>2</td></tr>
+<tr><td>breathe freely</td><td>2</td></tr>
+<tr><td>god commanded</td><td>2</td></tr>
+<tr><td>much loved</td><td>2</td></tr>
+<tr><td>art good</td><td>2</td></tr>
+<tr><td>may please</td><td>2</td></tr>
+<tr><td>though indeed</td><td>2</td></tr>
+<tr><td>foretelling things</td><td>2</td></tr>
+<tr><td>lest mine</td><td>2</td></tr>
+<tr><td>future actions</td><td>2</td></tr>
+<tr><td>give us</td><td>2</td></tr>
+<tr><td>found nothing</td><td>2</td></tr>
+<tr><td>life also</td><td>2</td></tr>
+<tr><td>small portion</td><td>2</td></tr>
+<tr><td>still held</td><td>2</td></tr>
+<tr><td>might serve</td><td>2</td></tr>
+<tr><td>already past</td><td>2</td></tr>
+<tr><td>supremely good</td><td>2</td></tr>
+<tr><td>inferior things</td><td>2</td></tr>
+<tr><td>melted away</td><td>2</td></tr>
+<tr><td>eternal god</td><td>2</td></tr>
+<tr><td>corporeal though</td><td>2</td></tr>
+<tr><td>certain proof</td><td>2</td></tr>
+<tr><td>sound doctrine</td><td>2</td></tr>
+<tr><td>place whither</td><td>2</td></tr>
+<tr><td>speaketh wisdom</td><td>2</td></tr>
+<tr><td>one says</td><td>2</td></tr>
+<tr><td>sea also</td><td>2</td></tr>
+<tr><td>now made</td><td>2</td></tr>
+<tr><td>greater peril</td><td>2</td></tr>
+<tr><td>merciful hand</td><td>2</td></tr>
+<tr><td>years fail</td><td>2</td></tr>
+<tr><td>changeable things</td><td>2</td></tr>
+<tr><td>another bad</td><td>2</td></tr>
+<tr><td>small thing</td><td>2</td></tr>
+<tr><td>soughtest us</td><td>2</td></tr>
+<tr><td>others may</td><td>2</td></tr>
+<tr><td>brings forth</td><td>2</td></tr>
+<tr><td>spake much</td><td>2</td></tr>
+<tr><td>wild beasts</td><td>2</td></tr>
+<tr><td>infinite spaces</td><td>2</td></tr>
+<tr><td>told us</td><td>2</td></tr>
+<tr><td>also shall</td><td>2</td></tr>
+<tr><td>spread abroad</td><td>2</td></tr>
+<tr><td>inward parts</td><td>2</td></tr>
+<tr><td>something like</td><td>2</td></tr>
+<tr><td>blessed creature</td><td>2</td></tr>
+<tr><td>human things</td><td>2</td></tr>
+<tr><td>time measure</td><td>2</td></tr>
+<tr><td>part thereof</td><td>2</td></tr>
+<tr><td>good life</td><td>2</td></tr>
+<tr><td>will ye</td><td>2</td></tr>
+<tr><td>indeed hold</td><td>2</td></tr>
+<tr><td>mutable thing</td><td>2</td></tr>
+<tr><td>shall read</td><td>2</td></tr>
+<tr><td>yet left</td><td>2</td></tr>
+<tr><td>twenty years</td><td>2</td></tr>
+<tr><td>name heaven</td><td>2</td></tr>
+<tr><td>may follow</td><td>2</td></tr>
+<tr><td>might seek</td><td>2</td></tr>
+<tr><td>called memory</td><td>2</td></tr>
+<tr><td>will offer</td><td>2</td></tr>
+<tr><td>signs corporeally</td><td>2</td></tr>
+<tr><td>crooked ways</td><td>2</td></tr>
+<tr><td>great pains</td><td>2</td></tr>
+<tr><td>even though</td><td>2</td></tr>
+<tr><td>truly art</td><td>2</td></tr>
+<tr><td>whose inward</td><td>2</td></tr>
+<tr><td>known creatures</td><td>2</td></tr>
+<tr><td>yet nothing</td><td>2</td></tr>
+<tr><td>eminently extended</td><td>2</td></tr>
+<tr><td>madest us</td><td>2</td></tr>
+<tr><td>darksome matter</td><td>2</td></tr>
+<tr><td>certain vain</td><td>2</td></tr>
+<tr><td>holy angels</td><td>2</td></tr>
+<tr><td>long ago</td><td>2</td></tr>
+<tr><td>either never</td><td>2</td></tr>
+<tr><td>greater lights</td><td>2</td></tr>
+<tr><td>things temporal</td><td>2</td></tr>
+<tr><td>certain knowledge</td><td>2</td></tr>
+<tr><td>holy words</td><td>2</td></tr>
+<tr><td>soul will</td><td>2</td></tr>
+<tr><td>may praise</td><td>2</td></tr>
+<tr><td>honourable name</td><td>2</td></tr>
+<tr><td>though nothing</td><td>2</td></tr>
+<tr><td>ye speak</td><td>2</td></tr>
+<tr><td>dying life</td><td>2</td></tr>
+<tr><td>much troubled</td><td>2</td></tr>
+<tr><td>didst use</td><td>2</td></tr>
+<tr><td>first made</td><td>2</td></tr>
+<tr><td>shall abide</td><td>2</td></tr>
+<tr><td>away like</td><td>2</td></tr>
+<tr><td>speak truly</td><td>2</td></tr>
+<tr><td>certain bishop</td><td>2</td></tr>
+<tr><td>perfect will</td><td>2</td></tr>
+<tr><td>moment shall</td><td>2</td></tr>
+<tr><td>whole body</td><td>2</td></tr>
+<tr><td>yet many</td><td>2</td></tr>
+<tr><td>didst deal</td><td>2</td></tr>
+<tr><td>teach things</td><td>2</td></tr>
+<tr><td>will take</td><td>2</td></tr>
+<tr><td>corporeal forms</td><td>2</td></tr>
+<tr><td>us good</td><td>2</td></tr>
+<tr><td>yea also</td><td>2</td></tr>
+<tr><td>truly called</td><td>2</td></tr>
+<tr><td>great whales</td><td>2</td></tr>
+<tr><td>mediator betwixt</td><td>2</td></tr>
+<tr><td>first works</td><td>2</td></tr>
+<tr><td>many great</td><td>2</td></tr>
+<tr><td>cleave fast</td><td>2</td></tr>
+<tr><td>discern betwixt</td><td>2</td></tr>
+<tr><td>supreme authority</td><td>2</td></tr>
+<tr><td>didst never</td><td>2</td></tr>
+<tr><td>whose ears</td><td>2</td></tr>
+<tr><td>measure time</td><td>2</td></tr>
+<tr><td>held back</td><td>2</td></tr>
+<tr><td>divine scripture</td><td>2</td></tr>
+<tr><td>sovereignly good</td><td>2</td></tr>
+<tr><td>temptation also</td><td>2</td></tr>
+<tr><td>wretched man</td><td>2</td></tr>
+<tr><td>catholic christian</td><td>2</td></tr>
+<tr><td>one part</td><td>2</td></tr>
+<tr><td>made sad</td><td>2</td></tr>
+<tr><td>begotten son</td><td>2</td></tr>
+<tr><td>made like</td><td>2</td></tr>
+<tr><td>love nothing</td><td>2</td></tr>
+<tr><td>now neither</td><td>2</td></tr>
+<tr><td>things shall</td><td>2</td></tr>
+<tr><td>moses wrote</td><td>2</td></tr>
+<tr><td>sun stood</td><td>2</td></tr>
+<tr><td>whatsoever state</td><td>2</td></tr>
+<tr><td>burst forth</td><td>2</td></tr>
+<tr><td>spiritual substance</td><td>2</td></tr>
+<tr><td>hands wherewith</td><td>2</td></tr>
+<tr><td>deeper recesses</td><td>2</td></tr>
+<tr><td>yet went</td><td>2</td></tr>
+<tr><td>rather joy</td><td>2</td></tr>
+<tr><td>man sees</td><td>2</td></tr>
+<tr><td>whose sake</td><td>2</td></tr>
+<tr><td>good sense</td><td>2</td></tr>
+<tr><td>thine hand</td><td>2</td></tr>
+<tr><td>might seem</td><td>2</td></tr>
+<tr><td>formless state</td><td>2</td></tr>
+<tr><td>yet able</td><td>2</td></tr>
+<tr><td>cast thyself</td><td>2</td></tr>
+<tr><td>till one</td><td>2</td></tr>
+<tr><td>beyond memory</td><td>2</td></tr>
+<tr><td>footed beasts</td><td>2</td></tr>
+<tr><td>two sorts</td><td>2</td></tr>
+<tr><td>love men</td><td>2</td></tr>
+<tr><td>made capable</td><td>2</td></tr>
+<tr><td>now learned</td><td>2</td></tr>
+<tr><td>gone astray</td><td>2</td></tr>
+<tr><td>seemed absurd</td><td>2</td></tr>
+<tr><td>hand upheld</td><td>2</td></tr>
+<tr><td>unless one</td><td>2</td></tr>
+<tr><td>shall comprehend</td><td>2</td></tr>
+<tr><td>matter whereof</td><td>2</td></tr>
+<tr><td>bodily health</td><td>2</td></tr>
+<tr><td>give birth</td><td>2</td></tr>
+<tr><td>holy men</td><td>2</td></tr>
+<tr><td>ever since</td><td>2</td></tr>
+<tr><td>law lawfully</td><td>2</td></tr>
+<tr><td>land may</td><td>2</td></tr>
+<tr><td>many truths</td><td>2</td></tr>
+<tr><td>evil ways</td><td>2</td></tr>
+<tr><td>may shine</td><td>2</td></tr>
+<tr><td>run ye</td><td>2</td></tr>
+<tr><td>things mentally</td><td>2</td></tr>
+<tr><td>turn aside</td><td>2</td></tr>
+<tr><td>laid loose</td><td>2</td></tr>
+<tr><td>joy therein</td><td>2</td></tr>
+<tr><td>seemed likely</td><td>2</td></tr>
+<tr><td>another nature</td><td>2</td></tr>
+<tr><td>please us</td><td>2</td></tr>
+<tr><td>altogether dead</td><td>2</td></tr>
+<tr><td>memory also</td><td>2</td></tr>
+<tr><td>many tears</td><td>2</td></tr>
+<tr><td>one went</td><td>2</td></tr>
+<tr><td>faithful one</td><td>2</td></tr>
+<tr><td>may appear</td><td>2</td></tr>
+<tr><td>long therefore</td><td>2</td></tr>
+<tr><td>old leaven</td><td>2</td></tr>
+<tr><td>became conscious</td><td>2</td></tr>
+<tr><td>mentally conceived</td><td>2</td></tr>
+<tr><td>far spent</td><td>2</td></tr>
+<tr><td>worldly hopes</td><td>2</td></tr>
+<tr><td>mine ears</td><td>2</td></tr>
+<tr><td>thing changeable</td><td>2</td></tr>
+<tr><td>shall hold</td><td>2</td></tr>
+<tr><td>sovereign good</td><td>2</td></tr>
+<tr><td>images thereof</td><td>2</td></tr>
+<tr><td>much difference</td><td>2</td></tr>
+<tr><td>numbered among</td><td>2</td></tr>
+<tr><td>things without</td><td>2</td></tr>
+<tr><td>yet unable</td><td>2</td></tr>
+<tr><td>native country</td><td>2</td></tr>
+<tr><td>yielding seed</td><td>2</td></tr>
+<tr><td>many waters</td><td>2</td></tr>
+<tr><td>sawest every</td><td>2</td></tr>
+<tr><td>shall fall</td><td>2</td></tr>
+<tr><td>us measure</td><td>2</td></tr>
+<tr><td>finding truth</td><td>2</td></tr>
+<tr><td>suffer ill</td><td>2</td></tr>
+<tr><td>ye see</td><td>2</td></tr>
+<tr><td>holy one</td><td>2</td></tr>
+<tr><td>memory still</td><td>2</td></tr>
+<tr><td>much time</td><td>2</td></tr>
+<tr><td>men desire</td><td>2</td></tr>
+<tr><td>calling aloud</td><td>2</td></tr>
+<tr><td>sought whence</td><td>2</td></tr>
+<tr><td>us say</td><td>2</td></tr>
+<tr><td>whoso understandeth</td><td>2</td></tr>
+<tr><td>universal creation</td><td>2</td></tr>
+<tr><td>remove far</td><td>2</td></tr>
+<tr><td>didst persuade</td><td>2</td></tr>
+<tr><td>green herb</td><td>2</td></tr>
+<tr><td>sure ground</td><td>2</td></tr>
+<tr><td>one deliberates</td><td>2</td></tr>
+<tr><td>now almost</td><td>2</td></tr>
+<tr><td>desire nothing</td><td>2</td></tr>
+<tr><td>laid hold</td><td>2</td></tr>
+<tr><td>beautiful bodies</td><td>2</td></tr>
+<tr><td>varied forms</td><td>2</td></tr>
+<tr><td>weak things</td><td>2</td></tr>
+<tr><td>carnal men</td><td>2</td></tr>
+<tr><td>another evil</td><td>2</td></tr>
+<tr><td>whole life</td><td>2</td></tr>
+<tr><td>now past</td><td>2</td></tr>
+<tr><td>us back</td><td>2</td></tr>
+<tr><td>may come</td><td>2</td></tr>
+<tr><td>done now</td><td>2</td></tr>
+<tr><td>thing anon</td><td>2</td></tr>
+<tr><td>high art</td><td>2</td></tr>
+<tr><td>draw near</td><td>2</td></tr>
+<tr><td>one mind</td><td>2</td></tr>
+<tr><td>willeth unchangeably</td><td>2</td></tr>
+<tr><td>took place</td><td>2</td></tr>
+<tr><td>great things</td><td>2</td></tr>
+<tr><td>us also</td><td>2</td></tr>
+<tr><td>soul praise</td><td>2</td></tr>
+<tr><td>conceive aught</td><td>2</td></tr>
+<tr><td>stand fast</td><td>2</td></tr>
+<tr><td>worldly things</td><td>2</td></tr>
+<tr><td>good work</td><td>2</td></tr>
+<tr><td>man might</td><td>2</td></tr>
+<tr><td>hour comes</td><td>2</td></tr>
+<tr><td>certain books</td><td>2</td></tr>
+<tr><td>ardent searcher</td><td>2</td></tr>
+<tr><td>without anxiety</td><td>2</td></tr>
+<tr><td>invisible earth</td><td>2</td></tr>
+<tr><td>stood aghast</td><td>2</td></tr>
+<tr><td>therefore doth</td><td>2</td></tr>
+<tr><td>wise man</td><td>2</td></tr>
+<tr><td>married life</td><td>2</td></tr>
+<tr><td>ye gainsayers</td><td>2</td></tr>
+<tr><td>plain sense</td><td>2</td></tr>
+<tr><td>outward beauties</td><td>2</td></tr>
+<tr><td>rejoice greatly</td><td>2</td></tr>
+<tr><td>time since</td><td>2</td></tr>
+<tr><td>went astray</td><td>2</td></tr>
+<tr><td>may prove</td><td>2</td></tr>
+<tr><td>soul without</td><td>2</td></tr>
+<tr><td>pray god</td><td>2</td></tr>
+<tr><td>true opinion</td><td>2</td></tr>
+<tr><td>waters bring</td><td>2</td></tr>
+<tr><td>will love</td><td>2</td></tr>
+<tr><td>great bodies</td><td>2</td></tr>
+<tr><td>time went</td><td>2</td></tr>
+<tr><td>lesser light</td><td>2</td></tr>
+<tr><td>now without</td><td>2</td></tr>
+<tr><td>aught else</td><td>2</td></tr>
+<tr><td>true good</td><td>2</td></tr>
+<tr><td>city walls</td><td>2</td></tr>
+<tr><td>shall make</td><td>2</td></tr>
+<tr><td>whose house</td><td>2</td></tr>
+<tr><td>whatever way</td><td>2</td></tr>
+<tr><td>swelling pride</td><td>2</td></tr>
+<tr><td>sacrilegious rites</td><td>2</td></tr>
+<tr><td>yet understand</td><td>2</td></tr>
+<tr><td>far better</td><td>2</td></tr>
+<tr><td>live together</td><td>2</td></tr>
+<tr><td>visible things</td><td>2</td></tr>
+<tr><td>commit adultery</td><td>2</td></tr>
+<tr><td>might also</td><td>2</td></tr>
+<tr><td>ye sons</td><td>2</td></tr>
+<tr><td>several ways</td><td>2</td></tr>
+<tr><td>one word</td><td>2</td></tr>
+<tr><td>neither greek</td><td>2</td></tr>
+<tr><td>loved us</td><td>2</td></tr>
+<tr><td>might return</td><td>2</td></tr>
+<tr><td>fell headlong</td><td>2</td></tr>
+<tr><td>made manifest</td><td>2</td></tr>
+<tr><td>may find</td><td>2</td></tr>
+<tr><td>neither altogether</td><td>2</td></tr>
+<tr><td>speak truth</td><td>2</td></tr>
+<tr><td>say true</td><td>2</td></tr>
+<tr><td>glass darkly</td><td>2</td></tr>
+<tr><td>draws back</td><td>2</td></tr>
+<tr><td>help us</td><td>2</td></tr>
+<tr><td>yet believe</td><td>2</td></tr>
+<tr><td>waters brought</td><td>2</td></tr>
+<tr><td>earth also</td><td>2</td></tr>
+<tr><td>repent ye</td><td>2</td></tr>
+<tr><td>heard also</td><td>2</td></tr>
+<tr><td>holy spirit</td><td>2</td></tr>
+<tr><td>apostle paul</td><td>2</td></tr>
+<tr><td>believe god</td><td>2</td></tr>
+<tr><td>whole creation</td><td>2</td></tr>
+<tr><td>hold fast</td><td>2</td></tr>
+<tr><td>will now</td><td>2</td></tr>
+<tr><td>medea flying</td><td>2</td></tr>
+<tr><td>things fair</td><td>2</td></tr>
+<tr><td>matter without</td><td>2</td></tr>
+<tr><td>every wind</td><td>2</td></tr>
+<tr><td>utterly forgotten</td><td>2</td></tr>
+<tr><td>faithful ones</td><td>2</td></tr>
+<tr><td>eternal word</td><td>2</td></tr>
+<tr><td>riper years</td><td>2</td></tr>
+<tr><td>even hadst</td><td>2</td></tr>
+<tr><td>former ages</td><td>2</td></tr>
+<tr><td>corporeal things</td><td>2</td></tr>
+<tr><td>let truth</td><td>2</td></tr>
+<tr><td>way dost</td><td>2</td></tr>
+<tr><td>greater part</td><td>2</td></tr>
+<tr><td>pervertedly imitate</td><td>2</td></tr>
+<tr><td>suffer need</td><td>2</td></tr>
+<tr><td>another answer</td><td>2</td></tr>
+<tr><td>draw us</td><td>2</td></tr>
+<tr><td>corporeally expressed</td><td>2</td></tr>
+<tr><td>two things</td><td>2</td></tr>
+<tr><td>make trial</td><td>2</td></tr>
+<tr><td>thing made</td><td>2</td></tr>
+<tr><td>rest contented</td><td>2</td></tr>
+<tr><td>often days</td><td>2</td></tr>
+<tr><td>even thence</td><td>2</td></tr>
+<tr><td>corporeal creation</td><td>2</td></tr>
+<tr><td>seem wise</td><td>2</td></tr>
+<tr><td>one end</td><td>2</td></tr>
+<tr><td>younger son</td><td>2</td></tr>
+<tr><td>short one</td><td>2</td></tr>
+<tr><td>great matter</td><td>2</td></tr>
+<tr><td>great thing</td><td>2</td></tr>
+<tr><td>whose presence</td><td>2</td></tr>
+<tr><td>devout servant</td><td>2</td></tr>
+<tr><td>heavenly places</td><td>2</td></tr>
+<tr><td>now light</td><td>2</td></tr>
+<tr><td>consumed away</td><td>2</td></tr>
+<tr><td>faith unfeigned</td><td>2</td></tr>
+<tr><td>new life</td><td>2</td></tr>
+<tr><td>golden shower</td><td>2</td></tr>
+<tr><td>years old</td><td>2</td></tr>
+<tr><td>several portions</td><td>2</td></tr>
+<tr><td>earthly felicity</td><td>2</td></tr>
+<tr><td>deep pit</td><td>2</td></tr>
+<tr><td>let man</td><td>2</td></tr>
+<tr><td>man knoweth</td><td>2</td></tr>
+<tr><td>man praise</td><td>2</td></tr>
+<tr><td>art mindful</td><td>2</td></tr>
+<tr><td>time didst</td><td>2</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

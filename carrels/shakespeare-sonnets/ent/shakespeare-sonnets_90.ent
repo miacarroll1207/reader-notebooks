@@ -1,0 +1,4 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_90	1	1	XC	ORG
+shakespeare-sonnets_90	3	1	morrow	DATE
+shakespeare-sonnets_90	4	1	first	ORDINAL

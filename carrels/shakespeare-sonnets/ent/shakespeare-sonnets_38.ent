@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_38	1	1	XXXVIII	ORG
+shakespeare-sonnets_38	2	1	pour'st	ORG
+shakespeare-sonnets_38	2	2	Thine	PRODUCT
+shakespeare-sonnets_38	5	1	ten	CARDINAL
+shakespeare-sonnets_38	5	2	nine	CARDINAL
+shakespeare-sonnets_38	6	1	these curious days	DATE

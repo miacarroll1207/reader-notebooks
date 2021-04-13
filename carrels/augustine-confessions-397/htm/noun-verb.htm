@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">noun/verb</li>
+		</ol>
+	</nav>
+
+
+<h1>noun/verb</h1>
+<p>This is a table of noun/verb combinations and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>noun</th>
+                <th>verb</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>it</td><td>is</td><td>202</td></tr>
+<tr><td>i</td><td>was</td><td>172</td></tr>
+<tr><td>i</td><td>had</td><td>144</td></tr>
+<tr><td>it</td><td>was</td><td>127</td></tr>
+<tr><td>they</td><td>are</td><td>86</td></tr>
+<tr><td>it</td><td>were</td><td>80</td></tr>
+<tr><td>i</td><td>am</td><td>75</td></tr>
+<tr><td>i</td><td>know</td><td>74</td></tr>
+<tr><td>they</td><td>were</td><td>69</td></tr>
+<tr><td>i</td><td>have</td><td>68</td></tr>
+<tr><td>he</td><td>was</td><td>63</td></tr>
+<tr><td>he</td><td>had</td><td>53</td></tr>
+<tr><td>it</td><td>be</td><td>52</td></tr>
+<tr><td>he</td><td>is</td><td>48</td></tr>
+<tr><td>i</td><td>remember</td><td>38</td></tr>
+<tr><td>we</td><td>were</td><td>36</td></tr>
+<tr><td>we</td><td>are</td><td>34</td></tr>
+<tr><td>i</td><td>did</td><td>34</td></tr>
+<tr><td>i</td><td>say</td><td>32</td></tr>
+<tr><td>i</td><td>knew</td><td>29</td></tr>
+<tr><td>it</td><td>had</td><td>29</td></tr>
+<tr><td>i</td><td>speak</td><td>27</td></tr>
+<tr><td>i</td><td>do</td><td>26</td></tr>
+<tr><td>i</td><td>loved</td><td>26</td></tr>
+<tr><td>they</td><td>be</td><td>26</td></tr>
+<tr><td>she</td><td>had</td><td>25</td></tr>
+<tr><td>god</td><td>made</td><td>24</td></tr>
+<tr><td>she</td><td>was</td><td>23</td></tr>
+<tr><td>we</td><td>have</td><td>23</td></tr>
+<tr><td>i</td><td>saw</td><td>22</td></tr>
+<tr><td>i</td><td>heard</td><td>21</td></tr>
+<tr><td>i</td><td>see</td><td>21</td></tr>
+<tr><td>they</td><td>had</td><td>21</td></tr>
+<tr><td>they</td><td>have</td><td>20</td></tr>
+<tr><td>things</td><td>are</td><td>20</td></tr>
+<tr><td>i</td><td>love</td><td>20</td></tr>
+<tr><td>hast</td><td>made</td><td>19</td></tr>
+<tr><td>he</td><td>made</td><td>18</td></tr>
+<tr><td>i</td><td>said</td><td>18</td></tr>
+<tr><td>i</td><td>thought</td><td>18</td></tr>
+<tr><td>we</td><td>say</td><td>18</td></tr>
+<tr><td>we</td><td>see</td><td>17</td></tr>
+<tr><td>i</td><td>find</td><td>16</td></tr>
+<tr><td>i</td><td>sought</td><td>16</td></tr>
+<tr><td>i</td><td>found</td><td>15</td></tr>
+<tr><td>god</td><td>is</td><td>14</td></tr>
+<tr><td>hast</td><td>given</td><td>14</td></tr>
+<tr><td>we</td><td>do</td><td>14</td></tr>
+<tr><td>i</td><td>read</td><td>13</td></tr>
+<tr><td>thing</td><td>is</td><td>12</td></tr>
+<tr><td>itself</td><td>is</td><td>12</td></tr>
+<tr><td>i</td><td>call</td><td>12</td></tr>
+<tr><td>he</td><td>said</td><td>12</td></tr>
+<tr><td>he</td><td>did</td><td>12</td></tr>
+<tr><td>i</td><td>believe</td><td>11</td></tr>
+<tr><td>i</td><td>believed</td><td>11</td></tr>
+<tr><td>i</td><td>learnt</td><td>11</td></tr>
+<tr><td>we</td><td>had</td><td>11</td></tr>
+<tr><td>i</td><td>learned</td><td>10</td></tr>
+<tr><td>they</td><td>do</td><td>10</td></tr>
+<tr><td>things</td><td>be</td><td>10</td></tr>
+<tr><td>thou</td><td>make</td><td>10</td></tr>
+<tr><td>time</td><td>is</td><td>10</td></tr>
+<tr><td>earth</td><td>was</td><td>9</td></tr>
+<tr><td>they</td><td>hear</td><td>9</td></tr>
+<tr><td>they</td><td>say</td><td>9</td></tr>
+<tr><td>we</td><td>find</td><td>8</td></tr>
+<tr><td>things</td><td>were</td><td>8</td></tr>
+<tr><td>thee</td><td>is</td><td>8</td></tr>
+<tr><td>we</td><td>remember</td><td>8</td></tr>
+<tr><td>they</td><td>pass</td><td>8</td></tr>
+<tr><td>i</td><td>hear</td><td>8</td></tr>
+<tr><td>life</td><td>is</td><td>8</td></tr>
+<tr><td>he</td><td>thought</td><td>8</td></tr>
+<tr><td>he</td><td>were</td><td>8</td></tr>
+<tr><td>i</td><td>seek</td><td>8</td></tr>
+<tr><td>i</td><td>made</td><td>7</td></tr>
+<tr><td>we</td><td>know</td><td>7</td></tr>
+<tr><td>we</td><td>go</td><td>7</td></tr>
+<tr><td>truth</td><td>is</td><td>7</td></tr>
+<tr><td>they</td><td>love</td><td>7</td></tr>
+<tr><td>she</td><td>knew</td><td>7</td></tr>
+<tr><td>man</td><td>is</td><td>7</td></tr>
+<tr><td>i</td><td>lived</td><td>7</td></tr>
+<tr><td>i</td><td>came</td><td>7</td></tr>
+<tr><td>i</td><td>be</td><td>7</td></tr>
+<tr><td>he</td><td>came</td><td>7</td></tr>
+<tr><td>he</td><td>be</td><td>7</td></tr>
+<tr><td>hast</td><td>created</td><td>7</td></tr>
+<tr><td>they</td><td>knew</td><td>6</td></tr>
+<tr><td>we</td><td>speak</td><td>6</td></tr>
+<tr><td>we</td><td>hear</td><td>6</td></tr>
+<tr><td>we</td><td>be</td><td>6</td></tr>
+<tr><td>time</td><td>was</td><td>6</td></tr>
+<tr><td>they</td><td>see</td><td>6</td></tr>
+<tr><td>god</td><td>created</td><td>6</td></tr>
+<tr><td>they</td><td>call</td><td>6</td></tr>
+<tr><td>i</td><td>were</td><td>6</td></tr>
+<tr><td>god</td><td>make</td><td>6</td></tr>
+<tr><td>earth</td><td>were</td><td>6</td></tr>
+<tr><td>body</td><td>is</td><td>6</td></tr>
+<tr><td>soul</td><td>is</td><td>5</td></tr>
+<tr><td>we</td><td>understand</td><td>5</td></tr>
+<tr><td>us</td><td>love</td><td>5</td></tr>
+<tr><td>thy</td><td>love</td><td>5</td></tr>
+<tr><td>thou</td><td>made</td><td>5</td></tr>
+<tr><td>things</td><td>had</td><td>5</td></tr>
+<tr><td>they</td><td>know</td><td>5</td></tr>
+<tr><td>they</td><td>did</td><td>5</td></tr>
+<tr><td>themselves</td><td>are</td><td>5</td></tr>
+<tr><td>soul</td><td>was</td><td>5</td></tr>
+<tr><td>i</td><td>became</td><td>5</td></tr>
+<tr><td>soul</td><td>be</td><td>5</td></tr>
+<tr><td>i</td><td>live</td><td>5</td></tr>
+<tr><td>i</td><td>gave</td><td>5</td></tr>
+<tr><td>i</td><td>called</td><td>5</td></tr>
+<tr><td>i</td><td>been</td><td>5</td></tr>
+<tr><td>heart</td><td>was</td><td>5</td></tr>
+<tr><td>he</td><td>knew</td><td>5</td></tr>
+<tr><td>day</td><td>is</td><td>5</td></tr>
+<tr><td>i</td><td>went</td><td>5</td></tr>
+<tr><td>way</td><td>be</td><td>4</td></tr>
+<tr><td>they</td><td>read</td><td>4</td></tr>
+<tr><td>things</td><td>did</td><td>4</td></tr>
+<tr><td>things</td><td>have</td><td>4</td></tr>
+<tr><td>things</td><td>is</td><td>4</td></tr>
+<tr><td>thou</td><td>give</td><td>4</td></tr>
+<tr><td>thou</td><td>speak</td><td>4</td></tr>
+<tr><td>we</td><td>love</td><td>4</td></tr>
+<tr><td>we</td><td>believe</td><td>4</td></tr>
+<tr><td>we</td><td>call</td><td>4</td></tr>
+<tr><td>we</td><td>did</td><td>4</td></tr>
+<tr><td>we</td><td>knew</td><td>4</td></tr>
+<tr><td>words</td><td>are</td><td>4</td></tr>
+<tr><td>words</td><td>be</td><td>4</td></tr>
+<tr><td>them</td><td>say</td><td>4</td></tr>
+<tr><td>they</td><td>heard</td><td>4</td></tr>
+<tr><td>himself</td><td>is</td><td>4</td></tr>
+<tr><td>she</td><td>saw</td><td>4</td></tr>
+<tr><td>i</td><td>understood</td><td>4</td></tr>
+<tr><td>she</td><td>loved</td><td>4</td></tr>
+<tr><td>he</td><td>know</td><td>4</td></tr>
+<tr><td>he</td><td>saw</td><td>4</td></tr>
+<tr><td>he</td><td>have</td><td>4</td></tr>
+<tr><td>i</td><td>go</td><td>4</td></tr>
+<tr><td>i</td><td>pass</td><td>4</td></tr>
+<tr><td>he</td><td>sees</td><td>4</td></tr>
+<tr><td>it</td><td>came</td><td>4</td></tr>
+<tr><td>it</td><td>have</td><td>4</td></tr>
+<tr><td>it</td><td>speaks</td><td>4</td></tr>
+<tr><td>itself</td><td>was</td><td>4</td></tr>
+<tr><td>joy</td><td>is</td><td>4</td></tr>
+<tr><td>mind</td><td>is</td><td>4</td></tr>
+<tr><td>thou</td><td>be</td><td>3</td></tr>
+<tr><td>she</td><td>found</td><td>3</td></tr>
+<tr><td>she</td><td>is</td><td>3</td></tr>
+<tr><td>thee</td><td>do</td><td>3</td></tr>
+<tr><td>them</td><td>be</td><td>3</td></tr>
+<tr><td>them</td><td>is</td><td>3</td></tr>
+<tr><td>they</td><td>believe</td><td>3</td></tr>
+<tr><td>they</td><td>went</td><td>3</td></tr>
+<tr><td>thing</td><td>be</td><td>3</td></tr>
+<tr><td>things</td><td>was</td><td>3</td></tr>
+<tr><td>we</td><td>seek</td><td>3</td></tr>
+<tr><td>thou</td><td>being</td><td>3</td></tr>
+<tr><td>thou</td><td>have</td><td>3</td></tr>
+<tr><td>thou</td><td>sayest</td><td>3</td></tr>
+<tr><td>us</td><td>make</td><td>3</td></tr>
+<tr><td>we</td><td>live</td><td>3</td></tr>
+<tr><td>we</td><td>read</td><td>3</td></tr>
+<tr><td>men</td><td>were</td><td>3</td></tr>
+<tr><td>world</td><td>was</td><td>3</td></tr>
+<tr><td>you</td><td>say</td><td>3</td></tr>
+<tr><td>nothing</td><td>is</td><td>3</td></tr>
+<tr><td>we</td><td>thought</td><td>3</td></tr>
+<tr><td>man</td><td>be</td><td>3</td></tr>
+<tr><td>himself</td><td>was</td><td>3</td></tr>
+<tr><td>man</td><td>are</td><td>3</td></tr>
+<tr><td>day</td><td>come</td><td>3</td></tr>
+<tr><td>earth</td><td>brings</td><td>3</td></tr>
+<tr><td>earth</td><td>is</td><td>3</td></tr>
+<tr><td>god</td><td>had</td><td>3</td></tr>
+<tr><td>he</td><td>love</td><td>3</td></tr>
+<tr><td>he</td><td>read</td><td>3</td></tr>
+<tr><td>he</td><td>went</td><td>3</td></tr>
+<tr><td>heart</td><td>is</td><td>3</td></tr>
+<tr><td>he</td><td>became</td><td>3</td></tr>
+<tr><td>i</td><td>passed</td><td>3</td></tr>
+<tr><td>i</td><td>think</td><td>3</td></tr>
+<tr><td>i</td><td>understand</td><td>3</td></tr>
+<tr><td>it</td><td>being</td><td>3</td></tr>
+<tr><td>it</td><td>come</td><td>3</td></tr>
+<tr><td>it</td><td>comes</td><td>3</td></tr>
+<tr><td>it</td><td>did</td><td>3</td></tr>
+<tr><td>it</td><td>passes</td><td>3</td></tr>
+<tr><td>i</td><td>remembered</td><td>3</td></tr>
+<tr><td>light</td><td>was</td><td>3</td></tr>
+<tr><td>they</td><td>loved</td><td>2</td></tr>
+<tr><td>they</td><td>found</td><td>2</td></tr>
+<tr><td>they</td><td>give</td><td>2</td></tr>
+<tr><td>they</td><td>go</td><td>2</td></tr>
+<tr><td>they</td><td>lived</td><td>2</td></tr>
+<tr><td>they</td><td>saw</td><td>2</td></tr>
+<tr><td>they</td><td>made</td><td>2</td></tr>
+<tr><td>they</td><td>make</td><td>2</td></tr>
+<tr><td>they</td><td>said</td><td>2</td></tr>
+<tr><td>they</td><td>seek</td><td>2</td></tr>
+<tr><td>they</td><td>come</td><td>2</td></tr>
+<tr><td>they</td><td>find</td><td>2</td></tr>
+<tr><td>place</td><td>is</td><td>2</td></tr>
+<tr><td>they</td><td>called</td><td>2</td></tr>
+<tr><td>themselves</td><td>were</td><td>2</td></tr>
+<tr><td>themselves</td><td>be</td><td>2</td></tr>
+<tr><td>them</td><td>did</td><td>2</td></tr>
+<tr><td>their</td><td>love</td><td>2</td></tr>
+<tr><td>thee</td><td>was</td><td>2</td></tr>
+<tr><td>soul</td><td>were</td><td>2</td></tr>
+<tr><td>she</td><td>said</td><td>2</td></tr>
+<tr><td>she</td><td>be</td><td>2</td></tr>
+<tr><td>thing</td><td>made</td><td>2</td></tr>
+<tr><td>nothing</td><td>were</td><td>2</td></tr>
+<tr><td>myself</td><td>had</td><td>2</td></tr>
+<tr><td>they</td><td>thought</td><td>2</td></tr>
+<tr><td>times</td><td>be</td><td>2</td></tr>
+<tr><td>thing</td><td>was</td><td>2</td></tr>
+<tr><td>we</td><td>bear</td><td>2</td></tr>
+<tr><td>my</td><td>love</td><td>2</td></tr>
+<tr><td>you</td><td>have</td><td>2</td></tr>
+<tr><td>world</td><td>are</td><td>2</td></tr>
+<tr><td>word</td><td>pass</td><td>2</td></tr>
+<tr><td>we</td><td>went</td><td>2</td></tr>
+<tr><td>we</td><td>said</td><td>2</td></tr>
+<tr><td>we</td><td>remembered</td><td>2</td></tr>
+<tr><td>we</td><td>made</td><td>2</td></tr>
+<tr><td>we</td><td>learn</td><td>2</td></tr>
+<tr><td>we</td><td>give</td><td>2</td></tr>
+<tr><td>we</td><td>found</td><td>2</td></tr>
+<tr><td>way</td><td>was</td><td>2</td></tr>
+<tr><td>things</td><td>being</td><td>2</td></tr>
+<tr><td>us</td><td>say</td><td>2</td></tr>
+<tr><td>us</td><td>is</td><td>2</td></tr>
+<tr><td>truth</td><td>be</td><td>2</td></tr>
+<tr><td>times</td><td>are</td><td>2</td></tr>
+<tr><td>time</td><td>went</td><td>2</td></tr>
+<tr><td>time</td><td>be</td><td>2</td></tr>
+<tr><td>thou</td><td>see</td><td>2</td></tr>
+<tr><td>thou</td><td>loved</td><td>2</td></tr>
+<tr><td>thou</td><td>given</td><td>2</td></tr>
+<tr><td>things</td><td>seen</td><td>2</td></tr>
+<tr><td>things</td><td>made</td><td>2</td></tr>
+<tr><td>myself</td><td>did</td><td>2</td></tr>
+<tr><td>man</td><td>being</td><td>2</td></tr>
+<tr><td>my</td><td>being</td><td>2</td></tr>
+<tr><td>i</td><td>learn</td><td>2</td></tr>
+<tr><td>i</td><td>come</td><td>2</td></tr>
+<tr><td>i</td><td>bring</td><td>2</td></tr>
+<tr><td>i</td><td>being</td><td>2</td></tr>
+<tr><td>i</td><td>bear</td><td>2</td></tr>
+<tr><td>himself</td><td>had</td><td>2</td></tr>
+<tr><td>him</td><td>was</td><td>2</td></tr>
+<tr><td>him</td><td>let</td><td>2</td></tr>
+<tr><td>him</td><td>be</td><td>2</td></tr>
+<tr><td>hearts</td><td>be</td><td>2</td></tr>
+<tr><td>he</td><td>spoke</td><td>2</td></tr>
+<tr><td>he</td><td>speak</td><td>2</td></tr>
+<tr><td>he</td><td>reads</td><td>2</td></tr>
+<tr><td>he</td><td>make</td><td>2</td></tr>
+<tr><td>he</td><td>loved</td><td>2</td></tr>
+<tr><td>he</td><td>having</td><td>2</td></tr>
+<tr><td>he</td><td>found</td><td>2</td></tr>
+<tr><td>he</td><td>finds</td><td>2</td></tr>
+<tr><td>he</td><td>being</td><td>2</td></tr>
+<tr><td>hast</td><td>said</td><td>2</td></tr>
+<tr><td>hast</td><td>had</td><td>2</td></tr>
+<tr><td>god</td><td>was</td><td>2</td></tr>
+<tr><td>god</td><td>said</td><td>2</td></tr>
+<tr><td>earth</td><td>be</td><td>2</td></tr>
+<tr><td>earth</td><td>are</td><td>2</td></tr>
+<tr><td>mind</td><td>was</td><td>2</td></tr>
+<tr><td>i</td><td>give</td><td>2</td></tr>
+<tr><td>he</td><td>borne</td><td>2</td></tr>
+<tr><td>i</td><td>speaking</td><td>2</td></tr>
+<tr><td>light</td><td>is</td><td>2</td></tr>
+<tr><td>men</td><td>go</td><td>2</td></tr>
+<tr><td>men</td><td>had</td><td>2</td></tr>
+<tr><td>i</td><td>took</td><td>2</td></tr>
+<tr><td>memory</td><td>is</td><td>2</td></tr>
+<tr><td>me</td><td>were</td><td>2</td></tr>
+<tr><td>me</td><td>understand</td><td>2</td></tr>
+<tr><td>me</td><td>see</td><td>2</td></tr>
+<tr><td>me</td><td>know</td><td>2</td></tr>
+<tr><td>man</td><td>was</td><td>2</td></tr>
+<tr><td>man</td><td>sees</td><td>2</td></tr>
+<tr><td>man</td><td>had</td><td>2</td></tr>
+<tr><td>me</td><td>was</td><td>2</td></tr>
+<tr><td>it</td><td>made</td><td>2</td></tr>
+<tr><td>life</td><td>are</td><td>2</td></tr>
+<tr><td>its</td><td>being</td><td>2</td></tr>
+<tr><td>it</td><td>became</td><td>2</td></tr>
+<tr><td>it</td><td>went</td><td>2</td></tr>
+<tr><td>it</td><td>took</td><td>2</td></tr>
+<tr><td>it</td><td>said</td><td>2</td></tr>
+<tr><td>it</td><td>found</td><td>2</td></tr>
+<tr><td>it</td><td>lived</td><td>2</td></tr>
+<tr><td>it</td><td>done</td><td>2</td></tr>
+<tr><td>life</td><td>was</td><td>2</td></tr>
+<tr><td>thee</td><td>calling</td><td>1</td></tr>
+<tr><td>thee</td><td>be</td><td>1</td></tr>
+<tr><td>thee</td><td>being</td><td>1</td></tr>
+<tr><td>soul</td><td>are</td><td>1</td></tr>
+<tr><td>thee</td><td>live</td><td>1</td></tr>
+<tr><td>thee</td><td>lived</td><td>1</td></tr>
+<tr><td>thee</td><td>seeing</td><td>1</td></tr>
+<tr><td>thee</td><td>are</td><td>1</td></tr>
+<tr><td>soul</td><td>lives</td><td>1</td></tr>
+<tr><td>souls</td><td>are</td><td>1</td></tr>
+<tr><td>soul</td><td>takes</td><td>1</td></tr>
+<tr><td>soul</td><td>made</td><td>1</td></tr>
+<tr><td>soul</td><td>had</td><td>1</td></tr>
+<tr><td>soul</td><td>came</td><td>1</td></tr>
+<tr><td>soul</td><td>bring</td><td>1</td></tr>
+<tr><td>soul</td><td>believe</td><td>1</td></tr>
+<tr><td>them</td><td>do</td><td>1</td></tr>
+<tr><td>soul</td><td>being</td><td>1</td></tr>
+<tr><td>thee</td><td>were</td><td>1</td></tr>
+<tr><td>themselves</td><td>make</td><td>1</td></tr>
+<tr><td>them</td><td>done</td><td>1</td></tr>
+<tr><td>they</td><td>bear</td><td>1</td></tr>
+<tr><td>they</td><td>known</td><td>1</td></tr>
+<tr><td>she</td><td>understand</td><td>1</td></tr>
+<tr><td>they</td><td>created</td><td>1</td></tr>
+<tr><td>they</td><td>came</td><td>1</td></tr>
+<tr><td>they</td><td>brought</td><td>1</td></tr>
+<tr><td>they</td><td>believed</td><td>1</td></tr>
+<tr><td>they</td><td>become</td><td>1</td></tr>
+<tr><td>they</td><td>became</td><td>1</td></tr>
+<tr><td>themselves</td><td>seek</td><td>1</td></tr>
+<tr><td>them</td><td>gave</td><td>1</td></tr>
+<tr><td>themselves</td><td>have</td><td>1</td></tr>
+<tr><td>them</td><td>were</td><td>1</td></tr>
+<tr><td>them</td><td>was</td><td>1</td></tr>
+<tr><td>them</td><td>see</td><td>1</td></tr>
+<tr><td>them</td><td>love</td><td>1</td></tr>
+<tr><td>them</td><td>knew</td><td>1</td></tr>
+<tr><td>them</td><td>heard</td><td>1</td></tr>
+<tr><td>them</td><td>have</td><td>1</td></tr>
+<tr><td>she</td><td>were</td><td>1</td></tr>
+<tr><td>nothing</td><td>come</td><td>1</td></tr>
+<tr><td>she</td><td>took</td><td>1</td></tr>
+<tr><td>mind</td><td>remembers</td><td>1</td></tr>
+<tr><td>nothing</td><td>made</td><td>1</td></tr>
+<tr><td>they</td><td>passed</td><td>1</td></tr>
+<tr><td>myself</td><td>seen</td><td>1</td></tr>
+<tr><td>myself</td><td>seeking</td><td>1</td></tr>
+<tr><td>myself</td><td>is</td><td>1</td></tr>
+<tr><td>myself</td><td>have</td><td>1</td></tr>
+<tr><td>myself</td><td>am</td><td>1</td></tr>
+<tr><td>mine</td><td>do</td><td>1</td></tr>
+<tr><td>mind</td><td>making</td><td>1</td></tr>
+<tr><td>she</td><td>sought</td><td>1</td></tr>
+<tr><td>mind</td><td>love</td><td>1</td></tr>
+<tr><td>mind</td><td>gave</td><td>1</td></tr>
+<tr><td>men</td><td>live</td><td>1</td></tr>
+<tr><td>men</td><td>is</td><td>1</td></tr>
+<tr><td>men</td><td>hear</td><td>1</td></tr>
+<tr><td>men</td><td>have</td><td>1</td></tr>
+<tr><td>men</td><td>do</td><td>1</td></tr>
+<tr><td>men</td><td>called</td><td>1</td></tr>
+<tr><td>nothing</td><td>passed</td><td>1</td></tr>
+<tr><td>nothing</td><td>taken</td><td>1</td></tr>
+<tr><td>nothing</td><td>was</td><td>1</td></tr>
+<tr><td>our</td><td>doing</td><td>1</td></tr>
+<tr><td>she</td><td>say</td><td>1</td></tr>
+<tr><td>she</td><td>remembered</td><td>1</td></tr>
+<tr><td>she</td><td>make</td><td>1</td></tr>
+<tr><td>she</td><td>loves</td><td>1</td></tr>
+<tr><td>she</td><td>know</td><td>1</td></tr>
+<tr><td>she</td><td>heard</td><td>1</td></tr>
+<tr><td>she</td><td>having</td><td>1</td></tr>
+<tr><td>she</td><td>gave</td><td>1</td></tr>
+<tr><td>she</td><td>did</td><td>1</td></tr>
+<tr><td>she</td><td>called</td><td>1</td></tr>
+<tr><td>she</td><td>bore</td><td>1</td></tr>
+<tr><td>she</td><td>believed</td><td>1</td></tr>
+<tr><td>place</td><td>called</td><td>1</td></tr>
+<tr><td>place</td><td>be</td><td>1</td></tr>
+<tr><td>our</td><td>passing</td><td>1</td></tr>
+<tr><td>our</td><td>love</td><td>1</td></tr>
+<tr><td>our</td><td>learning</td><td>1</td></tr>
+<tr><td>they</td><td>live</td><td>1</td></tr>
+<tr><td>thou</td><td>hear</td><td>1</td></tr>
+<tr><td>they</td><td>speak</td><td>1</td></tr>
+<tr><td>way</td><td>known</td><td>1</td></tr>
+<tr><td>we</td><td>came</td><td>1</td></tr>
+<tr><td>we</td><td>called</td><td>1</td></tr>
+<tr><td>we</td><td>brought</td><td>1</td></tr>
+<tr><td>we</td><td>believed</td><td>1</td></tr>
+<tr><td>we</td><td>been</td><td>1</td></tr>
+<tr><td>we</td><td>become</td><td>1</td></tr>
+<tr><td>ways</td><td>said</td><td>1</td></tr>
+<tr><td>way</td><td>were</td><td>1</td></tr>
+<tr><td>way</td><td>is</td><td>1</td></tr>
+<tr><td>times</td><td>takes</td><td>1</td></tr>
+<tr><td>way</td><td>do</td><td>1</td></tr>
+<tr><td>us</td><td>went</td><td>1</td></tr>
+<tr><td>us</td><td>see</td><td>1</td></tr>
+<tr><td>us</td><td>be</td><td>1</td></tr>
+<tr><td>truth</td><td>was</td><td>1</td></tr>
+<tr><td>truth</td><td>have</td><td>1</td></tr>
+<tr><td>truth</td><td>had</td><td>1</td></tr>
+<tr><td>truth</td><td>did</td><td>1</td></tr>
+<tr><td>we</td><td>gave</td><td>1</td></tr>
+<tr><td>we</td><td>learned</td><td>1</td></tr>
+<tr><td>we</td><td>learnt</td><td>1</td></tr>
+<tr><td>we</td><td>lived</td><td>1</td></tr>
+<tr><td>men</td><td>become</td><td>1</td></tr>
+<tr><td>you</td><td>love</td><td>1</td></tr>
+<tr><td>you</td><td>come</td><td>1</td></tr>
+<tr><td>you</td><td>be</td><td>1</td></tr>
+<tr><td>you</td><td>are</td><td>1</td></tr>
+<tr><td>world</td><td>knew</td><td>1</td></tr>
+<tr><td>world</td><td>is</td><td>1</td></tr>
+<tr><td>world</td><td>found</td><td>1</td></tr>
+<tr><td>words</td><td>learnt</td><td>1</td></tr>
+<tr><td>words</td><td>had</td><td>1</td></tr>
+<tr><td>word</td><td>spoken</td><td>1</td></tr>
+<tr><td>word</td><td>is</td><td>1</td></tr>
+<tr><td>word</td><td>do</td><td>1</td></tr>
+<tr><td>we</td><td>think</td><td>1</td></tr>
+<tr><td>we</td><td>take</td><td>1</td></tr>
+<tr><td>we</td><td>sought</td><td>1</td></tr>
+<tr><td>we</td><td>saw</td><td>1</td></tr>
+<tr><td>times</td><td>were</td><td>1</td></tr>
+<tr><td>times</td><td>seen</td><td>1</td></tr>
+<tr><td>they</td><td>spoke</td><td>1</td></tr>
+<tr><td>things</td><td>found</td><td>1</td></tr>
+<tr><td>thou</td><td>been</td><td>1</td></tr>
+<tr><td>things</td><td>understood</td><td>1</td></tr>
+<tr><td>things</td><td>spoken</td><td>1</td></tr>
+<tr><td>things</td><td>said</td><td>1</td></tr>
+<tr><td>things</td><td>pass</td><td>1</td></tr>
+<tr><td>things</td><td>let</td><td>1</td></tr>
+<tr><td>things</td><td>having</td><td>1</td></tr>
+<tr><td>things</td><td>give</td><td>1</td></tr>
+<tr><td>things</td><td>done</td><td>1</td></tr>
+<tr><td>times</td><td>passing</td><td>1</td></tr>
+<tr><td>things</td><td>do</td><td>1</td></tr>
+<tr><td>things</td><td>created</td><td>1</td></tr>
+<tr><td>things</td><td>come</td><td>1</td></tr>
+<tr><td>thing</td><td>loved</td><td>1</td></tr>
+<tr><td>thing</td><td>come</td><td>1</td></tr>
+<tr><td>they</td><td>understand</td><td>1</td></tr>
+<tr><td>they</td><td>think</td><td>1</td></tr>
+<tr><td>they</td><td>take</td><td>1</td></tr>
+<tr><td>thou</td><td>create</td><td>1</td></tr>
+<tr><td>thou</td><td>created</td><td>1</td></tr>
+<tr><td>thou</td><td>done</td><td>1</td></tr>
+<tr><td>thou</td><td>find</td><td>1</td></tr>
+<tr><td>times</td><td>pass</td><td>1</td></tr>
+<tr><td>times</td><td>have</td><td>1</td></tr>
+<tr><td>time</td><td>were</td><td>1</td></tr>
+<tr><td>time</td><td>passing</td><td>1</td></tr>
+<tr><td>time</td><td>passed</td><td>1</td></tr>
+<tr><td>time</td><td>have</td><td>1</td></tr>
+<tr><td>time</td><td>has</td><td>1</td></tr>
+<tr><td>time</td><td>created</td><td>1</td></tr>
+<tr><td>time</td><td>being</td><td>1</td></tr>
+<tr><td>time</td><td>are</td><td>1</td></tr>
+<tr><td>thy</td><td>making</td><td>1</td></tr>
+<tr><td>thou</td><td>take</td><td>1</td></tr>
+<tr><td>thou</td><td>say</td><td>1</td></tr>
+<tr><td>thou</td><td>said</td><td>1</td></tr>
+<tr><td>thou</td><td>know</td><td>1</td></tr>
+<tr><td>thou</td><td>gone</td><td>1</td></tr>
+<tr><td>thou</td><td>findest</td><td>1</td></tr>
+<tr><td>men</td><td>call</td><td>1</td></tr>
+<tr><td>earth</td><td>passing</td><td>1</td></tr>
+<tr><td>men</td><td>be</td><td>1</td></tr>
+<tr><td>he</td><td>gave</td><td>1</td></tr>
+<tr><td>he</td><td>lives</td><td>1</td></tr>
+<tr><td>he</td><td>let</td><td>1</td></tr>
+<tr><td>he</td><td>heard</td><td>1</td></tr>
+<tr><td>he</td><td>has</td><td>1</td></tr>
+<tr><td>he</td><td>goes</td><td>1</td></tr>
+<tr><td>he</td><td>go</td><td>1</td></tr>
+<tr><td>he</td><td>gives</td><td>1</td></tr>
+<tr><td>he</td><td>given</td><td>1</td></tr>
+<tr><td>he</td><td>do</td><td>1</td></tr>
+<tr><td>hast</td><td>born</td><td>1</td></tr>
+<tr><td>he</td><td>created</td><td>1</td></tr>
+<tr><td>he</td><td>called</td><td>1</td></tr>
+<tr><td>he</td><td>call</td><td>1</td></tr>
+<tr><td>he</td><td>bore</td><td>1</td></tr>
+<tr><td>he</td><td>believed</td><td>1</td></tr>
+<tr><td>he</td><td>been</td><td>1</td></tr>
+<tr><td>hast</td><td>heard</td><td>1</td></tr>
+<tr><td>hast</td><td>done</td><td>1</td></tr>
+<tr><td>he</td><td>makes</td><td>1</td></tr>
+<tr><td>he</td><td>pass</td><td>1</td></tr>
+<tr><td>he</td><td>says</td><td>1</td></tr>
+<tr><td>he</td><td>sought</td><td>1</td></tr>
+<tr><td>him</td><td>born</td><td>1</td></tr>
+<tr><td>him</td><td>are</td><td>1</td></tr>
+<tr><td>her</td><td>was</td><td>1</td></tr>
+<tr><td>her</td><td>love</td><td>1</td></tr>
+<tr><td>heaven</td><td>is</td><td>1</td></tr>
+<tr><td>heaven</td><td>have</td><td>1</td></tr>
+<tr><td>hearts</td><td>had</td><td>1</td></tr>
+<tr><td>heart</td><td>have</td><td>1</td></tr>
+<tr><td>heart</td><td>had</td><td>1</td></tr>
+<tr><td>heart</td><td>been</td><td>1</td></tr>
+<tr><td>heart</td><td>becomes</td><td>1</td></tr>
+<tr><td>heart</td><td>be</td><td>1</td></tr>
+<tr><td>heart</td><td>are</td><td>1</td></tr>
+<tr><td>he</td><td>understands</td><td>1</td></tr>
+<tr><td>he</td><td>took</td><td>1</td></tr>
+<tr><td>he</td><td>taken</td><td>1</td></tr>
+<tr><td>he</td><td>speaks</td><td>1</td></tr>
+<tr><td>hast</td><td>called</td><td>1</td></tr>
+<tr><td>hast</td><td>been</td><td>1</td></tr>
+<tr><td>men</td><td>are</td><td>1</td></tr>
+<tr><td>body</td><td>were</td><td>1</td></tr>
+<tr><td>earth</td><td>speak</td><td>1</td></tr>
+<tr><td>earth</td><td>bringing</td><td>1</td></tr>
+<tr><td>days</td><td>are</td><td>1</td></tr>
+<tr><td>day</td><td>was</td><td>1</td></tr>
+<tr><td>day</td><td>see</td><td>1</td></tr>
+<tr><td>day</td><td>have</td><td>1</td></tr>
+<tr><td>day</td><td>gives</td><td>1</td></tr>
+<tr><td>day</td><td>give</td><td>1</td></tr>
+<tr><td>body</td><td>be</td><td>1</td></tr>
+<tr><td>god</td><td>saying</td><td>1</td></tr>
+<tr><td>bodies</td><td>live</td><td>1</td></tr>
+<tr><td>arts</td><td>were</td><td>1</td></tr>
+<tr><td>arts</td><td>be</td><td>1</td></tr>
+<tr><td>art</td><td>made</td><td>1</td></tr>
+<tr><td>art</td><td>love</td><td>1</td></tr>
+<tr><td>art</td><td>found</td><td>1</td></tr>
+<tr><td>''s</td><td>go</td><td>1</td></tr>
+<tr><td>''s</td><td>do</td><td>1</td></tr>
+<tr><td>eye</td><td>be</td><td>1</td></tr>
+<tr><td>eyes</td><td>are</td><td>1</td></tr>
+<tr><td>eyes</td><td>being</td><td>1</td></tr>
+<tr><td>eyes</td><td>have</td><td>1</td></tr>
+<tr><td>god</td><td>have</td><td>1</td></tr>
+<tr><td>god</td><td>has</td><td>1</td></tr>
+<tr><td>god</td><td>give</td><td>1</td></tr>
+<tr><td>god</td><td>gave</td><td>1</td></tr>
+<tr><td>god</td><td>doing</td><td>1</td></tr>
+<tr><td>god</td><td>did</td><td>1</td></tr>
+<tr><td>god</td><td>create</td><td>1</td></tr>
+<tr><td>god</td><td>come</td><td>1</td></tr>
+<tr><td>god</td><td>be</td><td>1</td></tr>
+<tr><td>god</td><td>are</td><td>1</td></tr>
+<tr><td>formed</td><td>are</td><td>1</td></tr>
+<tr><td>form</td><td>is</td><td>1</td></tr>
+<tr><td>eyes</td><td>was</td><td>1</td></tr>
+<tr><td>eyes</td><td>sought</td><td>1</td></tr>
+<tr><td>eyes</td><td>say</td><td>1</td></tr>
+<tr><td>eyes</td><td>love</td><td>1</td></tr>
+<tr><td>eyes</td><td>know</td><td>1</td></tr>
+<tr><td>him</td><td>call</td><td>1</td></tr>
+<tr><td>him</td><td>did</td><td>1</td></tr>
+<tr><td>him</td><td>do</td><td>1</td></tr>
+<tr><td>joy</td><td>do</td><td>1</td></tr>
+<tr><td>lord</td><td>is</td><td>1</td></tr>
+<tr><td>lord</td><td>had</td><td>1</td></tr>
+<tr><td>light</td><td>made</td><td>1</td></tr>
+<tr><td>life</td><td>bring</td><td>1</td></tr>
+<tr><td>life</td><td>being</td><td>1</td></tr>
+<tr><td>life</td><td>be</td><td>1</td></tr>
+<tr><td>joy</td><td>were</td><td>1</td></tr>
+<tr><td>joy</td><td>remember</td><td>1</td></tr>
+<tr><td>itself</td><td>were</td><td>1</td></tr>
+<tr><td>him</td><td>is</td><td>1</td></tr>
+<tr><td>itself</td><td>had</td><td>1</td></tr>
+<tr><td>itself</td><td>do</td><td>1</td></tr>
+<tr><td>itself</td><td>being</td><td>1</td></tr>
+<tr><td>itself</td><td>been</td><td>1</td></tr>
+<tr><td>itself</td><td>be</td><td>1</td></tr>
+<tr><td>it</td><td>understood</td><td>1</td></tr>
+<tr><td>it</td><td>spoken</td><td>1</td></tr>
+<tr><td>it</td><td>sought</td><td>1</td></tr>
+<tr><td>man</td><td>created</td><td>1</td></tr>
+<tr><td>man</td><td>did</td><td>1</td></tr>
+<tr><td>man</td><td>do</td><td>1</td></tr>
+<tr><td>man</td><td>know</td><td>1</td></tr>
+<tr><td>memory</td><td>seeking</td><td>1</td></tr>
+<tr><td>memory</td><td>have</td><td>1</td></tr>
+<tr><td>memory</td><td>find</td><td>1</td></tr>
+<tr><td>memory</td><td>did</td><td>1</td></tr>
+<tr><td>memory</td><td>bear</td><td>1</td></tr>
+<tr><td>me</td><td>love</td><td>1</td></tr>
+<tr><td>me</td><td>learn</td><td>1</td></tr>
+<tr><td>me</td><td>have</td><td>1</td></tr>
+<tr><td>me</td><td>did</td><td>1</td></tr>
+<tr><td>me</td><td>born</td><td>1</td></tr>
+<tr><td>me</td><td>be</td><td>1</td></tr>
+<tr><td>me</td><td>are</td><td>1</td></tr>
+<tr><td>man</td><td>understand</td><td>1</td></tr>
+<tr><td>man</td><td>say</td><td>1</td></tr>
+<tr><td>man</td><td>saw</td><td>1</td></tr>
+<tr><td>man</td><td>loves</td><td>1</td></tr>
+<tr><td>man</td><td>knows</td><td>1</td></tr>
+<tr><td>it</td><td>sees</td><td>1</td></tr>
+<tr><td>it</td><td>seek</td><td>1</td></tr>
+<tr><td>it</td><td>remembers</td><td>1</td></tr>
+<tr><td>i</td><td>become</td><td>1</td></tr>
+<tr><td>his</td><td>understanding</td><td>1</td></tr>
+<tr><td>his</td><td>passing</td><td>1</td></tr>
+<tr><td>his</td><td>love</td><td>1</td></tr>
+<tr><td>his</td><td>is</td><td>1</td></tr>
+<tr><td>his</td><td>having</td><td>1</td></tr>
+<tr><td>his</td><td>going</td><td>1</td></tr>
+<tr><td>himself</td><td>went</td><td>1</td></tr>
+<tr><td>himself</td><td>says</td><td>1</td></tr>
+<tr><td>himself</td><td>made</td><td>1</td></tr>
+<tr><td>himself</td><td>loved</td><td>1</td></tr>
+<tr><td>himself</td><td>do</td><td>1</td></tr>
+<tr><td>him</td><td>understand</td><td>1</td></tr>
+<tr><td>him</td><td>thought</td><td>1</td></tr>
+<tr><td>him</td><td>take</td><td>1</td></tr>
+<tr><td>him</td><td>see</td><td>1</td></tr>
+<tr><td>him</td><td>make</td><td>1</td></tr>
+<tr><td>him</td><td>love</td><td>1</td></tr>
+<tr><td>his</td><td>was</td><td>1</td></tr>
+<tr><td>i</td><td>bore</td><td>1</td></tr>
+<tr><td>it</td><td>remembered</td><td>1</td></tr>
+<tr><td>i</td><td>borne</td><td>1</td></tr>
+<tr><td>it</td><td>passed</td><td>1</td></tr>
+<tr><td>it</td><td>pass</td><td>1</td></tr>
+<tr><td>it</td><td>makes</td><td>1</td></tr>
+<tr><td>it</td><td>loves</td><td>1</td></tr>
+<tr><td>it</td><td>knew</td><td>1</td></tr>
+<tr><td>it</td><td>heard</td><td>1</td></tr>
+<tr><td>it</td><td>has</td><td>1</td></tr>
+<tr><td>it</td><td>goes</td><td>1</td></tr>
+<tr><td>it</td><td>given</td><td>1</td></tr>
+<tr><td>it</td><td>finds</td><td>1</td></tr>
+<tr><td>it</td><td>been</td><td>1</td></tr>
+<tr><td>it</td><td>bears</td><td>1</td></tr>
+<tr><td>it</td><td>are</td><td>1</td></tr>
+<tr><td>i</td><td>take</td><td>1</td></tr>
+<tr><td>i</td><td>known</td><td>1</td></tr>
+<tr><td>i</td><td>done</td><td>1</td></tr>
+<tr><td>i</td><td>brought</td><td>1</td></tr>
+<tr><td>you</td><td>seek</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

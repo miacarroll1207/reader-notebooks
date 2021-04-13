@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_05	1	1	Those hours	TIME
+shakespeare-sonnets_05	1	2	summer	DATE
+shakespeare-sonnets_05	1	3	winter	DATE
+shakespeare-sonnets_05	1	4	Sap	PERSON
+shakespeare-sonnets_05	1	5	summer	DATE
+shakespeare-sonnets_05	1	6	Beauty	PERSON
+shakespeare-sonnets_05	1	7	winter	DATE
+shakespeare-sonnets_05	1	8	Leese	NORP

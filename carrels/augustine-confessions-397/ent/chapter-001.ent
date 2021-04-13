@@ -1,0 +1,284 @@
+id	sid	eid	entity	type
+chapter-001	2	1	Thee	PERSON
+chapter-001	2	2	Thou	PERSON
+chapter-001	2	3	Thee	PERSON
+chapter-001	3	1	Thou madest	PERSON
+chapter-001	3	2	Thee	PERSON
+chapter-001	4	1	first	ORDINAL
+chapter-001	4	2	Thee	PERSON
+chapter-001	4	3	Thee	PERSON
+chapter-001	5	1	Thee	PERSON
+chapter-001	5	2	Thee	PERSON
+chapter-001	6	1	Thee	PERSON
+chapter-001	6	2	Thee	PERSON
+chapter-001	7	1	knoweth Thee	PERSON
+chapter-001	7	2	Thee	PERSON
+chapter-001	7	3	Thou	PERSON
+chapter-001	8	1	Thee	PERSON
+chapter-001	8	2	Thee	PERSON
+chapter-001	12	1	Thee	PERSON
+chapter-001	12	2	Thee	PERSON
+chapter-001	12	3	Thee	PERSON
+chapter-001	12	4	Thee	PERSON
+chapter-001	12	5	Thou	PERSON
+chapter-001	13	1	Thee	PERSON
+chapter-001	13	2	Thou	PERSON
+chapter-001	13	3	the Incarnation of Thy Son	ORG
+chapter-001	16	1	earth	LOC
+chapter-001	17	1	Thee	PERSON
+chapter-001	18	1	earth	LOC
+chapter-001	18	2	Thou hast	PERSON
+chapter-001	18	3	wherein Thou	PERSON
+chapter-001	18	4	Thee	PERSON
+chapter-001	19	1	Thee	PERSON
+chapter-001	19	2	Thee	PERSON
+chapter-001	20	1	Thou	PERSON
+chapter-001	20	2	wert Thou	PERSON
+chapter-001	22	1	Thou	PERSON
+chapter-001	23	1	Thou	PERSON
+chapter-001	24	1	wert Thou	PERSON
+chapter-001	24	2	Thee	PERSON
+chapter-001	26	1	Thee	PERSON
+chapter-001	26	2	Thee	PERSON
+chapter-001	28	1	earth	LOC
+chapter-001	28	2	earth	LOC
+chapter-001	29	1	Thee	PERSON
+chapter-001	29	2	Thou	PERSON
+chapter-001	30	1	Thou	PERSON
+chapter-001	30	2	Thee	PERSON
+chapter-001	31	1	earth	LOC
+chapter-001	31	2	Thou	PERSON
+chapter-001	32	1	Thou	PERSON
+chapter-001	32	2	Thee	PERSON
+chapter-001	32	3	Thou	PERSON
+chapter-001	32	4	Thou	PERSON
+chapter-001	33	1	Thou	PERSON
+chapter-001	33	2	Thee	PERSON
+chapter-001	33	3	Thou wert	PERSON
+chapter-001	34	1	Thou	PERSON
+chapter-001	34	2	Thou	PERSON
+chapter-001	34	3	Thou	PERSON
+chapter-001	34	4	Thou	PERSON
+chapter-001	34	5	Thou	PERSON
+chapter-001	35	1	Thou	PERSON
+chapter-001	35	2	Thou	PERSON
+chapter-001	36	1	Thee	PERSON
+chapter-001	36	2	Thee	PERSON
+chapter-001	39	1	Thee greater	FAC
+chapter-001	40	1	Thou	PERSON
+chapter-001	40	2	Thee	PERSON
+chapter-001	41	1	Thou	PERSON
+chapter-001	46	1	Thou lovest	PERSON
+chapter-001	46	2	Thy	PERSON
+chapter-001	46	3	Thy	PERSON
+chapter-001	46	4	Thou	PERSON
+chapter-001	47	1	Thou mayest owe	PERSON
+chapter-001	47	2	Thine	NORP
+chapter-001	50	1	Thee	PERSON
+chapter-001	53	1	Thee	WORK_OF_ART
+chapter-001	55	1	Thou	PERSON
+chapter-001	55	2	Thee	PERSON
+chapter-001	56	1	Thou	PERSON
+chapter-001	58	1	Thee	PERSON
+chapter-001	58	2	Thou	PERSON
+chapter-001	59	1	Thee	PERSON
+chapter-001	61	1	Thou	PERSON
+chapter-001	64	1	Thee	PERSON
+chapter-001	64	2	Thou	PERSON
+chapter-001	65	1	Thee	PERSON
+chapter-001	68	1	Thou	PERSON
+chapter-001	69	1	Thou	PERSON
+chapter-001	70	1	Thine	NORP
+chapter-001	72	1	Thee	PERSON
+chapter-001	75	1	Thou knowest	PERSON
+chapter-001	76	1	Thee	PERSON
+chapter-001	76	2	Thou	PERSON
+chapter-001	77	1	Thee	PERSON
+chapter-001	78	1	Thee	PERSON
+chapter-001	78	2	Thou	PERSON
+chapter-001	81	1	Thou	PERSON
+chapter-001	81	2	Thou	PERSON
+chapter-001	86	1	Thou	PERSON
+chapter-001	86	2	Thine	NORP
+chapter-001	86	3	Thou	PERSON
+chapter-001	87	1	Thou	PERSON
+chapter-001	87	2	Thou	PERSON
+chapter-001	87	3	Thou	PERSON
+chapter-001	88	1	Thee	PERSON
+chapter-001	90	1	Thee	PERSON
+chapter-001	91	1	Thou	PERSON
+chapter-001	91	2	Thy	PERSON
+chapter-001	93	1	first	ORDINAL
+chapter-001	100	1	Thou	PERSON
+chapter-001	100	2	Thou	PERSON
+chapter-001	100	3	Thee	PERSON
+chapter-001	100	4	first	ORDINAL
+chapter-001	100	5	Thee	PERSON
+chapter-001	100	6	Thee	PERSON
+chapter-001	106	1	Thee	PERSON
+chapter-001	106	2	Thee	PERSON
+chapter-001	107	1	Thee	PERSON
+chapter-001	107	2	Thee	PERSON
+chapter-001	107	3	first	ORDINAL
+chapter-001	107	4	Thou	PERSON
+chapter-001	109	1	Thee	PERSON
+chapter-001	112	1	Essence and Life	ORG
+chapter-001	113	1	Thou	PERSON
+chapter-001	113	2	Thee	PERSON
+chapter-001	113	3	Thee	PERSON
+chapter-001	113	4	Thee	PERSON
+chapter-001	114	1	Thou	PERSON
+chapter-001	115	1	Thy years	DATE
+chapter-001	115	2	Thy years	DATE
+chapter-001	116	1	' years	DATE
+chapter-001	116	2	Thy	PERSON
+chapter-001	117	1	Thou	PERSON
+chapter-001	117	2	tomorrow	DATE
+chapter-001	117	3	yesterday	DATE
+chapter-001	117	4	Thou hast	PERSON
+chapter-001	121	1	Thee	PERSON
+chapter-001	121	2	Thee	PERSON
+chapter-001	123	1	Alas	ORG
+chapter-001	124	1	Thou pitiest	PERSON
+chapter-001	124	2	Thou	PERSON
+chapter-001	124	3	Thou	PERSON
+chapter-001	126	1	Thy	PERSON
+chapter-001	126	2	a day	DATE
+chapter-001	126	3	earth	LOC
+chapter-001	136	1	yea	ORG
+chapter-001	144	1	years	DATE
+chapter-001	144	2	riper years	DATE
+chapter-001	145	1	Thou gavest	PERSON
+chapter-001	145	2	Thou	PERSON
+chapter-001	145	3	Thee	PERSON
+chapter-001	145	4	Thee	PERSON
+chapter-001	145	5	Thy	PERSON
+chapter-001	145	6	Thou	PERSON
+chapter-001	146	1	Thou	PERSON
+chapter-001	146	2	Good	PERSON
+chapter-001	146	3	Thou	PERSON
+chapter-001	146	4	Thou	PERSON
+chapter-001	149	1	Thee	PERSON
+chapter-001	149	2	Thy	PERSON
+chapter-001	157	1	Thou	PERSON
+chapter-001	164	1	Adam	PERSON
+chapter-001	165	1	Thee	PERSON
+chapter-001	165	2	Thee	PERSON
+chapter-001	166	1	Thee	PERSON
+chapter-001	166	2	Thee	PERSON
+chapter-001	166	3	Thee	PERSON
+chapter-001	167	1	Thou	PERSON
+chapter-001	167	2	Thee	PERSON
+chapter-001	167	3	Thee	PERSON
+chapter-001	167	4	Thee	PERSON
+chapter-001	168	1	Thee	PERSON
+chapter-001	175	1	Disposer	PERSON
+chapter-001	175	2	Disposer	PRODUCT
+chapter-001	179	1	Thee	PERSON
+chapter-001	179	2	Thee	PERSON
+chapter-001	179	3	Thee	PERSON
+chapter-001	179	4	Thou	PERSON
+chapter-001	180	1	Thee	PERSON
+chapter-001	181	1	Thou wert	PERSON
+chapter-001	181	2	Thy Church	ORG
+chapter-001	181	3	Thy Christ	PERSON
+chapter-001	182	1	Thee	PERSON
+chapter-001	182	2	Jesus	PERSON
+chapter-001	185	1	Thou	PERSON
+chapter-001	185	2	Thou	PERSON
+chapter-001	185	3	Thee	PERSON
+chapter-001	186	1	Thee	PERSON
+chapter-001	186	2	Thou	PERSON
+chapter-001	198	1	Thee	PERSON
+chapter-001	200	1	Thou	PERSON
+chapter-001	200	2	Thou	PERSON
+chapter-001	201	1	Thou	PERSON
+chapter-001	201	2	Thou	PERSON
+chapter-001	202	1	Thou hast	PERSON
+chapter-001	203	1	Greek	NORP
+chapter-001	205	1	Latin	LANGUAGE
+chapter-001	205	2	first	ORDINAL
+chapter-001	206	1	first	ORDINAL
+chapter-001	206	2	Greek	NORP
+chapter-001	208	1	first	ORDINAL
+chapter-001	208	2	one	CARDINAL
+chapter-001	208	3	Dido	PERSON
+chapter-001	208	4	Thee	PERSON
+chapter-001	209	1	Dido	PERSON
+chapter-001	209	2	Thee	PERSON
+chapter-001	210	1	Thou	PERSON
+chapter-001	210	2	Thou Power	PERSON
+chapter-001	210	3	Thee	PERSON
+chapter-001	211	1	Thee	PERSON
+chapter-001	213	1	Thee	PERSON
+chapter-001	216	1	Dido	PERSON
+chapter-001	216	2	Thee	PERSON
+chapter-001	216	3	earth	LOC
+chapter-001	219	1	Thou aloud	PERSON
+chapter-001	220	1	first	ORDINAL
+chapter-001	221	1	lo	PERSON
+chapter-001	221	2	Aeneas	PERSON
+chapter-001	222	1	the Grammar School	ORG
+chapter-001	224	1	Thee	PERSON
+chapter-001	231	1	One	CARDINAL
+chapter-001	231	2	one	CARDINAL
+chapter-001	231	3	two	CARDINAL
+chapter-001	231	4	two and two	CARDINAL
+chapter-001	231	5	four	CARDINAL
+chapter-001	231	6	Troy	GPE
+chapter-001	232	1	Greek	NORP
+chapter-001	234	1	Grecian	NORP
+chapter-001	235	1	Grecian	GPE
+chapter-001	236	1	one	CARDINAL
+chapter-001	237	1	Time	ORG
+chapter-001	237	2	Latin	LANGUAGE
+chapter-001	240	1	Thee	PERSON
+chapter-001	241	1	Thee	PERSON
+chapter-001	241	2	Thy	PERSON
+chapter-001	241	3	Thou	PERSON
+chapter-001	241	4	Thee	PERSON
+chapter-001	241	5	Thy	PERSON
+chapter-001	241	6	Thou	PERSON
+chapter-001	243	1	Thou	PERSON
+chapter-001	243	2	Thou	PERSON
+chapter-001	248	1	Eve	PERSON
+chapter-001	254	1	Jupiter	LOC
+chapter-001	255	1	Jove	PERSON
+chapter-001	255	2	Danae	GPE
+chapter-001	257	1	Great Jove	PERSON
+chapter-001	263	1	Juno	PERSON
+chapter-001	263	2	Trojan	GPE
+chapter-001	263	3	Latinum	ORG
+chapter-001	264	1	Juno	PERSON
+chapter-001	272	1	Thou seest	PERSON
+chapter-001	274	1	Thou	PERSON
+chapter-001	274	2	Thee	PERSON
+chapter-001	274	3	Thy	PERSON
+chapter-001	274	4	Thee	PERSON
+chapter-001	275	1	Thee	PERSON
+chapter-001	276	1	Thee	PERSON
+chapter-001	276	2	Thee	PERSON
+chapter-001	277	1	Thy	PERSON
+chapter-001	277	2	Thou	PERSON
+chapter-001	278	1	Thou gavest	PERSON
+chapter-001	280	1	Thou	PERSON
+chapter-001	280	2	Thee	PERSON
+chapter-001	281	1	Thine	LANGUAGE
+chapter-001	284	1	Thou	PERSON
+chapter-001	287	1	Thee	PERSON
+chapter-001	288	1	Thine	GPE
+chapter-001	298	1	Thou	PERSON
+chapter-001	299	1	Thee	PERSON
+chapter-001	299	2	Creator	PERSON
+chapter-001	299	3	Thee	PERSON
+chapter-001	299	4	God	PERSON
+chapter-001	299	5	Thou	PERSON
+chapter-001	300	1	these minute	TIME
+chapter-001	300	2	things minute	TIME
+chapter-001	305	1	Thee	PERSON
+chapter-001	305	2	Thee	PERSON
+chapter-001	305	3	Thy	PERSON
+chapter-001	305	4	Thou	PERSON
+chapter-001	306	1	Thou	PERSON
+chapter-001	306	2	Thee	PERSON
+chapter-001	306	3	Thou	PERSON

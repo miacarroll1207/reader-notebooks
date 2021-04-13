@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_100	2	1	Spend'st	PERSON
+shakespeare-sonnets_100	3	1	Muse	GPE
+shakespeare-sonnets_100	4	1	Muse	PERSON
+shakespeare-sonnets_100	5	1	Time	ORG

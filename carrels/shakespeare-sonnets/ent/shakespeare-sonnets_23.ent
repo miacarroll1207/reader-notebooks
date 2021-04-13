@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_23	1	1	XXIII	ORG
+shakespeare-sonnets_23	2	1	decay	GPE
+shakespeare-sonnets_23	2	2	O'ercharg'd	PERSON
+shakespeare-sonnets_23	2	3	burthen	GPE

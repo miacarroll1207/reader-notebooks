@@ -1,0 +1,148 @@
+id	sid	eid	entity	type
+homer-odyssey_12	2	1	Oceanus	ORG
+homer-odyssey_12	2	2	Aeaean	NORP
+homer-odyssey_12	3	1	day	DATE
+homer-odyssey_12	4	1	Dawn	PERSON
+homer-odyssey_12	4	2	Circe	PERSON
+homer-odyssey_12	7	1	Circe	PERSON
+homer-odyssey_12	8	1	the day	DATE
+homer-odyssey_12	8	2	tomorrow	DATE
+homer-odyssey_12	10	1	the livelong day	DATE
+homer-odyssey_12	11	1	Circe	PERSON
+homer-odyssey_12	13	1	First	ORDINAL
+homer-odyssey_12	13	2	Sirens	PERSON
+homer-odyssey_12	14	1	one	CARDINAL
+homer-odyssey_12	14	2	Sirens	PERSON
+homer-odyssey_12	16	1	Sirens	PERSON
+homer-odyssey_12	16	2	half	CARDINAL
+homer-odyssey_12	18	1	Sirens	PERSON
+homer-odyssey_12	18	2	two	CARDINAL
+homer-odyssey_12	18	3	two	CARDINAL
+homer-odyssey_12	20	1	Jove	PERSON
+homer-odyssey_12	20	2	one	CARDINAL
+homer-odyssey_12	20	3	Jove	PERSON
+homer-odyssey_12	21	1	Aetes	ORG
+homer-odyssey_12	21	2	Juno	PERSON
+homer-odyssey_12	21	3	Jason	PERSON
+homer-odyssey_12	22	1	two	CARDINAL
+homer-odyssey_12	22	2	one	CARDINAL
+homer-odyssey_12	23	1	summer	DATE
+homer-odyssey_12	23	2	early autumn	DATE
+homer-odyssey_12	24	1	twenty	CARDINAL
+homer-odyssey_12	24	2	twenty feet	QUANTITY
+homer-odyssey_12	25	1	West	LOC
+homer-odyssey_12	25	2	Erebus	LOC
+homer-odyssey_12	27	1	twelve	CARDINAL
+homer-odyssey_12	27	2	six	CARDINAL
+homer-odyssey_12	27	3	three	CARDINAL
+homer-odyssey_12	27	4	thousands	CARDINAL
+homer-odyssey_12	27	5	Amphitrite	PRODUCT
+homer-odyssey_12	30	1	Charybdis	ORG
+homer-odyssey_12	31	1	Three	CARDINAL
+homer-odyssey_12	31	2	the day	DATE
+homer-odyssey_12	31	3	three	CARDINAL
+homer-odyssey_12	31	4	Neptune	ORG
+homer-odyssey_12	31	5	six	CARDINAL
+homer-odyssey_12	32	1	Charybdis	ORG
+homer-odyssey_12	32	2	Scylla	FAC
+homer-odyssey_12	35	1	second	ORDINAL
+homer-odyssey_12	35	2	six	CARDINAL
+homer-odyssey_12	35	3	another half dozen	CARDINAL
+homer-odyssey_12	35	4	Crataiis	GPE
+homer-odyssey_12	35	5	Scylla	PERSON
+homer-odyssey_12	35	6	second	ORDINAL
+homer-odyssey_12	36	1	Thrinacian	NORP
+homer-odyssey_12	36	2	seven	CARDINAL
+homer-odyssey_12	36	3	seven	QUANTITY
+homer-odyssey_12	36	4	fifty	CARDINAL
+homer-odyssey_12	37	1	Phaethusa	ORG
+homer-odyssey_12	37	2	Lampetie	PERSON
+homer-odyssey_12	37	3	Hyperion	PRODUCT
+homer-odyssey_12	37	4	Neaera	ORG
+homer-odyssey_12	38	1	Thrinacian	NORP
+homer-odyssey_12	39	1	Ithaca	ORG
+homer-odyssey_12	41	1	the grey sea	LOC
+homer-odyssey_12	42	1	Circe	PERSON
+homer-odyssey_12	42	2	helmsman	PERSON
+homer-odyssey_12	43	1	one or	CARDINAL
+homer-odyssey_12	43	2	two	CARDINAL
+homer-odyssey_12	43	3	Circe	PERSON
+homer-odyssey_12	44	1	Sirens	PERSON
+homer-odyssey_12	45	1	half	CARDINAL
+homer-odyssey_12	47	1	two	CARDINAL
+homer-odyssey_12	52	1	Sirens	PERSON
+homer-odyssey_12	53	1	Ulysses	GPE
+homer-odyssey_12	53	2	Achaean	NORP
+homer-odyssey_12	53	3	two	CARDINAL
+homer-odyssey_12	54	1	Argives	NORP
+homer-odyssey_12	54	2	Trojans	NORP
+homer-odyssey_12	55	1	Eurylochus	PERSON
+homer-odyssey_12	55	2	Perimedes	PERSON
+homer-odyssey_12	55	3	Sirens	PERSON
+homer-odyssey_12	60	1	first	ORDINAL
+homer-odyssey_12	60	2	Cyclops	ORG
+homer-odyssey_12	61	1	Jove	GPE
+homer-odyssey_12	63	1	Scylla	PERSON
+homer-odyssey_12	64	1	one	CARDINAL
+homer-odyssey_12	64	2	Circe	ORG
+homer-odyssey_12	65	1	two	CARDINAL
+homer-odyssey_12	65	2	first	ORDINAL
+homer-odyssey_12	66	1	Straits	LOC
+homer-odyssey_12	66	2	Scylla	GPE
+homer-odyssey_12	66	3	Charybdis	NORP
+homer-odyssey_12	70	1	Scylla	PERSON
+homer-odyssey_12	70	2	six	CARDINAL
+homer-odyssey_12	71	1	Scylla	FAC
+homer-odyssey_12	71	2	one	CARDINAL
+homer-odyssey_12	74	1	Charybdis	ORG
+homer-odyssey_12	76	1	Teiresias	ORG
+homer-odyssey_12	76	2	Aeaean Circe	PERSON
+homer-odyssey_12	77	1	Teiresias	PERSON
+homer-odyssey_12	77	2	Aeaean Circe	PERSON
+homer-odyssey_12	79	1	Eurylochus	PERSON
+homer-odyssey_12	80	1	the flying night	TIME
+homer-odyssey_12	81	1	night	TIME
+homer-odyssey_12	81	2	South West	LOC
+homer-odyssey_12	81	3	West	LOC
+homer-odyssey_12	82	1	night	TIME
+homer-odyssey_12	82	2	morning	TIME
+homer-odyssey_12	83	1	Eurylochus	PERSON
+homer-odyssey_12	84	1	Circe	ORG
+homer-odyssey_12	86	1	Scylla	FAC
+homer-odyssey_12	87	1	third	ORDINAL
+homer-odyssey_12	87	2	the night	TIME
+homer-odyssey_12	87	3	Jove	PERSON
+homer-odyssey_12	88	1	morning	TIME
+homer-odyssey_12	88	2	Dawn	PERSON
+homer-odyssey_12	91	1	a whole month	DATE
+homer-odyssey_12	91	2	South	LOC
+homer-odyssey_12	91	3	South	LOC
+homer-odyssey_12	91	4	East	LOC
+homer-odyssey_12	93	1	One day	DATE
+homer-odyssey_12	94	1	Olympus	LOC
+homer-odyssey_12	95	1	Eurylochus	PERSON
+homer-odyssey_12	98	1	Ithaca	ORG
+homer-odyssey_12	99	1	Eurylochus	PERSON
+homer-odyssey_12	101	1	two	CARDINAL
+homer-odyssey_12	105	1	Jove	PERSON
+homer-odyssey_12	106	1	Lampetie	PERSON
+homer-odyssey_12	106	2	Ulysses	ORG
+homer-odyssey_12	106	3	one	CARDINAL
+homer-odyssey_12	108	1	Sun	PERSON
+homer-odyssey_12	108	2	Jove	PERSON
+homer-odyssey_12	108	3	the fruitful earth	LOC
+homer-odyssey_12	110	1	Calypso	ORG
+homer-odyssey_12	110	2	Mercury	ORG
+homer-odyssey_12	113	1	six days	DATE
+homer-odyssey_12	113	2	Saturn	PRODUCT
+homer-odyssey_12	113	3	a seventh day	DATE
+homer-odyssey_12	114	1	Saturn	PRODUCT
+homer-odyssey_12	115	1	West	LOC
+homer-odyssey_12	120	1	West	LOC
+homer-odyssey_12	120	2	South	LOC
+homer-odyssey_12	120	3	Charybdis	ORG
+homer-odyssey_12	121	1	all night	TIME
+homer-odyssey_12	121	2	Scylla	GPE
+homer-odyssey_12	127	1	nine days	DATE
+homer-odyssey_12	127	2	Ogygian	NORP
+homer-odyssey_12	128	1	yesterday	DATE

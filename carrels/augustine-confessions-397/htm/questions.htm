@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 0, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Questions</li>
+		</ol>
+	</nav>
+
+<h1>Questions</h1>
+<p>This is a list of all the questions and their associated study carrel identifiers. One can learn a lot of the "aboutness" of a text simply by reading the questions.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>identifier</th>
+                <th>question</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>chapter-005</td><td>And how have they injured Thee?</td></tr>
+<tr><td>chapter-005</td><td>And what, O Lord, was she with so many tears asking of Thee, but that Thou wouldest not suffer me to sail?</td></tr>
+<tr><td>chapter-005</td><td>And where would have been those her so strong and unceasing prayers, unintermitting to Thee alone?</td></tr>
+<tr><td>chapter-005</td><td>But what availed the utmost neatness of the cup- bearer to my thirst for a more precious draught?</td></tr>
+<tr><td>chapter-005</td><td>But where was I, when I was seeking Thee?</td></tr>
+<tr><td>chapter-005</td><td>But yet who bade that Manichaeus write on these things also, skill in which was no element of piety?</td></tr>
+<tr><td>chapter-005</td><td>Doth then, O Lord God of truth, whoso knoweth these things, therefore please Thee?</td></tr>
+<tr><td>chapter-005</td><td>For had I then parted hence, whither had I departed, but into fire and torments, such as my misdeeds deserved in the truth of Thy appointment?</td></tr>
+<tr><td>chapter-005</td><td>For how should He, by the crucifixion of a phantasm, which I believed Him to be?</td></tr>
+<tr><td>chapter-005</td><td>For whither fled they, when they fled from Thy presence?</td></tr>
+<tr><td>chapter-005</td><td>Heal Thou all my bones, and let them say, O Lord, who is like unto Thee?</td></tr>
+<tr><td>chapter-005</td><td>Is it not thus, as I recall it, O Lord my God, Thou judge of my conscience?</td></tr>
+<tr><td>chapter-005</td><td>Or how shall we obtain salvation, but from Thy hand, re- making what it made?</td></tr>
+<tr><td>chapter-005</td><td>Thou, by whose gift she was such?</td></tr>
+<tr><td>chapter-005</td><td>or how have they disgraced Thy government, which, from the heaven to this lowest earth, is just and perfect?</td></tr>
+<tr><td>chapter-005</td><td>or where dost not Thou find them?</td></tr>
+<tr><td>chapter-006</td><td>Again, if he asked had I rather be such as he was, or what I then was?</td></tr>
+<tr><td>chapter-006</td><td>Ambrose has no leisure; we have no leisure to read; where shall we find even the books?</td></tr>
+<tr><td>chapter-006</td><td>And if ye have not been faithful in that which is another man''s, who shall give you that which is your own?</td></tr>
+<tr><td>chapter-006</td><td>BOOK VI O Thou, my hope from my youth, where wert Thou to me, and whither wert Thou gone?</td></tr>
+<tr><td>chapter-006</td><td>But should any ask me, had I rather be merry or fearful?</td></tr>
+<tr><td>chapter-006</td><td>But when then pay we court to our great friends, whose favour we need?</td></tr>
+<tr><td>chapter-006</td><td>But where shall it be sought or when?</td></tr>
+<tr><td>chapter-006</td><td>Hadst not Thou created me, and separated me from the beasts of the field, and fowls of the air?</td></tr>
+<tr><td>chapter-006</td><td>I should choose to be myself, though worn with cares and fears; but out of wrong judgment; for, was it the truth?</td></tr>
+<tr><td>chapter-006</td><td>Life is vain, death uncertain; if it steals upon us on a sudden, in what state shall we depart hence?</td></tr>
+<tr><td>chapter-006</td><td>See, it is no great matter now to obtain some station, and then what should we more wish for?</td></tr>
+<tr><td>chapter-006</td><td>The forenoons our scholars take up; what do we during the rest?</td></tr>
+<tr><td>chapter-006</td><td>What glory, Lord?</td></tr>
+<tr><td>chapter-006</td><td>What, if death itself cut off and end all care and feeling?</td></tr>
+<tr><td>chapter-006</td><td>When compose what we may sell to scholars?</td></tr>
+<tr><td>chapter-006</td><td>When refresh ourselves, unbending our minds from this intenseness of care?</td></tr>
+<tr><td>chapter-006</td><td>Whence, or when procure them?</td></tr>
+<tr><td>chapter-006</td><td>Wherefore delay then to abandon worldly hopes, and give ourselves wholly to seek after God and the blessed life?</td></tr>
+<tr><td>chapter-006</td><td>Whom so soon as Alypius remembered, he told the architect: and he showing the hatchet to the boy, asked him"Whose that was?"</td></tr>
+<tr><td>chapter-006</td><td>Why not this?</td></tr>
+<tr><td>chapter-006</td><td>Why say more?</td></tr>
+<tr><td>chapter-006</td><td>and shall we not rather suffer the punishment of this negligence?</td></tr>
+<tr><td>chapter-006</td><td>and where shall we learn what here we have neglected?</td></tr>
+<tr><td>chapter-006</td><td>from whom borrow them?</td></tr>
+<tr><td>chapter-003</td><td>are they to be esteemed righteous who had many wives at once, and did kill men, and sacrifice living creatures?</td></tr>
+<tr><td>chapter-003</td><td>is God bounded by a bodily shape, and has hairs and nails?</td></tr>
+<tr><td>chapter-003</td><td>And who is sufficient for these things?</td></tr>
+<tr><td>chapter-003</td><td>Are griefs then too loved?</td></tr>
+<tr><td>chapter-003</td><td>But what foul offences can there be against Thee, who canst not be defiled?</td></tr>
+<tr><td>chapter-003</td><td>But what sort of compassion is this for feigned and scenical passions?</td></tr>
+<tr><td>chapter-003</td><td>But whither goes that vein?</td></tr>
+<tr><td>chapter-003</td><td>Can it at any time or place be unjust to love God with all his heart, with all his soul, and with all his mind; and his neighbour as himself?</td></tr>
+<tr><td>chapter-003</td><td>For how much better are the fables of poets and grammarians than these snares?</td></tr>
+<tr><td>chapter-003</td><td>How did I burn then, my God, how did I burn to re- mount from earthly things to Thee, nor knew I what Thou wouldest do with me?</td></tr>
+<tr><td>chapter-003</td><td>Is justice therefore various or mutable?</td></tr>
+<tr><td>chapter-003</td><td>My God, my Mercy, with how much gall didst Thou out of Thy great goodness besprinkle for me that sweetness?</td></tr>
+<tr><td>chapter-003</td><td>My life being such, was it life, O my God?</td></tr>
+<tr><td>chapter-003</td><td>Or whereas no man likes to be miserable, is he yet pleased to be merciful?</td></tr>
+<tr><td>chapter-003</td><td>Shall compassion then be put away?</td></tr>
+<tr><td>chapter-003</td><td>What is this but a miserable madness?</td></tr>
+<tr><td>chapter-003</td><td>What marvel that an unhappy sheep, straying from Thy flock, and impatient of Thy keeping, I became infected with a foul disease?</td></tr>
+<tr><td>chapter-003</td><td>What then could they be more truly called than"Subverters"?</td></tr>
+<tr><td>chapter-003</td><td>Whence was this, but that Thine ears were towards her heart?</td></tr>
+<tr><td>chapter-003</td><td>Where then wert Thou then to me, and how far from me?</td></tr>
+<tr><td>chapter-003</td><td>Why is it, that man desires to be made sad, beholding doleful and tragical things, which yet himself would no means suffer?</td></tr>
+<tr><td>chapter-003</td><td>or what acts of violence against Thee, who canst not be harmed?</td></tr>
+<tr><td>chapter-003</td><td>which because it can not be without passion, for this reason alone are passions loved?</td></tr>
+<tr><td>chapter-003</td><td>whither flows it?</td></tr>
+<tr><td>chapter-007</td><td>And I said,"Is Truth therefore nothing because it is not diffused through space finite or infinite?"</td></tr>
+<tr><td>chapter-007</td><td>And what can be unlooked- for by Thee, Who knowest all things?</td></tr>
+<tr><td>chapter-007</td><td>And what more monstrous than to affirm things to become better by losing all their good?</td></tr>
+<tr><td>chapter-007</td><td>And what should we more say,"why that substance which God is should not be corruptible,"seeing if it were so, it should not be God?</td></tr>
+<tr><td>chapter-007</td><td>But again I said, Who made me?</td></tr>
+<tr><td>chapter-007</td><td>Did not my God, Who is not only good, but goodness itself?</td></tr>
+<tr><td>chapter-007</td><td>Did the whole tumult of my soul, for which neither time nor utterance sufficed, reach them?</td></tr>
+<tr><td>chapter-007</td><td>For where was that charity building upon the foundation of humility, which is Christ Jesus?</td></tr>
+<tr><td>chapter-007</td><td>For, what was that which was thence through my tongue distilled into the ears of my most familiar friends?</td></tr>
+<tr><td>chapter-007</td><td>Had He no might to turn and change the whole, so that no evil should remain in it, seeing He is All- mighty?</td></tr>
+<tr><td>chapter-007</td><td>If the devil were the author, whence is that same devil?</td></tr>
+<tr><td>chapter-007</td><td>Lastly, why would He make any thing at all of it, and not rather by the same All- mightiness cause it not to be at all?</td></tr>
+<tr><td>chapter-007</td><td>No man sings there, Shall not my soul be submitted unto God?</td></tr>
+<tr><td>chapter-007</td><td>Or hath it no being?</td></tr>
+<tr><td>chapter-007</td><td>Or if it were from eternity, why suffered He it so to be for infinite spaces of times past, and was pleased so long after to make something out of it?</td></tr>
+<tr><td>chapter-007</td><td>Or, could it then be against His will?</td></tr>
+<tr><td>chapter-007</td><td>Or, was there some evil matter of which He made, and formed, and ordered it, yet left something in it which He did not convert into good?</td></tr>
+<tr><td>chapter-007</td><td>These things being safe and immovably settled in my mind, I sought anxiously"whence was evil?"</td></tr>
+<tr><td>chapter-007</td><td>What is its root, and what its seed?</td></tr>
+<tr><td>chapter-007</td><td>What shall wretched man do?</td></tr>
+<tr><td>chapter-007</td><td>Whence is evil?</td></tr>
+<tr><td>chapter-007</td><td>Whence is it then?</td></tr>
+<tr><td>chapter-007</td><td>Whence then came I to will evil and nill good, so that I am thus justly punished?</td></tr>
+<tr><td>chapter-007</td><td>Where is evil then, and whence, and how crept it in hither?</td></tr>
+<tr><td>chapter-007</td><td>Why so then?</td></tr>
+<tr><td>chapter-007</td><td>Why that?</td></tr>
+<tr><td>chapter-007</td><td>Why then fear we and avoid what is not?</td></tr>
+<tr><td>chapter-007</td><td>or when should these books teach me it?</td></tr>
+<tr><td>chapter-007</td><td>who set this in me, and ingrafted into me this plant of bitterness, seeing I was wholly formed by my most sweet God?</td></tr>
+<tr><td>chapter-009</td><td>And the prophet cries out, How long, slow of heart?</td></tr>
+<tr><td>chapter-009</td><td>And what is like unto Thy Word, our Lord, who endureth in Himself without becoming old, and maketh all things new?</td></tr>
+<tr><td>chapter-009</td><td>And when shall I have time to rehearse all Thy great benefits towards us at that time, especially when hasting on to yet greater mercies?</td></tr>
+<tr><td>chapter-009</td><td>And when shall that be?</td></tr>
+<tr><td>chapter-009</td><td>And who but Thou could be the workmaster of such wonders?</td></tr>
+<tr><td>chapter-009</td><td>But hast not Thou, O most merciful Lord, pardoned and remitted this sin also, with my other most horrible and deadly sins, in the holy water?</td></tr>
+<tr><td>chapter-009</td><td>But what pain?</td></tr>
+<tr><td>chapter-009</td><td>But whosoever reckons up his real merits to Thee, what reckons he up to Thee but Thine own gifts?</td></tr>
+<tr><td>chapter-009</td><td>But yet, O my God, Who madest us, what comparison is there betwixt that honour that I paid to her, and her slavery for me?</td></tr>
+<tr><td>chapter-009</td><td>For what other place is there for such a soul?</td></tr>
+<tr><td>chapter-009</td><td>He cries out, How long?</td></tr>
+<tr><td>chapter-009</td><td>Let my heart and my tongue praise Thee; yea, let all my bones say, O Lord, who is like unto Thee?</td></tr>
+<tr><td>chapter-009</td><td>My God hath done this for me more abundantly, that I should now see thee withal, despising earthly happiness, become His servant: what do I here?"</td></tr>
+<tr><td>chapter-009</td><td>Oh that they were wearied out with their famine, and said, Who will show us good things?</td></tr>
+<tr><td>chapter-009</td><td>What evil have not been either my deeds, or if not my deeds, my words, or if not my words, my will?</td></tr>
+<tr><td>chapter-009</td><td>When shall I recall all which passed in those holy- days?</td></tr>
+<tr><td>chapter-009</td><td>When we shall all rise again, though we shall not all be changed?</td></tr>
+<tr><td>chapter-009</td><td>Whence and whither hast Thou thus led my remembrance, that I should confess these things also unto Thee?</td></tr>
+<tr><td>chapter-009</td><td>Where was then that discreet old woman, and that her earnest countermanding?</td></tr>
+<tr><td>chapter-009</td><td>Who am I, and what am I?</td></tr>
+<tr><td>chapter-009</td><td>Who repay Him the price wherewith He bought us, and so take us from Him?</td></tr>
+<tr><td>chapter-009</td><td>Who shall restore to Him the innocent blood?</td></tr>
+<tr><td>chapter-009</td><td>Would aught avail against a secret disease, if Thy healing hand, O Lord, watched not over us?</td></tr>
+<tr><td>chapter-009</td><td>how didst Thou cure her?</td></tr>
+<tr><td>chapter-009</td><td>how heal her?</td></tr>
+<tr><td>chapter-009</td><td>or how went it away?</td></tr>
+<tr><td>chapter-009</td><td>why do ye love vanity, and seek after leasing?</td></tr>
+<tr><td>chapter-009</td><td>why do ye love vanity, and seek after leasing?</td></tr>
+<tr><td>chapter-002</td><td>A man hath murdered another; why?</td></tr>
+<tr><td>chapter-002</td><td>Ambition, what seeks it, but honours and glory?</td></tr>
+<tr><td>chapter-002</td><td>And to what end?</td></tr>
+<tr><td>chapter-002</td><td>And to what purpose?</td></tr>
+<tr><td>chapter-002</td><td>And what was it that I delighted in, but to love, and be loved?</td></tr>
+<tr><td>chapter-002</td><td>And whose but Thine were these words which by my mother, Thy faithful one, Thou sangest in my ears?</td></tr>
+<tr><td>chapter-002</td><td>Anger seeks revenge: who revenges more justly than Thou?</td></tr>
+<tr><td>chapter-002</td><td>Because none doth ordinarily laugh alone?</td></tr>
+<tr><td>chapter-002</td><td>But art thou any thing, that thus I speak to thee?</td></tr>
+<tr><td>chapter-002</td><td>But yet what was it?</td></tr>
+<tr><td>chapter-002</td><td>Didst Thou then indeed hold Thy peace to me?</td></tr>
+<tr><td>chapter-002</td><td>Envy disputes for excellency: what more excellent than Thou?</td></tr>
+<tr><td>chapter-002</td><td>For what is nearer to Thine ears than a confessing heart, and a life of faith?</td></tr>
+<tr><td>chapter-002</td><td>For what mortal can?</td></tr>
+<tr><td>chapter-002</td><td>For what thief will abide a thief?</td></tr>
+<tr><td>chapter-002</td><td>I loved then in it also the company of the accomplices, with whom I did it?</td></tr>
+<tr><td>chapter-002</td><td>Or where but with Thee is unshaken safety?</td></tr>
+<tr><td>chapter-002</td><td>The cruelty of the great would fain be feared; but who is to be feared but God alone, out of whose power what can be wrested or withdrawn?</td></tr>
+<tr><td>chapter-002</td><td>To Thy grace I ascribe also whatsoever I have not done of evil; for what might I not have done, who even loved a sin for its own sake?</td></tr>
+<tr><td>chapter-002</td><td>To whom tell I this?</td></tr>
+<tr><td>chapter-002</td><td>What is it which hath come into my mind to enquire, and discuss, and consider?</td></tr>
+<tr><td>chapter-002</td><td>What is worthy of dispraise but vice?</td></tr>
+<tr><td>chapter-002</td><td>What is, in truth?</td></tr>
+<tr><td>chapter-002</td><td>What shall I render unto the Lord, that, whilst my memory recalls these things, my soul is not affrighted at them?</td></tr>
+<tr><td>chapter-002</td><td>What then did I love in that theft?</td></tr>
+<tr><td>chapter-002</td><td>What then did wretched I so love in thee, thou theft of mine, thou deed of darkness, in that sixteenth year of my age?</td></tr>
+<tr><td>chapter-002</td><td>What then was this feeling?</td></tr>
+<tr><td>chapter-002</td><td>Who can disentangle that twisted and intricate knottiness?</td></tr>
+<tr><td>chapter-002</td><td>Who can understand his errors?</td></tr>
+<tr><td>chapter-002</td><td>Why then was my delight of such sort that I did it not alone?</td></tr>
+<tr><td>chapter-002</td><td>Would any commit murder upon no cause, delighted simply in murdering?</td></tr>
+<tr><td>chapter-002</td><td>Yea, sloth would fain be at rest; but what stable rest besides the Lord?</td></tr>
+<tr><td>chapter-002</td><td>and dare I say that Thou heldest Thy peace, O my God, while I wandered further from Thee?</td></tr>
+<tr><td>chapter-002</td><td>and wherein did I even corruptly and pervertedly imitate my Lord?</td></tr>
+<tr><td>chapter-002</td><td>could I like what I might not, only because I might not?</td></tr>
+<tr><td>chapter-002</td><td>in those things, of the remembrance whereof I am now ashamed?</td></tr>
+<tr><td>chapter-002</td><td>when, or where, or whither, or by whom?</td></tr>
+<tr><td>chapter-002</td><td>who can teach me, save He that enlighteneth my heart, and discovereth its dark corners?</td></tr>
+<tr><td>chapter-002</td><td>who would believe it?</td></tr>
+<tr><td>chapter-004</td><td>And doth not a soul, sighing after such fictions, commit fornication against Thee, trust in things unreal, and feed the wind?</td></tr>
+<tr><td>chapter-004</td><td>And who is He but our God?</td></tr>
+<tr><td>chapter-004</td><td>And who is this but our God, the God that made heaven and earth, and filleth them, because by filling them He created them?</td></tr>
+<tr><td>chapter-004</td><td>And who leaveth Thee, whither goeth or whither fleeth he, but from Thee well- pleased, to Thee displeased?</td></tr>
+<tr><td>chapter-004</td><td>But I would not be asked,"Why then doth God err?"</td></tr>
+<tr><td>chapter-004</td><td>But didst Thou fail me even by that old man, or forbear to heal my soul?</td></tr>
+<tr><td>chapter-004</td><td>But do I depart any whither?</td></tr>
+<tr><td>chapter-004</td><td>But in these things is no place of repose; they abide not, they flee; and who can follow them with the senses of the flesh?</td></tr>
+<tr><td>chapter-004</td><td>But is it also in grief for a thing lost, and the sorrow wherewith I was then overwhelmed?</td></tr>
+<tr><td>chapter-004</td><td>But what did this further me, imagining that Thou, O Lord God, the Truth, wert a vast and bright body, and I a fragment of that body?</td></tr>
+<tr><td>chapter-004</td><td>But what prouder, than for me with a strange madness to maintain myself to be that by nature which Thou art?</td></tr>
+<tr><td>chapter-004</td><td>But what sort of man is any man, seeing he is but a man?</td></tr>
+<tr><td>chapter-004</td><td>But what speak I of these things?</td></tr>
+<tr><td>chapter-004</td><td>But whither ascend ye, when ye are on high, and set your mouth against the heavens?</td></tr>
+<tr><td>chapter-004</td><td>Do I then love in a man, what I hate to be, who am a man?</td></tr>
+<tr><td>chapter-004</td><td>Doth this sweeten it, that we hope Thou hearest?</td></tr>
+<tr><td>chapter-004</td><td>Even now, after the descent of Life to you, will ye not ascend and live?</td></tr>
+<tr><td>chapter-004</td><td>For how should there be a blessed life where life itself is not?</td></tr>
+<tr><td>chapter-004</td><td>For what am I to myself without Thee, but a guide to mine own downfall?</td></tr>
+<tr><td>chapter-004</td><td>For what else is it to feed the wind, but to feed them, that is by going astray to become their pleasure and derision?</td></tr>
+<tr><td>chapter-004</td><td>For what profited me good abilities, not employed to good uses?</td></tr>
+<tr><td>chapter-004</td><td>For where doth he not find Thy law in his own punishment?</td></tr>
+<tr><td>chapter-004</td><td>For whither should my heart flee from my heart?</td></tr>
+<tr><td>chapter-004</td><td>Hast Thou, although present every where, cast away our misery far from Thee?</td></tr>
+<tr><td>chapter-004</td><td>May I learn from Thee, who art Truth, and approach the ear of my heart unto Thy mouth, that Thou mayest tell me why weeping is sweet to the miserable?</td></tr>
+<tr><td>chapter-004</td><td>O ye sons of men, how long so slow of heart?</td></tr>
+<tr><td>chapter-004</td><td>One is commended, and, unseen, he is loved: doth this love enter the heart of the hearer from the mouth of the commender?</td></tr>
+<tr><td>chapter-004</td><td>Or is weeping indeed a bitter thing, and for very loathing of the things which we before enjoyed, does it then, when we shrink from them, please us?</td></tr>
+<tr><td>chapter-004</td><td>To what end then would ye still and still walk these difficult and toilsome ways?</td></tr>
+<tr><td>chapter-004</td><td>What did all this further me, seeing it even hindered me?</td></tr>
+<tr><td>chapter-004</td><td>What diddest Thou then, my God, and how unsearchable is the abyss of Thy judgments?</td></tr>
+<tr><td>chapter-004</td><td>What is it that attracts and wins us to the things we love?</td></tr>
+<tr><td>chapter-004</td><td>What then is the beautiful?</td></tr>
+<tr><td>chapter-004</td><td>Whence then is sweet fruit gathered from the bitterness of life, from groaning, tears, sighs, and complaints?</td></tr>
+<tr><td>chapter-004</td><td>Where now are the impulses to such various and divers kinds of loves laid up in one soul?</td></tr>
+<tr><td>chapter-004</td><td>Whither go ye in rough ways?</td></tr>
+<tr><td>chapter-004</td><td>Whither go ye?</td></tr>
+<tr><td>chapter-004</td><td>Whither not follow myself?</td></tr>
+<tr><td>chapter-004</td><td>Whither should I flee from myself?</td></tr>
+<tr><td>chapter-004</td><td>Who can recount all Thy praises, which he hath felt in his one self?</td></tr>
+<tr><td>chapter-004</td><td>Why then be perverted and follow thy flesh?</td></tr>
+<tr><td>chapter-004</td><td>Why, since we are equally men, do I love in another what, if I did not hate, I should not spurn and cast from myself?</td></tr>
+<tr><td>chapter-004</td><td>and what is beauty?</td></tr>
+<tr><td>chapter-004</td><td>or what am I even at the best, but an infant sucking the milk Thou givest, and feeding upon Thee, the food that perisheth not?</td></tr>
+<tr><td>chapter-004</td><td>yea, who can grasp them, when they are hard by?</td></tr>
+<tr><td>chapter-008</td><td>What ails us?</td></tr>
+<tr><td>chapter-008</td><td>Where art thou now, my tongue?
+chapter-008	And she smiled on me with a persuasive mockery, as would she say,Canst not thou what these youths, what these maidens can?</td></tr>
+<tr><td>chapter-008</td><td>And what was it which they suggested in that I said,"this or that,"what did they suggest, O my God?</td></tr>
+<tr><td>chapter-008</td><td>And who has any right to speak against it, if just punishment follow the sinner?</td></tr>
+<tr><td>chapter-008</td><td>And who there knew him not?</td></tr>
+<tr><td>chapter-008</td><td>And, not indeed in these words, yet to this purpose, spake I much unto Thee: and Thou, O Lord, how long?</td></tr>
+<tr><td>chapter-008</td><td>Are we ashamed to follow, because others are gone before, and not ashamed not even to follow?"</td></tr>
+<tr><td>chapter-008</td><td>Can our hopes in court rise higher than to be the Emperor''s favourites?</td></tr>
+<tr><td>chapter-008</td><td>Do not divers wills distract the mind, while he deliberates which he should rather choose?</td></tr>
+<tr><td>chapter-008</td><td>For I ask them, is it good to take pleasure in reading the Apostle?</td></tr>
+<tr><td>chapter-008</td><td>For his presence did not lessen my privacy; or how could he forsake me so disturbed?</td></tr>
+<tr><td>chapter-008</td><td>For whence else is this hesitation between conflicting wills?</td></tr>
+<tr><td>chapter-008</td><td>I exclaim:"what is it?</td></tr>
+<tr><td>chapter-008</td><td>I sent up these sorrowful words: How long, how long,"to- morrow, and tomorrow?"</td></tr>
+<tr><td>chapter-008</td><td>Is this their allotted measure?</td></tr>
+<tr><td>chapter-008</td><td>Let my bones be bedewed with Thy love, and let them say unto Thee, Who is like unto Thee, O Lord?</td></tr>
+<tr><td>chapter-008</td><td>The other, in banter, replied,"Do walls then make Christians?"</td></tr>
+<tr><td>chapter-008</td><td>What means this, O Lord my God, whereas Thou art everlastingly joy to Thyself, and some things around Thee evermore rejoice in Thee?</td></tr>
+<tr><td>chapter-008</td><td>What means this, that this portion of things thus ebbs and flows alternately displeased and reconciled?</td></tr>
+<tr><td>chapter-008</td><td>What said I not against myself?</td></tr>
+<tr><td>chapter-008</td><td>What then if all give equal pleasure, and all at once?</td></tr>
+<tr><td>chapter-008</td><td>What then if one of us should deliberate, and amid the strife of his two wills be in a strait, whether he should go to the theatre or to our church?</td></tr>
+<tr><td>chapter-008</td><td>What then takes place in the soul, when it is more delighted at finding or recovering the things it loves, than if it had ever had them?</td></tr>
+<tr><td>chapter-008</td><td>Whence is this monstrousness?</td></tr>
+<tr><td>chapter-008</td><td>Whence is this monstrousness?</td></tr>
+<tr><td>chapter-008</td><td>Whence this monstrousness?</td></tr>
+<tr><td>chapter-008</td><td>Who then should deliver me thus wretched from the body of this death, but Thy grace only, through Jesus Christ our Lord?</td></tr>
+<tr><td>chapter-008</td><td>Why not now?</td></tr>
+<tr><td>chapter-008</td><td>Why standest thou in thyself, and so standest not?</td></tr>
+<tr><td>chapter-008</td><td>and by how many perils arrive we at a greater peril?</td></tr>
+<tr><td>chapter-008</td><td>and from that moment shall not this or that be lawful for thee for ever?"</td></tr>
+<tr><td>chapter-008</td><td>and from that moment shall we no more be with thee for ever?</td></tr>
+<tr><td>chapter-008</td><td>and in this, what is there not brittle, and full of perils?</td></tr>
+<tr><td>chapter-008</td><td>and to what end?</td></tr>
+<tr><td>chapter-008</td><td>and to what end?</td></tr>
+<tr><td>chapter-008</td><td>and to what end?</td></tr>
+<tr><td>chapter-008</td><td>and when arrive we thither?</td></tr>
+<tr><td>chapter-008</td><td>how long, Lord, wilt Thou be angry for ever?</td></tr>
+<tr><td>chapter-008</td><td>or can they either in themselves, and not rather in the Lord their God?</td></tr>
+<tr><td>chapter-008</td><td>or good to discourse on the Gospel?</td></tr>
+<tr><td>chapter-008</td><td>or good to take pleasure in a sober Psalm?</td></tr>
+<tr><td>chapter-008</td><td>what aim we at?</td></tr>
+<tr><td>chapter-008</td><td>what heardest thou?</td></tr>
+<tr><td>chapter-008</td><td>what serve we for?</td></tr>
+<tr><td>chapter-008</td><td>why not is there this hour an end to my uncleanness?</td></tr>
+<tr><td>chapter-008</td><td>would not these Manichees also be in a strait what to answer?</td></tr>
+<tr><td>chapter-013</td><td>that it was idly said, and without meaning?</td></tr>
+<tr><td>chapter-013</td><td>( for to such creatures, is this food due;) what is it that feeds thee?</td></tr>
+<tr><td>chapter-013</td><td>And I am admonished,"Truly the things of God knoweth no one, but the Spirit of God: how then do we also know, what things are given us of God?"</td></tr>
+<tr><td>chapter-013</td><td>And I said,"Lord, is not this Thy Scripture true, since Thou art true, and being Truth, hast set it forth?</td></tr>
+<tr><td>chapter-013</td><td>And what have we, that we have not received of Thee?</td></tr>
+<tr><td>chapter-013</td><td>And what man can teach man to understand this?</td></tr>
+<tr><td>chapter-013</td><td>As if He had been in place, Who is not in place, of Whom only it is written, that He is Thy gift?</td></tr>
+<tr><td>chapter-013</td><td>Behold, I too say, O my God, Where art Thou?</td></tr>
+<tr><td>chapter-013</td><td>But how know we this?</td></tr>
+<tr><td>chapter-013</td><td>But was not either the Father, or the Son, borne above the waters?</td></tr>
+<tr><td>chapter-013</td><td>But what is this, and what kind of mystery?</td></tr>
+<tr><td>chapter-013</td><td>But wherefore was it not meet that the knowledge of Him should be conveyed otherwise, than as being borne above?</td></tr>
+<tr><td>chapter-013</td><td>For what did heaven and earth, which Thou madest in the Beginning, deserve of Thee?</td></tr>
+<tr><td>chapter-013</td><td>For what man knoweth the things of a man, save the spirit of a man, which is in him?</td></tr>
+<tr><td>chapter-013</td><td>For who discerneth us, but Thou?</td></tr>
+<tr><td>chapter-013</td><td>How did corporeal matter deserve of Thee, to be even invisible and without form?</td></tr>
+<tr><td>chapter-013</td><td>How did they deserve of Thee, to be even without form, since they had not been even this, but from Thee?</td></tr>
+<tr><td>chapter-013</td><td>Or who, except Thou, our God, made for us that firmament of authority over us in Thy Divine Scripture?</td></tr>
+<tr><td>chapter-013</td><td>Rejoiceth he for that?</td></tr>
+<tr><td>chapter-013</td><td>To whom shall I speak this?</td></tr>
+<tr><td>chapter-013</td><td>Unto it speaks my faith which Thou hast kindled to enlighten my feet in the night, Why art thou sad, O my soul, and why dost thou trouble me?</td></tr>
+<tr><td>chapter-013</td><td>Was it for his own necessities, because he said, Ye sent unto my necessity?</td></tr>
+<tr><td>chapter-013</td><td>What can be more, and yet what less like?</td></tr>
+<tr><td>chapter-013</td><td>What then shall I say, O Truth my Light?</td></tr>
+<tr><td>chapter-013</td><td>Whence then so many thorns, if the earth be fruitful?</td></tr>
+<tr><td>chapter-013</td><td>Whereat then rejoicest thou, O great Paul?</td></tr>
+<tr><td>chapter-013</td><td>Which of us comprehendeth the Almighty Trinity?</td></tr>
+<tr><td>chapter-013</td><td>Who gathered the embittered together into one society?</td></tr>
+<tr><td>chapter-013</td><td>Who, Lord, but Thou, saidst, Let the waters be gathered together into one place, and let the dry land appear, which thirsteth after Thee?</td></tr>
+<tr><td>chapter-013</td><td>Why should he trouble me, as if I could enlighten any man that cometh into this world?</td></tr>
+<tr><td>chapter-013</td><td>Why then is this said of Thy Spirit only, why is it said only of Him?</td></tr>
+<tr><td>chapter-013</td><td>and yet which speaks not of It, if indeed it be It?</td></tr>
+<tr><td>chapter-013</td><td>how speak it?</td></tr>
+<tr><td>chapter-013</td><td>how speak of the weight of evil desires, downwards to the steep abyss; and how charity raises up again by Thy Spirit which was borne above the waters?</td></tr>
+<tr><td>chapter-013</td><td>or what Angel, a man?</td></tr>
+<tr><td>chapter-013</td><td>or what Angel, an Angel?</td></tr>
+<tr><td>chapter-013</td><td>to whom shall I speak it?</td></tr>
+<tr><td>chapter-013</td><td>whereat rejoicest thou?</td></tr>
+<tr><td>chapter-013</td><td>who could any ways express it?</td></tr>
+<tr><td>chapter-013</td><td>who would, any way, pronounce thereon rashly?</td></tr>
+<tr><td>chapter-012</td><td>No,they say;"What then?</td></tr>
+<tr><td>chapter-012</td><td>What then?
+chapter-012	What then?"</td></tr>
+<tr><td>chapter-012</td><td>What will ye say then, O ye gainsayers?
+chapter-012	What?"</td></tr>
+<tr><td>chapter-012</td><td>And this changeableness, what is it?</td></tr>
+<tr><td>chapter-012</td><td>And what is it to have silence there, but to have no sound there?</td></tr>
+<tr><td>chapter-012</td><td>And what, among all parts of the world can be found nearer to an absolute formlessness, than earth and deep?</td></tr>
+<tr><td>chapter-012</td><td>Are these things false?"</td></tr>
+<tr><td>chapter-012</td><td>But whence had it this degree of being, but from Thee, from Whom are all things, so far forth as they are?</td></tr>
+<tr><td>chapter-012</td><td>For had there been light, where should it have been but by being over all, aloft, and enlightening?</td></tr>
+<tr><td>chapter-012</td><td>For if they be comprised in this word earth; how then can formless matter be meant in that name of earth, when we see the waters so beautiful?</td></tr>
+<tr><td>chapter-012</td><td>Hast not Thou, O Lord, taught his soul, which confesseth unto Thee?</td></tr>
+<tr><td>chapter-012</td><td>How then should it be called, that it might be in some measure conveyed to those of duller mind, but by some ordinary word?</td></tr>
+<tr><td>chapter-012</td><td>I should have desired verily, had I then been Moses( for we all come from the same lump, and what is man, saving that Thou art mindful of him?</td></tr>
+<tr><td>chapter-012</td><td>If God be for us, who can be against us?</td></tr>
+<tr><td>chapter-012</td><td>Is it body?</td></tr>
+<tr><td>chapter-012</td><td>Is it false, that every nature already formed, or matter capable of form, is not, but from Him Who is supremely good, because He is supremely?"</td></tr>
+<tr><td>chapter-012</td><td>Is it soul?</td></tr>
+<tr><td>chapter-012</td><td>Is it that the matter was without form, in which because there was no form, there was no order?</td></tr>
+<tr><td>chapter-012</td><td>Is it that which constituteth soul or body?</td></tr>
+<tr><td>chapter-012</td><td>The heaven of heavens are the Lord''s; but the earth hath He given to the children of men?</td></tr>
+<tr><td>chapter-012</td><td>Therefore didst Thou command it to be written, that darkness was upon the face of the deep; what else than the absence of light?</td></tr>
+<tr><td>chapter-012</td><td>These be Thine own promises: and who need fear to be deceived, when the Truth promiseth?</td></tr>
+<tr><td>chapter-012</td><td>We hold the promise, who shall make it null?</td></tr>
+<tr><td>chapter-012</td><td>What strength of ours, yea what ages would suffice for all Thy books in this manner?</td></tr>
+<tr><td>chapter-012</td><td>Where is that heaven which we see not, to which all this which we see is earth?</td></tr>
+<tr><td>chapter-012</td><td>Where then light was not, what was the presence of darkness, but the absence of light?</td></tr>
+<tr><td>chapter-012</td><td>and what Thy days, but Thy eternity, as Thy years which fail not, because Thou art ever the same?</td></tr>
+<tr><td>chapter-012</td><td>if she now seeks of Thee one thing, and desireth it, that she may dwell in Thy house all the days of her life( and what is her life, but Thou?</td></tr>
+<tr><td>chapter-001</td><td>And how shall I call upon my God, my God and Lord, since, when I call for Him, I shall be calling Him to myself?</td></tr>
+<tr><td>chapter-001</td><td>And is this the innocence of boyhood?</td></tr>
+<tr><td>chapter-001</td><td>And is, then one part of Thee greater, another less?</td></tr>
+<tr><td>chapter-001</td><td>And then mark how he excites himself to lust as by celestial authority:"And what God?</td></tr>
+<tr><td>chapter-001</td><td>And what could I so ill endure, or, when I detected it, upbraided I so fiercely, as that I was doing to others?</td></tr>
+<tr><td>chapter-001</td><td>And what had I now said, my God, my life, my holy joy?</td></tr>
+<tr><td>chapter-001</td><td>And whither, when the heaven and the earth are filled, pourest Thou forth the remainder of Thyself?</td></tr>
+<tr><td>chapter-001</td><td>And yet whence was this too, but from the sin and vanity of this life, because I was flesh, and a breath that passeth away and cometh not again?</td></tr>
+<tr><td>chapter-001</td><td>Before them what more foul than I was already, displeasing even such as myself?</td></tr>
+<tr><td>chapter-001</td><td>But Thou who fillest all things, fillest Thou them with Thy whole self?</td></tr>
+<tr><td>chapter-001</td><td>But who shall cleanse it?</td></tr>
+<tr><td>chapter-001</td><td>But why did I so much hate the Greek, which I studied as a boy?</td></tr>
+<tr><td>chapter-001</td><td>Did not I read in thee of Jove the thunderer and the adulterer?</td></tr>
+<tr><td>chapter-001</td><td>Do the heaven and earth then contain Thee, since Thou fillest them?</td></tr>
+<tr><td>chapter-001</td><td>Dost Thou mock me for asking this, and bid me praise Thee and acknowledge Thee, for that I do know?</td></tr>
+<tr><td>chapter-001</td><td>For what would I say, O Lord my God, but that I know not whence I came into this dying life( shall I call it?)</td></tr>
+<tr><td>chapter-001</td><td>For who is Lord but the Lord?</td></tr>
+<tr><td>chapter-001</td><td>Grant me, Lord, to know and understand which is first, to call on Thee or to praise Thee?</td></tr>
+<tr><td>chapter-001</td><td>Have I not confessed against myself my transgressions unto Thee, and Thou, my God, hast forgiven the iniquity of my heart?</td></tr>
+<tr><td>chapter-001</td><td>I beseech Thee, my God, I would fain know, if so Thou willest, for what purpose my baptism was then deferred?</td></tr>
+<tr><td>chapter-001</td><td>If not, why does it still echo in our ears on all sides,"Let him alone, let him do as he will, for he is not yet baptised?"</td></tr>
+<tr><td>chapter-001</td><td>If, again, I should ask which might be forgotten with least detriment to the concerns of life, reading and writing or these poetic fictions?</td></tr>
+<tr><td>chapter-001</td><td>In so small a creature, what was not wonderful, not admirable?</td></tr>
+<tr><td>chapter-001</td><td>Is it then a slight woe to love Thee not?</td></tr>
+<tr><td>chapter-001</td><td>Let him also rejoice and say, What thing is this?</td></tr>
+<tr><td>chapter-001</td><td>Nor did that depart,--(for whither went it?)</td></tr>
+<tr><td>chapter-001</td><td>Or was it then good, even for a while, to cry for what, if given, would hurt?</td></tr>
+<tr><td>chapter-001</td><td>Or what am I to Thee that Thou demandest my love, and, if I give it not, art wroth with me, and threatenest me with grievous woes?</td></tr>
+<tr><td>chapter-001</td><td>Or, is it rather, that we call on Thee that we may know Thee?</td></tr>
+<tr><td>chapter-001</td><td>Say, Lord, to me, Thy suppliant; say, all- pitying, to me, Thy pitiable one; say, did my infancy succeed another age of mine that died before it?</td></tr>
+<tr><td>chapter-001</td><td>Shall any be his own artificer?</td></tr>
+<tr><td>chapter-001</td><td>Since, then, I too exist, why do I seek that Thou shouldest enter into me, who were not, wert Thou not in me?</td></tr>
+<tr><td>chapter-001</td><td>Therefore I contend not in judgment with Thee; for if Thou, Lord, shouldest mark iniquities, O Lord, who shall abide it?</td></tr>
+<tr><td>chapter-001</td><td>Thou receivest over and above, that Thou mayest owe; and who hath aught that is not Thine?</td></tr>
+<tr><td>chapter-001</td><td>What art Thou then, my God?</td></tr>
+<tr><td>chapter-001</td><td>What art Thou to me?</td></tr>
+<tr><td>chapter-001</td><td>What is it to me, O my true life, my God, that my declamation was applauded above so many of my own age and class?</td></tr>
+<tr><td>chapter-001</td><td>What is it to me, though any comprehend not this?</td></tr>
+<tr><td>chapter-001</td><td>What then was my sin?</td></tr>
+<tr><td>chapter-001</td><td>Whence could such a being be, save from Thee, Lord?</td></tr>
+<tr><td>chapter-001</td><td>Whither do I call Thee, since I am in Thee?</td></tr>
+<tr><td>chapter-001</td><td>Who knows not this?</td></tr>
+<tr><td>chapter-001</td><td>Who remindeth me of the sins of my infancy?</td></tr>
+<tr><td>chapter-001</td><td>Who remindeth me?</td></tr>
+<tr><td>chapter-001</td><td>Who shall stand against thee?</td></tr>
+<tr><td>chapter-001</td><td>Why then did I hate the Greek classics, which have the like tales?</td></tr>
+<tr><td>chapter-001</td><td>Why?</td></tr>
+<tr><td>chapter-001</td><td>Wilt Thou hold Thy peace for ever?</td></tr>
+<tr><td>chapter-001</td><td>and all at once the same part?</td></tr>
+<tr><td>chapter-001</td><td>and was there nothing else whereon to exercise my wit and tongue?</td></tr>
+<tr><td>chapter-001</td><td>and what before that life again, O God my joy, was I any where or any body?</td></tr>
+<tr><td>chapter-001</td><td>and what else did he who beat me?</td></tr>
+<tr><td>chapter-001</td><td>and what room is there within me, whither my God can come into me?</td></tr>
+<tr><td>chapter-001</td><td>and, again, to know Thee or to call on Thee?</td></tr>
+<tr><td>chapter-001</td><td>bitterly to resent, that persons free, and its own elders, yea, the very authors of its birth, served it not?</td></tr>
+<tr><td>chapter-001</td><td>but how shall they call on Him in whom they have not believed?</td></tr>
+<tr><td>chapter-001</td><td>do then heaven and earth, which Thou hast made, and wherein Thou hast made me, contain Thee?</td></tr>
+<tr><td>chapter-001</td><td>doth not each little infant, in whom I see what of myself I remember not?</td></tr>
+<tr><td>chapter-001</td><td>for of that I have heard somewhat, and have myself seen women with child?</td></tr>
+<tr><td>chapter-001</td><td>for who can call on Thee, not knowing Thee?</td></tr>
+<tr><td>chapter-001</td><td>how long roll the sons of Eve into that huge and hideous ocean, which even they scarcely overpass who climb the cross?</td></tr>
+<tr><td>chapter-001</td><td>how long shalt thou not be dried up?</td></tr>
+<tr><td>chapter-001</td><td>is not all this smoke and wind?</td></tr>
+<tr><td>chapter-001</td><td>is there, indeed, O Lord my God, aught in me that can contain Thee?</td></tr>
+<tr><td>chapter-001</td><td>or can there elsewhere be derived any vein, which may stream essence and life into us, save from thee, O Lord, in whom essence and life are one?</td></tr>
+<tr><td>chapter-001</td><td>or dost Thou fill them and yet overflow, since they do not contain Thee?</td></tr>
+<tr><td>chapter-001</td><td>or each its own part, the greater more, the smaller less?</td></tr>
+<tr><td>chapter-001</td><td>or hast Thou no need that aught contain Thee, who containest all things, since what Thou fillest Thou fillest by containing it?</td></tr>
+<tr><td>chapter-001</td><td>or how shall they believe without a preacher?</td></tr>
+<tr><td>chapter-001</td><td>or to whom should I cry, save Thee?</td></tr>
+<tr><td>chapter-001</td><td>or was it not laid loose?</td></tr>
+<tr><td>chapter-001</td><td>or what saith any man when he speaks of Thee?</td></tr>
+<tr><td>chapter-001</td><td>or whence canst Thou enter into me?</td></tr>
+<tr><td>chapter-001</td><td>or who is God save our God?</td></tr>
+<tr><td>chapter-001</td><td>or, art Thou wholly every where, while nothing contains Thee wholly?</td></tr>
+<tr><td>chapter-001</td><td>or, because nothing which exists could exist without Thee, doth therefore whatever exists contain Thee?</td></tr>
+<tr><td>chapter-001</td><td>or, since all things can not contain Thee wholly, do they contain part of Thee?</td></tr>
+<tr><td>chapter-001</td><td>that many besides, wiser than it, obeyed not the nod of its good pleasure?</td></tr>
+<tr><td>chapter-001</td><td>that period I pass by; and what have I now to do with that, of which I can recall no vestige?</td></tr>
+<tr><td>chapter-001</td><td>to do its best to strike and hurt, because commands were not obeyed, which had been obeyed to its hurt?</td></tr>
+<tr><td>chapter-001</td><td>was it for my good that the rein was laid loose, as it were, upon me, for me to sin?</td></tr>
+<tr><td>chapter-001</td><td>was it that I hung upon the breast and cried?</td></tr>
+<tr><td>chapter-001</td><td>was it that which I spent within my mother''s womb?</td></tr>
+<tr><td>chapter-001</td><td>what, but the Lord God?</td></tr>
+<tr><td>chapter-001</td><td>whither can God come into me, God who made heaven and earth?</td></tr>
+<tr><td>chapter-001</td><td>who does not foresee what all must answer who have not wholly forgotten themselves?</td></tr>
+<tr><td>chapter-001</td><td>who, if worsted in some trifling discussion with his fellow- tutor, was more embittered and jealous than I when beaten at ball by a play- fellow?</td></tr>
+<tr><td>chapter-011</td><td>And if any should ask me,"How knowest thou?"</td></tr>
+<tr><td>chapter-011</td><td>And that very long one do I measure as present, seeing I measure it not till it be ended?</td></tr>
+<tr><td>chapter-011</td><td>And whence should he be able to do this, unless Thou hadst made that mind?</td></tr>
+<tr><td>chapter-011</td><td>And whence should they be, hadst not Thou appointed them?</td></tr>
+<tr><td>chapter-011</td><td>And who denies past things to be now no longer?</td></tr>
+<tr><td>chapter-011</td><td>And who denieth the present time hath no space, because it passeth away in a moment?</td></tr>
+<tr><td>chapter-011</td><td>Are an hundred years, when present, a long time?</td></tr>
+<tr><td>chapter-011</td><td>BOOK XI Lord, since eternity is Thine, art Thou ignorant of what I say to Thee?</td></tr>
+<tr><td>chapter-011</td><td>But do I perceive it, or seem to perceive it?</td></tr>
+<tr><td>chapter-011</td><td>But how didst Thou make the heaven and the earth?</td></tr>
+<tr><td>chapter-011</td><td>But how didst Thou speak?</td></tr>
+<tr><td>chapter-011</td><td>But how dost Thou make them?</td></tr>
+<tr><td>chapter-011</td><td>But how is that future diminished or consumed, which as yet is not?</td></tr>
+<tr><td>chapter-011</td><td>But if before heaven and earth there was no time, why is it demanded, what Thou then didst?</td></tr>
+<tr><td>chapter-011</td><td>But if the will of God has been from eternity that the creature should be, why was not the creature also from eternity?"</td></tr>
+<tr><td>chapter-011</td><td>But in what sense is that long or short, which is not?</td></tr>
+<tr><td>chapter-011</td><td>But time present how do we measure, seeing it hath no space?</td></tr>
+<tr><td>chapter-011</td><td>But we measure times as they are passing, by perceiving them; but past, which now are not, or the future, which are not yet, who can measure?</td></tr>
+<tr><td>chapter-011</td><td>But what in discourse do we mention more familiarly and knowingly, than time?</td></tr>
+<tr><td>chapter-011</td><td>But whence should I know, whether he spake truth?</td></tr>
+<tr><td>chapter-011</td><td>But whence, by what way, and whither passes it while it is a measuring?</td></tr>
+<tr><td>chapter-011</td><td>By what Word then didst Thou speak, that a body might be made, whereby these words again might be made?</td></tr>
+<tr><td>chapter-011</td><td>By what way dost Thou, to whom nothing is to come, teach things to come; or rather of the future, dost teach things present?</td></tr>
+<tr><td>chapter-011</td><td>Can my hand do this, or the hand of my mouth by speech bring about a thing so great?</td></tr>
+<tr><td>chapter-011</td><td>Could it be measured the rather, for that?</td></tr>
+<tr><td>chapter-011</td><td>Do I then measure, O my God, and know not what I measure?</td></tr>
+<tr><td>chapter-011</td><td>Does not my soul most truly confess unto Thee, that I do measure times?</td></tr>
+<tr><td>chapter-011</td><td>Dost Thou bid me assent, if any define time to be"motion of a body?"</td></tr>
+<tr><td>chapter-011</td><td>For if He made, what did He make but a creature?</td></tr>
+<tr><td>chapter-011</td><td>For if Thine ears be not with us in the depths also, whither shall we go?</td></tr>
+<tr><td>chapter-011</td><td>For if( say they) He were unemployed and wrought not, why does He not also henceforth, and for ever, as He did heretofore?</td></tr>
+<tr><td>chapter-011</td><td>For that past time which was long, was it long when it was now past, or when it was yet present?</td></tr>
+<tr><td>chapter-011</td><td>For what is time?</td></tr>
+<tr><td>chapter-011</td><td>For what is, but because Thou art?</td></tr>
+<tr><td>chapter-011</td><td>For what, I beseech Thee, O my God, do I measure, when I say, either indefinitely"this is a longer time than that,"or definitely"this is double that"?</td></tr>
+<tr><td>chapter-011</td><td>For when a body is moved, I by time measure, how long it moveth, from the time it began to move until it left off?</td></tr>
+<tr><td>chapter-011</td><td>For whence could innumerable ages pass by, which Thou madest not, Thou the Author and Creator of all ages?</td></tr>
+<tr><td>chapter-011</td><td>For whence shouldest Thou have this, which Thou hadst not made, thereof to make any thing?</td></tr>
+<tr><td>chapter-011</td><td>For where did they, who foretold things to come, see them, if as yet they be not?</td></tr>
+<tr><td>chapter-011</td><td>For why should not the motions of all bodies rather be times?</td></tr>
+<tr><td>chapter-011</td><td>How may it then be measured?</td></tr>
+<tr><td>chapter-011</td><td>How then know I this, seeing I know not what time is?</td></tr>
+<tr><td>chapter-011</td><td>I measure the motion of a body in time; and the time itself do I not measure?</td></tr>
+<tr><td>chapter-011</td><td>In the future, whence it passeth through?</td></tr>
+<tr><td>chapter-011</td><td>In the way that the voice came out of the cloud, saying, This is my beloved Son?</td></tr>
+<tr><td>chapter-011</td><td>In what space then do we measure time passing?</td></tr>
+<tr><td>chapter-011</td><td>Is it to come?</td></tr>
+<tr><td>chapter-011</td><td>Lo, are they not full of their old leaven, who say to us,"What was God doing before He made heaven and earth?</td></tr>
+<tr><td>chapter-011</td><td>O my Lord, my Light, shall not here also Thy Truth mock at man?</td></tr>
+<tr><td>chapter-011</td><td>Or in the present, by which it passes?</td></tr>
+<tr><td>chapter-011</td><td>Or, should there in our words be some syllables short, others long, but because those sounded in a shorter time, these in a longer?</td></tr>
+<tr><td>chapter-011</td><td>Or, while we were saying this, should we not also be speaking in time?</td></tr>
+<tr><td>chapter-011</td><td>Or,"How came it into His mind to make any thing, having never before made any thing?"</td></tr>
+<tr><td>chapter-011</td><td>See, I answer him that asketh,"What did God before He made heaven and earth?"</td></tr>
+<tr><td>chapter-011</td><td>Seeing then Thou art the Creator of all times, if any time was before Thou madest heaven and earth, why say they that Thou didst forego working?</td></tr>
+<tr><td>chapter-011</td><td>This same time then, how do I measure?</td></tr>
+<tr><td>chapter-011</td><td>This then that He is said"never to have made"; what else is it to say, than"in''no time''to have made?"</td></tr>
+<tr><td>chapter-011</td><td>Those two times then, past and to come, how are they, seeing the past now is not, and that to come is not yet?</td></tr>
+<tr><td>chapter-011</td><td>Thou then, Ruler of Thy creation, by what way dost Thou teach souls things to come?</td></tr>
+<tr><td>chapter-011</td><td>Times passing, not past?</td></tr>
+<tr><td>chapter-011</td><td>What is that which gleams through me, and strikes my heart without hurting it; and I shudder and kindle?</td></tr>
+<tr><td>chapter-011</td><td>What then do I measure?</td></tr>
+<tr><td>chapter-011</td><td>What then is it I measure?</td></tr>
+<tr><td>chapter-011</td><td>What then is time?</td></tr>
+<tr><td>chapter-011</td><td>What when we measure silence, and say that this silence hath held as long time as did that voice?</td></tr>
+<tr><td>chapter-011</td><td>What wilt thou answer me?</td></tr>
+<tr><td>chapter-011</td><td>When therefore will it be?</td></tr>
+<tr><td>chapter-011</td><td>Whence it seemed to me, that time is nothing else than protraction; but of what, I know not; and I marvel, if it be not of the mind itself?</td></tr>
+<tr><td>chapter-011</td><td>Where then is the time, which we may call long?</td></tr>
+<tr><td>chapter-011</td><td>Which way, but through the present?</td></tr>
+<tr><td>chapter-011</td><td>Who can even in thought comprehend it, so as to utter a word about it?</td></tr>
+<tr><td>chapter-011</td><td>Who can readily and briefly explain this?</td></tr>
+<tr><td>chapter-011</td><td>Who declare it?</td></tr>
+<tr><td>chapter-011</td><td>Who now teacheth us, but the unchangeable Truth?</td></tr>
+<tr><td>chapter-011</td><td>Who shall comprehend?</td></tr>
+<tr><td>chapter-011</td><td>Who therefore denieth, that things to come are not as yet?</td></tr>
+<tr><td>chapter-011</td><td>Whom shall I enquire of concerning these things?</td></tr>
+<tr><td>chapter-011</td><td>Why then do I lay in order before Thee so many relations?</td></tr>
+<tr><td>chapter-011</td><td>Why, I beseech Thee, O Lord my God?</td></tr>
+<tr><td>chapter-011</td><td>Yea, and if I knew this also, should I know it from him?</td></tr>
+<tr><td>chapter-011</td><td>Yet what do we measure, if not time in some space?</td></tr>
+<tr><td>chapter-011</td><td>and what the engine of Thy so mighty fabric?</td></tr>
+<tr><td>chapter-011</td><td>but no space, we do not measure: or in the past, to which it passes?</td></tr>
+<tr><td>chapter-011</td><td>do we by a shorter time measure a longer, as by the space of a cubit, the space of a rood?</td></tr>
+<tr><td>chapter-011</td><td>how, O God, didst Thou make heaven and earth?</td></tr>
+<tr><td>chapter-011</td><td>or dost Thou see in time, what passeth in time?</td></tr>
+<tr><td>chapter-011</td><td>or how should they pass by, if they never were?</td></tr>
+<tr><td>chapter-011</td><td>or how that past increased, which is now no longer, save that in the mind which enacteth this, there be three things done?</td></tr>
+<tr><td>chapter-011</td><td>or is it perchance that I know not how to express what I know?</td></tr>
+<tr><td>chapter-011</td><td>or what times should there be, which were not made by Thee?</td></tr>
+<tr><td>chapter-011</td><td>whence, but from the future?</td></tr>
+<tr><td>chapter-011</td><td>where is the short syllable by which I measure?</td></tr>
+<tr><td>chapter-011</td><td>where the long which I measure?</td></tr>
+<tr><td>chapter-011</td><td>whither cry?</td></tr>
+<tr><td>chapter-011</td><td>whither, but into the past?</td></tr>
+<tr><td>chapter-010</td><td>Is that it?</td></tr>
+<tr><td>chapter-010</td><td>Am I not then myself, O Lord my God?</td></tr>
+<tr><td>chapter-010</td><td>Am I then doubtful of myself in this matter?</td></tr>
+<tr><td>chapter-010</td><td>And I turned myself unto myself, and said to myself,"Who art thou?"</td></tr>
+<tr><td>chapter-010</td><td>And from Thee, O Lord, unto whose eyes the abyss of man''s conscience is naked, what could be hidden in me though I would not confess it?</td></tr>
+<tr><td>chapter-010</td><td>And how shall I find Thee, if I remember Thee not?</td></tr>
+<tr><td>chapter-010</td><td>And what is this?</td></tr>
+<tr><td>chapter-010</td><td>And whence does that present itself, but out of the memory itself?</td></tr>
+<tr><td>chapter-010</td><td>And whence is it that often even in sleep we resist, and mindful of our purpose, and abiding most chastely in it, yield no assent to such enticements?</td></tr>
+<tr><td>chapter-010</td><td>And where do I recognise it, but in the memory itself?</td></tr>
+<tr><td>chapter-010</td><td>And where shall I find Thee?</td></tr>
+<tr><td>chapter-010</td><td>And where should that be, which it containeth not of itself?</td></tr>
+<tr><td>chapter-010</td><td>And who is he, O Lord, who is not some whit transported beyond the limits of necessity?</td></tr>
+<tr><td>chapter-010</td><td>And why seek I now in what place thereof Thou dwellest, as if there were places therein?</td></tr>
+<tr><td>chapter-010</td><td>As then we remember joy?</td></tr>
+<tr><td>chapter-010</td><td>As we remember eloquence then?</td></tr>
+<tr><td>chapter-010</td><td>As we remember numbers then?</td></tr>
+<tr><td>chapter-010</td><td>But for what fruit would they hear this?</td></tr>
+<tr><td>chapter-010</td><td>But is it so, as one remembers Carthage who hath seen it?</td></tr>
+<tr><td>chapter-010</td><td>But now when I hear that there be three kinds of questions,"Whether the thing be?</td></tr>
+<tr><td>chapter-010</td><td>But what do I love, when I love Thee?</td></tr>
+<tr><td>chapter-010</td><td>But what is forgetfulness, but the privation of memory?</td></tr>
+<tr><td>chapter-010</td><td>But what is nearer to me than myself?</td></tr>
+<tr><td>chapter-010</td><td>But what when the memory itself loses any thing, as falls out when we forget and seek that we may recollect?</td></tr>
+<tr><td>chapter-010</td><td>But when it was present, how did it write its image in the memory, seeing that forgetfulness by its presence effaces even what it finds already noted?</td></tr>
+<tr><td>chapter-010</td><td>But where in my memory residest Thou, O Lord, where residest Thou there?</td></tr>
+<tr><td>chapter-010</td><td>But whether by images or no, who can readily say?</td></tr>
+<tr><td>chapter-010</td><td>But why doth"truth generate hatred,"and the man of Thine, preaching the truth, become an enemy to them?</td></tr>
+<tr><td>chapter-010</td><td>By remembrance, as though I had forgotten it, remembering that I had forgotten it?</td></tr>
+<tr><td>chapter-010</td><td>By which of these ought I to seek my God?</td></tr>
+<tr><td>chapter-010</td><td>Do they desire to joy with me, when they hear how near, by Thy gift, I approach unto Thee?</td></tr>
+<tr><td>chapter-010</td><td>Does the memory perchance not belong to the mind?</td></tr>
+<tr><td>chapter-010</td><td>For I ask any one, had he rather joy in truth, or in falsehood?</td></tr>
+<tr><td>chapter-010</td><td>For then I ask myself how much more or less troublesome it is to me not to have them?</td></tr>
+<tr><td>chapter-010</td><td>For what is it to hear from Thee of themselves, but to know themselves?</td></tr>
+<tr><td>chapter-010</td><td>For what pleasure hath it, to see in a mangled carcase what will make you shudder?</td></tr>
+<tr><td>chapter-010</td><td>For what shall I say, when it is clear to me that I remember forgetfulness?</td></tr>
+<tr><td>chapter-010</td><td>For when it was found, whence should she know whether it were the same, unless she remembered it?</td></tr>
+<tr><td>chapter-010</td><td>For who would willingly speak thereof, if so oft as we name grief or fear, we should be compelled to be sad or fearful?</td></tr>
+<tr><td>chapter-010</td><td>For with a wounded heart have I beheld Thy brightness, and stricken back I said,"Who can attain thither?</td></tr>
+<tr><td>chapter-010</td><td>How can I say that the image of forgetfulness is retained by my memory, not forgetfulness itself, when I remember it?</td></tr>
+<tr><td>chapter-010</td><td>How seek I it?</td></tr>
+<tr><td>chapter-010</td><td>How then do I seek Thee, O Lord?</td></tr>
+<tr><td>chapter-010</td><td>How then do I seek a happy life, seeing I have it not, until I can say, where I ought to say it,"It is enough"?</td></tr>
+<tr><td>chapter-010</td><td>How then is it present that I remember it, since when present I can not remember?</td></tr>
+<tr><td>chapter-010</td><td>I remember to have sought and found many a thing; and this I thereby know, that when I was seeking any of them, and was asked,"Is this it?"</td></tr>
+<tr><td>chapter-010</td><td>If in my praise I am moved with the good of my neighbour, why am I less moved if another be unjustly dispraised than if it be myself?</td></tr>
+<tr><td>chapter-010</td><td>Is it also present to itself by its image, and not by itself?</td></tr>
+<tr><td>chapter-010</td><td>Is it clasped up with the eyes?</td></tr>
+<tr><td>chapter-010</td><td>Is it without it, and not within?</td></tr>
+<tr><td>chapter-010</td><td>Is not the life of man upon earth all trial: without any interval?</td></tr>
+<tr><td>chapter-010</td><td>Is not the life of man upon earth all trial?</td></tr>
+<tr><td>chapter-010</td><td>Is not this corporeal figure apparent to all whose senses are perfect?</td></tr>
+<tr><td>chapter-010</td><td>Is the comparison unlike in this, because not in all respects like?</td></tr>
+<tr><td>chapter-010</td><td>Is the thing different, because they are but small creatures?</td></tr>
+<tr><td>chapter-010</td><td>Know I not this also?</td></tr>
+<tr><td>chapter-010</td><td>Known therefore it is to all, for they with one voice be asked,"would they be happy?"</td></tr>
+<tr><td>chapter-010</td><td>Notwithstanding, in how many most petty and contemptible things is our curiosity daily tempted, and how often we give way, who can recount?</td></tr>
+<tr><td>chapter-010</td><td>Or, desiring to learn it as a thing unknown, either never having known, or so forgotten it, as not even to remember that I had forgotten it?</td></tr>
+<tr><td>chapter-010</td><td>Shall I say that that is not in my memory, which I remember?</td></tr>
+<tr><td>chapter-010</td><td>To wish, namely, to be feared and loved of men, for no other end, but that we may have a joy therein which is no joy?</td></tr>
+<tr><td>chapter-010</td><td>What am I then, O my God?</td></tr>
+<tr><td>chapter-010</td><td>What greater madness can be said or thought of?</td></tr>
+<tr><td>chapter-010</td><td>What middle place is there betwixt these two, where the life of man is not all trial?</td></tr>
+<tr><td>chapter-010</td><td>What nature am I?</td></tr>
+<tr><td>chapter-010</td><td>What sayest Thou to me?</td></tr>
+<tr><td>chapter-010</td><td>What shall I do then, O Thou my true life, my God?</td></tr>
+<tr><td>chapter-010</td><td>What then do I confess unto Thee in this kind of temptation, O Lord?</td></tr>
+<tr><td>chapter-010</td><td>What then do I love, when I love my God?</td></tr>
+<tr><td>chapter-010</td><td>What third way is there?</td></tr>
+<tr><td>chapter-010</td><td>What, but that I am delighted with praise, but with truth itself, more than with praise?</td></tr>
+<tr><td>chapter-010</td><td>What, when I name forgetfulness, and withal recognise what I name?</td></tr>
+<tr><td>chapter-010</td><td>What, when sitting at home, a lizard catching flies, or a spider entangling them rushing into her nets, oft- times takes my attention?</td></tr>
+<tr><td>chapter-010</td><td>Whence and how entered these things into my memory?</td></tr>
+<tr><td>chapter-010</td><td>Where in the end do we search, but in the memory itself?</td></tr>
+<tr><td>chapter-010</td><td>Where is reason then, which, awake, resisteth such suggestions?</td></tr>
+<tr><td>chapter-010</td><td>Where then and when did I experience my happy life, that I should remember, and love, and long for it?</td></tr>
+<tr><td>chapter-010</td><td>Where then did I find Thee, that I might learn Thee, but in Thee above me?</td></tr>
+<tr><td>chapter-010</td><td>Where then did I find Thee, that I might learn Thee?</td></tr>
+<tr><td>chapter-010</td><td>Where then did they know this happy life, save where they know the truth also?</td></tr>
+<tr><td>chapter-010</td><td>Where then?</td></tr>
+<tr><td>chapter-010</td><td>Which images, how they are formed, who can tell, though it doth plainly appear by which sense each hath been brought in and stored up?</td></tr>
+<tr><td>chapter-010</td><td>Who now shall search out this?</td></tr>
+<tr><td>chapter-010</td><td>Who will say so?</td></tr>
+<tr><td>chapter-010</td><td>Who wishes for troubles and difficulties?</td></tr>
+<tr><td>chapter-010</td><td>Whom could I find to reconcile me to Thee?</td></tr>
+<tr><td>chapter-010</td><td>Why am I more stung by reproach cast upon myself, than at that cast upon another, with the same injustice, before me?</td></tr>
+<tr><td>chapter-010</td><td>Why seek they to hear from me what I am; who will not hear from Thee what themselves are?</td></tr>
+<tr><td>chapter-010</td><td>Why then does not the disputer, thus recollecting, taste in the mouth of his musing the sweetness of joy, or the bitterness of sorrow?</td></tr>
+<tr><td>chapter-010</td><td>Why then joy they not in it?</td></tr>
+<tr><td>chapter-010</td><td>and to pray for me, when they shall hear how much I am held back by my own weight?</td></tr>
+<tr><td>chapter-010</td><td>and who knoweth and saith,"It is false,"unless himself lieth?</td></tr>
+<tr><td>chapter-010</td><td>by what prayers?</td></tr>
+<tr><td>chapter-010</td><td>by what sacraments?</td></tr>
+<tr><td>chapter-010</td><td>how then doth it not comprehend itself?</td></tr>
+<tr><td>chapter-010</td><td>is it lulled asleep with the senses of the body?</td></tr>
+<tr><td>chapter-010</td><td>is not a happy life what all will, and no one altogether wills it not?</td></tr>
+<tr><td>chapter-010</td><td>of what kind it is?"</td></tr>
+<tr><td>chapter-010</td><td>or is it at last that I deceive myself, and do not the truth before Thee in my heart and tongue?</td></tr>
+<tr><td>chapter-010</td><td>or shall I say that forgetfulness is for this purpose in my memory, that I might not forget?</td></tr>
+<tr><td>chapter-010</td><td>was I to have recourse to Angels?</td></tr>
+<tr><td>chapter-010</td><td>what it is?</td></tr>
+<tr><td>chapter-010</td><td>what manner of lodging hast Thou framed for Thee?</td></tr>
+<tr><td>chapter-010</td><td>what manner of sanctuary hast Thou builded for Thee?</td></tr>
+<tr><td>chapter-010</td><td>whence should I recognise it, did I not remember it?</td></tr>
+<tr><td>chapter-010</td><td>where have they known it, that they so will it?</td></tr>
+<tr><td>chapter-010</td><td>where seen it, that they so love it?</td></tr>
+<tr><td>chapter-010</td><td>who ever sounded the bottom thereof?</td></tr>
+<tr><td>chapter-010</td><td>who is He above the head of my soul?</td></tr>
+<tr><td>chapter-010</td><td>who shall comprehend how it is?</td></tr>
+<tr><td>chapter-010</td><td>why are they not happy?</td></tr>
+<tr><td>chapter-010</td><td>why then speaks it not the same to all?</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

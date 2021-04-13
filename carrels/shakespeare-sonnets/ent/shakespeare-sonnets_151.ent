@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_151	1	1	CLI	ORG
+shakespeare-sonnets_151	2	1	Love	WORK_OF_ART
+shakespeare-sonnets_151	3	1	Lest	ORG
+shakespeare-sonnets_151	3	2	Triumph	PERSON

@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_119	2	1	Siren	GPE
+shakespeare-sonnets_119	2	2	Siren	GPE
+shakespeare-sonnets_119	2	3	Distill'd	PERSON
+shakespeare-sonnets_119	2	4	limbecks foul	PERSON
+shakespeare-sonnets_119	6	1	Grows	PRODUCT
+shakespeare-sonnets_119	6	2	first	ORDINAL

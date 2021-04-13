@@ -1,0 +1,166 @@
+id	sid	eid	entity	type
+homer-odyssey_14	2	1	Minerva	PERSON
+homer-odyssey_14	4	1	Penelope	PERSON
+homer-odyssey_14	4	2	Laertes	GPE
+homer-odyssey_14	5	1	twelve	CARDINAL
+homer-odyssey_14	6	1	fifty	CARDINAL
+homer-odyssey_14	7	1	three hundred and sixty	QUANTITY
+homer-odyssey_14	7	2	four	CARDINAL
+homer-odyssey_14	9	1	Three	CARDINAL
+homer-odyssey_14	9	2	one	CARDINAL
+homer-odyssey_14	9	3	fourth	ORDINAL
+homer-odyssey_14	10	1	Ulysses	GPE
+homer-odyssey_14	11	1	Ulysses	GPE
+homer-odyssey_14	16	1	chamois	GPE
+homer-odyssey_14	16	2	night	TIME
+homer-odyssey_14	17	1	May Jove	WORK_OF_ART
+homer-odyssey_14	18	1	Stranger	EVENT
+homer-odyssey_14	18	2	Jove	GPE
+homer-odyssey_14	20	1	Helen	PERSON
+homer-odyssey_14	21	1	Ilius	GPE
+homer-odyssey_14	21	2	Trojans	NORP
+homer-odyssey_14	21	3	Agamemnon	PERSON
+homer-odyssey_14	23	1	two	CARDINAL
+homer-odyssey_14	24	1	Ulysses	GPE
+homer-odyssey_14	25	1	Ulysses	ORG
+homer-odyssey_14	28	1	Ulysses	ORG
+homer-odyssey_14	29	1	day	DATE
+homer-odyssey_14	29	2	one	CARDINAL
+homer-odyssey_14	29	3	two	CARDINAL
+homer-odyssey_14	30	1	Ithaca	GPE
+homer-odyssey_14	30	2	twenty	CARDINAL
+homer-odyssey_14	32	1	twelve	CARDINAL
+homer-odyssey_14	32	2	twelve	CARDINAL
+homer-odyssey_14	32	3	twelve	CARDINAL
+homer-odyssey_14	33	1	Ithaca	GPE
+homer-odyssey_14	34	1	every day	DATE
+homer-odyssey_14	36	1	Ulysses	ORG
+homer-odyssey_14	37	1	Ulysses	GPE
+homer-odyssey_14	38	1	King Agamemnon	ORG
+homer-odyssey_14	40	1	Ulysses	GPE
+homer-odyssey_14	41	1	Ithaca	ORG
+homer-odyssey_14	43	1	Ulysses	GPE
+homer-odyssey_14	44	1	Ulysses	GPE
+homer-odyssey_14	45	1	Ulysses	ORG
+homer-odyssey_14	48	1	Jove	PERSON
+homer-odyssey_14	48	2	Ulysses	GPE
+homer-odyssey_14	49	1	same year	DATE
+homer-odyssey_14	49	2	the end of this moon	DATE
+homer-odyssey_14	51	1	one	CARDINAL
+homer-odyssey_14	52	1	Penelope	PERSON
+homer-odyssey_14	52	2	Telemachus	PERSON
+homer-odyssey_14	53	1	Pylos	PERSON
+homer-odyssey_14	53	2	Ithaca	GPE
+homer-odyssey_14	54	1	Saturn	PRODUCT
+homer-odyssey_14	56	1	Ithaca	ORG
+homer-odyssey_14	57	1	Ulysses	ORG
+homer-odyssey_14	58	1	twelve months	DATE
+homer-odyssey_14	59	1	Hylax	ORG
+homer-odyssey_14	59	2	Cretans	NORP
+homer-odyssey_14	62	1	Mars	LOC
+homer-odyssey_14	62	2	Minerva	PERSON
+homer-odyssey_14	62	3	first	ORDINAL
+homer-odyssey_14	64	1	one	CARDINAL
+homer-odyssey_14	64	2	one	CARDINAL
+homer-odyssey_14	65	1	Achaeans	NORP
+homer-odyssey_14	65	2	Troy	GPE
+homer-odyssey_14	65	3	nine	CARDINAL
+homer-odyssey_14	66	1	first	ORDINAL
+homer-odyssey_14	67	1	Cretans	NORP
+homer-odyssey_14	67	2	Jove	PERSON
+homer-odyssey_14	67	3	Idomeneus	ORG
+homer-odyssey_14	67	4	Troy	GPE
+homer-odyssey_14	68	1	nine whole years	DATE
+homer-odyssey_14	68	2	tenth	ORDINAL
+homer-odyssey_14	68	3	Priam	GPE
+homer-odyssey_14	69	1	Jove	PERSON
+homer-odyssey_14	70	1	one month	DATE
+homer-odyssey_14	70	2	Egypt	GPE
+homer-odyssey_14	71	1	nine	CARDINAL
+homer-odyssey_14	72	1	six days	DATE
+homer-odyssey_14	72	2	the seventh day	DATE
+homer-odyssey_14	74	1	the fifth day	DATE
+homer-odyssey_14	74	2	Aegyptus	ORG
+homer-odyssey_14	75	1	Egyptians	NORP
+homer-odyssey_14	78	1	Egyptians	NORP
+homer-odyssey_14	79	1	Egypt	GPE
+homer-odyssey_14	81	1	seven years	DATE
+homer-odyssey_14	81	2	Egyptians	NORP
+homer-odyssey_14	81	3	eight years	DATE
+homer-odyssey_14	81	4	Phoenician	NORP
+homer-odyssey_14	81	5	Phoenicia	GPE
+homer-odyssey_14	82	1	twelve months	DATE
+homer-odyssey_14	82	2	months	DATE
+homer-odyssey_14	82	3	days	DATE
+homer-odyssey_14	82	4	Libya	GPE
+homer-odyssey_14	84	1	North	LOC
+homer-odyssey_14	84	2	Crete	LOC
+homer-odyssey_14	84	3	Libya	GPE
+homer-odyssey_14	84	4	Jove	PERSON
+homer-odyssey_14	89	1	Nine days	DATE
+homer-odyssey_14	89	2	Thesprotian	NORP
+homer-odyssey_14	90	1	Pheidon	PERSON
+homer-odyssey_14	90	2	Thesprotians	NORP
+homer-odyssey_14	91	1	Ulysses	GPE
+homer-odyssey_14	92	1	Ulysses	ORG
+homer-odyssey_14	93	1	ten	CARDINAL
+homer-odyssey_14	94	1	Ulysses	ORG
+homer-odyssey_14	94	2	Dodona	PERSON
+homer-odyssey_14	94	3	Jove	PERSON
+homer-odyssey_14	94	4	Ithaca	NORP
+homer-odyssey_14	96	1	Ulysses	ORG
+homer-odyssey_14	96	2	Thesprotian	NORP
+homer-odyssey_14	96	3	Dulichium	GPE
+homer-odyssey_14	98	1	Ithaca	ORG
+homer-odyssey_14	102	1	Ulysses	ORG
+homer-odyssey_14	105	1	the days	DATE
+homer-odyssey_14	105	2	Achaeans	NORP
+homer-odyssey_14	106	1	Penelope	PERSON
+homer-odyssey_14	106	2	Ulysses	GPE
+homer-odyssey_14	108	1	Aetolian	NORP
+homer-odyssey_14	109	1	Idomeneus	ORG
+homer-odyssey_14	109	2	Cretans	NORP
+homer-odyssey_14	110	1	Ulysses	ORG
+homer-odyssey_14	110	2	the following summer or autumn	DATE
+homer-odyssey_14	114	1	Dulichium	NORP
+homer-odyssey_14	115	1	Eumaeus	PERSON
+homer-odyssey_14	117	1	the night	TIME
+homer-odyssey_14	118	1	Eumaeus	PERSON
+homer-odyssey_14	120	1	five year old	DATE
+homer-odyssey_14	121	1	first	ORDINAL
+homer-odyssey_14	121	2	Ulysses	ORG
+homer-odyssey_14	123	1	Eumaeus	PERSON
+homer-odyssey_14	125	1	seven	CARDINAL
+homer-odyssey_14	125	2	one	CARDINAL
+homer-odyssey_14	125	3	Mercury	ORG
+homer-odyssey_14	125	4	Maia	PERSON
+homer-odyssey_14	126	1	Ulysses	ORG
+homer-odyssey_14	127	1	Eumaeus	PERSON
+homer-odyssey_14	127	2	Jove	PERSON
+homer-odyssey_14	130	1	first	ORDINAL
+homer-odyssey_14	130	2	Ulysses	GPE
+homer-odyssey_14	131	1	Mesaulius	ORG
+homer-odyssey_14	131	2	Taphians	NORP
+homer-odyssey_14	132	1	Mesaulius	PERSON
+homer-odyssey_14	133	1	the night	TIME
+homer-odyssey_14	134	1	West	LOC
+homer-odyssey_14	134	2	a wet quarter	DATE
+homer-odyssey_14	134	3	Ulysses	GPE
+homer-odyssey_14	134	4	Eumaeus	PERSON
+homer-odyssey_14	138	1	Menelaus	ORG
+homer-odyssey_14	138	2	Ulysses	GPE
+homer-odyssey_14	142	1	the night	TIME
+homer-odyssey_14	142	2	Ulysses	GPE
+homer-odyssey_14	147	1	Agamemnon	PERSON
+homer-odyssey_14	148	1	Andraemon	ORG
+homer-odyssey_14	149	1	those days	DATE
+homer-odyssey_14	149	2	some one	CARDINAL
+homer-odyssey_14	150	1	Eumaeus	PERSON
+homer-odyssey_14	150	2	morning	TIME
+homer-odyssey_14	150	3	only one	CARDINAL
+homer-odyssey_14	151	1	Ulysses	ORG
+homer-odyssey_14	153	1	Eumaeus	PERSON
+homer-odyssey_14	154	1	Ulysses	ORG
+homer-odyssey_14	155	1	Ulysses	ORG
+homer-odyssey_14	156	1	First	ORDINAL
+homer-odyssey_14	158	1	North	LOC

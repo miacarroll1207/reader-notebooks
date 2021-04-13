@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_56	1	1	LVI	ORG
+shakespeare-sonnets_56	2	1	morrow	DATE
+shakespeare-sonnets_56	3	1	two	CARDINAL
+shakespeare-sonnets_56	3	2	daily	DATE
+shakespeare-sonnets_56	3	3	winter	DATE
+shakespeare-sonnets_56	3	4	summer	DATE

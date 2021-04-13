@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 0, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Questions</li>
+		</ol>
+	</nav>
+
+<h1>Questions</h1>
+<p>This is a list of all the questions and their associated study carrel identifiers. One can learn a lot of the "aboutness" of a text simply by reading the questions.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>identifier</th>
+                <th>question</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>shakespeare-sonnets_03</td><td>For where is she so fair whose unear''d womb Disdains the tillage of thy husbandry?</td></tr>
+<tr><td>shakespeare-sonnets_03</td><td>Or who is he so fond will be the tomb, Of his self- love to stop posterity?</td></tr>
+<tr><td>shakespeare-sonnets_04</td><td>Profitless usurer, why dost thou use So great a sum of sums, yet canst not live?</td></tr>
+<tr><td>shakespeare-sonnets_04</td><td>Unthrifty loveliness, why dost thou spend Unthrifty loveliness, why dost thou spend Upon thy self thy beauty''s legacy?</td></tr>
+<tr><td>shakespeare-sonnets_09</td><td>Is it for fear to wet a widow''s eye Is it for fear to wet a widow''s eye, That thou consum''st thy self in single life?</td></tr>
+<tr><td>shakespeare-sonnets_08</td><td>Music to hear, why hear''st thou music sadly?</td></tr>
+<tr><td>shakespeare-sonnets_08</td><td>Music to hear, why hear''st thou music sadly?</td></tr>
+<tr><td>shakespeare-sonnets_08</td><td>Sweets with sweets war not, joy delights in joy: Why lov''st thou that which thou receiv''st not gladly, Or else receiv''st with pleasure thine annoy?</td></tr>
+<tr><td>shakespeare-sonnets_100</td><td>C. Where art thou Muse that thou forget''st so long Where art thou Muse that thou forget''st so long, To speak of that which gives thee all thy might?</td></tr>
+<tr><td>shakespeare-sonnets_100</td><td>Spend''st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?</td></tr>
+<tr><td>shakespeare-sonnets_101</td><td>Because he needs no praise, wilt thou be dumb?</td></tr>
+<tr><td>shakespeare-sonnets_101</td><td>O truant Muse what shall be thy amends O truant Muse what shall be thy amends For thy neglect of truth in beauty dy''d?</td></tr>
+<tr><td>shakespeare-sonnets_103</td><td>Were it not sinful then, striving to mend, To mar the subject that before was well?</td></tr>
+<tr><td>shakespeare-sonnets_108</td><td>What''s in the brain, that ink may character What''s in the brain, that ink may character, Which hath not figur''d to thee my true spirit?</td></tr>
+<tr><td>shakespeare-sonnets_108</td><td>What''s new to speak, what now to register, That may express my love, or thy dear merit?</td></tr>
+<tr><td>shakespeare-sonnets_10</td><td>change thy thought, that I may change my mind: Shall hate be fairer lodg''d than gentle love?</td></tr>
+<tr><td>shakespeare-sonnets_114</td><td>Or whether doth my mind, being crown''d with you Or whether doth my mind, being crown''d with you, Drink up the monarch''s plague, this flattery?</td></tr>
+<tr><td>shakespeare-sonnets_115</td><td>Love is a babe, then might I not say so, To give full growth to that which still doth grow?</td></tr>
+<tr><td>shakespeare-sonnets_121</td><td>Or on my frailties why are frailer spies, Which in their wills count bad what I think good?</td></tr>
+<tr><td>shakespeare-sonnets_133</td><td>Is''t not enough to torture me alone, But slave to slavery my sweet''st friend must be?</td></tr>
+<tr><td>shakespeare-sonnets_135</td><td>Shall will in others seem right gracious, And in my will no fair acceptance shine?</td></tr>
+<tr><td>shakespeare-sonnets_135</td><td>Wilt thou, whose will is large and spacious, Not once vouchsafe to hide my will in thine?</td></tr>
+<tr><td>shakespeare-sonnets_138</td><td>And wherefore say not I that I am old?</td></tr>
+<tr><td>shakespeare-sonnets_137</td><td>Or mine eyes, seeing this, say this is not, To put fair truth upon so foul a face?</td></tr>
+<tr><td>shakespeare-sonnets_137</td><td>Thou blind fool, Love, what dost thou to mine eyes Thou blind fool, Love, what dost thou to mine eyes, That they behold, and see not what they see?</td></tr>
+<tr><td>shakespeare-sonnets_137</td><td>Why should my heart think that a several plot, Which my heart knows the wide world''s common place?</td></tr>
+<tr><td>shakespeare-sonnets_146</td><td>Is this thy body''s end?</td></tr>
+<tr><td>shakespeare-sonnets_146</td><td>Shall worms, inheritors of this excess, Eat up thy charge?</td></tr>
+<tr><td>shakespeare-sonnets_146</td><td>Why so large cost, having so short a lease, Dost thou upon thy fading mansion spend?</td></tr>
+<tr><td>shakespeare-sonnets_148</td><td>If it be not, then love doth well denote Love''s eye is not so true as all men''s: no, How can it?</td></tr>
+<tr><td>shakespeare-sonnets_148</td><td>If that be fair whereon my false eyes dote, What means the world to say it is not so?</td></tr>
+<tr><td>shakespeare-sonnets_148</td><td>how can Love''s eye be true, That is so vexed with watching and with tears?</td></tr>
+<tr><td>shakespeare-sonnets_149</td><td>Do I not think on thee, when I forgot Am of my self, all tyrant, for thy sake?</td></tr>
+<tr><td>shakespeare-sonnets_149</td><td>say I love thee not, When I against myself with thee partake?</td></tr>
+<tr><td>shakespeare-sonnets_150</td><td>To make me give the lie to my true sight, And swear that brightness doth not grace the day?</td></tr>
+<tr><td>shakespeare-sonnets_150</td><td>Who taught thee how to make me love thee more, The more I hear and see just cause of hate?</td></tr>
+<tr><td>shakespeare-sonnets_150</td><td>from what power hast thou this powerful might, With insufficiency my heart to sway?</td></tr>
+<tr><td>shakespeare-sonnets_151</td><td>Love is too young to know what conscience is Love is too young to know what conscience is, Yet who knows not conscience is born of love?</td></tr>
+<tr><td>shakespeare-sonnets_16</td><td>And fortify your self in your decay With means more blessed than my barren rhyme?</td></tr>
+<tr><td>shakespeare-sonnets_16</td><td>But wherefore do not you a mightier way But wherefore do not you a mightier way Make war upon this bloody tyrant, Time?</td></tr>
+<tr><td>shakespeare-sonnets_17</td><td>Who will believe my verse in time to come Who will believe my verse in time to come, If it were fill''d with your most high deserts?</td></tr>
+<tr><td>shakespeare-sonnets_18</td><td>Shall I compare thee to a summer''s day?</td></tr>
+<tr><td>shakespeare-sonnets_18</td><td>Shall I compare thee to a summer''s day?</td></tr>
+<tr><td>shakespeare-sonnets_28</td><td>How can I then return in happy plight How can I then return in happy plight, That amdebarre''d the benefit of rest?</td></tr>
+<tr><td>shakespeare-sonnets_39</td><td>And what is''t but mine own when I praise thee?</td></tr>
+<tr><td>shakespeare-sonnets_39</td><td>What can mine own praise to mine own self bring?</td></tr>
+<tr><td>shakespeare-sonnets_39</td><td>how thy worth with manners may I sing, When thou art all the better part of me?</td></tr>
+<tr><td>shakespeare-sonnets_40</td><td>Take all my loves, my love, yea take them all Take all my loves, my love, yea take them all; What hast thou then more than thou hadst before?</td></tr>
+<tr><td>shakespeare-sonnets_51</td><td>what excuse will my poor beast then find, When swift extremity can seem but slow?</td></tr>
+<tr><td>shakespeare-sonnets_53</td><td>What is your substance, whereof are you made What is your substance, whereof are you made, That millions of strange shadows on you tend?</td></tr>
+<tr><td>shakespeare-sonnets_57</td><td>Being your slave what should I do but tend Being your slave what should I do but tend, Upon the hours, and times of your desire?</td></tr>
+<tr><td>shakespeare-sonnets_61</td><td>Dost thou desire my slumbers should be broken, While shadows like to thee do mock my sight?</td></tr>
+<tr><td>shakespeare-sonnets_61</td><td>Is it thy will, thy image should keep open Is it thy will, thy image should keep open My heavy eyelids to the weary night?</td></tr>
+<tr><td>shakespeare-sonnets_65</td><td>Or what strong hand can hold his swift foot back?</td></tr>
+<tr><td>shakespeare-sonnets_65</td><td>Or who his spoil of beauty can forbid?</td></tr>
+<tr><td>shakespeare-sonnets_65</td><td>where, alack, Shall Time''s best jewel from Time''s chest lie hid?</td></tr>
+<tr><td>shakespeare-sonnets_67</td><td>Why should false painting imitate his cheek, And steel dead seeming of his living hue?</td></tr>
+<tr><td>shakespeare-sonnets_67</td><td>Why should he live, now Nature bankrupt is, Beggar''d of blood to blush through lively veins?</td></tr>
+<tr><td>shakespeare-sonnets_67</td><td>Why should poor beauty indirectly seek Roses of shadow, since his rose is true?</td></tr>
+<tr><td>shakespeare-sonnets_76</td><td>Why is my verse so barren of new pride Why is my verse so barren of new pride, So far from variation or quick change?</td></tr>
+<tr><td>shakespeare-sonnets_76</td><td>Why with the time do I not glance aside To new- found methods, and to compounds strange?</td></tr>
+<tr><td>shakespeare-sonnets_84</td><td>Who is it that says most, which can say more Who is it that says most, which can say more, Than this rich praise,--that you alone, are you?</td></tr>
+<tr><td>shakespeare-sonnets_86</td><td>Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?</td></tr>
+<tr><td>shakespeare-sonnets_87</td><td>And for that riches where is my deserving?</td></tr>
+<tr><td>shakespeare-sonnets_87</td><td>For how do I hold thee but by thy granting?</td></tr>
+<tr><td>shakespeare-sonnets_92</td><td>But what''s so blessed- fair that fears no blot?</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

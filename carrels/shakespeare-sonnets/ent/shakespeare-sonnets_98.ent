@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_98	1	1	XCVIII	ORG
+shakespeare-sonnets_98	2	1	the spring	DATE
+shakespeare-sonnets_98	2	2	April	DATE
+shakespeare-sonnets_98	2	3	Hath	PERSON
+shakespeare-sonnets_98	2	4	Saturn	PRODUCT
+shakespeare-sonnets_98	3	1	summer	DATE
+shakespeare-sonnets_98	3	2	Drawn	PERSON
+shakespeare-sonnets_98	4	1	winter	DATE

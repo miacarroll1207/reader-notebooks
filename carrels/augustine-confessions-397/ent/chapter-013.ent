@@ -1,0 +1,553 @@
+id	sid	eid	entity	type
+chapter-013	1	1	Thee	PERSON
+chapter-013	1	2	Thee	PERSON
+chapter-013	2	1	Thee	PERSON
+chapter-013	2	2	Thou	PERSON
+chapter-013	2	3	Thee	PERSON
+chapter-013	3	1	Thee	PERSON
+chapter-013	3	2	Thou	PERSON
+chapter-013	3	3	Thee	PERSON
+chapter-013	3	4	Thee	PERSON
+chapter-013	3	5	Thou	PERSON
+chapter-013	3	6	Thee	PERSON
+chapter-013	3	7	Thou hast	PERSON
+chapter-013	3	8	Thou wert	PERSON
+chapter-013	3	9	Thou	PERSON
+chapter-013	3	10	Thou	PERSON
+chapter-013	4	1	Thou	PERSON
+chapter-013	4	2	Thee	PERSON
+chapter-013	4	3	Thee	PERSON
+chapter-013	4	4	Thou	PERSON
+chapter-013	4	5	Thee	PERSON
+chapter-013	4	6	Thee	PERSON
+chapter-013	4	7	Thee	PERSON
+chapter-013	5	1	Thy	PERSON
+chapter-013	5	2	Thee	PERSON
+chapter-013	5	3	Thee	PERSON
+chapter-013	5	4	Thee	PERSON
+chapter-013	5	5	Thee	PERSON
+chapter-013	6	1	earth	LOC
+chapter-013	6	2	Thou madest	PERSON
+chapter-013	6	3	Thee	PERSON
+chapter-013	7	1	Thou madest	PERSON
+chapter-013	7	2	Thy Wisdom	GPE
+chapter-013	7	3	Thee	PERSON
+chapter-013	7	4	Thy Word	PERSON
+chapter-013	7	5	Thy Unity	ORG
+chapter-013	7	6	Thee	PERSON
+chapter-013	7	7	One	CARDINAL
+chapter-013	8	1	Thee	PERSON
+chapter-013	8	2	Thee	PERSON
+chapter-013	9	1	Thee	PERSON
+chapter-013	10	1	Thou	PERSON
+chapter-013	10	2	Thee	PERSON
+chapter-013	11	1	Thee	PERSON
+chapter-013	11	2	the deep,--unlike Thee	PRODUCT
+chapter-013	11	3	Form	ORG
+chapter-013	11	4	Thee	PERSON
+chapter-013	13	1	Thee	PERSON
+chapter-013	13	2	Thee	PERSON
+chapter-013	13	3	Thee	PERSON
+chapter-013	14	1	Thee	PERSON
+chapter-013	16	1	Thou	PERSON
+chapter-013	16	2	Thou mightest	PERSON
+chapter-013	17	1	Thee	PERSON
+chapter-013	18	1	Thee	PERSON
+chapter-013	18	2	Thou	PERSON
+chapter-013	18	3	Thou	PERSON
+chapter-013	18	4	Thee	PERSON
+chapter-013	18	5	one	CARDINAL
+chapter-013	20	1	Thee	PERSON
+chapter-013	20	2	Thee	PERSON
+chapter-013	20	3	Thee	PERSON
+chapter-013	22	1	Himself	GPE
+chapter-013	24	1	Lo	PERSON
+chapter-013	24	2	Trinity	ORG
+chapter-013	24	3	Thou	PERSON
+chapter-013	24	4	Thou	PERSON
+chapter-013	24	5	Thy Wisdom	PERSON
+chapter-013	24	6	Thee	PERSON
+chapter-013	24	7	Thy Son	PERSON
+chapter-013	25	1	earth	LOC
+chapter-013	26	1	Trinity	ORG
+chapter-013	26	2	Thy Spirit	PERSON
+chapter-013	27	1	Trinity	ORG
+chapter-013	27	2	Son	PERSON
+chapter-013	27	3	Holy Ghost	PERSON
+chapter-013	28	1	Light?--unto Thee	PERSON
+chapter-013	28	2	Thee	PERSON
+chapter-013	28	3	Thee	PERSON
+chapter-013	28	4	Thy Scripture	PERSON
+chapter-013	28	5	Thy Spirit	PERSON
+chapter-013	29	1	first	ORDINAL
+chapter-013	29	2	Thy Spirit	PERSON
+chapter-013	33	1	Thy Apostle	PERSON
+chapter-013	33	2	the Holy Ghost	ORG
+chapter-013	33	3	Thee	PERSON
+chapter-013	36	1	Thy Spirit	PERSON
+chapter-013	41	1	Thine	NORP
+chapter-013	41	2	Thee	PERSON
+chapter-013	41	3	Thy Spirit	PERSON
+chapter-013	42	1	Thou	PERSON
+chapter-013	42	2	Thee	PERSON
+chapter-013	42	3	Thy Spirit	PERSON
+chapter-013	44	1	Thou	PERSON
+chapter-013	44	2	Thou	PERSON
+chapter-013	44	3	Thee	PERSON
+chapter-013	45	1	Thou	PERSON
+chapter-013	45	2	Thee	PERSON
+chapter-013	45	3	the noon day	TIME
+chapter-013	48	1	Thee	PERSON
+chapter-013	50	1	the Holy Spirit	PERSON
+chapter-013	50	2	Son	PERSON
+chapter-013	50	3	Holy Ghost	PERSON
+chapter-013	51	1	Thy Spirit	PERSON
+chapter-013	53	1	Thy Gift	PERSON
+chapter-013	53	2	Thee	PERSON
+chapter-013	65	1	Thy Gift	PERSON
+chapter-013	66	1	Thy	PERSON
+chapter-013	66	2	Jerusalem	GPE
+chapter-013	68	1	Thou	PERSON
+chapter-013	68	2	Thy Gift	PERSON
+chapter-013	70	1	Light	ORG
+chapter-013	71	1	Thee	PERSON
+chapter-013	77	1	three	CARDINAL
+chapter-013	78	1	three	CARDINAL
+chapter-013	78	2	Trinity	ORG
+chapter-013	79	1	three	CARDINAL
+chapter-013	81	1	three	CARDINAL
+chapter-013	83	1	Wills	ORG
+chapter-013	83	2	three	CARDINAL
+chapter-013	83	3	Trinity	ORG
+chapter-013	83	4	three	CARDINAL
+chapter-013	83	5	three	CARDINAL
+chapter-013	83	6	Unity,--who	ORG
+chapter-013	84	1	ways express	ORG
+chapter-013	86	1	Holy, Holy, Holy	ORG
+chapter-013	86	2	Thy Name	ORG
+chapter-013	86	3	Son	PERSON
+chapter-013	86	4	Holy Ghost	PERSON
+chapter-013	86	5	Son	PERSON
+chapter-013	86	6	Holy Ghost	PERSON
+chapter-013	86	7	His Christ	ORG
+chapter-013	86	8	His Church	ORG
+chapter-013	87	1	Yea	PERSON
+chapter-013	87	2	earth	LOC
+chapter-013	88	1	Thou	PERSON
+chapter-013	88	2	Thy	PERSON
+chapter-013	89	1	Thy Spirit	PERSON
+chapter-013	89	2	Thy	PERSON
+chapter-013	89	3	Thou	PERSON
+chapter-013	89	4	ye	PERSON
+chapter-013	90	1	ye	PERSON
+chapter-013	91	1	Thee	PERSON
+chapter-013	91	2	Jordan	GPE
+chapter-013	91	3	Thee	PERSON
+chapter-013	97	1	Galatians	NORP
+chapter-013	98	1	Thine	GPE
+chapter-013	98	2	Thy Spirit	PERSON
+chapter-013	99	1	Bridegroom	ORG
+chapter-013	99	2	first	ORDINAL
+chapter-013	99	3	Spirit	ORG
+chapter-013	99	4	Bride	PERSON
+chapter-013	99	5	Bridegroom	ORG
+chapter-013	99	6	Eve	PERSON
+chapter-013	99	7	Bridegroom Thy	PERSON
+chapter-013	100	1	daily	DATE
+chapter-013	101	1	Thou	PERSON
+chapter-013	102	1	Thou	PERSON
+chapter-013	103	1	Thee	PERSON
+chapter-013	105	1	Thou hast	PERSON
+chapter-013	106	1	the night	TIME
+chapter-013	106	2	the day	DATE
+chapter-013	107	1	the morning	TIME
+chapter-013	107	2	Thee	PERSON
+chapter-013	107	3	Thee	PERSON
+chapter-013	108	1	the morning	TIME
+chapter-013	108	2	Spirit	ORG
+chapter-013	108	3	dwelleth	ORDINAL
+chapter-013	108	4	us	GPE
+chapter-013	108	5	the day	DATE
+chapter-013	109	1	Thou	PERSON
+chapter-013	109	2	Thou	PERSON
+chapter-013	110	1	Thou	PERSON
+chapter-013	111	1	Thee	PERSON
+chapter-013	113	1	Thou	PERSON
+chapter-013	113	2	Thy Divine Scripture	WORK_OF_ART
+chapter-013	115	1	Thou	PERSON
+chapter-013	116	1	Thou knowest	PERSON
+chapter-013	116	2	Thou knowest	PERSON
+chapter-013	116	3	Thou	PERSON
+chapter-013	117	1	the ministry of mortal men	ORG
+chapter-013	117	2	Thou	PERSON
+chapter-013	121	1	Thy	PERSON
+chapter-013	121	2	Thy	PERSON
+chapter-013	123	1	Thee	PERSON
+chapter-013	124	1	Thou	PERSON
+chapter-013	126	1	Thy Name	PERSON
+chapter-013	126	2	Thee	PERSON
+chapter-013	126	3	Thine	NORP
+chapter-013	126	4	Thy Word	PERSON
+chapter-013	129	1	Thou hast	PERSON
+chapter-013	129	2	Thou	PERSON
+chapter-013	129	3	Thee	PERSON
+chapter-013	132	1	Thy Scripture	PERSON
+chapter-013	133	1	earth	LOC
+chapter-013	133	2	Thy	PERSON
+chapter-013	134	1	Thy Word	PERSON
+chapter-013	134	2	Thy Son	PERSON
+chapter-013	138	1	Thou art	PERSON
+chapter-013	138	2	Thou	PERSON
+chapter-013	139	1	Thy Essence Knoweth	PERSON
+chapter-013	139	2	Willeth	PERSON
+chapter-013	139	3	Thy Knowledge	PERSON
+chapter-013	139	4	Willeth	PERSON
+chapter-013	139	5	Thy Will	PERSON
+chapter-013	139	6	Knoweth	PERSON
+chapter-013	140	1	Thine	LANGUAGE
+chapter-013	140	2	Unchangeable Light	PRODUCT
+chapter-013	142	1	Thee	PERSON
+chapter-013	143	1	one	CARDINAL
+chapter-013	145	1	Thou	PERSON
+chapter-013	145	2	one	CARDINAL
+chapter-013	145	3	Thee	PERSON
+chapter-013	146	1	Thine	WORK_OF_ART
+chapter-013	146	2	Thou hast	PERSON
+chapter-013	146	3	Thy	PERSON
+chapter-013	147	1	Thou	PERSON
+chapter-013	147	2	one	CARDINAL
+chapter-013	147	3	Thy	PERSON
+chapter-013	148	1	Thee	PERSON
+chapter-013	148	2	Thee	PERSON
+chapter-013	148	3	Thou	PERSON
+chapter-013	148	4	Thou	PERSON
+chapter-013	149	1	Thee	PERSON
+chapter-013	149	2	Thou	PERSON
+chapter-013	149	3	Thou	PERSON
+chapter-013	149	4	earth	LOC
+chapter-013	152	1	earth	LOC
+chapter-013	152	2	Thy Scripture	PERSON
+chapter-013	153	1	Thou	PERSON
+chapter-013	153	2	the day	DATE
+chapter-013	153	3	the night	TIME
+chapter-013	153	4	Thou	PERSON
+chapter-013	153	5	Thou	PERSON
+chapter-013	153	6	Thy year	DATE
+chapter-013	154	1	the years	DATE
+chapter-013	154	2	Thou	PERSON
+chapter-013	154	3	Thy years	DATE
+chapter-013	154	4	Thou	PERSON
+chapter-013	155	1	Thou	PERSON
+chapter-013	155	2	earth	LOC
+chapter-013	156	1	one	CARDINAL
+chapter-013	156	2	Spirit	PRODUCT
+chapter-013	156	3	the day	DATE
+chapter-013	157	1	Spirit	PRODUCT
+chapter-013	160	1	Sacraments	ORG
+chapter-013	160	2	their seasons	DATE
+chapter-013	160	3	the forementioned day	DATE
+chapter-013	160	4	the night	TIME
+chapter-013	162	1	Christ	ORG
+chapter-013	162	2	fed	ORG
+chapter-013	162	3	Sun	PERSON
+chapter-013	163	1	Thou	PERSON
+chapter-013	163	2	Thy Book	WORK_OF_ART
+chapter-013	163	3	years	DATE
+chapter-013	164	1	first	ORDINAL
+chapter-013	165	1	earth	LOC
+chapter-013	170	1	the day	DATE
+chapter-013	170	2	the night	TIME
+chapter-013	170	3	thou	PERSON
+chapter-013	172	1	ye	GPE
+chapter-013	172	2	ye	PERSON
+chapter-013	172	3	ye	PERSON
+chapter-013	173	1	earth	LOC
+chapter-013	173	2	the day	DATE
+chapter-013	173	3	night	TIME
+chapter-013	173	4	night	TIME
+chapter-013	177	1	Run ye	PERSON
+chapter-013	177	2	ye holy fires	LOC
+chapter-013	177	3	ye	GPE
+chapter-013	177	4	ye	ORG
+chapter-013	177	5	ye	PERSON
+chapter-013	178	1	Run ye	PERSON
+chapter-013	180	1	earth	LOC
+chapter-013	180	2	earth	LOC
+chapter-013	181	1	Thy Sacraments	PERSON
+chapter-013	181	2	Gentiles	PERSON
+chapter-013	181	3	Thy Baptism	PERSON
+chapter-013	182	1	earth	LOC
+chapter-013	182	2	Thy Book	PERSON
+chapter-013	183	1	earth	LOC
+chapter-013	183	2	Thou	PERSON
+chapter-013	185	1	one	CARDINAL
+chapter-013	185	2	Thy	PERSON
+chapter-013	185	3	God	PERSON
+chapter-013	187	1	Thy Gospel	ORG
+chapter-013	187	2	Thy Word	PERSON
+chapter-013	188	1	Thou	PERSON
+chapter-013	188	2	Adam	PERSON
+chapter-013	189	1	Sacraments	PERSON
+chapter-013	190	1	Thy Word	PERSON
+chapter-013	191	1	Thou hast	PERSON
+chapter-013	192	1	earth	LOC
+chapter-013	192	2	Thou	PERSON
+chapter-013	193	1	Thou Thy	PERSON
+chapter-013	193	2	Thou	PERSON
+chapter-013	194	1	earth	LOC
+chapter-013	194	2	earth	LOC
+chapter-013	194	3	earth	LOC
+chapter-013	195	1	earth	LOC
+chapter-013	196	1	first	ORDINAL
+chapter-013	196	2	Evangelists	ORG
+chapter-013	196	3	from day to day	DATE
+chapter-013	197	1	earth	LOC
+chapter-013	197	2	Faithful	PERSON
+chapter-013	197	3	Thee	PERSON
+chapter-013	197	4	Thou	PERSON
+chapter-013	198	1	Sacraments	ORG
+chapter-013	199	1	Adam	PERSON
+chapter-013	199	2	Thee	PERSON
+chapter-013	207	1	Thy Word	PERSON
+chapter-013	207	2	Thy Evangelists	PERSON
+chapter-013	207	3	Thy Christ	ORG
+chapter-013	212	1	Creator	PERSON
+chapter-013	212	2	Thou	PERSON
+chapter-013	212	3	Thou	PERSON
+chapter-013	212	4	Thou	PERSON
+chapter-013	212	5	Thy	PERSON
+chapter-013	213	1	Thine	GPE
+chapter-013	213	2	Gospel	ORG
+chapter-013	213	3	ye	ORG
+chapter-013	214	1	Wherefore Thou	PERSON
+chapter-013	215	1	Thou	PERSON
+chapter-013	216	1	Thine	NORP
+chapter-013	216	2	Thou	PERSON
+chapter-013	216	3	the Trinity of the Unity	ORG
+chapter-013	216	4	the Unity of the Trinity	ORG
+chapter-013	219	1	earth	LOC
+chapter-013	221	1	Thy Church	ORG
+chapter-013	221	2	Jew	PERSON
+chapter-013	221	3	Thy Book	PERSON
+chapter-013	223	1	Thine	LANGUAGE
+chapter-013	223	2	Thou	PERSON
+chapter-013	225	1	Thine	NORP
+chapter-013	225	2	the day	DATE
+chapter-013	225	3	the night	TIME
+chapter-013	225	4	Thou	PERSON
+chapter-013	225	5	earth	LOC
+chapter-013	226	1	judgeth	PERSON
+chapter-013	226	2	approveth	PERSON
+chapter-013	226	3	Sacraments	WORK_OF_ART
+chapter-013	226	4	Thy	PERSON
+chapter-013	226	5	Fish	PERSON
+chapter-013	226	6	Thy	PERSON
+chapter-013	226	7	Thee	PERSON
+chapter-013	227	1	earth	LOC
+chapter-013	228	1	judgeth	PERSON
+chapter-013	228	2	earth	LOC
+chapter-013	231	1	earth	LOC
+chapter-013	231	2	Thou	PERSON
+chapter-013	232	1	Thou	PERSON
+chapter-013	232	2	Thou	PERSON
+chapter-013	233	1	Thou	PERSON
+chapter-013	233	2	God	PERSON
+chapter-013	233	3	Thine Image	ORG
+chapter-013	233	4	earth	LOC
+chapter-013	234	1	earth	LOC
+chapter-013	235	1	Increase	ORG
+chapter-013	236	1	O Truth my Light	ORG
+chapter-013	239	1	Thou meanest	PERSON
+chapter-013	239	2	Thou	PERSON
+chapter-013	240	1	Thine	LANGUAGE
+chapter-013	240	2	Thee	PERSON
+chapter-013	240	3	Thou	PERSON
+chapter-013	241	1	Thy Bible	PERSON
+chapter-013	242	1	one	CARDINAL
+chapter-013	242	2	one	CARDINAL
+chapter-013	248	1	Scripture	PRODUCT
+chapter-013	248	2	Law	PERSON
+chapter-013	249	1	one	CARDINAL
+chapter-013	249	2	one	CARDINAL
+chapter-013	251	1	Thee	PERSON
+chapter-013	251	2	Lord	PERSON
+chapter-013	252	1	Thee	PERSON
+chapter-013	252	2	one	CARDINAL
+chapter-013	252	3	one	CARDINAL
+chapter-013	253	1	earth	LOC
+chapter-013	255	1	Thou	PERSON
+chapter-013	256	1	Thine	NORP
+chapter-013	256	2	Thou	PERSON
+chapter-013	256	3	Truth	LOC
+chapter-013	257	1	Thine	LANGUAGE
+chapter-013	258	1	Thou hast	PERSON
+chapter-013	259	1	earth	LOC
+chapter-013	259	2	Thou	PERSON
+chapter-013	260	1	earth	LOC
+chapter-013	260	2	the fruitful earth	LOC
+chapter-013	261	1	Onesiphorus	ORG
+chapter-013	261	2	Thou	PERSON
+chapter-013	261	3	Thy Paul	PERSON
+chapter-013	262	1	Macedonia	GPE
+chapter-013	263	1	first	ORDINAL
+chapter-013	265	1	earth	LOC
+chapter-013	269	1	Philippians	NORP
+chapter-013	270	1	fed	ORG
+chapter-013	270	2	wherein ye	PERSON
+chapter-013	271	1	Philippians	NORP
+chapter-013	275	1	Paul	PERSON
+chapter-013	276	1	whereat rejoicest thou	ORG
+chapter-013	277	1	whereon feedest thou	PERSON
+chapter-013	280	1	ye	PERSON
+chapter-013	280	2	ye	PERSON
+chapter-013	281	1	Thee	PERSON
+chapter-013	281	2	Thou	PERSON
+chapter-013	281	3	Thee	PERSON
+chapter-013	282	1	Gospel	ORG
+chapter-013	282	2	Macedonia	GPE
+chapter-013	283	1	Thessalonica	GPE
+chapter-013	285	1	Ye	ORG
+chapter-013	290	1	Thee	PERSON
+chapter-013	293	1	one	CARDINAL
+chapter-013	293	2	one	CARDINAL
+chapter-013	295	1	Elijah	NORP
+chapter-013	296	1	Elijah	NORP
+chapter-013	296	2	fed	ORG
+chapter-013	297	1	Thy	PERSON
+chapter-013	297	2	Sacraments	WORK_OF_ART
+chapter-013	297	3	Thy	PERSON
+chapter-013	299	1	earth	LOC
+chapter-013	300	1	Thou	PERSON
+chapter-013	300	2	God	PERSON
+chapter-013	300	3	Thou	PERSON
+chapter-013	302	1	Thou hadst	PERSON
+chapter-013	302	2	Thou	PERSON
+chapter-013	303	1	Seven	CARDINAL
+chapter-013	303	2	Thou	PERSON
+chapter-013	303	3	Thou madest	PERSON
+chapter-013	303	4	eighth	ORDINAL
+chapter-013	303	5	Thou	PERSON
+chapter-013	303	6	Thou	PERSON
+chapter-013	306	1	seven	CARDINAL
+chapter-013	306	2	eight	CARDINAL
+chapter-013	306	3	Thou	PERSON
+chapter-013	306	4	Thy	PERSON
+chapter-013	306	5	Thee	PERSON
+chapter-013	306	6	Thou	PERSON
+chapter-013	306	7	Thou madest	PERSON
+chapter-013	307	1	Thou	PERSON
+chapter-013	308	1	Thou	PERSON
+chapter-013	308	2	Thy	PERSON
+chapter-013	308	3	Thou	PERSON
+chapter-013	308	4	Thou	PERSON
+chapter-013	309	1	Thou	PERSON
+chapter-013	309	2	Thy	PERSON
+chapter-013	311	1	ye	PERSON
+chapter-013	311	2	ye	PERSON
+chapter-013	312	1	Thy	PERSON
+chapter-013	312	2	Thou madest	PERSON
+chapter-013	312	3	Thou	PERSON
+chapter-013	312	4	Thine	NORP
+chapter-013	312	5	Thee	PERSON
+chapter-013	312	6	Thou	PERSON
+chapter-013	312	7	Thee	PERSON
+chapter-013	313	1	Thou	PERSON
+chapter-013	313	2	earth	LOC
+chapter-013	313	3	Thee	PERSON
+chapter-013	313	4	Thee	PERSON
+chapter-013	313	5	Thee	PERSON
+chapter-013	314	1	Thy Spirit	PERSON
+chapter-013	314	2	Thee	PERSON
+chapter-013	315	1	Thy Spirit	PERSON
+chapter-013	315	2	Thou seest	PERSON
+chapter-013	316	1	Thou seest	PERSON
+chapter-013	316	2	Thou	PERSON
+chapter-013	316	3	Thy Spirit	PERSON
+chapter-013	316	4	Thee	PERSON
+chapter-013	319	1	Spirit	ORG
+chapter-013	324	1	Thou	PERSON
+chapter-013	324	2	Thee	PERSON
+chapter-013	324	3	the Holy Ghost	ORG
+chapter-013	325	1	the Holy Ghost	ORG
+chapter-013	327	1	Thee	PERSON
+chapter-013	328	1	earth	LOC
+chapter-013	329	1	nights	TIME
+chapter-013	329	2	earth	LOC
+chapter-013	331	1	the day	DATE
+chapter-013	331	2	the night	TIME
+chapter-013	333	1	earth	LOC
+chapter-013	334	1	one	CARDINAL
+chapter-013	336	1	Thee	PERSON
+chapter-013	336	2	Thee	PERSON
+chapter-013	336	3	Thee	PERSON
+chapter-013	336	4	Thy	PERSON
+chapter-013	336	5	Thee	PERSON
+chapter-013	337	1	Thee	PERSON
+chapter-013	337	2	Thee	PERSON
+chapter-013	337	3	Thine	GPE
+chapter-013	337	4	Thee	PERSON
+chapter-013	337	5	Thou	PERSON
+chapter-013	338	1	earth	LOC
+chapter-013	338	2	Thou	PERSON
+chapter-013	339	1	Thou	PERSON
+chapter-013	340	1	Thy Word	PERSON
+chapter-013	340	2	Thy Only-Begotten	FAC
+chapter-013	340	3	Church	ORG
+chapter-013	340	4	without morning and evening	TIME
+chapter-013	341	1	Thou begannest	PERSON
+chapter-013	341	2	Thou	PERSON
+chapter-013	341	3	Thy	PERSON
+chapter-013	341	4	Thou	PERSON
+chapter-013	341	5	Thou	PERSON
+chapter-013	341	6	Thy Book	WORK_OF_ART
+chapter-013	341	7	Thee	PERSON
+chapter-013	341	8	Thou	PERSON
+chapter-013	341	9	one	CARDINAL
+chapter-013	342	1	Thy Holy	PERSON
+chapter-013	342	2	Gentiles	PERSON
+chapter-013	342	3	Sacraments	WORK_OF_ART
+chapter-013	342	4	Thy Book	PERSON
+chapter-013	343	1	Thou	PERSON
+chapter-013	343	2	Thee	PERSON
+chapter-013	343	3	Thou	PERSON
+chapter-013	343	4	all Offices of Thy Ministry	ORG
+chapter-013	343	5	Thou	PERSON
+chapter-013	344	1	Thou seest	PERSON
+chapter-013	344	2	Thy Spirit	PERSON
+chapter-013	344	3	Thee	PERSON
+chapter-013	345	1	Sabbath	PRODUCT
+chapter-013	345	2	no evening	TIME
+chapter-013	346	1	was morning and evening	TIME
+chapter-013	347	1	the seventh day	DATE
+chapter-013	347	2	Thou hast	PERSON
+chapter-013	347	3	Thou	PERSON
+chapter-013	347	4	Thy	PERSON
+chapter-013	347	5	the seventh day	DATE
+chapter-013	347	6	Thou madest	PERSON
+chapter-013	347	7	Thy Book	PERSON
+chapter-013	347	8	Thou	PERSON
+chapter-013	347	9	Thee	PERSON
+chapter-013	348	1	Thou	PERSON
+chapter-013	348	2	Thou	PERSON
+chapter-013	348	3	Thy	PERSON
+chapter-013	348	4	Thy	PERSON
+chapter-013	349	1	Thou	PERSON
+chapter-013	349	2	Lord	GPE
+chapter-013	350	1	Thou	PERSON
+chapter-013	351	1	Thou madest	PERSON
+chapter-013	351	2	Thou seest	PERSON
+chapter-013	352	1	Thou	PERSON
+chapter-013	352	2	Thou	PERSON
+chapter-013	353	1	Thy Spirit	PERSON
+chapter-013	353	2	Thee	PERSON
+chapter-013	353	3	Thou	PERSON
+chapter-013	355	1	Thou	PERSON
+chapter-013	355	2	Thy	PERSON
+chapter-013	355	3	Thou Thyself	PERSON
+chapter-013	357	1	Angel	PERSON
+chapter-013	357	2	Angel	ORG
+chapter-013	358	1	Angel	PERSON
+chapter-013	359	1	Thee	PERSON
+chapter-013	359	2	Thee	PERSON
+chapter-013	359	3	Thee	PERSON
+chapter-013	361	1	GRATIAS TIBI	ORG

@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_73	1	1	LXXIII	ORG
+shakespeare-sonnets_73	2	1	That time of year	DATE
+shakespeare-sonnets_73	2	2	Bare	PERSON
+shakespeare-sonnets_73	3	1	black night	TIME
+shakespeare-sonnets_73	3	2	Death	PERSON
+shakespeare-sonnets_73	3	3	second	ORDINAL
+shakespeare-sonnets_73	5	1	perceiv'st	ORG

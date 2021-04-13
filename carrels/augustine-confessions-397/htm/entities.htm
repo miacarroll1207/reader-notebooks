@@ -1,0 +1,589 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Named entities</li>
+		</ol>
+	</nav>
+
+
+<h1>Named entities</h1>
+<p>This is a table of named entities, their types, and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel. Please keep in mind that named-entity extraction is not as accurate as more generic parts-of-speech extraction. Unusual results will appear here.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>entity</th>
+                <th>type</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>thee</td><td>PERSON</td><td>848</td></tr>
+<tr><td>thou</td><td>PERSON</td><td>665</td></tr>
+<tr><td>thy</td><td>PERSON</td><td>162</td></tr>
+<tr><td>earth</td><td>LOC</td><td>151</td></tr>
+<tr><td>thou hast</td><td>PERSON</td><td>30</td></tr>
+<tr><td>truth</td><td>LOC</td><td>26</td></tr>
+<tr><td>alypius</td><td>PERSON</td><td>24</td></tr>
+<tr><td>thy word</td><td>PERSON</td><td>23</td></tr>
+<tr><td>thine</td><td>GPE</td><td>23</td></tr>
+<tr><td>thou wert</td><td>PERSON</td><td>21</td></tr>
+<tr><td>rome</td><td>GPE</td><td>20</td></tr>
+<tr><td>yea</td><td>PERSON</td><td>19</td></tr>
+<tr><td>thy spirit</td><td>PERSON</td><td>18</td></tr>
+<tr><td>thou madest</td><td>PERSON</td><td>18</td></tr>
+<tr><td>ye</td><td>PERSON</td><td>17</td></tr>
+<tr><td>thou knowest</td><td>PERSON</td><td>15</td></tr>
+<tr><td>god</td><td>PERSON</td><td>14</td></tr>
+<tr><td>creator</td><td>PERSON</td><td>14</td></tr>
+<tr><td>christ</td><td>ORG</td><td>14</td></tr>
+<tr><td>spirit</td><td>ORG</td><td>13</td></tr>
+<tr><td>nebridius</td><td>ORG</td><td>13</td></tr>
+<tr><td>thy church</td><td>ORG</td><td>11</td></tr>
+<tr><td>wisdom</td><td>ORG</td><td>8</td></tr>
+<tr><td>thou hadst</td><td>PERSON</td><td>8</td></tr>
+<tr><td>milan</td><td>GPE</td><td>8</td></tr>
+<tr><td>earth</td><td>LOC</td><td>8</td></tr>
+<tr><td>church</td><td>ORG</td><td>8</td></tr>
+<tr><td>thou seest</td><td>PERSON</td><td>7</td></tr>
+<tr><td>adam</td><td>PERSON</td><td>7</td></tr>
+<tr><td>faustus</td><td>ORG</td><td>7</td></tr>
+<tr><td>jesus christ</td><td>PERSON</td><td>7</td></tr>
+<tr><td>thy son</td><td>PERSON</td><td>7</td></tr>
+<tr><td>thy christ</td><td>ORG</td><td>7</td></tr>
+<tr><td>trinity</td><td>ORG</td><td>7</td></tr>
+<tr><td>moon</td><td>PERSON</td><td>7</td></tr>
+<tr><td>the holy ghost</td><td>ORG</td><td>7</td></tr>
+<tr><td>yea</td><td>ORG</td><td>6</td></tr>
+<tr><td>victorinus</td><td>GPE</td><td>6</td></tr>
+<tr><td>thy name</td><td>PERSON</td><td>6</td></tr>
+<tr><td>simplicianus</td><td>ORG</td><td>6</td></tr>
+<tr><td>lord</td><td>GPE</td><td>6</td></tr>
+<tr><td>jerusalem</td><td>GPE</td><td>6</td></tr>
+<tr><td>son</td><td>PERSON</td><td>5</td></tr>
+<tr><td>gospel</td><td>ORG</td><td>5</td></tr>
+<tr><td>holy ghost</td><td>PERSON</td><td>5</td></tr>
+<tr><td>light</td><td>PERSON</td><td>5</td></tr>
+<tr><td>manichaeus</td><td>PERSON</td><td>5</td></tr>
+<tr><td>thy book</td><td>PERSON</td><td>5</td></tr>
+<tr><td>thy scripture</td><td>PERSON</td><td>5</td></tr>
+<tr><td>thy truth</td><td>GPE</td><td>5</td></tr>
+<tr><td>thy wisdom</td><td>GPE</td><td>5</td></tr>
+<tr><td>the creator</td><td>PERSON</td><td>5</td></tr>
+<tr><td>manichees</td><td>ORG</td><td>4</td></tr>
+<tr><td>ambrose</td><td>PERSON</td><td>4</td></tr>
+<tr><td>angel</td><td>ORG</td><td>4</td></tr>
+<tr><td>apostle</td><td>ORG</td><td>4</td></tr>
+<tr><td>bridegroom</td><td>ORG</td><td>4</td></tr>
+<tr><td>david</td><td>PERSON</td><td>4</td></tr>
+<tr><td>jacob</td><td>PERSON</td><td>4</td></tr>
+<tr><td>jesus</td><td>PERSON</td><td>4</td></tr>
+<tr><td>gentiles</td><td>PERSON</td><td>4</td></tr>
+<tr><td>prophets</td><td>ORG</td><td>4</td></tr>
+<tr><td>thy scriptures</td><td>PERSON</td><td>4</td></tr>
+<tr><td>whom thou</td><td>PERSON</td><td>4</td></tr>
+<tr><td>verecundus</td><td>PERSON</td><td>4</td></tr>
+<tr><td>sacraments</td><td>ORG</td><td>4</td></tr>
+<tr><td>thou mayest</td><td>PERSON</td><td>4</td></tr>
+<tr><td>substance</td><td>ORG</td><td>4</td></tr>
+<tr><td>east</td><td>LOC</td><td>4</td></tr>
+<tr><td>africa</td><td>LOC</td><td>3</td></tr>
+<tr><td>antony</td><td>GPE</td><td>3</td></tr>
+<tr><td>ostia</td><td>PERSON</td><td>3</td></tr>
+<tr><td>catechumen</td><td>GPE</td><td>3</td></tr>
+<tr><td>comforter</td><td>PERSON</td><td>3</td></tr>
+<tr><td>dido</td><td>PERSON</td><td>3</td></tr>
+<tr><td>egypt</td><td>GPE</td><td>3</td></tr>
+<tr><td>esau</td><td>ORG</td><td>3</td></tr>
+<tr><td>eve</td><td>PERSON</td><td>3</td></tr>
+<tr><td>firminus</td><td>PERSON</td><td>3</td></tr>
+<tr><td>helper</td><td>ORG</td><td>3</td></tr>
+<tr><td>lo</td><td>PERSON</td><td>3</td></tr>
+<tr><td>manichee</td><td>PERSON</td><td>3</td></tr>
+<tr><td>behold</td><td>PERSON</td><td>3</td></tr>
+<tr><td>perchance</td><td>ORG</td><td>3</td></tr>
+<tr><td>thy sacrament</td><td>PERSON</td><td>3</td></tr>
+<tr><td>psalm</td><td>LOC</td><td>3</td></tr>
+<tr><td>wherein thou</td><td>PERSON</td><td>3</td></tr>
+<tr><td>wert thou</td><td>PERSON</td><td>3</td></tr>
+<tr><td>loveth</td><td>PERSON</td><td>3</td></tr>
+<tr><td>whom</td><td>PERSON</td><td>3</td></tr>
+<tr><td>fed</td><td>ORG</td><td>3</td></tr>
+<tr><td>thy grace</td><td>PERSON</td><td>3</td></tr>
+<tr><td>thy gift</td><td>PERSON</td><td>3</td></tr>
+<tr><td>thy catholic church</td><td>ORG</td><td>3</td></tr>
+<tr><td>thy apostle</td><td>PERSON</td><td>3</td></tr>
+<tr><td>ruler</td><td>PERSON</td><td>3</td></tr>
+<tr><td>law</td><td>PERSON</td><td>2</td></tr>
+<tr><td>hortensius</td><td>ORG</td><td>2</td></tr>
+<tr><td>isaac</td><td>PERSON</td><td>2</td></tr>
+<tr><td>israel</td><td>GPE</td><td>2</td></tr>
+<tr><td>juno</td><td>PERSON</td><td>2</td></tr>
+<tr><td>latins</td><td>PERSON</td><td>2</td></tr>
+<tr><td>physician</td><td>PERSON</td><td>2</td></tr>
+<tr><td>macedonia</td><td>GPE</td><td>2</td></tr>
+<tr><td>medea</td><td>PERSON</td><td>2</td></tr>
+<tr><td>moses</td><td>PERSON</td><td>2</td></tr>
+<tr><td>patricius</td><td>PERSON</td><td>2</td></tr>
+<tr><td>paul</td><td>PERSON</td><td>2</td></tr>
+<tr><td>his word</td><td>PERSON</td><td>2</td></tr>
+<tr><td>holy, holy, holy</td><td>ORG</td><td>2</td></tr>
+<tr><td>devil</td><td>PERSON</td><td>2</td></tr>
+<tr><td>himself</td><td>GPE</td><td>2</td></tr>
+<tr><td>guardian</td><td>ORG</td><td>2</td></tr>
+<tr><td>good</td><td>PERSON</td><td>2</td></tr>
+<tr><td>faith</td><td>PERSON</td><td>2</td></tr>
+<tr><td>euodius</td><td>ORG</td><td>2</td></tr>
+<tr><td>epicurus</td><td>PERSON</td><td>2</td></tr>
+<tr><td>confessions</td><td>GPE</td><td>2</td></tr>
+<tr><td>circus</td><td>LOC</td><td>2</td></tr>
+<tr><td>beginning</td><td>LOC</td><td>2</td></tr>
+<tr><td>babylon</td><td>ORG</td><td>2</td></tr>
+<tr><td>apostle paul</td><td>PERSON</td><td>2</td></tr>
+<tr><td>afric</td><td>ORG</td><td>2</td></tr>
+<tr><td>abraham</td><td>PERSON</td><td>2</td></tr>
+<tr><td>psalter</td><td>PERSON</td><td>2</td></tr>
+<tr><td>priest</td><td>LOC</td><td>2</td></tr>
+<tr><td>cicero</td><td>ORG</td><td>2</td></tr>
+<tr><td>run ye</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy unity</td><td>ORG</td><td>2</td></tr>
+<tr><td>saviour</td><td>GPE</td><td>2</td></tr>
+<tr><td>the church catholic</td><td>ORG</td><td>2</td></tr>
+<tr><td>loveth thee</td><td>PERSON</td><td>2</td></tr>
+<tr><td>lo</td><td>PERSON</td><td>2</td></tr>
+<tr><td>knoweth thee</td><td>PERSON</td><td>2</td></tr>
+<tr><td>judgeth</td><td>PERSON</td><td>2</td></tr>
+<tr><td>denieth</td><td>PERSON</td><td>2</td></tr>
+<tr><td>ye</td><td>PERSON</td><td>2</td></tr>
+<tr><td>willeth</td><td>PERSON</td><td>2</td></tr>
+<tr><td>virgin</td><td>PERSON</td><td>2</td></tr>
+<tr><td>victor</td><td>PERSON</td><td>2</td></tr>
+<tr><td>victim</td><td>ORG</td><td>2</td></tr>
+<tr><td>time</td><td>ORG</td><td>2</td></tr>
+<tr><td>thyself</td><td>GPE</td><td>2</td></tr>
+<tr><td>the man christ jesus</td><td>ORG</td><td>2</td></tr>
+<tr><td>thy substance</td><td>ORG</td><td>2</td></tr>
+<tr><td>thou gavest</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy sacraments</td><td>PERSON</td><td>2</td></tr>
+<tr><td>scripture</td><td>ORG</td><td>2</td></tr>
+<tr><td>strength</td><td>ORG</td><td>2</td></tr>
+<tr><td>sun</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thagaste</td><td>GPE</td><td>2</td></tr>
+<tr><td>thou art</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thou shouldest</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy altar</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy baptism</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy books</td><td>ORG</td><td>2</td></tr>
+<tr><td>thy creation</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy hymns</td><td>PERSON</td><td>2</td></tr>
+<tr><td>moses thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>o truth my light</td><td>ORG</td><td>1</td></tr>
+<tr><td>nebridius joy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>noah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>o christ jesus</td><td>ORG</td><td>1</td></tr>
+<tr><td>o righteousness and innocency</td><td>ORG</td><td>1</td></tr>
+<tr><td>prodigality</td><td>ORG</td><td>1</td></tr>
+<tr><td>onesiphorus</td><td>ORG</td><td>1</td></tr>
+<tr><td>paulus the proconsul</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pontitianus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>powers</td><td>ORG</td><td>1</td></tr>
+<tr><td>predicaments</td><td>ORG</td><td>1</td></tr>
+<tr><td>monnica thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>prophet</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pylades and orestes</td><td>ORG</td><td>1</td></tr>
+<tr><td>moon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lay</td><td>PERSON</td><td>1</td></tr>
+<tr><td>minerva</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jove</td><td>PERSON</td><td>1</td></tr>
+<tr><td>isaiah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>italy</td><td>GPE</td><td>1</td></tr>
+<tr><td>rhetoric</td><td>GPE</td><td>1</td></tr>
+<tr><td>jew</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jordan</td><td>GPE</td><td>1</td></tr>
+<tr><td>joseph</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jupiter</td><td>LOC</td><td>1</td></tr>
+<tr><td>mars</td><td>LOC</td><td>1</td></tr>
+<tr><td>justina</td><td>GPE</td><td>1</td></tr>
+<tr><td>knoweth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>latinum</td><td>ORG</td><td>1</td></tr>
+<tr><td>light?--unto thee</td><td>PERSON</td><td>1</td></tr>
+<tr><td>love</td><td>PERSON</td><td>1</td></tr>
+<tr><td>madaura</td><td>PERSON</td><td>1</td></tr>
+<tr><td>redeemer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thee god</td><td>PERSON</td><td>1</td></tr>
+<tr><td>romanianus</td><td>LOC</td><td>1</td></tr>
+<tr><td>thessalonica</td><td>GPE</td><td>1</td></tr>
+<tr><td>thou beauty of ancient days</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou god</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou good</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou light</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou omnipotent</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou power</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou thyself</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou aloud</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou begannest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou blamest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou carry</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou chosen</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou cleansest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou commandest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thine image</td><td>ORG</td><td>1</td></tr>
+<tr><td>thee thyself</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sacraments of thy church</td><td>ORG</td><td>1</td></tr>
+<tr><td>thee thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sacrifice</td><td>GPE</td><td>1</td></tr>
+<tr><td>saturn</td><td>ORG</td><td>1</td></tr>
+<tr><td>saul</td><td>PERSON</td><td>1</td></tr>
+<tr><td>saviour jesus christ</td><td>ORG</td><td>1</td></tr>
+<tr><td>saviour thy son</td><td>PERSON</td><td>1</td></tr>
+<tr><td>seneca</td><td>PERSON</td><td>1</td></tr>
+<tr><td>seraphim</td><td>GPE</td><td>1</td></tr>
+<tr><td>shall</td><td>ORG</td><td>1</td></tr>
+<tr><td>sodom</td><td>ORG</td><td>1</td></tr>
+<tr><td>solomon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>speak thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the coeternal</td><td>ORG</td><td>1</td></tr>
+<tr><td>increase</td><td>ORG</td><td>1</td></tr>
+<tr><td>thee priest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thee thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>infinite</td><td>PERSON</td><td>1</td></tr>
+<tr><td>greeks</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hymns</td><td>PERSON</td><td>1</td></tr>
+<tr><td>divine</td><td>PERSON</td><td>1</td></tr>
+<tr><td>canticles</td><td>ORG</td><td>1</td></tr>
+<tr><td>cassiacum</td><td>PERSON</td><td>1</td></tr>
+<tr><td>catiline</td><td>ORG</td><td>1</td></tr>
+<tr><td>cherubim</td><td>ORG</td><td>1</td></tr>
+<tr><td>church catholic</td><td>PERSON</td><td>1</td></tr>
+<tr><td>churches</td><td>ORG</td><td>1</td></tr>
+<tr><td>continence</td><td>PERSON</td><td>1</td></tr>
+<tr><td>continency</td><td>GPE</td><td>1</td></tr>
+<tr><td>couldest thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>court</td><td>ORG</td><td>1</td></tr>
+<tr><td>cross</td><td>ORG</td><td>1</td></tr>
+<tr><td>danae</td><td>GPE</td><td>1</td></tr>
+<tr><td>desire</td><td>PERSON</td><td>1</td></tr>
+<tr><td>deus creator</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dispenser</td><td>PERSON</td><td>1</td></tr>
+<tr><td>caesar</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bridegroom thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bride</td><td>PERSON</td><td>1</td></tr>
+<tr><td>anon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou draw</td><td>PERSON</td><td>1</td></tr>
+<tr><td>aeneas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>alas</td><td>ORG</td><td>1</td></tr>
+<tr><td>alypius a catechumen</td><td>ORG</td><td>1</td></tr>
+<tr><td>angel of</td><td>LOC</td><td>1</td></tr>
+<tr><td>angels</td><td>ORG</td><td>1</td></tr>
+<tr><td>anubis</td><td>GPE</td><td>1</td></tr>
+<tr><td>bishop of alexandria</td><td>ORG</td><td>1</td></tr>
+<tr><td>apostolic scripture</td><td>PERSON</td><td>1</td></tr>
+<tr><td>athanasius</td><td>PERSON</td><td>1</td></tr>
+<tr><td>awake</td><td>PERSON</td><td>1</td></tr>
+<tr><td>book xi lord</td><td>PERSON</td><td>1</td></tr>
+<tr><td>beauty</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bishop thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>disposer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>divinity</td><td>LOC</td><td>1</td></tr>
+<tr><td>husband</td><td>ORG</td><td>1</td></tr>
+<tr><td>dost thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>great</td><td>PERSON</td><td>1</td></tr>
+<tr><td>great jove</td><td>PERSON</td><td>1</td></tr>
+<tr><td>grecian</td><td>GPE</td><td>1</td></tr>
+<tr><td>hearken</td><td>ORG</td><td>1</td></tr>
+<tr><td>helpidius</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hereupon</td><td>GPE</td><td>1</td></tr>
+<tr><td>hierius</td><td>ORG</td><td>1</td></tr>
+<tr><td>him</td><td>PERSON</td><td>1</td></tr>
+<tr><td>his christ</td><td>ORG</td><td>1</td></tr>
+<tr><td>his church</td><td>ORG</td><td>1</td></tr>
+<tr><td>his cross</td><td>ORG</td><td>1</td></tr>
+<tr><td>holy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>holy writ</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hosts</td><td>ORG</td><td>1</td></tr>
+<tr><td>humble</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gods</td><td>ORG</td><td>1</td></tr>
+<tr><td>gervasius</td><td>PERSON</td><td>1</td></tr>
+<tr><td>genesis</td><td>GPE</td><td>1</td></tr>
+<tr><td>ergo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>drunkard</td><td>ORG</td><td>1</td></tr>
+<tr><td>eat ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>elijah</td><td>ORG</td><td>1</td></tr>
+<tr><td>empress</td><td>ORG</td><td>1</td></tr>
+<tr><td>entrust truth</td><td>ORG</td><td>1</td></tr>
+<tr><td>episcopal</td><td>GPE</td><td>1</td></tr>
+<tr><td>essence and life</td><td>ORG</td><td>1</td></tr>
+<tr><td>gratias tibi</td><td>ORG</td><td>1</td></tr>
+<tr><td>evangelists</td><td>ORG</td><td>1</td></tr>
+<tr><td>faithful</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fame</td><td>ORG</td><td>1</td></tr>
+<tr><td>fish</td><td>PERSON</td><td>1</td></tr>
+<tr><td>form</td><td>ORG</td><td>1</td></tr>
+<tr><td>forthwith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou discoverest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>burthen</td><td>GPE</td><td>1</td></tr>
+<tr><td>thou fairest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the emperor valentinian</td><td>ORG</td><td>1</td></tr>
+<tr><td>only.-if</td><td>ORG</td><td>1</td></tr>
+<tr><td>reposeth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rob another''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sigheth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sin therein</td><td>PERSON</td><td>1</td></tr>
+<tr><td>spake,--even</td><td>PERSON</td><td>1</td></tr>
+<tr><td>standeth</td><td>LOC</td><td>1</td></tr>
+<tr><td>sun</td><td>PERSON</td><td>1</td></tr>
+<tr><td>supreme authority</td><td>ORG</td><td>1</td></tr>
+<tr><td>the ambrosian basilica</td><td>LOC</td><td>1</td></tr>
+<tr><td>the bridal city</td><td>GPE</td><td>1</td></tr>
+<tr><td>the catholic church</td><td>ORG</td><td>1</td></tr>
+<tr><td>the church of christ</td><td>ORG</td><td>1</td></tr>
+<tr><td>the church of milan</td><td>ORG</td><td>1</td></tr>
+<tr><td>the divine books</td><td>ORG</td><td>1</td></tr>
+<tr><td>neglecteth thee</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nay</td><td>ORG</td><td>1</td></tr>
+<tr><td>men:--thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>enacteth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>all offices of thy ministry</td><td>ORG</td><td>1</td></tr>
+<tr><td>approveth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>contemplateth</td><td>ORG</td><td>1</td></tr>
+<tr><td>discovereth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dispenser</td><td>PERSON</td><td>1</td></tr>
+<tr><td>east to east</td><td>LOC</td><td>1</td></tr>
+<tr><td>facio</td><td>GPE</td><td>1</td></tr>
+<tr><td>lieth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>factito</td><td>GPE</td><td>1</td></tr>
+<tr><td>forsaken,--thou</td><td>GPE</td><td>1</td></tr>
+<tr><td>i.e.</td><td>GPE</td><td>1</td></tr>
+<tr><td>joy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>kindled</td><td>PERSON</td><td>1</td></tr>
+<tr><td>knoweth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the eastern churches</td><td>ORG</td><td>1</td></tr>
+<tr><td>the eternal truth</td><td>ORG</td><td>1</td></tr>
+<tr><td>writ</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the grammar school</td><td>ORG</td><td>1</td></tr>
+<tr><td>wantonness</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ways express</td><td>ORG</td><td>1</td></tr>
+<tr><td>wert infinite</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whereat rejoicest thou</td><td>ORG</td><td>1</td></tr>
+<tr><td>whereby thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wherein</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wherein ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whereof</td><td>ORG</td><td>1</td></tr>
+<tr><td>whereon feedest thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye holy fires</td><td>LOC</td><td>1</td></tr>
+<tr><td>ye shall</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye sons</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye stolen</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye transgressors</td><td>ORG</td><td>1</td></tr>
+<tr><td>yea thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>us</td><td>GPE</td><td>1</td></tr>
+<tr><td>true,--what</td><td>ORG</td><td>1</td></tr>
+<tr><td>thou wert</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the unity of the trinity</td><td>ORG</td><td>1</td></tr>
+<tr><td>the holy spirit</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the incarnation of thy son</td><td>ORG</td><td>1</td></tr>
+<tr><td>the man of thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the psalmody of thy church</td><td>ORG</td><td>1</td></tr>
+<tr><td>the roman forum</td><td>LOC</td><td>1</td></tr>
+<tr><td>the trinity of the unity</td><td>ORG</td><td>1</td></tr>
+<tr><td>the virgin mary</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou incomprehensible inveigler</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the fruitful earth</td><td>LOC</td><td>1</td></tr>
+<tr><td>the heavens, sun</td><td>ORG</td><td>1</td></tr>
+<tr><td>the ministry of mortal men</td><td>ORG</td><td>1</td></tr>
+<tr><td>the ministry of the outer</td><td>ORG</td><td>1</td></tr>
+<tr><td>thee withal</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>agito</td><td>GPE</td><td>1</td></tr>
+<tr><td>word</td><td>GPE</td><td>1</td></tr>
+<tr><td>thou hast begun</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy holy spirit</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy ambrose</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy apostles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy bible</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy blessedness</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy commandment</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy essence knoweth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy eternal word</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy eternity</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy evangelists</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy faith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy god</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy gospel</td><td>ORG</td><td>1</td></tr>
+<tr><td>thy highness</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy holy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy holy one</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thrones, dominions, principalities</td><td>ORG</td><td>1</td></tr>
+<tr><td>thou wouldest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou the creator of the universe</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou meanest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou hearest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou heldest thy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou justifieth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou knewest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou lovest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou mayest owe</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou mightest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou soundedst</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou pitiest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou placedst</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou sawest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou shalt</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou shinest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou shouldest examine</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy holy scripture</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy image</td><td>ORG</td><td>1</td></tr>
+<tr><td>wills</td><td>ORG</td><td>1</td></tr>
+<tr><td>thy knowledge</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy meek</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tobias</td><td>PERSON</td><td>1</td></tr>
+<tr><td>treasury</td><td>ORG</td><td>1</td></tr>
+<tr><td>trine unity</td><td>ORG</td><td>1</td></tr>
+<tr><td>trojan</td><td>GPE</td><td>1</td></tr>
+<tr><td>troy</td><td>GPE</td><td>1</td></tr>
+<tr><td>trust</td><td>PERSON</td><td>1</td></tr>
+<tr><td>truth itself</td><td>GPE</td><td>1</td></tr>
+<tr><td>tully''s orations</td><td>ORG</td><td>1</td></tr>
+<tr><td>unity,--who</td><td>ORG</td><td>1</td></tr>
+<tr><td>universe</td><td>ORG</td><td>1</td></tr>
+<tr><td>venus</td><td>LOC</td><td>1</td></tr>
+<tr><td>verily thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>vindicianus</td><td>ORG</td><td>1</td></tr>
+<tr><td>wherefore thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy kingdom</td><td>GPE</td><td>1</td></tr>
+<tr><td>thy easy yoke</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy city</td><td>GPE</td><td>1</td></tr>
+<tr><td>thy paul</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy mediator</td><td>ORG</td><td>1</td></tr>
+<tr><td>thy name''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy nod</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy omnipotency</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy only begotten</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy paradise</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy power</td><td>ORG</td><td>1</td></tr>
+<tr><td>thy beams</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy prelate</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy prophets</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy ten commandments</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy to-day</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy will</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy wisdom thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>adeodatus</td><td>ORG</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,298 @@
+id	sid	eid	entity	type
+chapter-007	1	1	years	DATE
+chapter-007	2	1	Thee	PERSON
+chapter-007	2	2	Thy Catholic Church	ORG
+chapter-007	3	1	Thee	PERSON
+chapter-007	4	1	Thee	PERSON
+chapter-007	4	2	Thou wert	PERSON
+chapter-007	5	1	one	CARDINAL
+chapter-007	6	1	Thee	PERSON
+chapter-007	10	1	Thee, Life of my life	WORK_OF_ART
+chapter-007	10	2	Thee	PERSON
+chapter-007	10	3	Thee	PERSON
+chapter-007	10	4	Thee	PERSON
+chapter-007	10	5	Thee	PERSON
+chapter-007	10	6	Thou	PERSON
+chapter-007	11	1	earth	LOC
+chapter-007	11	2	earth	LOC
+chapter-007	11	3	Thee	PERSON
+chapter-007	11	4	Thy	PERSON
+chapter-007	11	5	Thou	PERSON
+chapter-007	13	1	earth	LOC
+chapter-007	13	2	Thee	PERSON
+chapter-007	13	3	Thee	PERSON
+chapter-007	13	4	Thee	PERSON
+chapter-007	13	5	Thou	PERSON
+chapter-007	15	1	Thou	PERSON
+chapter-007	16	1	Nebridius	ORG
+chapter-007	16	2	Thee	PERSON
+chapter-007	16	3	Thee	PERSON
+chapter-007	17	1	Thee	PERSON
+chapter-007	17	2	Thou	PERSON
+chapter-007	17	3	Thee	PERSON
+chapter-007	17	4	Thee	PERSON
+chapter-007	17	5	Thee	PERSON
+chapter-007	17	6	Thy Substance	ORG
+chapter-007	17	7	Thy Word	PERSON
+chapter-007	17	8	one	CARDINAL
+chapter-007	17	9	Substance	GPE
+chapter-007	18	1	Thee	PERSON
+chapter-007	18	2	Thy Substance	PERSON
+chapter-007	19	1	Nebridius	ORG
+chapter-007	19	2	Thee	PERSON
+chapter-007	20	1	Thou	PERSON
+chapter-007	22	1	Thy	PERSON
+chapter-007	27	1	Thee	PERSON
+chapter-007	33	1	Creator	PERSON
+chapter-007	34	1	Thee	PERSON
+chapter-007	34	2	Thou	PERSON
+chapter-007	35	1	Thee	PERSON
+chapter-007	35	2	Thou wert	PERSON
+chapter-007	36	1	Thou	PERSON
+chapter-007	37	1	wert Thou	PERSON
+chapter-007	38	1	Thee	PERSON
+chapter-007	40	1	Thou	PERSON
+chapter-007	40	2	Thy	PERSON
+chapter-007	40	3	Thy	PERSON
+chapter-007	40	4	Thy	PERSON
+chapter-007	43	1	Thee	PERSON
+chapter-007	44	1	Thou knowest	PERSON
+chapter-007	47	1	earth	LOC
+chapter-007	47	2	yea	ORG
+chapter-007	48	1	one	CARDINAL
+chapter-007	50	1	Thee	PERSON
+chapter-007	50	2	one	CARDINAL
+chapter-007	50	3	Thee	PERSON
+chapter-007	50	4	Infinite	PERSON
+chapter-007	56	1	Yea	PERSON
+chapter-007	60	1	Creator	PERSON
+chapter-007	71	1	Thy Christ	PERSON
+chapter-007	71	2	Saviour	GPE
+chapter-007	71	3	the Church Catholic	ORG
+chapter-007	71	4	daily	DATE
+chapter-007	73	1	Thee	PERSON
+chapter-007	74	1	Thou	PERSON
+chapter-007	74	2	Thou	PERSON
+chapter-007	74	3	Wisdom	ORG
+chapter-007	75	1	Vindicianus	ORG
+chapter-007	75	2	Nebridius	ORG
+chapter-007	75	3	first	ORDINAL
+chapter-007	77	1	Firminus	WORK_OF_ART
+chapter-007	77	2	Rhetoric	GPE
+chapter-007	77	3	one	CARDINAL
+chapter-007	77	4	Nebridius	ORG
+chapter-007	79	1	Firminus	WORK_OF_ART
+chapter-007	80	1	days	DATE
+chapter-007	80	2	nay	ORG
+chapter-007	82	1	Firminus	PERSON
+chapter-007	82	2	Firminus	PERSON
+chapter-007	83	1	one	CARDINAL
+chapter-007	83	2	first	ORDINAL
+chapter-007	83	3	Firminus	WORK_OF_ART
+chapter-007	86	1	Firminus	PERSON
+chapter-007	86	2	one	CARDINAL
+chapter-007	87	1	Esau	ORG
+chapter-007	87	2	Jacob	PERSON
+chapter-007	90	1	Thou	PERSON
+chapter-007	90	2	Ruler	PERSON
+chapter-007	93	1	Helper	ORG
+chapter-007	94	1	Faith	PERSON
+chapter-007	94	2	Thee	PERSON
+chapter-007	94	3	Thou	PERSON
+chapter-007	94	4	Christ	GPE
+chapter-007	94	5	Thy Son	PERSON
+chapter-007	94	6	Thy Catholic Church	ORG
+chapter-007	94	7	Thou hadst	PERSON
+chapter-007	97	1	Thine	WORK_OF_ART
+chapter-007	101	1	Thee	PERSON
+chapter-007	102	1	Thee	PERSON
+chapter-007	102	2	Thou	PERSON
+chapter-007	102	3	Thee	PERSON
+chapter-007	102	4	Thou hadst	PERSON
+chapter-007	102	5	Thou	PERSON
+chapter-007	103	1	Thy Image	ORG
+chapter-007	103	2	Thee	PERSON
+chapter-007	104	1	Thee	PERSON
+chapter-007	105	1	Thee	PERSON
+chapter-007	106	1	Thou	PERSON
+chapter-007	106	2	Thee	PERSON
+chapter-007	107	1	Thou	PERSON
+chapter-007	107	2	Lord	GPE
+chapter-007	107	3	Thou	PERSON
+chapter-007	107	4	Thou	PERSON
+chapter-007	107	5	Thy	PERSON
+chapter-007	107	6	Thou	PERSON
+chapter-007	107	7	Thou wert	PERSON
+chapter-007	108	1	from day to day	DATE
+chapter-007	109	1	Thou	PERSON
+chapter-007	109	2	first	ORDINAL
+chapter-007	109	3	Thou	PERSON
+chapter-007	109	4	Thy	PERSON
+chapter-007	109	5	Thou	PERSON
+chapter-007	109	6	Thy Word	PERSON
+chapter-007	109	7	men:--Thou	PERSON
+chapter-007	109	8	one	CARDINAL
+chapter-007	109	9	Greek	NORP
+chapter-007	109	10	Latin	NORP
+chapter-007	116	1	Son	PERSON
+chapter-007	117	1	Jesus	PERSON
+chapter-007	117	2	earth	LOC
+chapter-007	117	3	earth	LOC
+chapter-007	117	4	Jesus Christ	PERSON
+chapter-007	118	1	Thy Only-Begotten Son	FAC
+chapter-007	118	2	Thee	PERSON
+chapter-007	119	1	Thou	PERSON
+chapter-007	119	2	Thine Only Son	WORK_OF_ART
+chapter-007	120	1	Thou	PERSON
+chapter-007	123	1	Egyptian	NORP
+chapter-007	123	2	Esau	ORG
+chapter-007	123	3	Thy	PERSON
+chapter-007	123	4	first	ORDINAL
+chapter-007	123	5	four	CARDINAL
+chapter-007	123	6	Thee	PERSON
+chapter-007	123	7	Egypt	GPE
+chapter-007	125	1	Thee	PERSON
+chapter-007	125	2	Jacob	PERSON
+chapter-007	125	3	Thou	PERSON
+chapter-007	125	4	Gentiles	PERSON
+chapter-007	125	5	Thine	NORP
+chapter-007	126	1	Thee	PERSON
+chapter-007	126	2	Gentiles	PERSON
+chapter-007	126	3	Thou	PERSON
+chapter-007	126	4	Thy	PERSON
+chapter-007	126	5	Egypt	GPE
+chapter-007	126	6	Thine	GPE
+chapter-007	127	1	Athenians	NORP
+chapter-007	127	2	Thou	PERSON
+chapter-007	127	3	Thy Apostle	ORG
+chapter-007	127	4	Thee	PERSON
+chapter-007	129	1	Egypt	GPE
+chapter-007	130	1	Thou	PERSON
+chapter-007	130	2	Thou	PERSON
+chapter-007	130	3	Helper	ORG
+chapter-007	131	1	the Light Unchangeable	PRODUCT
+chapter-007	135	1	Truth	LOC
+chapter-007	135	2	Light	ORG
+chapter-007	140	1	Thee	PERSON
+chapter-007	141	1	Thee	PERSON
+chapter-007	141	2	first	ORDINAL
+chapter-007	142	1	Thou	PERSON
+chapter-007	142	2	Thy beams	PERSON
+chapter-007	142	3	Thee	PERSON
+chapter-007	142	4	Me	PRODUCT
+chapter-007	143	1	Thou	PERSON
+chapter-007	143	2	Thou madest	PERSON
+chapter-007	145	1	Thou	PERSON
+chapter-007	146	1	Truth	LOC
+chapter-007	147	1	Thee	PERSON
+chapter-007	147	2	Thee	PERSON
+chapter-007	147	3	Thou	PERSON
+chapter-007	149	1	Himself	GPE
+chapter-007	150	1	Thou	PERSON
+chapter-007	150	2	Thou	PERSON
+chapter-007	161	1	Thou	PERSON
+chapter-007	161	2	Thou madest	PERSON
+chapter-007	161	3	Thou	PERSON
+chapter-007	162	1	Thee	PERSON
+chapter-007	162	2	yea	PERSON
+chapter-007	162	3	Thee	PERSON
+chapter-007	162	4	Thou hast	PERSON
+chapter-007	164	1	Earth	LOC
+chapter-007	165	1	Thee	PERSON
+chapter-007	165	2	Thou	PERSON
+chapter-007	165	3	earth	LOC
+chapter-007	165	4	earth	LOC
+chapter-007	165	5	earth	LOC
+chapter-007	165	6	Thy Name	PERSON
+chapter-007	166	1	Thee	PERSON
+chapter-007	166	2	Thee	PERSON
+chapter-007	166	3	Thy	PERSON
+chapter-007	166	4	moon	PERSON
+chapter-007	166	5	Thy Name	PERSON
+chapter-007	168	1	Thine	NORP
+chapter-007	169	1	two	CARDINAL
+chapter-007	170	1	Thee	PERSON
+chapter-007	170	2	Thee	PERSON
+chapter-007	171	1	Thou	PERSON
+chapter-007	171	2	Thee	PERSON
+chapter-007	171	3	Thee	PERSON
+chapter-007	172	1	Thee	PERSON
+chapter-007	172	2	Thee	PERSON
+chapter-007	172	3	Thou	PERSON
+chapter-007	172	4	Thine	GPE
+chapter-007	172	5	Thy Truth	GPE
+chapter-007	174	1	Thou	PERSON
+chapter-007	174	2	Thee	PERSON
+chapter-007	175	1	one	CARDINAL
+chapter-007	176	1	Thy Creation	PERSON
+chapter-007	176	2	Thee	PERSON
+chapter-007	176	3	Thee	PERSON
+chapter-007	177	1	Thee	PERSON
+chapter-007	178	1	Thee	PERSON
+chapter-007	178	2	Thee	PERSON
+chapter-007	179	1	Thee	PERSON
+chapter-007	179	2	Thy	PERSON
+chapter-007	179	3	Thee	PERSON
+chapter-007	181	1	Thee	PERSON
+chapter-007	181	2	One	CARDINAL
+chapter-007	181	3	Thee	PERSON
+chapter-007	181	4	museth	ORDINAL
+chapter-007	182	1	Thy	PERSON
+chapter-007	186	1	one	CARDINAL
+chapter-007	189	1	Thee	PERSON
+chapter-007	189	2	the Man Christ Jesus	ORG
+chapter-007	190	1	Thy	PERSON
+chapter-007	190	2	whereby Thou	PERSON
+chapter-007	191	1	Jesus Christ	PERSON
+chapter-007	191	2	Humble	PERSON
+chapter-007	192	1	Thy Word	PERSON
+chapter-007	192	2	the Eternal Truth	ORG
+chapter-007	192	3	Thy Creation	PERSON
+chapter-007	192	4	Divinity	LOC
+chapter-007	193	1	Virgin	GPE
+chapter-007	193	2	Divine	PERSON
+chapter-007	194	1	The Word	WORK_OF_ART
+chapter-007	195	1	Thy Word	ORG
+chapter-007	196	1	Thy Word	PERSON
+chapter-007	199	1	Christ	ORG
+chapter-007	200	1	Alypius	PERSON
+chapter-007	200	2	Catholics	NORP
+chapter-007	200	3	Christ	GPE
+chapter-007	201	1	Christian	NORP
+chapter-007	202	1	Apollinarian	NORP
+chapter-007	202	2	Catholic	NORP
+chapter-007	203	1	Catholic	NORP
+chapter-007	204	1	Thy Church	ORG
+chapter-007	206	1	Thou wert	PERSON
+chapter-007	206	2	wert infinite	PERSON
+chapter-007	206	3	Thou	PERSON
+chapter-007	206	4	Thee	PERSON
+chapter-007	207	1	Thee	PERSON
+chapter-007	208	1	Christ	GPE
+chapter-007	208	2	Saviour	GPE
+chapter-007	210	1	Jesus	PERSON
+chapter-007	212	1	Thou	PERSON
+chapter-007	212	2	Thy Scriptures	PERSON
+chapter-007	212	3	Thy	PERSON
+chapter-007	213	1	first	ORDINAL
+chapter-007	213	2	Thy Holy Scriptures	WORK_OF_ART
+chapter-007	214	1	Thy Spirit	PERSON
+chapter-007	214	2	Apostle Paul	PERSON
+chapter-007	215	1	Prophets	ORG
+chapter-007	217	1	Thy Grace	PERSON
+chapter-007	218	1	Thee	PERSON
+chapter-007	218	2	Thee	PERSON
+chapter-007	218	3	Thee	PERSON
+chapter-007	220	1	Thou	PERSON
+chapter-007	220	2	Thy	PERSON
+chapter-007	220	3	Thy	PERSON
+chapter-007	222	1	Thy Grace	PERSON
+chapter-007	222	2	Jesus Christ	PERSON
+chapter-007	222	3	Thou	PERSON
+chapter-007	224	1	the Bridal City	GPE
+chapter-007	224	2	the Holy Ghost	ORG
+chapter-007	224	3	the Cup of our Redemption	EVENT
+chapter-007	225	1	Shall	ORG
+chapter-007	229	1	Thou	PERSON
+chapter-007	230	1	one	CARDINAL
+chapter-007	231	1	Thy Apostles	PERSON

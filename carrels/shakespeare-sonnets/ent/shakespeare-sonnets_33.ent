@@ -1,0 +1,8 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_33	1	1	XXXIII	ORG
+shakespeare-sonnets_33	2	1	morning	TIME
+shakespeare-sonnets_33	2	2	morning	TIME
+shakespeare-sonnets_33	2	3	Kissing	GPE
+shakespeare-sonnets_33	2	4	Anon	PERSON
+shakespeare-sonnets_33	4	1	one hour	TIME
+shakespeare-sonnets_33	5	1	Suns	ORG

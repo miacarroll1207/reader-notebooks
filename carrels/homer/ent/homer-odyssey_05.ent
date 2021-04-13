@@ -1,0 +1,142 @@
+id	sid	eid	entity	type
+homer-odyssey_05	2	1	Dawn	PERSON
+homer-odyssey_05	3	1	Thereon Minerva	PERSON
+homer-odyssey_05	3	2	Ulysses	GPE
+homer-odyssey_05	3	3	Calypso	ORG
+homer-odyssey_05	4	1	Jove	PERSON
+homer-odyssey_05	5	1	Ulysses	ORG
+homer-odyssey_05	6	1	Calypso	ORG
+homer-odyssey_05	7	1	Telemachus	PERSON
+homer-odyssey_05	7	2	Pylos	PERSON
+homer-odyssey_05	7	3	Lacedaemon	PERSON
+homer-odyssey_05	11	1	Mercury	ORG
+homer-odyssey_05	11	2	Mercury	ORG
+homer-odyssey_05	11	3	Calypso	ORG
+homer-odyssey_05	11	4	Ulysses	ORG
+homer-odyssey_05	12	1	twenty days	DATE
+homer-odyssey_05	12	2	Scheria	GPE
+homer-odyssey_05	12	3	Phaeacians	NORP
+homer-odyssey_05	13	1	Troy	GPE
+homer-odyssey_05	15	1	Mercury	ORG
+homer-odyssey_05	15	2	Argus	GPE
+homer-odyssey_05	16	1	Forthwith	PERSON
+homer-odyssey_05	17	1	Pieria	PERSON
+homer-odyssey_05	18	1	Calypso	ORG
+homer-odyssey_05	23	1	four	CARDINAL
+homer-odyssey_05	24	1	Mercury	ORG
+homer-odyssey_05	26	1	Mercury	ORG
+homer-odyssey_05	26	2	Mercury	ORG
+homer-odyssey_05	28	1	Mercury	ORG
+homer-odyssey_05	31	1	nine years	DATE
+homer-odyssey_05	31	2	Priam	PERSON
+homer-odyssey_05	31	3	the tenth year	DATE
+homer-odyssey_05	32	1	Minerva	ORG
+homer-odyssey_05	33	1	Jove	ORG
+homer-odyssey_05	36	1	Dawn	PERSON
+homer-odyssey_05	36	2	Diana	PERSON
+homer-odyssey_05	36	3	Ortygia	GPE
+homer-odyssey_05	37	1	Ceres	ORG
+homer-odyssey_05	39	1	Jove	PERSON
+homer-odyssey_05	40	1	all his days	DATE
+homer-odyssey_05	40	2	Jove	PERSON
+homer-odyssey_05	42	1	Mercury	ORG
+homer-odyssey_05	43	1	Calypso	ORG
+homer-odyssey_05	43	2	Ulysses	ORG
+homer-odyssey_05	43	3	Jove	PERSON
+homer-odyssey_05	44	1	Calypso	ORG
+homer-odyssey_05	45	1	the day time	DATE
+homer-odyssey_05	52	1	first	ORDINAL
+homer-odyssey_05	56	1	Ulysses	ORG
+homer-odyssey_05	56	2	Calypso	ORG
+homer-odyssey_05	56	3	Ulysses	ORG
+homer-odyssey_05	56	4	Mercury	ORG
+homer-odyssey_05	58	1	Calypso	ORG
+homer-odyssey_05	58	2	Laertes	ORG
+homer-odyssey_05	60	1	Ulysses	ORG
+homer-odyssey_05	61	1	Penelope	PERSON
+homer-odyssey_05	67	1	morning	TIME
+homer-odyssey_05	67	2	Dawn	PERSON
+homer-odyssey_05	71	1	Calypso	ORG
+homer-odyssey_05	72	1	twenty	CARDINAL
+homer-odyssey_05	77	1	Calypso	ORG
+homer-odyssey_05	79	1	four days	DATE
+homer-odyssey_05	79	2	fifth	ORDINAL
+homer-odyssey_05	82	1	Bootes	PERSON
+homer-odyssey_05	82	2	Bear	ORG
+homer-odyssey_05	82	3	Oceanus	ORG
+homer-odyssey_05	82	4	Calypso	ORG
+homer-odyssey_05	83	1	Days seven and ten	DATE
+homer-odyssey_05	83	2	eighteenth	ORDINAL
+homer-odyssey_05	83	3	dim	ORG
+homer-odyssey_05	83	4	Phaeacian	NORP
+homer-odyssey_05	84	1	King Neptune	ORG
+homer-odyssey_05	84	2	Ethiopians	NORP
+homer-odyssey_05	84	3	Ulysses	GPE
+homer-odyssey_05	84	4	Solymi	PRODUCT
+homer-odyssey_05	85	1	Ulysses	GPE
+homer-odyssey_05	85	2	Ethiopia	GPE
+homer-odyssey_05	85	3	Phaeacians	NORP
+homer-odyssey_05	87	1	Thereon	ORG
+homer-odyssey_05	87	2	earth	LOC
+homer-odyssey_05	88	1	East	GPE
+homer-odyssey_05	88	2	South	GPE
+homer-odyssey_05	88	3	North	GPE
+homer-odyssey_05	88	4	West	LOC
+homer-odyssey_05	88	5	Ulysses	GPE
+homer-odyssey_05	90	1	Calypso	PERSON
+homer-odyssey_05	92	1	every quarter	DATE
+homer-odyssey_05	94	1	Danaans	NORP
+homer-odyssey_05	94	2	Atreus	PERSON
+homer-odyssey_05	95	1	the day	DATE
+homer-odyssey_05	95	2	Trojans	NORP
+homer-odyssey_05	95	3	Achilles	PERSON
+homer-odyssey_05	95	4	Achaeans	NORP
+homer-odyssey_05	97	1	half	CARDINAL
+homer-odyssey_05	98	1	Ulysses	GPE
+homer-odyssey_05	98	2	Calypso	ORG
+homer-odyssey_05	100	1	Autumn	DATE
+homer-odyssey_05	101	1	South	LOC
+homer-odyssey_05	101	2	North	GPE
+homer-odyssey_05	101	3	East	LOC
+homer-odyssey_05	101	4	West	LOC
+homer-odyssey_05	102	1	Ino	PERSON
+homer-odyssey_05	102	2	Cadmus	GPE
+homer-odyssey_05	102	3	Leucothea	PERSON
+homer-odyssey_05	105	1	Neptune	ORG
+homer-odyssey_05	107	1	Phaeacian	NORP
+homer-odyssey_05	113	1	only some one	CARDINAL
+homer-odyssey_05	116	1	two	CARDINAL
+homer-odyssey_05	116	2	Neptune	ORG
+homer-odyssey_05	117	1	one	CARDINAL
+homer-odyssey_05	117	2	Calypso	ORG
+homer-odyssey_05	117	3	Ino	ORG
+homer-odyssey_05	118	1	King Neptune	ORG
+homer-odyssey_05	121	1	Minerva	PERSON
+homer-odyssey_05	121	2	Ulysses	GPE
+homer-odyssey_05	121	3	North	LOC
+homer-odyssey_05	121	4	Ulysses	GPE
+homer-odyssey_05	121	5	Phaeacians	NORP
+homer-odyssey_05	122	1	Thereon	ORG
+homer-odyssey_05	122	2	two nights and two days	DATE
+homer-odyssey_05	122	3	the third day	DATE
+homer-odyssey_05	127	1	Alas, Jove	WORK_OF_ART
+homer-odyssey_05	129	1	Amphitrite	PRODUCT
+homer-odyssey_05	129	2	Neptune	LOC
+homer-odyssey_05	130	1	two	CARDINAL
+homer-odyssey_05	130	2	Minerva	PERSON
+homer-odyssey_05	131	1	some one	CARDINAL
+homer-odyssey_05	132	1	Ulysses	ORG
+homer-odyssey_05	132	2	Minerva	PERSON
+homer-odyssey_05	135	1	Neptune	LOC
+homer-odyssey_05	139	1	Ulysses	ORG
+homer-odyssey_05	140	1	Ino	PERSON
+homer-odyssey_05	140	2	Ino	PERSON
+homer-odyssey_05	141	1	earth	LOC
+homer-odyssey_05	143	1	the night	TIME
+homer-odyssey_05	144	1	night	TIME
+homer-odyssey_05	146	1	two	CARDINAL
+homer-odyssey_05	146	2	one	CARDINAL
+homer-odyssey_05	148	1	two or three	CARDINAL
+homer-odyssey_05	148	2	winter	DATE
+homer-odyssey_05	150	1	Ulysses	ORG
+homer-odyssey_05	150	2	Minerva	PERSON

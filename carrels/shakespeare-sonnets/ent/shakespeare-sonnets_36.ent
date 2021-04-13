@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_36	1	1	XXXVI	ORG
+shakespeare-sonnets_36	2	1	two	CARDINAL
+shakespeare-sonnets_36	3	1	two	CARDINAL
+shakespeare-sonnets_36	3	2	hours	TIME
+shakespeare-sonnets_36	4	1	Lest	PERSON

@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">adverb</li>
+		</ol>
+	</nav>
+
+<h1>adverb</h1>
+<p>This is a table of type adverb and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>adverb</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>not</td><td>1821</td></tr>
+<tr><td>so</td><td>478</td></tr>
+<tr><td>then</td><td>439</td></tr>
+<tr><td>yet</td><td>337</td></tr>
+<tr><td>now</td><td>279</td></tr>
+<tr><td>also</td><td>259</td></tr>
+<tr><td>even</td><td>192</td></tr>
+<tr><td>more</td><td>190</td></tr>
+<tr><td>only</td><td>169</td></tr>
+<tr><td>up</td><td>144</td></tr>
+<tr><td>most</td><td>135</td></tr>
+<tr><td>therefore</td><td>130</td></tr>
+<tr><td>thus</td><td>120</td></tr>
+<tr><td>away</td><td>116</td></tr>
+<tr><td>out</td><td>114</td></tr>
+<tr><td>there</td><td>110</td></tr>
+<tr><td>far</td><td>107</td></tr>
+<tr><td>again</td><td>96</td></tr>
+<tr><td>as</td><td>84</td></tr>
+<tr><td>much</td><td>80</td></tr>
+<tr><td>very</td><td>79</td></tr>
+<tr><td>ever</td><td>78</td></tr>
+<tr><td>forth</td><td>73</td></tr>
+<tr><td>never</td><td>71</td></tr>
+<tr><td>rather</td><td>70</td></tr>
+<tr><td>still</td><td>68</td></tr>
+<tr><td>together</td><td>65</td></tr>
+<tr><td>down</td><td>58</td></tr>
+<tr><td>well</td><td>57</td></tr>
+<tr><td>too</td><td>56</td></tr>
+<tr><td>long</td><td>54</td></tr>
+<tr><td>all</td><td>54</td></tr>
+<tr><td>already</td><td>51</td></tr>
+<tr><td>truly</td><td>47</td></tr>
+<tr><td>first</td><td>44</td></tr>
+<tr><td>indeed</td><td>41</td></tr>
+<tr><td>that</td><td>41</td></tr>
+<tr><td>whatsoever</td><td>41</td></tr>
+<tr><td>alone</td><td>40</td></tr>
+<tr><td>back</td><td>39</td></tr>
+<tr><td>therein</td><td>38</td></tr>
+<tr><td>once</td><td>38</td></tr>
+<tr><td>no</td><td>38</td></tr>
+<tr><td>else</td><td>38</td></tr>
+<tr><td>often</td><td>37</td></tr>
+<tr><td>before</td><td>35</td></tr>
+<tr><td>on</td><td>35</td></tr>
+<tr><td>altogether</td><td>34</td></tr>
+<tr><td>is</td><td>33</td></tr>
+<tr><td>longer</td><td>32</td></tr>
+<tr><td>in</td><td>32</td></tr>
+<tr><td>thereof</td><td>30</td></tr>
+<tr><td>sometimes</td><td>30</td></tr>
+<tr><td>over</td><td>30</td></tr>
+<tr><td>off</td><td>27</td></tr>
+<tr><td>hence</td><td>26</td></tr>
+<tr><td>wholly</td><td>25</td></tr>
+<tr><td>here</td><td>25</td></tr>
+<tr><td>soon</td><td>24</td></tr>
+<tr><td>nt</td><td>24</td></tr>
+<tr><td>verily</td><td>23</td></tr>
+<tr><td>otherwise</td><td>23</td></tr>
+<tr><td>less</td><td>23</td></tr>
+<tr><td>almost</td><td>23</td></tr>
+<tr><td>by</td><td>22</td></tr>
+<tr><td>utterly</td><td>20</td></tr>
+<tr><td>thereby</td><td>20</td></tr>
+<tr><td>at</td><td>20</td></tr>
+<tr><td>further</td><td>18</td></tr>
+<tr><td>better</td><td>18</td></tr>
+<tr><td>however</td><td>17</td></tr>
+<tr><td>afterwards</td><td>17</td></tr>
+<tr><td>above</td><td>16</td></tr>
+<tr><td>just</td><td>16</td></tr>
+<tr><td>unchangeably</td><td>15</td></tr>
+<tr><td>abroad</td><td>15</td></tr>
+<tr><td>aside</td><td>15</td></tr>
+<tr><td>daily</td><td>14</td></tr>
+<tr><td>clearly</td><td>14</td></tr>
+<tr><td>perchance</td><td>13</td></tr>
+<tr><td>inwardly</td><td>13</td></tr>
+<tr><td>namely</td><td>12</td></tr>
+<tr><td>certainly</td><td>12</td></tr>
+<tr><td>fast</td><td>12</td></tr>
+<tr><td>readily</td><td>12</td></tr>
+<tr><td>rightly</td><td>12</td></tr>
+<tr><td>though</td><td>12</td></tr>
+<tr><td>willingly</td><td>11</td></tr>
+<tr><td>always</td><td>11</td></tr>
+<tr><td>after</td><td>11</td></tr>
+<tr><td>strongly</td><td>10</td></tr>
+<tr><td>especially</td><td>10</td></tr>
+<tr><td>ill</td><td>10</td></tr>
+<tr><td>whither</td><td>10</td></tr>
+<tr><td>vehemently</td><td>10</td></tr>
+<tr><td>severally</td><td>9</td></tr>
+<tr><td>near</td><td>9</td></tr>
+<tr><td>justly</td><td>9</td></tr>
+<tr><td>greatly</td><td>9</td></tr>
+<tr><td>falsely</td><td>9</td></tr>
+<tr><td>deep</td><td>9</td></tr>
+<tr><td>presently</td><td>8</td></tr>
+<tr><td>deeply</td><td>8</td></tr>
+<tr><td>easily</td><td>8</td></tr>
+<tr><td>plainly</td><td>8</td></tr>
+<tr><td>suddenly</td><td>8</td></tr>
+<tr><td>properly</td><td>8</td></tr>
+<tr><td>somewhat</td><td>8</td></tr>
+<tr><td>unto</td><td>8</td></tr>
+<tr><td>aloud</td><td>7</td></tr>
+<tr><td>entirely</td><td>7</td></tr>
+<tr><td>chiefly</td><td>7</td></tr>
+<tr><td>since</td><td>7</td></tr>
+<tr><td>freely</td><td>7</td></tr>
+<tr><td>secretly</td><td>7</td></tr>
+<tr><td>lastly</td><td>6</td></tr>
+<tr><td>about</td><td>6</td></tr>
+<tr><td>abundantly</td><td>6</td></tr>
+<tr><td>afar</td><td>6</td></tr>
+<tr><td>astray</td><td>6</td></tr>
+<tr><td>below</td><td>6</td></tr>
+<tr><td>enough</td><td>6</td></tr>
+<tr><td>instantly</td><td>6</td></tr>
+<tr><td>instead</td><td>6</td></tr>
+<tr><td>earnestly</td><td>6</td></tr>
+<tr><td>miserably</td><td>6</td></tr>
+<tr><td>perhaps</td><td>6</td></tr>
+<tr><td>saith</td><td>6</td></tr>
+<tr><td>scarcely</td><td>6</td></tr>
+<tr><td>simply</td><td>6</td></tr>
+<tr><td>thoroughly</td><td>6</td></tr>
+<tr><td>twice</td><td>6</td></tr>
+<tr><td>within</td><td>6</td></tr>
+<tr><td>wonderfully</td><td>6</td></tr>
+<tr><td>oft</td><td>6</td></tr>
+<tr><td>diligently</td><td>5</td></tr>
+<tr><td>firmly</td><td>5</td></tr>
+<tr><td>eternally</td><td>5</td></tr>
+<tr><td>either</td><td>5</td></tr>
+<tr><td>likewise</td><td>5</td></tr>
+<tr><td>corporeally</td><td>5</td></tr>
+<tr><td>confidently</td><td>5</td></tr>
+<tr><td>behind</td><td>5</td></tr>
+<tr><td>abidest</td><td>5</td></tr>
+<tr><td>idly</td><td>5</td></tr>
+<tr><td>thither</td><td>5</td></tr>
+<tr><td>manifoldly</td><td>5</td></tr>
+<tr><td>neither</td><td>5</td></tr>
+<tr><td>openly</td><td>5</td></tr>
+<tr><td>outwardly</td><td>5</td></tr>
+<tr><td>past</td><td>5</td></tr>
+<tr><td>right</td><td>5</td></tr>
+<tr><td>spiritually</td><td>5</td></tr>
+<tr><td>supremely</td><td>5</td></tr>
+<tr><td>surely</td><td>5</td></tr>
+<tr><td>meanwhile</td><td>5</td></tr>
+<tr><td>eagerly</td><td>4</td></tr>
+<tr><td>fully</td><td>4</td></tr>
+<tr><td>formerly</td><td>4</td></tr>
+<tr><td>excellently</td><td>4</td></tr>
+<tr><td>exceedingly</td><td>4</td></tr>
+<tr><td>asunder</td><td>4</td></tr>
+<tr><td>continually</td><td>4</td></tr>
+<tr><td>comely</td><td>4</td></tr>
+<tr><td>boldly</td><td>4</td></tr>
+<tr><td>bitterly</td><td>4</td></tr>
+<tr><td>headlong</td><td>4</td></tr>
+<tr><td>grievously</td><td>4</td></tr>
+<tr><td>equally</td><td>4</td></tr>
+<tr><td>hereafter</td><td>4</td></tr>
+<tr><td>patiently</td><td>4</td></tr>
+<tr><td>heretofore</td><td>4</td></tr>
+<tr><td>wondrously</td><td>4</td></tr>
+<tr><td>round</td><td>4</td></tr>
+<tr><td>proudly</td><td>4</td></tr>
+<tr><td>piously</td><td>4</td></tr>
+<tr><td>publicly</td><td>4</td></tr>
+<tr><td>mercifully</td><td>4</td></tr>
+<tr><td>lo</td><td>4</td></tr>
+<tr><td>little</td><td>4</td></tr>
+<tr><td>lightly</td><td>4</td></tr>
+<tr><td>incomparably</td><td>4</td></tr>
+<tr><td>late</td><td>3</td></tr>
+<tr><td>darkly</td><td>3</td></tr>
+<tr><td>intently</td><td>3</td></tr>
+<tr><td>immediately</td><td>3</td></tr>
+<tr><td>healthfully</td><td>3</td></tr>
+<tr><td>hard</td><td>3</td></tr>
+<tr><td>gladly</td><td>3</td></tr>
+<tr><td>gently</td><td>3</td></tr>
+<tr><td>forward</td><td>3</td></tr>
+<tr><td>elsewhere</td><td>3</td></tr>
+<tr><td>besides</td><td>3</td></tr>
+<tr><td>confusedly</td><td>3</td></tr>
+<tr><td>close</td><td>3</td></tr>
+<tr><td>briefly</td><td>3</td></tr>
+<tr><td>book</td><td>3</td></tr>
+<tr><td>bodily</td><td>3</td></tr>
+<tr><td>apart</td><td>3</td></tr>
+<tr><td>any</td><td>3</td></tr>
+<tr><td>aloft</td><td>3</td></tr>
+<tr><td>ago</td><td>3</td></tr>
+<tr><td>lest</td><td>3</td></tr>
+<tr><td>lawfully</td><td>3</td></tr>
+<tr><td>knowingly</td><td>3</td></tr>
+<tr><td>loose</td><td>3</td></tr>
+<tr><td>rashly</td><td>3</td></tr>
+<tr><td>manifestly</td><td>3</td></tr>
+<tr><td>wickedly</td><td>3</td></tr>
+<tr><td>unjustly</td><td>3</td></tr>
+<tr><td>ungodly</td><td>3</td></tr>
+<tr><td>through</td><td>3</td></tr>
+<tr><td>speedily</td><td>3</td></tr>
+<tr><td>soundly</td><td>3</td></tr>
+<tr><td>slowly</td><td>3</td></tr>
+<tr><td>slightly</td><td>3</td></tr>
+<tr><td>singly</td><td>3</td></tr>
+<tr><td>without</td><td>3</td></tr>
+<tr><td>quickly</td><td>3</td></tr>
+<tr><td>pervertedly</td><td>3</td></tr>
+<tr><td>notwithstanding</td><td>3</td></tr>
+<tr><td>new</td><td>3</td></tr>
+<tr><td>nevertheless</td><td>3</td></tr>
+<tr><td>mostly</td><td>3</td></tr>
+<tr><td>moreover</td><td>3</td></tr>
+<tr><td>mightily</td><td>3</td></tr>
+<tr><td>merely</td><td>3</td></tr>
+<tr><td>privily</td><td>3</td></tr>
+<tr><td>finally</td><td>2</td></tr>
+<tr><td>forwards</td><td>2</td></tr>
+<tr><td>fixedly</td><td>2</td></tr>
+<tr><td>familiarly</td><td>2</td></tr>
+<tr><td>fiercely</td><td>2</td></tr>
+<tr><td>fervently</td><td>2</td></tr>
+<tr><td>fearlessly</td><td>2</td></tr>
+<tr><td>faster</td><td>2</td></tr>
+<tr><td>gratuitously</td><td>2</td></tr>
+<tr><td>heavenly</td><td>2</td></tr>
+<tr><td>last</td><td>2</td></tr>
+<tr><td>greedily</td><td>2</td></tr>
+<tr><td>half</td><td>2</td></tr>
+<tr><td>happily</td><td>2</td></tr>
+<tr><td>higher</td><td>2</td></tr>
+<tr><td>incorruptibly</td><td>2</td></tr>
+<tr><td>incredibly</td><td>2</td></tr>
+<tr><td>infinite</td><td>2</td></tr>
+<tr><td>inward</td><td>2</td></tr>
+<tr><td>eminently</td><td>2</td></tr>
+<tr><td>faintly</td><td>2</td></tr>
+<tr><td>best</td><td>2</td></tr>
+<tr><td>eloquently</td><td>2</td></tr>
+<tr><td>beforehand</td><td>2</td></tr>
+<tr><td>absolutely</td><td>2</td></tr>
+<tr><td>actually</td><td>2</td></tr>
+<tr><td>along</td><td>2</td></tr>
+<tr><td>anxiously</td><td>2</td></tr>
+<tr><td>appeareth</td><td>2</td></tr>
+<tr><td>around</td><td>2</td></tr>
+<tr><td>attentively</td><td>2</td></tr>
+<tr><td>backward</td><td>2</td></tr>
+<tr><td>beside</td><td>2</td></tr>
+<tr><td>downwards</td><td>2</td></tr>
+<tr><td>collectively</td><td>2</td></tr>
+<tr><td>consistently</td><td>2</td></tr>
+<tr><td>courtly</td><td>2</td></tr>
+<tr><td>devoutly</td><td>2</td></tr>
+<tr><td>differently</td><td>2</td></tr>
+<tr><td>distinctly</td><td>2</td></tr>
+<tr><td>diversely</td><td>2</td></tr>
+<tr><td>doubt</td><td>2</td></tr>
+<tr><td>kind</td><td>2</td></tr>
+<tr><td>great</td><td>2</td></tr>
+<tr><td>later</td><td>2</td></tr>
+<tr><td>sometime</td><td>2</td></tr>
+<tr><td>sovereignly</td><td>2</td></tr>
+<tr><td>straitly</td><td>2</td></tr>
+<tr><td>subsequently</td><td>2</td></tr>
+<tr><td>sweetly</td><td>2</td></tr>
+<tr><td>thereupon</td><td>2</td></tr>
+<tr><td>true</td><td>2</td></tr>
+<tr><td>unhesitatingly</td><td>2</td></tr>
+<tr><td>unlike</td><td>2</td></tr>
+<tr><td>upward</td><td>2</td></tr>
+<tr><td>upwards</td><td>2</td></tr>
+<tr><td>vainly</td><td>2</td></tr>
+<tr><td>variableness</td><td>2</td></tr>
+<tr><td>where</td><td>2</td></tr>
+<tr><td>whole</td><td>2</td></tr>
+<tr><td>wide</td><td>2</td></tr>
+<tr><td>wilfully</td><td>2</td></tr>
+<tr><td>wisely</td><td>2</td></tr>
+<tr><td>zealously</td><td>2</td></tr>
+<tr><td>lovingly</td><td>2</td></tr>
+<tr><td>sooner</td><td>2</td></tr>
+<tr><td>watchfully</td><td>2</td></tr>
+<tr><td>soberly</td><td>2</td></tr>
+<tr><td>partly</td><td>2</td></tr>
+<tr><td>meantime</td><td>2</td></tr>
+<tr><td>silently</td><td>2</td></tr>
+<tr><td>mentally</td><td>2</td></tr>
+<tr><td>modestly</td><td>2</td></tr>
+<tr><td>nearer</td><td>2</td></tr>
+<tr><td>obscurely</td><td>2</td></tr>
+<tr><td>open</td><td>2</td></tr>
+<tr><td>ordinarily</td><td>2</td></tr>
+<tr><td>otherwhere</td><td>2</td></tr>
+<tr><td>next</td><td>2</td></tr>
+<tr><td>privately</td><td>2</td></tr>
+<tr><td>quite</td><td>2</td></tr>
+<tr><td>really</td><td>2</td></tr>
+<tr><td>religiously</td><td>2</td></tr>
+<tr><td>reverently</td><td>2</td></tr>
+<tr><td>satisfactorily</td><td>2</td></tr>
+<tr><td>purely</td><td>2</td></tr>
+<tr><td>seasonably</td><td>2</td></tr>
+<tr><td>save</td><td>2</td></tr>
+<tr><td>fruitlessly</td><td>1</td></tr>
+<tr><td>foul</td><td>1</td></tr>
+<tr><td>foully</td><td>1</td></tr>
+<tr><td>fourthly</td><td>1</td></tr>
+<tr><td>frequently</td><td>1</td></tr>
+<tr><td>fruitfully</td><td>1</td></tr>
+<tr><td>generally</td><td>1</td></tr>
+<tr><td>furthermore</td><td>1</td></tr>
+<tr><td>gavest</td><td>1</td></tr>
+<tr><td>genuinely</td><td>1</td></tr>
+<tr><td>ghastly</td><td>1</td></tr>
+<tr><td>forcibly</td><td>1</td></tr>
+<tr><td>gradually</td><td>1</td></tr>
+<tr><td>fore</td><td>1</td></tr>
+<tr><td>faithfully</td><td>1</td></tr>
+<tr><td>for</td><td>1</td></tr>
+<tr><td>foolishly</td><td>1</td></tr>
+<tr><td>fluently</td><td>1</td></tr>
+<tr><td>fillest</td><td>1</td></tr>
+<tr><td>figuratively</td><td>1</td></tr>
+<tr><td>fearfully</td><td>1</td></tr>
+<tr><td>fatherly</td><td>1</td></tr>
+<tr><td>farther</td><td>1</td></tr>
+<tr><td>false</td><td>1</td></tr>
+<tr><td>fairly</td><td>1</td></tr>
+<tr><td>fairest</td><td>1</td></tr>
+<tr><td>fairer</td><td>1</td></tr>
+<tr><td>extremely</td><td>1</td></tr>
+<tr><td>harmoniously</td><td>1</td></tr>
+<tr><td>haply</td><td>1</td></tr>
+<tr><td>innumerably</td><td>1</td></tr>
+<tr><td>hast</td><td>1</td></tr>
+<tr><td>hearest</td><td>1</td></tr>
+<tr><td>joyously</td><td>1</td></tr>
+<tr><td>jointly</td><td>1</td></tr>
+<tr><td>intimately</td><td>1</td></tr>
+<tr><td>intensely</td><td>1</td></tr>
+<tr><td>insultingly</td><td>1</td></tr>
+<tr><td>inspirest</td><td>1</td></tr>
+<tr><td>insolently</td><td>1</td></tr>
+<tr><td>insensibly</td><td>1</td></tr>
+<tr><td>evidently</td><td>1</td></tr>
+<tr><td>infinitely</td><td>1</td></tr>
+<tr><td>inevitably</td><td>1</td></tr>
+<tr><td>indefinitely</td><td>1</td></tr>
+<tr><td>incongruously</td><td>1</td></tr>
+<tr><td>inappropriately</td><td>1</td></tr>
+<tr><td>impudently</td><td>1</td></tr>
+<tr><td>improperly</td><td>1</td></tr>
+<tr><td>impostumes</td><td>1</td></tr>
+<tr><td>impatiently</td><td>1</td></tr>
+<tr><td>immovably</td><td>1</td></tr>
+<tr><td>immortally</td><td>1</td></tr>
+<tr><td>hurriedly</td><td>1</td></tr>
+<tr><td>hotly</td><td>1</td></tr>
+<tr><td>honestly</td><td>1</td></tr>
+<tr><td>highly</td><td>1</td></tr>
+<tr><td>hereby</td><td>1</td></tr>
+<tr><td>henceforth</td><td>1</td></tr>
+<tr><td>heavily</td><td>1</td></tr>
+<tr><td>exquisitely</td><td>1</td></tr>
+<tr><td>deadly</td><td>1</td></tr>
+<tr><td>everywhere</td><td>1</td></tr>
+<tr><td>atrociously</td><td>1</td></tr>
+<tr><td>concludeth</td><td>1</td></tr>
+<tr><td>compendiously</td><td>1</td></tr>
+<tr><td>commonly</td><td>1</td></tr>
+<tr><td>chastely</td><td>1</td></tr>
+<tr><td>cementest</td><td>1</td></tr>
+<tr><td>carelessly</td><td>1</td></tr>
+<tr><td>carefully</td><td>1</td></tr>
+<tr><td>calmly</td><td>1</td></tr>
+<tr><td>but</td><td>1</td></tr>
+<tr><td>bold</td><td>1</td></tr>
+<tr><td>blessedly</td><td>1</td></tr>
+<tr><td>awhile</td><td>1</td></tr>
+<tr><td>audaciously</td><td>1</td></tr>
+<tr><td>assuredly</td><td>1</td></tr>
+<tr><td>conformably</td><td>1</td></tr>
+<tr><td>assiduously</td><td>1</td></tr>
+<tr><td>ardently</td><td>1</td></tr>
+<tr><td>aptly</td><td>1</td></tr>
+<tr><td>apparently</td><td>1</td></tr>
+<tr><td>answerably</td><td>1</td></tr>
+<tr><td>alternately</td><td>1</td></tr>
+<tr><td>allegorically</td><td>1</td></tr>
+<tr><td>alike</td><td>1</td></tr>
+<tr><td>afterward</td><td>1</td></tr>
+<tr><td>affirm</td><td>1</td></tr>
+<tr><td>acceptably</td><td>1</td></tr>
+<tr><td>absurdly</td><td>1</td></tr>
+<tr><td>abideth</td><td>1</td></tr>
+<tr><td>confidentially</td><td>1</td></tr>
+<tr><td>constantly</td><td>1</td></tr>
+<tr><td>every</td><td>1</td></tr>
+<tr><td>distractedly</td><td>1</td></tr>
+<tr><td>everlastingly</td><td>1</td></tr>
+<tr><td>evenly</td><td>1</td></tr>
+<tr><td>erst</td><td>1</td></tr>
+<tr><td>ere</td><td>1</td></tr>
+<tr><td>equably</td><td>1</td></tr>
+<tr><td>enquiringly</td><td>1</td></tr>
+<tr><td>endlessly</td><td>1</td></tr>
+<tr><td>durst</td><td>1</td></tr>
+<tr><td>dully</td><td>1</td></tr>
+<tr><td>downward</td><td>1</td></tr>
+<tr><td>doubtless</td><td>1</td></tr>
+<tr><td>doth</td><td>1</td></tr>
+<tr><td>diversly</td><td>1</td></tr>
+<tr><td>discreetly</td><td>1</td></tr>
+<tr><td>continently</td><td>1</td></tr>
+<tr><td>dieth</td><td>1</td></tr>
+<tr><td>deservedly</td><td>1</td></tr>
+<tr><td>definitely</td><td>1</td></tr>
+<tr><td>deeper</td><td>1</td></tr>
+<tr><td>largely</td><td>1</td></tr>
+<tr><td>darksomely</td><td>1</td></tr>
+<tr><td>curiously</td><td>1</td></tr>
+<tr><td>crookedly</td><td>1</td></tr>
+<tr><td>courteously</td><td>1</td></tr>
+<tr><td>corruptly</td><td>1</td></tr>
+<tr><td>conventionally</td><td>1</td></tr>
+<tr><td>convenient</td><td>1</td></tr>
+<tr><td>contrary</td><td>1</td></tr>
+<tr><td>kindly</td><td>1</td></tr>
+<tr><td>nowhere</td><td>1</td></tr>
+<tr><td>least</td><td>1</td></tr>
+<tr><td>suitably</td><td>1</td></tr>
+<tr><td>tumultuously</td><td>1</td></tr>
+<tr><td>thunderest</td><td>1</td></tr>
+<tr><td>thriven</td><td>1</td></tr>
+<tr><td>thirsteth</td><td>1</td></tr>
+<tr><td>thirdly</td><td>1</td></tr>
+<tr><td>terribly</td><td>1</td></tr>
+<tr><td>tenderly</td><td>1</td></tr>
+<tr><td>temporately</td><td>1</td></tr>
+<tr><td>tempestuously</td><td>1</td></tr>
+<tr><td>sweeter</td><td>1</td></tr>
+<tr><td>surpassingly</td><td>1</td></tr>
+<tr><td>superfluously</td><td>1</td></tr>
+<tr><td>sumptuously</td><td>1</td></tr>
+<tr><td>sufficiently</td><td>1</td></tr>
+<tr><td>silent</td><td>1</td></tr>
+<tr><td>sufferest</td><td>1</td></tr>
+<tr><td>sudden</td><td>1</td></tr>
+<tr><td>successively</td><td>1</td></tr>
+<tr><td>sublimely</td><td>1</td></tr>
+<tr><td>studiously</td><td>1</td></tr>
+<tr><td>strangely</td><td>1</td></tr>
+<tr><td>stiffly</td><td>1</td></tr>
+<tr><td>sportively</td><td>1</td></tr>
+<tr><td>sorely</td><td>1</td></tr>
+<tr><td>somewhere</td><td>1</td></tr>
+<tr><td>softly</td><td>1</td></tr>
+<tr><td>sleepest</td><td>1</td></tr>
+<tr><td>singularly</td><td>1</td></tr>
+<tr><td>unawares</td><td>1</td></tr>
+<tr><td>unbeseemingly</td><td>1</td></tr>
+<tr><td>unconsciously</td><td>1</td></tr>
+<tr><td>unexpectedly</td><td>1</td></tr>
+<tr><td>worse</td><td>1</td></tr>
+<tr><td>worldly</td><td>1</td></tr>
+<tr><td>wittingly</td><td>1</td></tr>
+<tr><td>wholesomely</td><td>1</td></tr>
+<tr><td>wantonly</td><td>1</td></tr>
+<tr><td>vouchsafest</td><td>1</td></tr>
+<tr><td>voluntarily</td><td>1</td></tr>
+<tr><td>void</td><td>1</td></tr>
+<tr><td>vocally</td><td>1</td></tr>
+<tr><td>variously</td><td>1</td></tr>
+<tr><td>usury</td><td>1</td></tr>
+<tr><td>usually</td><td>1</td></tr>
+<tr><td>usefully</td><td>1</td></tr>
+<tr><td>urgently</td><td>1</td></tr>
+<tr><td>upborne</td><td>1</td></tr>
+<tr><td>unutterably</td><td>1</td></tr>
+<tr><td>untruly</td><td>1</td></tr>
+<tr><td>unsuitably</td><td>1</td></tr>
+<tr><td>unshakenly</td><td>1</td></tr>
+<tr><td>unrulily</td><td>1</td></tr>
+<tr><td>unpleasantly</td><td>1</td></tr>
+<tr><td>unknowingly</td><td>1</td></tr>
+<tr><td>universally</td><td>1</td></tr>
+<tr><td>unhappily</td><td>1</td></tr>
+<tr><td>ungodlily</td><td>1</td></tr>
+<tr><td>unfriendly</td><td>1</td></tr>
+<tr><td>unfailingly</td><td>1</td></tr>
+<tr><td>sincerely</td><td>1</td></tr>
+<tr><td>sigh</td><td>1</td></tr>
+<tr><td>lifter</td><td>1</td></tr>
+<tr><td>mystically</td><td>1</td></tr>
+<tr><td>penally</td><td>1</td></tr>
+<tr><td>peculiarly</td><td>1</td></tr>
+<tr><td>peacefully</td><td>1</td></tr>
+<tr><td>passionately</td><td>1</td></tr>
+<tr><td>own</td><td>1</td></tr>
+<tr><td>overhastily</td><td>1</td></tr>
+<tr><td>orally</td><td>1</td></tr>
+<tr><td>oftentimes</td><td>1</td></tr>
+<tr><td>obediently</td><td>1</td></tr>
+<tr><td>necessarily</td><td>1</td></tr>
+<tr><td>neatly</td><td>1</td></tr>
+<tr><td>naturally</td><td>1</td></tr>
+<tr><td>narrowly</td><td>1</td></tr>
+<tr><td>mysteriously</td><td>1</td></tr>
+<tr><td>sickly</td><td>1</td></tr>
+<tr><td>mutually</td><td>1</td></tr>
+<tr><td>mildly</td><td>1</td></tr>
+<tr><td>merrily</td><td>1</td></tr>
+<tr><td>meanly</td><td>1</td></tr>
+<tr><td>matter</td><td>1</td></tr>
+<tr><td>manfully</td><td>1</td></tr>
+<tr><td>maliciously</td><td>1</td></tr>
+<tr><td>mainly</td><td>1</td></tr>
+<tr><td>madly</td><td>1</td></tr>
+<tr><td>lowlily</td><td>1</td></tr>
+<tr><td>loudly</td><td>1</td></tr>
+<tr><td>live</td><td>1</td></tr>
+<tr><td>literally</td><td>1</td></tr>
+<tr><td>perfectly</td><td>1</td></tr>
+<tr><td>personally</td><td>1</td></tr>
+<tr><td>petulantly</td><td>1</td></tr>
+<tr><td>piecemeal</td><td>1</td></tr>
+<tr><td>shortly</td><td>1</td></tr>
+<tr><td>short</td><td>1</td></tr>
+<tr><td>sharply</td><td>1</td></tr>
+<tr><td>severely</td><td>1</td></tr>
+<tr><td>sensibly</td><td>1</td></tr>
+<tr><td>seeketh</td><td>1</td></tr>
+<tr><td>securely</td><td>1</td></tr>
+<tr><td>scornfully</td><td>1</td></tr>
+<tr><td>sawest</td><td>1</td></tr>
+<tr><td>rudely</td><td>1</td></tr>
+<tr><td>rigidly</td><td>1</td></tr>
+<tr><td>restlessly</td><td>1</td></tr>
+<tr><td>resolutely</td><td>1</td></tr>
+<tr><td>remaineth</td><td>1</td></tr>
+<tr><td>remainest</td><td>1</td></tr>
+<tr><td>relaxedly</td><td>1</td></tr>
+<tr><td>regardless</td><td>1</td></tr>
+<tr><td>recently</td><td>1</td></tr>
+<tr><td>readest</td><td>1</td></tr>
+<tr><td>quicker</td><td>1</td></tr>
+<tr><td>profoundly</td><td>1</td></tr>
+<tr><td>prior</td><td>1</td></tr>
+<tr><td>principally</td><td>1</td></tr>
+<tr><td>presseth</td><td>1</td></tr>
+<tr><td>precisely</td><td>1</td></tr>
+<tr><td>plentifully</td><td>1</td></tr>
+<tr><td>pleasantly</td><td>1</td></tr>
+<tr><td>abandonedly</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

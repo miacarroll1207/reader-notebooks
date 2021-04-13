@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_27	1	1	XXVII	ORG
+shakespeare-sonnets_27	2	1	abide--	CARDINAL
+shakespeare-sonnets_27	2	2	Intend	NORP
+shakespeare-sonnets_27	2	3	Presents	PRODUCT
+shakespeare-sonnets_27	2	4	black night	TIME
+shakespeare-sonnets_27	4	1	day	DATE

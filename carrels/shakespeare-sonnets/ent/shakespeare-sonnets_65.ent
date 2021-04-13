@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_65	1	1	LXV	ORG
+shakespeare-sonnets_65	4	1	summer	DATE
+shakespeare-sonnets_65	4	2	days	DATE
+shakespeare-sonnets_65	4	3	Time	ORG
+shakespeare-sonnets_65	6	1	Shall Time 's	WORK_OF_ART
+shakespeare-sonnets_65	6	2	Time	ORG

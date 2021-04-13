@@ -1,0 +1,13 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_104	2	1	first	ORDINAL
+shakespeare-sonnets_104	3	1	Three	CARDINAL
+shakespeare-sonnets_104	3	2	three	QUANTITY
+shakespeare-sonnets_104	3	3	Three	CARDINAL
+shakespeare-sonnets_104	3	4	Three	CARDINAL
+shakespeare-sonnets_104	3	5	April	DATE
+shakespeare-sonnets_104	3	6	three	CARDINAL
+shakespeare-sonnets_104	3	7	Junes	GPE
+shakespeare-sonnets_104	3	8	first	ORDINAL
+shakespeare-sonnets_104	5	1	Steal	ORG
+shakespeare-sonnets_104	5	2	Ere	PERSON
+shakespeare-sonnets_104	5	3	summer	DATE

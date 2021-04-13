@@ -1,0 +1,106 @@
+id	sid	eid	entity	type
+homer-odyssey_20	1	1	TWO	CARDINAL
+homer-odyssey_20	4	1	Ulysses	ORG
+homer-odyssey_20	4	2	one	CARDINAL
+homer-odyssey_20	5	1	the day	DATE
+homer-odyssey_20	5	2	Cyclops	PRODUCT
+homer-odyssey_20	6	1	first	ORDINAL
+homer-odyssey_20	7	1	Minerva	PERSON
+homer-odyssey_20	11	1	Jove	PERSON
+homer-odyssey_20	12	1	Minerva	PERSON
+homer-odyssey_20	12	2	one	CARDINAL
+homer-odyssey_20	14	1	fifty	CARDINAL
+homer-odyssey_20	15	1	all night	TIME
+homer-odyssey_20	18	1	Diana	PERSON
+homer-odyssey_20	18	2	Great Goddess Diana	WORK_OF_ART
+homer-odyssey_20	18	3	Oceanus	ORG
+homer-odyssey_20	18	4	Pandareus	PERSON
+homer-odyssey_20	19	1	Pandareus	PERSON
+homer-odyssey_20	20	1	Venus	LOC
+homer-odyssey_20	21	1	Juno	PERSON
+homer-odyssey_20	21	2	Diana	PERSON
+homer-odyssey_20	21	3	Minerva	PERSON
+homer-odyssey_20	21	4	one	CARDINAL
+homer-odyssey_20	21	5	Venus	LOC
+homer-odyssey_20	21	6	Erinyes	ORG
+homer-odyssey_20	22	1	Diana	PERSON
+homer-odyssey_20	23	1	day	DATE
+homer-odyssey_20	23	2	night	TIME
+homer-odyssey_20	24	1	This very night	TIME
+homer-odyssey_20	24	2	one	CARDINAL
+homer-odyssey_20	24	3	Ulysses	GPE
+homer-odyssey_20	25	1	this the day	DATE
+homer-odyssey_20	25	2	Ulysses	GPE
+homer-odyssey_20	27	1	Jove	PERSON
+homer-odyssey_20	27	2	one	CARDINAL
+homer-odyssey_20	29	1	Olympus	EVENT
+homer-odyssey_20	29	2	Ulysses	GPE
+homer-odyssey_20	31	1	twelve	CARDINAL
+homer-odyssey_20	33	1	Jove	PERSON
+homer-odyssey_20	33	2	Ulysses	GPE
+homer-odyssey_20	36	1	house	ORG
+homer-odyssey_20	41	1	Achaeans	NORP
+homer-odyssey_20	41	2	two	CARDINAL
+homer-odyssey_20	42	1	a feast day	DATE
+homer-odyssey_20	43	1	twenty	CARDINAL
+homer-odyssey_20	45	1	three	CARDINAL
+homer-odyssey_20	46	1	Ulysses	GPE
+homer-odyssey_20	46	2	Stranger	EVENT
+homer-odyssey_20	48	1	Melanthius	ORG
+homer-odyssey_20	48	2	two	CARDINAL
+homer-odyssey_20	49	1	Melanthius	ORG
+homer-odyssey_20	49	2	Ulysses	GPE
+homer-odyssey_20	53	1	Achaeans	NORP
+homer-odyssey_20	55	1	third	ORDINAL
+homer-odyssey_20	55	2	Philoetius	PERSON
+homer-odyssey_20	57	1	Philoetius	PERSON
+homer-odyssey_20	58	1	Swineherd	PERSON
+homer-odyssey_20	63	1	Ulysses	GPE
+homer-odyssey_20	63	2	Good day	DATE
+homer-odyssey_20	64	1	Jove	PERSON
+homer-odyssey_20	66	1	Ulysses	GPE
+homer-odyssey_20	68	1	Cephallenians	NORP
+homer-odyssey_20	68	2	Ulysses	GPE
+homer-odyssey_20	71	1	Stockman	PERSON
+homer-odyssey_20	71	2	Ulysses	GPE
+homer-odyssey_20	73	1	Jove	PERSON
+homer-odyssey_20	73	2	Ulysses	GPE
+homer-odyssey_20	75	1	Eumaeus	PERSON
+homer-odyssey_20	75	2	Ulysses	ORG
+homer-odyssey_20	78	1	Amphinomus	ORG
+homer-odyssey_20	81	1	Philoetius	PERSON
+homer-odyssey_20	81	2	Melanthius	ORG
+homer-odyssey_20	85	1	Ulysses	GPE
+homer-odyssey_20	88	1	Jove	PERSON
+homer-odyssey_20	90	1	Achaeans	NORP
+homer-odyssey_20	90	2	Apollo	ORG
+homer-odyssey_20	91	1	Ulysses	GPE
+homer-odyssey_20	91	2	Telemachus	PERSON
+homer-odyssey_20	92	1	Minerva	PERSON
+homer-odyssey_20	92	2	one	CARDINAL
+homer-odyssey_20	93	1	Ctesippus	PERSON
+homer-odyssey_20	94	1	Ulysses	ORG
+homer-odyssey_20	95	1	one	CARDINAL
+homer-odyssey_20	96	1	Ulysses	ORG
+homer-odyssey_20	97	1	Ulysses	ORG
+homer-odyssey_20	97	2	Sardinian	NORP
+homer-odyssey_20	98	1	Ctesippus	PERSON
+homer-odyssey_20	101	1	one	CARDINAL
+homer-odyssey_20	102	1	scenes day	DATE
+homer-odyssey_20	103	1	Agelaus	ORG
+homer-odyssey_20	103	2	Damastor	ORG
+homer-odyssey_20	105	1	Ulysses	ORG
+homer-odyssey_20	105	2	one day	DATE
+homer-odyssey_20	108	1	Jove	PERSON
+homer-odyssey_20	108	2	Agelaus	ORG
+homer-odyssey_20	108	3	Ithaca	ORG
+homer-odyssey_20	110	1	Minerva	ORG
+homer-odyssey_20	113	1	the night	TIME
+homer-odyssey_20	117	1	Theoclymenus	PERSON
+homer-odyssey_20	119	1	Ulysses	ORG
+homer-odyssey_20	120	1	Piraeus	PERSON
+homer-odyssey_20	121	1	One	CARDINAL
+homer-odyssey_20	121	2	first	ORDINAL
+homer-odyssey_20	122	1	Sicels	ORG
+homer-odyssey_20	124	1	Icarius	GPE
+homer-odyssey_20	124	2	Penelope	PERSON

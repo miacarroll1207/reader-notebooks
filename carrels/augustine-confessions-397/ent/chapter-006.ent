@@ -1,0 +1,192 @@
+id	sid	eid	entity	type
+chapter-006	3	1	Thee	PERSON
+chapter-006	4	1	Thee	PERSON
+chapter-006	5	1	Thou hadst	PERSON
+chapter-006	7	1	Manichee	PERSON
+chapter-006	7	2	a Catholic Christian	NORP
+chapter-006	7	3	one	CARDINAL
+chapter-006	7	4	Thee	PERSON
+chapter-006	7	5	Thou	PERSON
+chapter-006	7	6	Thou	PERSON
+chapter-006	8	1	daily	DATE
+chapter-006	8	2	Thee	PERSON
+chapter-006	8	3	Thou	PERSON
+chapter-006	8	4	one day	DATE
+chapter-006	8	5	Christ	GPE
+chapter-006	8	6	Catholic	NORP
+chapter-006	10	1	Thee	PERSON
+chapter-006	10	2	Thou	PERSON
+chapter-006	10	3	Church	ORG
+chapter-006	10	4	Ambrose	GPE
+chapter-006	12	1	Afric	ORG
+chapter-006	12	2	Churches	ORG
+chapter-006	12	3	Saints	NORP
+chapter-006	12	4	Bishop	FAC
+chapter-006	14	1	more than one	CARDINAL
+chapter-006	15	1	one	CARDINAL
+chapter-006	16	1	Gentiles	PRODUCT
+chapter-006	16	2	forbare	PRODUCT
+chapter-006	16	3	earth	LOC
+chapter-006	16	4	the Lord's Body	WORK_OF_ART
+chapter-006	17	1	Thy	PERSON
+chapter-006	18	1	Thou	PERSON
+chapter-006	28	1	Thine	GPE
+chapter-006	30	1	the Divine Books	ORG
+chapter-006	31	1	Thee	PERSON
+chapter-006	31	2	Thine	NORP
+chapter-006	31	3	Catholic	NORP
+chapter-006	31	4	Thee	PERSON
+chapter-006	31	5	Catholic	NORP
+chapter-006	33	1	Thou	PERSON
+chapter-006	33	2	Thou	PERSON
+chapter-006	33	3	Thine	NORP
+chapter-006	37	1	Thy Catholic Church	ORG
+chapter-006	38	1	Thine Only Son	WORK_OF_ART
+chapter-006	38	2	Christ	ORG
+chapter-006	38	3	Thee	PERSON
+chapter-006	38	4	the Creator	PERSON
+chapter-006	39	1	Prophets	ORG
+chapter-006	39	2	Spirit	ORG
+chapter-006	41	1	seven	CARDINAL
+chapter-006	41	2	ten	CARDINAL
+chapter-006	45	1	Catholic	NORP
+chapter-006	46	1	Thou	PERSON
+chapter-006	46	2	Thou	PERSON
+chapter-006	46	3	Thy Books	ORG
+chapter-006	46	4	Scriptures	PRODUCT
+chapter-006	46	5	one	CARDINAL
+chapter-006	47	1	Thou	PERSON
+chapter-006	47	2	Thou wert	PERSON
+chapter-006	47	3	Thee	PERSON
+chapter-006	48	1	Thou wert	PERSON
+chapter-006	48	2	Thee	PERSON
+chapter-006	49	1	Holy Writ	PERSON
+chapter-006	49	2	Thou	PERSON
+chapter-006	49	3	Writ	PERSON
+chapter-006	50	1	Thee	PERSON
+chapter-006	51	1	Thou wert	PERSON
+chapter-006	51	2	Thou	PERSON
+chapter-006	51	3	Thou	PERSON
+chapter-006	51	4	Thou	PERSON
+chapter-006	53	1	Thou	PERSON
+chapter-006	53	2	Thou	PERSON
+chapter-006	53	3	Thou	PERSON
+chapter-006	54	1	Thee	PERSON
+chapter-006	55	1	Thee	PERSON
+chapter-006	55	2	Thou	PERSON
+chapter-006	57	1	Thou	PERSON
+chapter-006	57	2	Thee	PERSON
+chapter-006	58	1	that day	DATE
+chapter-006	59	1	one	CARDINAL
+chapter-006	59	2	Milan	GPE
+chapter-006	61	1	one	CARDINAL
+chapter-006	68	1	Thou	PERSON
+chapter-006	70	1	Thou	PERSON
+chapter-006	72	1	Thee	PERSON
+chapter-006	74	1	many days	DATE
+chapter-006	74	2	Thou	PERSON
+chapter-006	74	3	God	PERSON
+chapter-006	77	1	Yea	PERSON
+chapter-006	79	1	Alypius	PERSON
+chapter-006	79	2	Nebridius	PERSON
+chapter-006	79	3	Alypius	PERSON
+chapter-006	80	1	first	ORDINAL
+chapter-006	80	2	no greater years	DATE
+chapter-006	81	1	Carthaginian	NORP
+chapter-006	81	2	Circus	LOC
+chapter-006	83	1	Circus	LOC
+chapter-006	86	1	Thou	PERSON
+chapter-006	86	2	Thou	PERSON
+chapter-006	86	3	one day	DATE
+chapter-006	86	4	Priest	PERSON
+chapter-006	86	5	Dispenser	PERSON
+chapter-006	86	6	Thou	PERSON
+chapter-006	88	1	Circensian	NORP
+chapter-006	88	2	Thou knowest	PERSON
+chapter-006	88	3	Alypius	PERSON
+chapter-006	91	1	Thou hadst	PERSON
+chapter-006	91	2	Thee	PERSON
+chapter-006	92	1	Thou	PERSON
+chapter-006	93	1	Thee	PRODUCT
+chapter-006	94	1	Circensian	NORP
+chapter-006	97	1	Alypius	PERSON
+chapter-006	99	1	Rome	GPE
+chapter-006	100	1	one day	DATE
+chapter-006	100	2	Amphitheatre	FAC
+chapter-006	105	1	one	CARDINAL
+chapter-006	105	2	Thee	PERSON
+chapter-006	110	1	Thou	PERSON
+chapter-006	110	2	Thee	PERSON
+chapter-006	113	1	mid-day	DATE
+chapter-006	113	2	Thou	PERSON
+chapter-006	114	1	Thou	PERSON
+chapter-006	115	1	Alypius	ORG
+chapter-006	122	1	Thou	PERSON
+chapter-006	125	1	Alypius	ORG
+chapter-006	129	1	Alypius	ORG
+chapter-006	131	1	Alypius	PERSON
+chapter-006	131	2	Thy Word	PERSON
+chapter-006	131	3	Thy Church	ORG
+chapter-006	132	1	Rome	GPE
+chapter-006	132	2	Milan	GPE
+chapter-006	135	1	Rome	GPE
+chapter-006	135	2	Italian	NORP
+chapter-006	135	3	Treasury	ORG
+chapter-006	138	1	Alypius	ORG
+chapter-006	139	1	Alypius	PERSON
+chapter-006	139	2	Alypius	ORG
+chapter-006	139	3	Alypius	ORG
+chapter-006	140	1	one	CARDINAL
+chapter-006	140	2	Praetorian	NORP
+chapter-006	142	1	Thy Truth: If	WORK_OF_ART
+chapter-006	143	1	ye	PERSON
+chapter-006	145	1	Nebridius	ORG
+chapter-006	145	2	Milan	GPE
+chapter-006	147	1	three	CARDINAL
+chapter-006	147	2	Thee	PERSON
+chapter-006	147	3	Thou	PERSON
+chapter-006	151	1	my thirtieth year	DATE
+chapter-006	151	2	Tomorrow	DATE
+chapter-006	151	3	Faustus	ORG
+chapter-006	151	4	Manichee	PERSON
+chapter-006	152	1	ye Academicians	NORP
+chapter-006	154	1	Lo	PERSON
+chapter-006	160	1	hours	TIME
+chapter-006	161	1	Catholic	NORP
+chapter-006	174	1	Christian	NORP
+chapter-006	183	1	from day to day	DATE
+chapter-006	183	2	Thee	PERSON
+chapter-006	185	1	Thy	PERSON
+chapter-006	186	1	Thou	PERSON
+chapter-006	186	2	Thou	PERSON
+chapter-006	186	3	Thine	NORP
+chapter-006	186	4	Thee	PERSON
+chapter-006	191	1	Alypius	ORG
+chapter-006	197	1	Thou	PERSON
+chapter-006	199	1	daily	DATE
+chapter-006	199	2	Thy	PERSON
+chapter-006	200	1	daily	DATE
+chapter-006	200	2	Thee	PERSON
+chapter-006	200	3	Thou	PERSON
+chapter-006	200	4	Thou	PERSON
+chapter-006	201	1	Thou	PERSON
+chapter-006	203	1	two years	DATE
+chapter-006	204	1	one	CARDINAL
+chapter-006	205	1	Romanianus	LOC
+chapter-006	206	1	two	CARDINAL
+chapter-006	206	2	annual	DATE
+chapter-006	209	1	Thou	PERSON
+chapter-006	209	2	Thine	NORP
+chapter-006	209	3	season	DATE
+chapter-006	211	1	Afric	ORG
+chapter-006	211	2	Thee	ORG
+chapter-006	212	1	two years	DATE
+chapter-006	214	1	Thee	PERSON
+chapter-006	214	2	Thee	PERSON
+chapter-006	215	1	Thou	PERSON
+chapter-006	217	1	Alypius	PERSON
+chapter-006	217	2	Nebridius	PERSON
+chapter-006	217	3	Epicurus	PERSON
+chapter-006	217	4	Epicurus	ORG
+chapter-006	223	1	Thee	PERSON
+chapter-006	224	1	Thou	PERSON

@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_77	1	1	LXXVII	GPE
+shakespeare-sonnets_77	3	1	Thou	PERSON
+shakespeare-sonnets_77	3	2	Time	ORG
+shakespeare-sonnets_77	5	1	thou shalt	PERSON
+shakespeare-sonnets_77	6	1	Shall	ORG

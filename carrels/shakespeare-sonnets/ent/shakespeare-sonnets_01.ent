@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_01	1	1	I.	ORG
+shakespeare-sonnets_01	2	1	Thy	PERSON
+shakespeare-sonnets_01	2	2	Thou	PERSON
+shakespeare-sonnets_01	2	3	churl mak'st	PERSON
+shakespeare-sonnets_01	2	4	glutton	PERSON

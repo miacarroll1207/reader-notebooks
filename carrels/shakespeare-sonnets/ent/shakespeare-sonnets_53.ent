@@ -1,0 +1,9 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_53	1	1	LIII	ORG
+shakespeare-sonnets_53	2	1	millions	CARDINAL
+shakespeare-sonnets_53	3	1	one	CARDINAL
+shakespeare-sonnets_53	4	1	Describe Adonis	PERSON
+shakespeare-sonnets_53	4	2	Helen	PERSON
+shakespeare-sonnets_53	4	3	Grecian	GPE
+shakespeare-sonnets_53	4	4	the year	DATE
+shakespeare-sonnets_53	4	5	one	CARDINAL

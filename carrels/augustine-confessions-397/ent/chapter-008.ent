@@ -1,0 +1,269 @@
+id	sid	eid	entity	type
+chapter-008	1	1	Thee Thy	PRODUCT
+chapter-008	2	1	Thee	PERSON
+chapter-008	2	2	Thee	PERSON
+chapter-008	3	1	Thee	ORG
+chapter-008	3	2	thanksgiving	DATE
+chapter-008	4	1	Thee	PERSON
+chapter-008	4	2	earth	LOC
+chapter-008	5	1	Thee	PERSON
+chapter-008	7	1	Thee	PERSON
+chapter-008	7	2	Thee	PERSON
+chapter-008	10	1	Thou	PERSON
+chapter-008	10	2	Simplicianus	ORG
+chapter-008	10	3	Thine	NORP
+chapter-008	11	1	Thee	PERSON
+chapter-008	12	1	years	DATE
+chapter-008	12	2	Thy	PERSON
+chapter-008	14	1	one	CARDINAL
+chapter-008	17	1	Apostle	ORG
+chapter-008	19	1	Truth	LOC
+chapter-008	21	1	Thy	PERSON
+chapter-008	21	2	Thee	PERSON
+chapter-008	21	3	Creator	PERSON
+chapter-008	21	4	Thy Word	PERSON
+chapter-008	21	5	Thee	PERSON
+chapter-008	21	6	Thee	PERSON
+chapter-008	21	7	Thou	PERSON
+chapter-008	23	1	Thou placedst	PERSON
+chapter-008	24	1	Thou hast	PERSON
+chapter-008	24	2	Behold	PERSON
+chapter-008	24	3	Desire	PERSON
+chapter-008	26	1	Ambrose	PERSON
+chapter-008	26	2	Bishop	PRODUCT
+chapter-008	26	3	Thy	PERSON
+chapter-008	28	1	Victorinus	GPE
+chapter-008	28	2	Rome	GPE
+chapter-008	28	3	Christian	NORP
+chapter-008	28	4	Latin	LANGUAGE
+chapter-008	28	5	His Word	PERSON
+chapter-008	29	1	Christ	ORG
+chapter-008	29	2	Rome	GPE
+chapter-008	30	1	Thee	PERSON
+chapter-008	30	2	the Roman Forum	LOC
+chapter-008	30	3	Rome	GPE
+chapter-008	30	4	Anubis	GPE
+chapter-008	30	5	Venus	LOC
+chapter-008	30	6	Minerva	PERSON
+chapter-008	30	7	Rome	GPE
+chapter-008	30	8	Victorinus	LOC
+chapter-008	30	9	Thy Christ	ORG
+chapter-008	30	10	Cross	ORG
+chapter-008	32	1	Simplicianus	ORG
+chapter-008	32	2	Christian	NORP
+chapter-008	32	3	Simplicianus	ORG
+chapter-008	32	4	Christian	NORP
+chapter-008	33	1	Christians	NORP
+chapter-008	33	2	the Church of Christ	ORG
+chapter-008	34	1	Christians	NORP
+chapter-008	35	1	Christian	NORP
+chapter-008	35	2	Simplicianus	ORG
+chapter-008	36	1	Babylonian	NORP
+chapter-008	36	2	Libanus	WORK_OF_ART
+chapter-008	37	1	Christ	ORG
+chapter-008	37	2	Thy Word	PERSON
+chapter-008	37	3	Simplicianus	ORG
+chapter-008	37	4	Church	ORG
+chapter-008	37	5	Christian	NORP
+chapter-008	39	1	first	ORDINAL
+chapter-008	39	2	Catechumen	GPE
+chapter-008	39	3	Rome	GPE
+chapter-008	39	4	Church	ORG
+chapter-008	42	1	the hour	TIME
+chapter-008	42	2	Rome	GPE
+chapter-008	42	3	Victorinus	PERSON
+chapter-008	43	1	Thy meek	PERSON
+chapter-008	44	1	one	CARDINAL
+chapter-008	52	1	Thou	PERSON
+chapter-008	52	2	ninety-nine	CARDINAL
+chapter-008	54	1	Thou	PERSON
+chapter-008	55	1	Thou	PERSON
+chapter-008	55	2	Thou	PERSON
+chapter-008	57	1	yea	ORG
+chapter-008	62	1	Yea	PERSON
+chapter-008	68	1	Thou	PERSON
+chapter-008	68	2	Thee	PERSON
+chapter-008	68	3	Thee	PERSON
+chapter-008	71	1	earth	LOC
+chapter-008	71	2	the end of ages	DATE
+chapter-008	71	3	first	ORDINAL
+chapter-008	71	4	Thou	PERSON
+chapter-008	73	1	Thou	PERSON
+chapter-008	74	1	Thou	PERSON
+chapter-008	74	2	Thee	PERSON
+chapter-008	76	1	Victorinus	LOC
+chapter-008	76	2	Thee	PERSON
+chapter-008	76	3	Light	PERSON
+chapter-008	76	4	Thee	PERSON
+chapter-008	76	5	Thy	PERSON
+chapter-008	78	1	one	CARDINAL
+chapter-008	81	1	Thou	PERSON
+chapter-008	81	2	Thou chosen	PERSON
+chapter-008	81	3	Thou	PERSON
+chapter-008	82	1	Thou soundedst	PERSON
+chapter-008	82	2	Paulus the Proconsul	PERSON
+chapter-008	82	3	Thy Christ	ORG
+chapter-008	82	4	Saul	PERSON
+chapter-008	82	5	Paul	PERSON
+chapter-008	83	1	one	CARDINAL
+chapter-008	85	1	Victorinus	LOC
+chapter-008	85	2	Victorinus	GPE
+chapter-008	86	1	Thine	GPE
+chapter-008	86	2	Simplicianus	GPE
+chapter-008	86	3	Victorinus	DATE
+chapter-008	87	1	days	DATE
+chapter-008	87	2	the Emperor Julian	NORP
+chapter-008	87	3	Christians	NORP
+chapter-008	87	4	Thy Word	PERSON
+chapter-008	87	5	Thou	PERSON
+chapter-008	87	6	Thee	PERSON
+chapter-008	92	1	Thee	PERSON
+chapter-008	92	2	Thee	PERSON
+chapter-008	93	1	two	CARDINAL
+chapter-008	93	2	one	CARDINAL
+chapter-008	93	3	one	CARDINAL
+chapter-008	99	1	Thee	PERSON
+chapter-008	100	1	earth	LOC
+chapter-008	100	2	Thy	PERSON
+chapter-008	101	1	Thee	PERSON
+chapter-008	102	1	half	CARDINAL
+chapter-008	103	1	Thee	PERSON
+chapter-008	103	2	Awake	PERSON
+chapter-008	103	3	Christ	ORG
+chapter-008	104	1	Thou	PERSON
+chapter-008	104	2	Thou	PERSON
+chapter-008	104	3	Anon	PERSON
+chapter-008	107	1	Jesus Christ	PERSON
+chapter-008	108	1	Thou	PERSON
+chapter-008	108	2	Thy	PERSON
+chapter-008	109	1	daily	DATE
+chapter-008	109	2	Thee	PERSON
+chapter-008	110	1	Thy Church	ORG
+chapter-008	111	1	third	ORDINAL
+chapter-008	112	1	Nebridius	ORG
+chapter-008	112	2	Verecundus	PERSON
+chapter-008	112	3	Milan	GPE
+chapter-008	114	1	as many hours	TIME
+chapter-008	115	1	Nebridius	ORG
+chapter-008	115	2	Alypius	PERSON
+chapter-008	115	3	one	CARDINAL
+chapter-008	115	4	African	NORP
+chapter-008	116	1	Apostle Paul	PERSON
+chapter-008	118	1	Christian	NORP
+chapter-008	118	2	Thee	PERSON
+chapter-008	119	1	Scriptures	PRODUCT
+chapter-008	119	2	Antony	GPE
+chapter-008	119	3	Egyptian	NORP
+chapter-008	119	4	that hour	TIME
+chapter-008	120	1	one	CARDINAL
+chapter-008	121	1	Thy	PERSON
+chapter-008	121	2	Church Catholic	PERSON
+chapter-008	123	1	Thee	PERSON
+chapter-008	124	1	Milan	GPE
+chapter-008	124	2	Ambrose	GPE
+chapter-008	126	1	one afternoon	TIME
+chapter-008	126	2	Triers	NORP
+chapter-008	126	3	Circensian	NORP
+chapter-008	126	4	three	CARDINAL
+chapter-008	126	5	one	CARDINAL
+chapter-008	126	6	two	CARDINAL
+chapter-008	126	7	Antony	ORG
+chapter-008	127	1	one	CARDINAL
+chapter-008	127	2	Thee	PERSON
+chapter-008	128	1	two	CARDINAL
+chapter-008	138	1	Thou sawest	PERSON
+chapter-008	139	1	Thine	NORP
+chapter-008	139	2	this hour	TIME
+chapter-008	142	1	Thine	WORK_OF_ART
+chapter-008	142	2	Thee	PERSON
+chapter-008	143	1	the day	DATE
+chapter-008	145	1	earth	LOC
+chapter-008	146	1	two	CARDINAL
+chapter-008	148	1	Thou	PERSON
+chapter-008	150	1	Thou	PERSON
+chapter-008	152	1	Thee	PERSON
+chapter-008	153	1	my years	DATE
+chapter-008	153	2	twelve	CARDINAL
+chapter-008	153	3	Cicero	ORG
+chapter-008	153	4	Hortensius	ORG
+chapter-008	154	1	Thee	PERSON
+chapter-008	157	1	from day to day	DATE
+chapter-008	157	2	Thee	PERSON
+chapter-008	160	1	years	DATE
+chapter-008	161	1	Pontitianus	PERSON
+chapter-008	164	1	Thee	PERSON
+chapter-008	167	1	Alypius	ORG
+chapter-008	176	1	Thou	PERSON
+chapter-008	178	1	Alypius	PERSON
+chapter-008	181	1	Thy	PERSON
+chapter-008	183	1	half	CARDINAL
+chapter-008	183	2	one	CARDINAL
+chapter-008	191	1	Adam	PERSON
+chapter-008	207	1	two	CARDINAL
+chapter-008	207	2	one	CARDINAL
+chapter-008	208	1	two	CARDINAL
+chapter-008	208	2	two	CARDINAL
+chapter-008	208	3	two	CARDINAL
+chapter-008	208	4	one	CARDINAL
+chapter-008	209	1	Thy Apostle	PERSON
+chapter-008	209	2	Ye	PERSON
+chapter-008	210	1	Thee	PERSON
+chapter-008	216	1	Adam	PERSON
+chapter-008	217	1	two	CARDINAL
+chapter-008	218	1	Behold	PERSON
+chapter-008	218	2	two	CARDINAL
+chapter-008	218	3	one	CARDINAL
+chapter-008	222	1	one	CARDINAL
+chapter-008	222	2	two	CARDINAL
+chapter-008	224	1	two	CARDINAL
+chapter-008	224	2	two	CARDINAL
+chapter-008	224	3	one	CARDINAL
+chapter-008	224	4	one	CARDINAL
+chapter-008	224	5	one	CARDINAL
+chapter-008	225	1	two	CARDINAL
+chapter-008	225	2	one	CARDINAL
+chapter-008	225	3	two	CARDINAL
+chapter-008	225	4	two	CARDINAL
+chapter-008	225	5	two	CARDINAL
+chapter-008	225	6	one	CARDINAL
+chapter-008	226	1	Thou	PERSON
+chapter-008	226	2	one	CARDINAL
+chapter-008	226	3	one day	DATE
+chapter-008	226	4	thirdly	ORDINAL
+chapter-008	226	5	rob another's	PERSON
+chapter-008	226	6	fourthly	ORDINAL
+chapter-008	226	7	four	CARDINAL
+chapter-008	228	1	Apostle	ORG
+chapter-008	230	1	Gospel	ORG
+chapter-008	234	1	one	CARDINAL
+chapter-008	234	2	one	CARDINAL
+chapter-008	235	1	first	ORDINAL
+chapter-008	237	1	Thou	PERSON
+chapter-008	248	1	less than half	CARDINAL
+chapter-008	251	1	Continency	GPE
+chapter-008	251	2	Continence	PERSON
+chapter-008	251	3	Thee	PERSON
+chapter-008	252	1	Canst	WORK_OF_ART
+chapter-008	258	1	earth	LOC
+chapter-008	261	1	Alypius	ORG
+chapter-008	263	1	Alypius	PERSON
+chapter-008	266	1	Thee	PERSON
+chapter-008	267	1	Thee	PERSON
+chapter-008	267	2	Thou	PERSON
+chapter-008	268	1	Thou	PERSON
+chapter-008	270	1	morrow	DATE
+chapter-008	270	2	tomorrow	DATE
+chapter-008	272	1	this hour	TIME
+chapter-008	276	1	first	ORDINAL
+chapter-008	277	1	Antony	GPE
+chapter-008	277	2	Gospel	ORG
+chapter-008	277	3	Thee	ORG
+chapter-008	278	1	Alypius	PERSON
+chapter-008	278	2	Apostle	ORG
+chapter-008	279	1	first	ORDINAL
+chapter-008	279	2	Jesus Christ	PERSON
+chapter-008	281	1	Alypius	ORG
+chapter-008	286	1	Thee	PERSON
+chapter-008	286	2	Thou	PERSON
+chapter-008	287	1	Thou hadst	PERSON
+chapter-008	288	1	Thou	PERSON

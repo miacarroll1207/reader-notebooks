@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_31	1	1	XXXI	ORG
+shakespeare-sonnets_31	2	1	Love	WORK_OF_ART
+shakespeare-sonnets_31	2	2	Love	PERSON
+shakespeare-sonnets_31	3	1	Hath	PERSON

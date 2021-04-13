@@ -1,0 +1,5 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_08	6	1	Mark	PERSON
+shakespeare-sonnets_08	6	2	one	CARDINAL
+shakespeare-sonnets_08	6	3	one	CARDINAL
+shakespeare-sonnets_08	6	4	one	CARDINAL

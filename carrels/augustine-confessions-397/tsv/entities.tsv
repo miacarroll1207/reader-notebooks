@@ -1,0 +1,453 @@
+entity	type	frequency
+thee	PERSON	848
+thou	PERSON	665
+thy	PERSON	162
+earth	LOC	151
+thou hast	PERSON	30
+truth	LOC	26
+alypius	PERSON	24
+thy word	PERSON	23
+thine	GPE	23
+thou wert	PERSON	21
+rome	GPE	20
+yea	PERSON	19
+thy spirit	PERSON	18
+thou madest	PERSON	18
+ye	PERSON	17
+thou knowest	PERSON	15
+god	PERSON	14
+creator	PERSON	14
+christ	ORG	14
+spirit	ORG	13
+nebridius	ORG	13
+thy church	ORG	11
+wisdom	ORG	8
+thou hadst	PERSON	8
+milan	GPE	8
+earth	LOC	8
+church	ORG	8
+the holy ghost	ORG	7
+moon	PERSON	7
+trinity	ORG	7
+thy son	PERSON	7
+thy christ	ORG	7
+thou seest	PERSON	7
+jesus christ	PERSON	7
+faustus	ORG	7
+adam	PERSON	7
+yea	ORG	6
+victorinus	GPE	6
+thy name	PERSON	6
+simplicianus	ORG	6
+lord	GPE	6
+jerusalem	GPE	6
+the creator	PERSON	5
+thy wisdom	GPE	5
+thy truth	GPE	5
+thy scripture	PERSON	5
+thy book	PERSON	5
+son	PERSON	5
+manichaeus	PERSON	5
+light	PERSON	5
+holy ghost	PERSON	5
+gospel	ORG	5
+east	LOC	4
+whom thou	PERSON	4
+verecundus	PERSON	4
+thy scriptures	PERSON	4
+thou mayest	PERSON	4
+substance	ORG	4
+sacraments	ORG	4
+prophets	ORG	4
+manichees	ORG	4
+jesus	PERSON	4
+jacob	PERSON	4
+gentiles	PERSON	4
+david	PERSON	4
+bridegroom	ORG	4
+apostle	ORG	4
+angel	ORG	4
+ambrose	PERSON	4
+wherein thou	PERSON	3
+wert thou	PERSON	3
+loveth	PERSON	3
+fed	ORG	3
+whom	PERSON	3
+thy sacrament	PERSON	3
+thy grace	PERSON	3
+thy gift	PERSON	3
+thy catholic church	ORG	3
+thy apostle	PERSON	3
+ruler	PERSON	3
+psalm	LOC	3
+perchance	ORG	3
+ostia	PERSON	3
+manichee	PERSON	3
+lo	PERSON	3
+helper	ORG	3
+firminus	PERSON	3
+eve	PERSON	3
+esau	ORG	3
+egypt	GPE	3
+dido	PERSON	3
+comforter	PERSON	3
+catechumen	GPE	3
+behold	PERSON	3
+antony	GPE	3
+africa	LOC	3
+the man christ jesus	ORG	2
+the church catholic	ORG	2
+loveth thee	PERSON	2
+lo	PERSON	2
+knoweth thee	PERSON	2
+judgeth	PERSON	2
+denieth	PERSON	2
+ye	PERSON	2
+willeth	PERSON	2
+virgin	PERSON	2
+victor	PERSON	2
+victim	ORG	2
+time	ORG	2
+thyself	GPE	2
+thy unity	ORG	2
+thy substance	ORG	2
+thy sacraments	PERSON	2
+thy hymns	PERSON	2
+thy creation	PERSON	2
+thy books	ORG	2
+thy baptism	PERSON	2
+thy altar	PERSON	2
+thou shouldest	PERSON	2
+thou gavest	PERSON	2
+thou art	PERSON	2
+thagaste	GPE	2
+sun	PERSON	2
+strength	ORG	2
+scripture	ORG	2
+saviour	GPE	2
+run ye	PERSON	2
+psalter	PERSON	2
+priest	LOC	2
+physician	PERSON	2
+paul	PERSON	2
+patricius	PERSON	2
+moses	PERSON	2
+medea	PERSON	2
+macedonia	GPE	2
+law	PERSON	2
+latins	PERSON	2
+juno	PERSON	2
+israel	GPE	2
+isaac	PERSON	2
+hortensius	ORG	2
+holy, holy, holy	ORG	2
+his word	PERSON	2
+himself	GPE	2
+guardian	ORG	2
+good	PERSON	2
+faith	PERSON	2
+euodius	ORG	2
+epicurus	PERSON	2
+devil	PERSON	2
+confessions	GPE	2
+circus	LOC	2
+cicero	ORG	2
+beginning	LOC	2
+babylon	ORG	2
+apostle paul	PERSON	2
+afric	ORG	2
+abraham	PERSON	2
+yea thou	PERSON	1
+ye transgressors	ORG	1
+ye stolen	PERSON	1
+ye sons	ORG	1
+ye shall	ORG	1
+ye holy fires	LOC	1
+whereon feedest thou	PERSON	1
+whereof	ORG	1
+wherein ye	PERSON	1
+wherein	PERSON	1
+whereby thou	PERSON	1
+whereat rejoicest thou	ORG	1
+wert infinite	PERSON	1
+ways express	ORG	1
+wantonness	PERSON	1
+us	GPE	1
+true,--what	ORG	1
+thou wert	PERSON	1
+thou incomprehensible inveigler	PERSON	1
+thou	PERSON	1
+thee withal	PERSON	1
+the ministry of the outer	ORG	1
+the ministry of mortal men	ORG	1
+the heavens, sun	ORG	1
+the fruitful earth	LOC	1
+the virgin mary	PERSON	1
+the unity of the trinity	ORG	1
+the trinity of the unity	ORG	1
+the roman forum	LOC	1
+the psalmody of thy church	ORG	1
+the man of thy	PERSON	1
+the incarnation of thy son	ORG	1
+the holy spirit	PERSON	1
+the grammar school	ORG	1
+the eternal truth	ORG	1
+the emperor valentinian	ORG	1
+the eastern churches	ORG	1
+the divine books	ORG	1
+the church of milan	ORG	1
+the church of christ	ORG	1
+the catholic church	ORG	1
+the bridal city	GPE	1
+the ambrosian basilica	LOC	1
+supreme authority	ORG	1
+sun	PERSON	1
+standeth	LOC	1
+spake,--even	PERSON	1
+sin therein	PERSON	1
+sigheth	PERSON	1
+rob another''s	PERSON	1
+reposeth	PERSON	1
+only.-if	ORG	1
+neglecteth thee	PERSON	1
+nay	ORG	1
+men:--thou	PERSON	1
+lieth	PERSON	1
+knoweth	PERSON	1
+kindled	PERSON	1
+joy	PERSON	1
+i.e.	GPE	1
+forsaken,--thou	GPE	1
+factito	GPE	1
+facio	GPE	1
+enacteth	PERSON	1
+east to east	LOC	1
+dispenser	PERSON	1
+discovereth	PERSON	1
+contemplateth	ORG	1
+burthen	GPE	1
+approveth	PERSON	1
+all offices of thy ministry	ORG	1
+agito	GPE	1
+writ	PERSON	1
+word	GPE	1
+wills	ORG	1
+wherefore thou	PERSON	1
+vindicianus	ORG	1
+verily thou	PERSON	1
+venus	LOC	1
+universe	ORG	1
+unity,--who	ORG	1
+tully''s orations	ORG	1
+truth itself	GPE	1
+trust	PERSON	1
+troy	GPE	1
+trojan	GPE	1
+trine unity	ORG	1
+treasury	ORG	1
+tobias	PERSON	1
+thy meek	PERSON	1
+thy kingdom	GPE	1
+thy easy yoke	PERSON	1
+thy city	GPE	1
+thy beams	PERSON	1
+thy wisdom thou	PERSON	1
+thy will	PERSON	1
+thy to-day	PERSON	1
+thy ten commandments	PERSON	1
+thy prophets	PERSON	1
+thy prelate	PERSON	1
+thy power	ORG	1
+thy paul	PERSON	1
+thy paradise	PERSON	1
+thy only begotten	PERSON	1
+thy omnipotency	PERSON	1
+thy nod	PERSON	1
+thy name''s	PERSON	1
+thy mediator	ORG	1
+thy knowledge	PERSON	1
+thy image	ORG	1
+thy holy spirit	PERSON	1
+thy holy scripture	PERSON	1
+thy holy one	PERSON	1
+thy holy	PERSON	1
+thy highness	PERSON	1
+thy gospel	ORG	1
+thy god	PERSON	1
+thy faith	PERSON	1
+thy evangelists	PERSON	1
+thy eternity	PERSON	1
+thy eternal word	PERSON	1
+thy essence knoweth	PERSON	1
+thy commandment	PERSON	1
+thy blessedness	PERSON	1
+thy bible	PERSON	1
+thy apostles	PERSON	1
+thy ambrose	PERSON	1
+thrones, dominions, principalities	ORG	1
+thou wouldest	PERSON	1
+thou the creator of the universe	PERSON	1
+thou soundedst	PERSON	1
+thou shouldest examine	PERSON	1
+thou shinest	PERSON	1
+thou shalt	PERSON	1
+thou sawest	PERSON	1
+thou placedst	PERSON	1
+thou pitiest	PERSON	1
+thou mightest	PERSON	1
+thou meanest	PERSON	1
+thou mayest owe	PERSON	1
+thou lovest	PERSON	1
+thou knewest	PERSON	1
+thou justifieth	PERSON	1
+thou heldest thy	PERSON	1
+thou hearest	PERSON	1
+thou hast begun	PERSON	1
+thou fairest	PERSON	1
+thou draw	PERSON	1
+thou discoverest	PERSON	1
+thou commandest	PERSON	1
+thou cleansest	PERSON	1
+thou chosen	PERSON	1
+thou carry	PERSON	1
+thou blamest	PERSON	1
+thou begannest	PERSON	1
+thou aloud	PERSON	1
+thou thyself	PERSON	1
+thou thy	PERSON	1
+thou power	PERSON	1
+thou omnipotent	PERSON	1
+thou light	PERSON	1
+thou good	PERSON	1
+thou god	PERSON	1
+thou beauty of ancient days	PERSON	1
+thine image	ORG	1
+thessalonica	GPE	1
+thee thyself	PERSON	1
+thee thy	PERSON	1
+thee thou	PERSON	1
+thee priest	PERSON	1
+thee god	PERSON	1
+the coeternal	ORG	1
+speak thou	PERSON	1
+solomon	PERSON	1
+sodom	ORG	1
+shall	ORG	1
+seraphim	GPE	1
+seneca	PERSON	1
+saviour thy son	PERSON	1
+saviour jesus christ	ORG	1
+saul	PERSON	1
+saturn	ORG	1
+sacrifice	GPE	1
+sacraments of thy church	ORG	1
+romanianus	LOC	1
+rhetoric	GPE	1
+redeemer	PERSON	1
+pylades and orestes	ORG	1
+prophet	PERSON	1
+prodigality	ORG	1
+predicaments	ORG	1
+powers	ORG	1
+pontitianus	PERSON	1
+paulus the proconsul	PERSON	1
+onesiphorus	ORG	1
+o truth my light	ORG	1
+o righteousness and innocency	ORG	1
+o christ jesus	ORG	1
+noah	PERSON	1
+nebridius joy	PERSON	1
+moses thy	PERSON	1
+moon	PERSON	1
+monnica thy	PERSON	1
+minerva	PERSON	1
+mars	LOC	1
+madaura	PERSON	1
+love	PERSON	1
+light?--unto thee	PERSON	1
+lay	PERSON	1
+latinum	ORG	1
+knoweth	PERSON	1
+justina	GPE	1
+jupiter	LOC	1
+jove	PERSON	1
+joseph	PERSON	1
+jordan	GPE	1
+jew	PERSON	1
+italy	GPE	1
+isaiah	PERSON	1
+infinite	PERSON	1
+increase	ORG	1
+hymns	PERSON	1
+husband	ORG	1
+humble	PERSON	1
+hosts	ORG	1
+holy writ	PERSON	1
+holy	PERSON	1
+his cross	ORG	1
+his church	ORG	1
+his christ	ORG	1
+him	PERSON	1
+hierius	ORG	1
+hereupon	GPE	1
+helpidius	PERSON	1
+hearken	ORG	1
+greeks	PERSON	1
+grecian	GPE	1
+great jove	PERSON	1
+great	PERSON	1
+gods	ORG	1
+gervasius	PERSON	1
+genesis	GPE	1
+gratias tibi	ORG	1
+forthwith	PERSON	1
+form	ORG	1
+fish	PERSON	1
+fame	ORG	1
+faithful	PERSON	1
+evangelists	ORG	1
+essence and life	ORG	1
+ergo	PERSON	1
+episcopal	GPE	1
+entrust truth	ORG	1
+empress	ORG	1
+elijah	ORG	1
+eat ye	PERSON	1
+drunkard	ORG	1
+dost thou	PERSON	1
+divinity	LOC	1
+divine	PERSON	1
+disposer	PERSON	1
+dispenser	PERSON	1
+deus creator	PERSON	1
+desire	PERSON	1
+danae	GPE	1
+cross	ORG	1
+court	ORG	1
+couldest thou	PERSON	1
+continency	GPE	1
+continence	PERSON	1
+churches	ORG	1
+church catholic	PERSON	1
+cherubim	ORG	1
+catiline	ORG	1
+cassiacum	PERSON	1
+canticles	ORG	1
+caesar	PERSON	1
+bridegroom thy	PERSON	1
+bride	PERSON	1
+bishop of alexandria	ORG	1
+bishop thy	PERSON	1
+beauty	PERSON	1
+book xi lord	PERSON	1
+awake	PERSON	1
+athanasius	PERSON	1
+apostolic scripture	PERSON	1
+anubis	GPE	1
+anon	PERSON	1
+angels	ORG	1
+angel of	LOC	1
+alypius a catechumen	ORG	1
+alas	ORG	1
+aeneas	PERSON	1
+adeodatus	ORG	1

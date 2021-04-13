@@ -1,0 +1,150 @@
+id	sid	eid	entity	type
+homer-odyssey_09	1	1	CYCLOPES	ORG
+homer-odyssey_09	2	1	Ulysses	ORG
+homer-odyssey_09	2	2	King Alcinous	WORK_OF_ART
+homer-odyssey_09	6	1	Firstly	ORDINAL
+homer-odyssey_09	6	2	one day	DATE
+homer-odyssey_09	7	1	Laertes	ORG
+homer-odyssey_09	8	1	Ithaca	GPE
+homer-odyssey_09	8	2	Neritum	ORG
+homer-odyssey_09	8	3	Zacynthus	GPE
+homer-odyssey_09	12	1	Jove	ORG
+homer-odyssey_09	12	2	Troy	GPE
+homer-odyssey_09	13	1	first	ORDINAL
+homer-odyssey_09	13	2	Ismarus	ORG
+homer-odyssey_09	13	3	Cicons	ORG
+homer-odyssey_09	17	1	Cicons	PERSON
+homer-odyssey_09	17	2	Cicons	ORG
+homer-odyssey_09	18	1	the morning	TIME
+homer-odyssey_09	18	2	summer	DATE
+homer-odyssey_09	20	1	the day	DATE
+homer-odyssey_09	20	2	morning	TIME
+homer-odyssey_09	20	3	Cicons	PERSON
+homer-odyssey_09	20	4	half a dozen	CARDINAL
+homer-odyssey_09	21	1	Cicons	ORG
+homer-odyssey_09	24	1	two days	DATE
+homer-odyssey_09	24	2	two nights	DATE
+homer-odyssey_09	24	3	the morning of the third day	TIME
+homer-odyssey_09	25	1	North	LOC
+homer-odyssey_09	25	2	Cape Malea	PERSON
+homer-odyssey_09	25	3	Cythera	GPE
+homer-odyssey_09	26	1	nine days	DATE
+homer-odyssey_09	26	2	the tenth day	DATE
+homer-odyssey_09	26	3	Lotus-	GPE
+homer-odyssey_09	27	1	mid - day	DATE
+homer-odyssey_09	28	1	two	CARDINAL
+homer-odyssey_09	28	2	third	ORDINAL
+homer-odyssey_09	29	1	Lotus-	NORP
+homer-odyssey_09	29	2	Lotus-	NORP
+homer-odyssey_09	31	1	Cyclopes	PERSON
+homer-odyssey_09	32	1	Cyclopes	ORG
+homer-odyssey_09	34	1	Cyclopes	ORG
+homer-odyssey_09	35	1	year	DATE
+homer-odyssey_09	35	2	year	DATE
+homer-odyssey_09	36	1	Cyclopes	ORG
+homer-odyssey_09	40	1	the night	TIME
+homer-odyssey_09	42	1	Dawn	ORG
+homer-odyssey_09	42	2	Jove	PERSON
+homer-odyssey_09	43	1	three	CARDINAL
+homer-odyssey_09	44	1	twelve	CARDINAL
+homer-odyssey_09	44	2	nine	CARDINAL
+homer-odyssey_09	44	3	ten	CARDINAL
+homer-odyssey_09	44	4	the livelong day	DATE
+homer-odyssey_09	44	5	one	CARDINAL
+homer-odyssey_09	44	6	Cicons	PERSON
+homer-odyssey_09	45	1	Cyclopes	ORG
+homer-odyssey_09	46	1	next morning	TIME
+homer-odyssey_09	54	1	twelve	CARDINAL
+homer-odyssey_09	55	1	Maron	PERSON
+homer-odyssey_09	55	2	Euanthes	GPE
+homer-odyssey_09	55	3	Apollo	ORG
+homer-odyssey_09	55	4	Ismarus	ORG
+homer-odyssey_09	56	1	seven	CARDINAL
+homer-odyssey_09	56	2	twelve	CARDINAL
+homer-odyssey_09	57	1	one	CARDINAL
+homer-odyssey_09	57	2	twenty	CARDINAL
+homer-odyssey_09	62	1	first	ORDINAL
+homer-odyssey_09	65	1	Cyclops	ORG
+homer-odyssey_09	68	1	two and twenty	CARDINAL
+homer-odyssey_09	70	1	half	CARDINAL
+homer-odyssey_09	70	2	half	CARDINAL
+homer-odyssey_09	74	1	Achaeans	NORP
+homer-odyssey_09	74	2	Troy	GPE
+homer-odyssey_09	74	3	Jove	GPE
+homer-odyssey_09	75	1	Agamemnon	PERSON
+homer-odyssey_09	75	2	Atreus	PERSON
+homer-odyssey_09	81	1	Jove	PERSON
+homer-odyssey_09	84	1	Neptune	LOC
+homer-odyssey_09	86	1	one	CARDINAL
+homer-odyssey_09	86	2	two	CARDINAL
+homer-odyssey_09	90	1	Cyclops	ORG
+homer-odyssey_09	91	1	first	ORDINAL
+homer-odyssey_09	92	1	morning	TIME
+homer-odyssey_09	93	1	two	CARDINAL
+homer-odyssey_09	93	2	morning	TIME
+homer-odyssey_09	95	1	Shoo	GPE
+homer-odyssey_09	96	1	Cyclops	ORG
+homer-odyssey_09	96	2	one	CARDINAL
+homer-odyssey_09	98	1	about six feet	QUANTITY
+homer-odyssey_09	98	2	one	CARDINAL
+homer-odyssey_09	100	1	four	CARDINAL
+homer-odyssey_09	100	2	five	CARDINAL
+homer-odyssey_09	101	1	the evening	TIME
+homer-odyssey_09	102	1	two	CARDINAL
+homer-odyssey_09	103	1	'Look here, Cyclops	WORK_OF_ART
+homer-odyssey_09	110	1	Nectar	ORG
+homer-odyssey_09	110	2	Ambrosia	GPE
+homer-odyssey_09	110	3	one	CARDINAL
+homer-odyssey_09	111	1	three	CARDINAL
+homer-odyssey_09	111	2	three	CARDINAL
+homer-odyssey_09	111	3	Noman	PERSON
+homer-odyssey_09	112	1	Noman	PRODUCT
+homer-odyssey_09	112	2	Noman	PRODUCT
+homer-odyssey_09	112	3	Noman	PERSON
+homer-odyssey_09	119	1	two	CARDINAL
+homer-odyssey_09	121	1	Cyclops	ORG
+homer-odyssey_09	122	1	gore	PERSON
+homer-odyssey_09	122	2	Cyclopes	PERSON
+homer-odyssey_09	122	3	quarters	DATE
+homer-odyssey_09	123	1	Polyphemus	GPE
+homer-odyssey_09	126	1	Polyphemus	GPE
+homer-odyssey_09	126	2	Noman	PERSON
+homer-odyssey_09	127	1	Jove	PERSON
+homer-odyssey_09	127	2	Neptune	PERSON
+homer-odyssey_09	128	1	Cyclops	ORG
+homer-odyssey_09	131	1	two	CARDINAL
+homer-odyssey_09	131	2	three	CARDINAL
+homer-odyssey_09	133	1	morning	TIME
+homer-odyssey_09	133	2	Dawn	PERSON
+homer-odyssey_09	134	1	Polyphemus	GPE
+homer-odyssey_09	135	1	first	ORDINAL
+homer-odyssey_09	135	2	night	TIME
+homer-odyssey_09	136	1	Noman	PERSON
+homer-odyssey_09	139	1	Noman	PERSON
+homer-odyssey_09	140	1	first	ORDINAL
+homer-odyssey_09	141	1	Cyclops	ORG
+homer-odyssey_09	144	1	Cyclops	PERSON
+homer-odyssey_09	150	1	Cyclops	PERSON
+homer-odyssey_09	152	1	Cyclops	PERSON
+homer-odyssey_09	152	2	Ulysses	GPE
+homer-odyssey_09	152	3	Laertes	ORG
+homer-odyssey_09	152	4	Ithaca	GPE
+homer-odyssey_09	153	1	Alas	NORP
+homer-odyssey_09	154	1	one	CARDINAL
+homer-odyssey_09	154	2	Telemus	ORG
+homer-odyssey_09	154	3	Eurymus	PERSON
+homer-odyssey_09	154	4	Cyclopes	PERSON
+homer-odyssey_09	154	5	some day	DATE
+homer-odyssey_09	154	6	Ulysses	GPE
+homer-odyssey_09	155	1	Ulysses	ORG
+homer-odyssey_09	155	2	Neptune	ORG
+homer-odyssey_09	155	3	Neptune	ORG
+homer-odyssey_09	157	1	Neptune	LOC
+homer-odyssey_09	158	1	Neptune	ORG
+homer-odyssey_09	158	2	Ulysses	GPE
+homer-odyssey_09	159	1	Neptune	ORG
+homer-odyssey_09	160	1	first	ORDINAL
+homer-odyssey_09	164	1	Cyclops	ORG
+homer-odyssey_09	167	1	the livelong day	DATE
+homer-odyssey_09	168	1	morning	TIME
+homer-odyssey_09	168	2	Dawn	PERSON

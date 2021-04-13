@@ -1,0 +1,6 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_21	1	1	XXI	ORG
+shakespeare-sonnets_21	2	1	Muse	GPE
+shakespeare-sonnets_21	3	1	earth	LOC
+shakespeare-sonnets_21	3	2	sea	LOC
+shakespeare-sonnets_21	3	3	April	DATE

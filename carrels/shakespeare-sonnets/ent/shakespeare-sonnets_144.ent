@@ -1,0 +1,7 @@
+id	sid	eid	entity	type
+shakespeare-sonnets_144	2	1	Two	CARDINAL
+shakespeare-sonnets_144	2	2	Two	CARDINAL
+shakespeare-sonnets_144	2	3	two	CARDINAL
+shakespeare-sonnets_144	2	4	Tempteth	PERSON
+shakespeare-sonnets_144	3	1	Suspect	PERSON
+shakespeare-sonnets_144	3	2	one	CARDINAL

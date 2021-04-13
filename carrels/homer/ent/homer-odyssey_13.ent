@@ -1,0 +1,122 @@
+id	sid	eid	entity	type
+homer-odyssey_13	1	1	ITHACA	ORG
+homer-odyssey_13	4	1	here night after night	TIME
+homer-odyssey_13	5	1	one	CARDINAL
+homer-odyssey_13	8	1	morning	TIME
+homer-odyssey_13	8	2	Dawn	PERSON
+homer-odyssey_13	10	1	Jove	GPE
+homer-odyssey_13	11	1	Demodocus	ORG
+homer-odyssey_13	12	1	all day	DATE
+homer-odyssey_13	12	2	Ulysses	GPE
+homer-odyssey_13	12	3	Phaeacians	NORP
+homer-odyssey_13	17	1	Ulysses	ORG
+homer-odyssey_13	21	1	a third	CARDINAL
+homer-odyssey_13	24	1	Thereon	ORG
+homer-odyssey_13	25	1	four	CARDINAL
+homer-odyssey_13	30	1	Ithaca	GPE
+homer-odyssey_13	30	2	Phorcys	PERSON
+homer-odyssey_13	30	3	two	CARDINAL
+homer-odyssey_13	32	1	Naiads	LOC
+homer-odyssey_13	35	1	two	CARDINAL
+homer-odyssey_13	35	2	one	CARDINAL
+homer-odyssey_13	35	3	North	LOC
+homer-odyssey_13	35	4	South	LOC
+homer-odyssey_13	37	1	half	CARDINAL
+homer-odyssey_13	37	2	first	ORDINAL
+homer-odyssey_13	38	1	Minerva	ORG
+homer-odyssey_13	38	2	Phaeacians	NORP
+homer-odyssey_13	39	1	Ulysses	ORG
+homer-odyssey_13	40	1	Neptune	LOC
+homer-odyssey_13	40	2	Ulysses	GPE
+homer-odyssey_13	40	3	Jove	PERSON
+homer-odyssey_13	41	1	Jove	PERSON
+homer-odyssey_13	41	2	Phaeacians	NORP
+homer-odyssey_13	43	1	Ithaca	GPE
+homer-odyssey_13	43	2	Troy	GPE
+homer-odyssey_13	44	1	Jove	PERSON
+homer-odyssey_13	46	1	one	CARDINAL
+homer-odyssey_13	48	1	Neptune	LOC
+homer-odyssey_13	48	2	Phaeacian	NORP
+homer-odyssey_13	50	1	Jove	PERSON
+homer-odyssey_13	52	1	Neptune	ORG
+homer-odyssey_13	52	2	Scheria	GPE
+homer-odyssey_13	52	3	Phaeacians	NORP
+homer-odyssey_13	55	1	Phaeacians	NORP
+homer-odyssey_13	56	1	only a moment ago	TIME
+homer-odyssey_13	58	1	Neptune	ORG
+homer-odyssey_13	58	2	one day	DATE
+homer-odyssey_13	58	3	Phaeacian	NORP
+homer-odyssey_13	60	1	first	ORDINAL
+homer-odyssey_13	60	2	twelve	CARDINAL
+homer-odyssey_13	60	3	Neptune	ORG
+homer-odyssey_13	62	1	Phaeacians	NORP
+homer-odyssey_13	62	2	Neptune	ORG
+homer-odyssey_13	62	3	Ulysses	GPE
+homer-odyssey_13	63	1	Jove	PERSON
+homer-odyssey_13	63	2	Minerva	PERSON
+homer-odyssey_13	69	1	Phaeacians	NORP
+homer-odyssey_13	71	1	Phaeacians	NORP
+homer-odyssey_13	74	1	Minerva	PERSON
+homer-odyssey_13	76	1	first	ORDINAL
+homer-odyssey_13	81	1	Minerva	ORG
+homer-odyssey_13	82	1	East	LOC
+homer-odyssey_13	82	2	West	LOC
+homer-odyssey_13	84	1	Ithaca	ORG
+homer-odyssey_13	84	2	Achaean	NORP
+homer-odyssey_13	85	1	Minerva	PERSON
+homer-odyssey_13	86	1	Ithaca	ORG
+homer-odyssey_13	87	1	Idomeneus	ORG
+homer-odyssey_13	87	2	Crete	GPE
+homer-odyssey_13	88	1	Troy	GPE
+homer-odyssey_13	89	1	a very dark night	TIME
+homer-odyssey_13	89	2	Phoenicians	NORP
+homer-odyssey_13	89	3	Pylos	PERSON
+homer-odyssey_13	89	4	Elis	PERSON
+homer-odyssey_13	89	5	Epeans	NORP
+homer-odyssey_13	90	1	night	TIME
+homer-odyssey_13	93	1	Sidonia	GPE
+homer-odyssey_13	94	1	Minerva	PERSON
+homer-odyssey_13	98	1	Jove	PERSON
+homer-odyssey_13	98	2	Minerva	PERSON
+homer-odyssey_13	98	3	Phaeacians	NORP
+homer-odyssey_13	99	1	Phaeacians	NORP
+homer-odyssey_13	101	1	Ulysses	ORG
+homer-odyssey_13	102	1	Achaeans	NORP
+homer-odyssey_13	102	2	the day	DATE
+homer-odyssey_13	102	3	Priam	GPE
+homer-odyssey_13	102	4	that day	DATE
+homer-odyssey_13	102	5	Minerva	PERSON
+homer-odyssey_13	102	6	Phaeacians	NORP
+homer-odyssey_13	103	1	Ithaca	GPE
+homer-odyssey_13	106	1	Minerva	PERSON
+homer-odyssey_13	107	1	no peace night	TIME
+homer-odyssey_13	108	1	Neptune	ORG
+homer-odyssey_13	110	1	Phorcys	PERSON
+homer-odyssey_13	110	2	Naiads	LOC
+homer-odyssey_13	110	3	Neritum	ORG
+homer-odyssey_13	112	1	the old days	DATE
+homer-odyssey_13	112	2	Jove	PERSON
+homer-odyssey_13	113	1	Minerva	PERSON
+homer-odyssey_13	115	1	Phaeacians	NORP
+homer-odyssey_13	116	1	Minerva	PERSON
+homer-odyssey_13	117	1	two	CARDINAL
+homer-odyssey_13	118	1	Minerva	PERSON
+homer-odyssey_13	118	2	Laertes	ORG
+homer-odyssey_13	118	3	these three years	DATE
+homer-odyssey_13	118	4	one	CARDINAL
+homer-odyssey_13	119	1	Ulysses	ORG
+homer-odyssey_13	119	2	Agamemnon	PERSON
+homer-odyssey_13	121	1	the day	DATE
+homer-odyssey_13	121	2	Troy	GPE
+homer-odyssey_13	122	1	three hundred	CARDINAL
+homer-odyssey_13	125	1	Penelope	PERSON
+homer-odyssey_13	125	2	Raven	PRODUCT
+homer-odyssey_13	125	3	Arethusa	GPE
+homer-odyssey_13	126	1	Sparta	GPE
+homer-odyssey_13	126	2	Menelaus	PERSON
+homer-odyssey_13	126	3	Lacedaemon	PERSON
+homer-odyssey_13	127	1	Ulysses	ORG
+homer-odyssey_13	129	1	Minerva	ORG
+homer-odyssey_13	130	1	Menelaus	ORG
+homer-odyssey_13	133	1	Minerva	PERSON
+homer-odyssey_13	134	1	Lacedaemon	PERSON

@@ -1,0 +1,379 @@
+id	sid	eid	entity	type
+chapter-012	1	1	Thy Holy Scripture	PERSON
+chapter-012	7	1	Thine	NORP
+chapter-012	7	2	Truth	LOC
+chapter-012	8	1	Thy Highness	PERSON
+chapter-012	8	2	Thou	PERSON
+chapter-012	8	3	Thou	PERSON
+chapter-012	12	1	earth	LOC
+chapter-012	12	2	earth	LOC
+chapter-012	12	3	earth	LOC
+chapter-012	12	4	earth	LOC
+chapter-012	13	1	earth	LOC
+chapter-012	14	1	Thou	PERSON
+chapter-012	19	1	Thee	PERSON
+chapter-012	23	1	earth	LOC
+chapter-012	26	1	sense";--while	PRODUCT
+chapter-012	27	1	Thee	PRODUCT
+chapter-012	29	1	only.-If	ORG
+chapter-012	29	2	Thee	PERSON
+chapter-012	30	1	Thee	PERSON
+chapter-012	36	1	one	CARDINAL
+chapter-012	37	1	Thee	PERSON
+chapter-012	38	1	Thee	PERSON
+chapter-012	38	2	Thee	PERSON
+chapter-012	39	1	one	CARDINAL
+chapter-012	39	2	Holy, Holy, Holy	ORG
+chapter-012	39	3	Beginning	LOC
+chapter-012	39	4	Thee	PERSON
+chapter-012	39	5	Thy Wisdom	GPE
+chapter-012	39	6	Thine	NORP
+chapter-012	39	7	Substance	GPE
+chapter-012	40	1	Thou	PERSON
+chapter-012	40	2	Thine Only Begotten Son	WORK_OF_ART
+chapter-012	40	3	Thee	PERSON
+chapter-012	40	4	Thee	PERSON
+chapter-012	40	5	Thee	PERSON
+chapter-012	41	1	Thee	PERSON
+chapter-012	41	2	One	CARDINAL
+chapter-012	41	3	Trinity	ORG
+chapter-012	41	4	Trine Unity	ORG
+chapter-012	41	5	Thou	PERSON
+chapter-012	41	6	Thou	PERSON
+chapter-012	41	7	Good	PERSON
+chapter-012	42	1	Thou wert	PERSON
+chapter-012	42	2	Thou	PERSON
+chapter-012	42	3	two	CARDINAL
+chapter-012	42	4	one	CARDINAL
+chapter-012	42	5	Thee	PERSON
+chapter-012	42	6	one	CARDINAL
+chapter-012	42	7	Thou	PERSON
+chapter-012	43	1	earth	LOC
+chapter-012	43	2	Thou	PERSON
+chapter-012	47	1	Thou	PERSON
+chapter-012	47	2	Lord	GPE
+chapter-012	47	3	Thou	PERSON
+chapter-012	48	1	the second day	DATE
+chapter-012	48	2	Thou	PERSON
+chapter-012	49	1	Thou	PERSON
+chapter-012	49	2	Thou	PERSON
+chapter-012	49	3	the third day	DATE
+chapter-012	49	4	Thou madest	PERSON
+chapter-012	50	1	Thou	PERSON
+chapter-012	50	2	Thou	PERSON
+chapter-012	50	3	earth	LOC
+chapter-012	51	1	Thou madest	PERSON
+chapter-012	51	2	Thou	PERSON
+chapter-012	53	1	Spirit	ORG
+chapter-012	53	2	Thy	PERSON
+chapter-012	53	3	Thee	PERSON
+chapter-012	53	4	days	DATE
+chapter-012	54	1	Thou	PERSON
+chapter-012	54	2	Thee	PERSON
+chapter-012	54	3	Trinity	ORG
+chapter-012	54	4	first	ORDINAL
+chapter-012	54	5	Thee	PERSON
+chapter-012	55	1	Yea	PERSON
+chapter-012	55	2	earth	LOC
+chapter-012	55	3	the days	DATE
+chapter-012	56	1	no days	DATE
+chapter-012	57	1	Truth	LOC
+chapter-012	58	1	Thee	PERSON
+chapter-012	59	1	Thee	PERSON
+chapter-012	64	1	Thee	PERSON
+chapter-012	65	1	Thou	PERSON
+chapter-012	66	1	Thy Books	ORG
+chapter-012	67	1	Thou hast	PERSON
+chapter-012	67	2	Thou	PERSON
+chapter-012	67	3	Thou	PERSON
+chapter-012	67	4	Thy	PERSON
+chapter-012	68	1	Thy	PERSON
+chapter-012	68	2	Thee	PERSON
+chapter-012	68	3	Thy	PERSON
+chapter-012	69	1	Thou hast	PERSON
+chapter-012	69	2	Thou	PERSON
+chapter-012	69	3	Thee	PERSON
+chapter-012	69	4	Thee	PERSON
+chapter-012	69	5	Thee	PERSON
+chapter-012	69	6	first	ORDINAL
+chapter-012	70	1	Thy	PERSON
+chapter-012	70	2	Thee	PERSON
+chapter-012	70	3	Thy	PERSON
+chapter-012	71	1	Thou hast	PERSON
+chapter-012	71	2	Thou	PERSON
+chapter-012	71	3	Thee	PERSON
+chapter-012	72	1	Thy Blessedness	PERSON
+chapter-012	72	2	Thee	PERSON
+chapter-012	73	1	Thine	NORP
+chapter-012	73	2	contemplateth	ORG
+chapter-012	73	3	one	CARDINAL
+chapter-012	73	4	Thy city	GPE
+chapter-012	74	1	Thee	PERSON
+chapter-012	74	2	daily	DATE
+chapter-012	74	3	Thy God	PERSON
+chapter-012	75	1	Thee	PERSON
+chapter-012	75	2	one	CARDINAL
+chapter-012	75	3	Thy	PERSON
+chapter-012	75	4	all the days	DATE
+chapter-012	75	5	Thou	PERSON
+chapter-012	76	1	Thy days	DATE
+chapter-012	76	2	Thy years	DATE
+chapter-012	76	3	Thou	PERSON
+chapter-012	77	1	Thee	PERSON
+chapter-012	77	2	Thee	PERSON
+chapter-012	78	1	Thy	PERSON
+chapter-012	78	2	Thee	PERSON
+chapter-012	78	3	Thy	PERSON
+chapter-012	82	1	Thou	PERSON
+chapter-012	82	2	two	CARDINAL
+chapter-012	82	3	Thou	PERSON
+chapter-012	82	4	Thee	PERSON
+chapter-012	83	1	One	CARDINAL
+chapter-012	83	2	one	CARDINAL
+chapter-012	84	1	Thou	PERSON
+chapter-012	84	2	Thou	PERSON
+chapter-012	84	3	Earth	LOC
+chapter-012	84	4	two	QUANTITY
+chapter-012	85	1	Earth	LOC
+chapter-012	86	1	days	DATE
+chapter-012	87	1	Thy Scripture	PERSON
+chapter-012	87	2	Earth	LOC
+chapter-012	87	3	Earth	LOC
+chapter-012	87	4	Thou	PERSON
+chapter-012	87	5	two	CARDINAL
+chapter-012	87	6	one	CARDINAL
+chapter-012	87	7	earth	LOC
+chapter-012	87	8	earth	LOC
+chapter-012	87	9	two	CARDINAL
+chapter-012	87	10	Thy Scripture	PERSON
+chapter-012	87	11	Earth	LOC
+chapter-012	88	1	the second day	DATE
+chapter-012	94	1	Thou	PERSON
+chapter-012	94	2	Thy	PERSON
+chapter-012	94	3	two	CARDINAL
+chapter-012	94	4	Thee	PERSON
+chapter-012	95	1	Genesis	WORK_OF_ART
+chapter-012	96	1	Thou	PERSON
+chapter-012	98	1	one	CARDINAL
+chapter-012	108	1	reposeth	PERSON
+chapter-012	109	1	Thou	PERSON
+chapter-012	109	2	loveth Thee	PERSON
+chapter-012	109	3	Thou	PERSON
+chapter-012	109	4	Thee	PERSON
+chapter-012	111	1	Thou hast	PERSON
+chapter-012	111	2	Thou hast	PERSON
+chapter-012	112	1	Thee	PERSON
+chapter-012	113	1	Wisdom	ORG
+chapter-012	113	2	Thee	PERSON
+chapter-012	113	3	Whom	GPE
+chapter-012	113	4	Thou	PERSON
+chapter-012	115	1	Light	ORG
+chapter-012	115	2	Wisdom	ORG
+chapter-012	116	1	Thine	GPE
+chapter-012	117	1	Thine	GPE
+chapter-012	117	2	Thee	PERSON
+chapter-012	118	1	the Eternity of the Creator Himself before it	LAW
+chapter-012	118	2	Whom	PERSON
+chapter-012	119	1	Thee	PERSON
+chapter-012	119	2	Thou	PERSON
+chapter-012	119	3	Thy	PERSON
+chapter-012	119	4	Thee	PERSON
+chapter-012	119	5	perpetual noon	TIME
+chapter-012	119	6	Thee	PERSON
+chapter-012	124	1	ye	PERSON
+chapter-012	124	2	ye	PERSON
+chapter-012	124	3	the Holy Ghost	WORK_OF_ART
+chapter-012	132	1	Thy Truth	ORG
+chapter-012	135	1	Speak Thou	PERSON
+chapter-012	135	2	Thou	PERSON
+chapter-012	135	3	Thee	PERSON
+chapter-012	135	4	Jerusalem	GPE
+chapter-012	135	5	Jerusalem	GPE
+chapter-012	135	6	Jerusalem	GPE
+chapter-012	135	7	Guardian	ORG
+chapter-012	135	8	Husband	ORG
+chapter-012	135	9	One	CARDINAL
+chapter-012	136	1	Thou	PERSON
+chapter-012	136	2	first	ORDINAL
+chapter-012	136	3	Thou	PERSON
+chapter-012	138	1	two	CARDINAL
+chapter-012	138	2	Spirit	ORG
+chapter-012	138	3	earth	LOC
+chapter-012	139	1	earth	LOC
+chapter-012	143	1	first	ORDINAL
+chapter-012	143	2	the several days	DATE
+chapter-012	143	3	Holy Ghost	ORG
+chapter-012	146	1	first	ORDINAL
+chapter-012	146	2	earth	LOC
+chapter-012	146	3	earth	LOC
+chapter-012	147	1	two	CARDINAL
+chapter-012	148	1	Wisdom	ORG
+chapter-012	149	1	earth	LOC
+chapter-012	149	2	God	PERSON
+chapter-012	149	3	earth	LOC
+chapter-012	149	4	Earth	LOC
+chapter-012	149	5	one	CARDINAL
+chapter-012	152	1	two	CARDINAL
+chapter-012	152	2	Prophets	ORG
+chapter-012	153	1	true,--what	ORG
+chapter-012	155	1	the Holy Scriptures	WORK_OF_ART
+chapter-012	155	2	Thou	PERSON
+chapter-012	156	1	Thou	PERSON
+chapter-012	156	2	Thy Wisdom	PERSON
+chapter-012	156	3	Thou	PERSON
+chapter-012	160	1	earth	LOC
+chapter-012	160	2	earth	LOC
+chapter-012	161	1	earth	LOC
+chapter-012	162	1	Thou madest	PERSON
+chapter-012	164	1	Thou hast	PERSON
+chapter-012	164	2	earth	LOC
+chapter-012	165	1	earth	LOC
+chapter-012	166	1	earth	LOC
+chapter-012	167	1	earth	LOC
+chapter-012	168	1	earth	LOC
+chapter-012	168	2	earth	LOC
+chapter-012	169	1	earth	LOC
+chapter-012	170	1	earth	LOC
+chapter-012	170	2	earth	LOC
+chapter-012	170	3	earth	LOC
+chapter-012	171	1	earth	LOC
+chapter-012	171	2	earth	LOC
+chapter-012	171	3	earth	LOC
+chapter-012	172	1	earth	LOC
+chapter-012	172	2	Scripture	EVENT
+chapter-012	172	3	earth	LOC
+chapter-012	172	4	earth	LOC
+chapter-012	173	1	earth	LOC
+chapter-012	173	2	Scripture	ORG
+chapter-012	173	3	two	CARDINAL
+chapter-012	174	1	two	CARDINAL
+chapter-012	174	2	Ergo	PERSON
+chapter-012	174	3	earth	LOC
+chapter-012	174	4	Scripture	PERSON
+chapter-012	174	5	earth	LOC
+chapter-012	174	6	earth	LOC
+chapter-012	174	7	God	PERSON
+chapter-012	174	8	earth	LOC
+chapter-012	174	9	earth	LOC
+chapter-012	174	10	whereof	ORG
+chapter-012	174	11	God	PERSON
+chapter-012	174	12	earth	LOC
+chapter-012	175	1	two	CARDINAL
+chapter-012	176	1	Cherubim	ORG
+chapter-012	176	2	Seraphim	GPE
+chapter-012	176	3	Apostle	ORG
+chapter-012	176	4	Thrones, Dominions, Principalities	ORG
+chapter-012	176	5	Powers	ORG
+chapter-012	178	1	earth	LOC
+chapter-012	179	1	earth	LOC
+chapter-012	179	2	earth	LOC
+chapter-012	182	1	God	PERSON
+chapter-012	184	1	earth	LOC
+chapter-012	185	1	Thee	PERSON
+chapter-012	185	2	two	CARDINAL
+chapter-012	185	3	one	CARDINAL
+chapter-012	186	1	one	CARDINAL
+chapter-012	186	2	Thy Faith	PERSON
+chapter-012	187	1	first	ORDINAL
+chapter-012	188	1	Thee	PERSON
+chapter-012	188	2	Thee	PERSON
+chapter-012	188	3	Thy	PERSON
+chapter-012	188	4	Thy	PERSON
+chapter-012	188	5	Thy	PERSON
+chapter-012	189	1	one	CARDINAL
+chapter-012	189	2	Moses	PERSON
+chapter-012	190	1	Thee	PERSON
+chapter-012	190	2	Thy	PERSON
+chapter-012	190	3	Thee	PERSON
+chapter-012	190	4	Thy	PERSON
+chapter-012	190	5	Thou	PERSON
+chapter-012	190	6	earth	LOC
+chapter-012	193	1	earth	LOC
+chapter-012	194	1	two	CARDINAL
+chapter-012	194	2	two	CARDINAL
+chapter-012	198	1	denieth	PERSON
+chapter-012	198	2	God	PERSON
+chapter-012	198	3	Spirit	ORG
+chapter-012	198	4	Thy	PERSON
+chapter-012	202	1	Thou	PERSON
+chapter-012	203	1	Thou	PERSON
+chapter-012	205	1	Hearken	ORG
+chapter-012	205	2	Thou	PERSON
+chapter-012	205	3	Truth Itself	GPE
+chapter-012	205	4	Thee	PERSON
+chapter-012	205	5	Thee	PERSON
+chapter-012	206	1	Thou	PERSON
+chapter-012	206	2	Thee	PERSON
+chapter-012	210	1	two	CARDINAL
+chapter-012	212	1	Thou	PERSON
+chapter-012	212	2	Thou	PERSON
+chapter-012	212	3	Thou	PERSON
+chapter-012	212	4	Moses Thy	PERSON
+chapter-012	212	5	Thee	PERSON
+chapter-012	212	6	Thou	PERSON
+chapter-012	213	1	Thou	PERSON
+chapter-012	214	1	Thee	PERSON
+chapter-012	214	2	Genesis	GPE
+chapter-012	214	3	Thy	PERSON
+chapter-012	215	1	one	CARDINAL
+chapter-012	215	2	dispenser	PERSON
+chapter-012	215	3	Thine	GPE
+chapter-012	215	4	one	CARDINAL
+chapter-012	216	1	earth	LOC
+chapter-012	216	2	two	CARDINAL
+chapter-012	217	1	God	PERSON
+chapter-012	220	1	Thine	NORP
+chapter-012	223	1	Thou	PERSON
+chapter-012	223	2	Thou madest	PERSON
+chapter-012	223	3	Thine	NORP
+chapter-012	223	4	Thy Unity	ORG
+chapter-012	223	5	Thee	PERSON
+chapter-012	223	6	Universe	ORG
+chapter-012	226	1	first	ORDINAL
+chapter-012	227	1	Thy Wisdom Thou	PERSON
+chapter-012	227	2	one	CARDINAL
+chapter-012	227	3	earth	LOC
+chapter-012	227	4	earth	LOC
+chapter-012	227	5	Earth	LOC
+chapter-012	228	1	one	CARDINAL
+chapter-012	228	2	one	CARDINAL
+chapter-012	230	1	first	ORDINAL
+chapter-012	230	2	earth	LOC
+chapter-012	231	1	first	ORDINAL
+chapter-012	232	1	first	ORDINAL
+chapter-012	233	1	first	ORDINAL
+chapter-012	235	1	four	CARDINAL
+chapter-012	235	2	first	ORDINAL
+chapter-012	235	3	two	CARDINAL
+chapter-012	236	1	Thy Eternity	PERSON
+chapter-012	238	1	first	ORDINAL
+chapter-012	239	1	first	ORDINAL
+chapter-012	242	1	singeth	NORP
+chapter-012	243	1	first	ORDINAL
+chapter-012	243	2	first	ORDINAL
+chapter-012	244	1	first	ORDINAL
+chapter-012	245	1	first	ORDINAL
+chapter-012	245	2	earth	LOC
+chapter-012	245	3	earth	LOC
+chapter-012	246	1	first	ORDINAL
+chapter-012	247	1	the Eternity of the Creator:	LAW
+chapter-012	250	1	Confessions	PERSON
+chapter-012	250	2	Thee	PERSON
+chapter-012	251	1	Thy Book	PERSON
+chapter-012	252	1	Thee	PERSON
+chapter-012	252	2	Thy Spirit	PERSON
+chapter-012	252	3	Thy	PERSON
+chapter-012	254	1	third	ORDINAL
+chapter-012	254	2	One	CARDINAL
+chapter-012	255	1	supreme authority	ORG
+chapter-012	256	1	Thou	PERSON
+chapter-012	258	1	some one	CARDINAL
+chapter-012	260	1	Thou	PERSON
+chapter-012	260	2	Thou	PERSON
+chapter-012	260	3	Thou discoverest	PERSON
+chapter-012	260	4	Thy	PERSON
+chapter-012	260	5	Thou mayest	PERSON
+chapter-012	263	1	Thee	PERSON
+chapter-012	263	2	Thou	PERSON
+chapter-012	263	3	Thy	PERSON
+chapter-012	263	4	Thy Truth	PERSON

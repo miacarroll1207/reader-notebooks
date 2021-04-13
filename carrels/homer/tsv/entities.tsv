@@ -1,0 +1,1215 @@
+entity	type	frequency
+achilles	PERSON	442
+ulysses	GPE	401
+jove	PERSON	342
+minerva	ORG	281
+hector	ORG	267
+menelaus	ORG	197
+agamemnon	PERSON	173
+priam	PERSON	151
+peleus	PERSON	134
+mars	LOC	129
+apollo	ORG	125
+ajax	GPE	113
+neptune	ORG	112
+juno	PERSON	100
+penelope	PERSON	96
+ilius	GPE	95
+atreus	ORG	89
+tydeus	PERSON	88
+idomeneus	ORG	84
+troy	GPE	81
+nestor	ORG	79
+ithaca	GPE	75
+trojan	ORG	70
+earth	LOC	65
+helen	PERSON	64
+eumaeus	PERSON	52
+mercury	ORG	47
+telamon	PERSON	46
+pylos	PERSON	46
+antilochus	PERSON	45
+venus	LOC	42
+argos	GPE	42
+sarpedon	ORG	41
+ida	PERSON	40
+saturn	PERSON	39
+diomed	ORG	39
+oceanus	ORG	37
+circe	PERSON	36
+alexandrus	ORG	35
+thetis	LOC	33
+phoebus apollo	PERSON	32
+meriones	GPE	31
+laertes	ORG	31
+menoetius	ORG	30
+neleus	ORG	29
+diana	PERSON	28
+dawn	PERSON	27
+polydamas	GPE	26
+olympus	GPE	24
+hercules	GPE	23
+aeneas	PERSON	23
+paris	GPE	22
+pallas minerva	PERSON	22
+calypso	ORG	22
+oileus	PERSON	21
+aeacus	GPE	21
+lycia	GPE	20
+king agamemnon	PERSON	20
+lycaon	PERSON	19
+argives	ORG	19
+vulcan	PERSON	18
+phthia	ORG	18
+melanthius	ORG	18
+deiphobus	GPE	18
+thebes	GPE	17
+iris	GPE	17
+mentor	GPE	16
+medon	ORG	16
+lacedaemon	GPE	16
+asius	ORG	16
+teiresias	ORG	15
+eurymachus	PERSON	15
+west	LOC	14
+phoenix	PERSON	14
+machaon	ORG	14
+leto	PERSON	14
+gerene	PERSON	14
+dardanus	LOC	14
+cyclops	ORG	14
+xanthus	ORG	13
+teucer	GPE	13
+telemachus	PERSON	13
+myrmidons	ORG	13
+irus	ORG	13
+eurylochus	PERSON	13
+demodocus	PERSON	13
+bellerophon	PERSON	13
+argus	GPE	13
+nausicaa	PERSON	12
+dolon	PERSON	12
+dolius	PERSON	12
+autolycus	ORG	12
+philoetius	PERSON	11
+laomedon	ORG	11
+hellespont	GPE	11
+forthwith	PERSON	11
+elis	PERSON	11
+egypt	GPE	11
+tlepolemus	ORG	10
+thereon	ORG	10
+sparta	GPE	10
+polybus	PERSON	10
+lemnos	PERSON	10
+king apollo	PERSON	10
+hellas	GPE	10
+glaucus	PERSON	10
+danaan	GPE	10
+antenor	ORG	10
+theoclymenus	PERSON	9
+talthybius	PERSON	9
+pisander	PERSON	9
+laodamas	PERSON	9
+icarius	GPE	9
+hippolochus	PERSON	9
+eurypylus	ORG	9
+cyclopes	PERSON	9
+amphinomus	PERSON	9
+agelaus	ORG	9
+thrasymedes	PERSON	8
+thrace	ORG	8
+sirens	PERSON	8
+scamander	LOC	8
+piraeus	PERSON	8
+phemius	ORG	8
+oeneus	PERSON	8
+north	LOC	8
+minos	PERSON	8
+hecuba	ORG	8
+eumelus	ORG	8
+briseis	GPE	8
+automedon	PERSON	8
+asteropaeus	PERSON	8
+andromache	ORG	8
+adrestus	PERSON	8
+acamas	PERSON	8
+sthenelus	ORG	7
+simois	ORG	7
+queen penelope	PERSON	7
+protesilaus	ORG	7
+proserpine	PERSON	7
+polyphemus	GPE	7
+peneleos	PERSON	7
+king alcinous	GPE	7
+hyrtacus	LOC	7
+helenus	LOC	7
+euphorbus	ORG	7
+eupeithes	ORG	7
+erebus	GPE	7
+east	LOC	7
+cicons	ORG	7
+chromius	PERSON	7
+capaneus	PERSON	7
+boreas	PERSON	7
+arete	ORG	7
+agenor	GPE	7
+gore	PERSON	6
+zacynthus	GPE	6
+trojans	ORG	6
+thoas	LOC	6
+south	LOC	6
+socus	GPE	6
+scylla	GPE	6
+pisistratus	ORG	6
+phyleus	PERSON	6
+pedasus	PERSON	6
+menestheus	ORG	6
+mecisteus	PERSON	6
+iphitus	ORG	6
+ephyra	PERSON	6
+dolops	GPE	6
+clytius	PERSON	6
+calydon	ORG	6
+athens	GPE	6
+argive	ORG	6
+aretus	ORG	6
+anchises	PERSON	6
+alas	ORG	6
+aesculapius	PERSON	6
+house	ORG	5
+bush	PERSON	5
+tros	ORG	5
+thoon	GPE	5
+queen juno	PERSON	5
+polydorus	GPE	5
+phrygia	GPE	5
+phoebus	ORG	5
+pergamus	PERSON	5
+ormenus	ORG	5
+noman	PERSON	5
+neritum	ORG	5
+meleager	ORG	5
+meges	PERSON	5
+leitus	GPE	5
+king neptune	ORG	5
+jason	PERSON	5
+erinyes	ORG	5
+dulichium	GPE	5
+dodona	PERSON	5
+cyprus	LOC	5
+curetes	ORG	5
+chryse	PERSON	5
+charybdis	ORG	5
+cebriones	ORG	5
+calchas	PERSON	5
+axius	ORG	5
+antiphus	PERSON	5
+antimachus	GPE	5
+amphimedon	PERSON	5
+aldermen	GPE	5
+alcmena	PERSON	5
+adamas	GPE	5
+the grey sea	LOC	4
+quoit	GPE	4
+fed	ORG	4
+zephyrus	PERSON	4
+theano	PERSON	4
+sun	PERSON	4
+simoeisius	ORG	4
+scheria	GPE	4
+samos	PERSON	4
+pytho	PERSON	4
+proteus	PERSON	4
+phylace	GPE	4
+pherae	GPE	4
+peteos	GPE	4
+perseus	ORG	4
+panopeus	PERSON	4
+paeeon	ORG	4
+orestes	PERSON	4
+orchomenus	GPE	4
+niobe	ORG	4
+mentes	GPE	4
+lycurgus	PERSON	4
+lycomedes	GPE	4
+lesbos	PERSON	4
+leonteus	PERSON	4
+laodice	ORG	4
+ino	PERSON	4
+hiketaon	PERSON	4
+halitherses	ORG	4
+eurystheus	PERSON	4
+eurymedon	GPE	4
+eurybates	GPE	4
+euaemon	ORG	4
+epeus	PERSON	4
+deipyrus	PERSON	4
+darter	PERSON	4
+damastor	ORG	4
+ctesippus	PERSON	4
+clytemnestra	ORG	4
+chiron	ORG	4
+ceres	ORG	4
+ascalaphus	PERSON	4
+arisbe	GPE	4
+alpheus	PERSON	4
+alcimus	PERSON	4
+forthwith	PERSON	3
+tyro	ORG	3
+thestor	ORG	3
+thereon minerva	PERSON	3
+theban	ORG	3
+tenedos	GPE	3
+stichius	ORG	3
+sidon	ORG	3
+sicel	ORG	3
+satnioeis	GPE	3
+rout	ORG	3
+rhesus	PERSON	3
+rhadamanthus	PERSON	3
+polypoetes	PERSON	3
+polyidus	ORG	3
+polites	ORG	3
+phorcys	PERSON	3
+phoenicia	PERSON	3
+phegeus	PERSON	3
+peneus	PERSON	3
+pelias	PERSON	3
+pelegon	ORG	3
+pelasgi	GPE	3
+parnassus	ORG	3
+pandareus	PERSON	3
+otrynteus	ORG	3
+othryoneus	PERSON	3
+orsilochus	PERSON	3
+oenomaus	PERSON	3
+odius	ORG	3
+neoptolemus	PERSON	3
+mycene	PERSON	3
+mulius	ORG	3
+meonia	GPE	3
+lyrnessus	GPE	3
+libya	GPE	3
+lapithae	ORG	3
+lampus	PERSON	3
+isus	ORG	3
+iphidamas	ORG	3
+imbrius	PERSON	3
+ilus	ORG	3
+idaeus	PERSON	3
+ithaca	ORG	3
+hypereia	GPE	3
+hebe	PERSON	3
+haemon	ORG	3
+gorgon	PERSON	3
+eurydamas	GPE	3
+epistrophus	ORG	3
+ennomus	GPE	3
+eetion	ORG	3
+echetus	ORG	3
+earth	LOC	3
+draw	PERSON	3
+dione	ORG	3
+diocles	GPE	3
+cythera	GPE	3
+crethon	PERSON	3
+cnossus	GPE	3
+cleitus	ORG	3
+chalcis	ORG	3
+cassandra	PERSON	3
+buprasium	GPE	3
+briseus	GPE	3
+bias	PERSON	3
+atlas	PERSON	3
+astyanax	ORG	3
+arceisius	ORG	3
+aphareus	PERSON	3
+andraemon	ORG	3
+amphitryon	PERSON	3
+amphidamas	PERSON	3
+alcimedon	PERSON	3
+admetus	ORG	3
+actor	GPE	3
+abydos	GPE	3
+whereon	ORG	2
+sandy pylos	PERSON	2
+moon	PERSON	2
+mighty hector	ORG	2
+middle argos	GPE	2
+jut	ORG	2
+ewes	GPE	2
+brave hector	PERSON	2
+zelea	GPE	2
+whereon	ORG	2
+typhoeus	PERSON	2
+tricca	GPE	2
+tityus	PERSON	2
+titaresius	PERSON	2
+theseus	PERSON	2
+thersilochus	PERSON	2
+themis	ORG	2
+thebe	PERSON	2
+tecton	GPE	2
+talaus	ORG	2
+stockman	PERSON	2
+solymi	ORG	2
+sisyphus	PERSON	2
+semele	PERSON	2
+schedius	ORG	2
+sangarius	ORG	2
+salamis	GPE	2
+rhodes	PERSON	2
+rhigmus	ORG	2
+queen arete	PERSON	2
+pyrasus	GPE	2
+pollux	GPE	2
+podarces	ORG	2
+podalirius	PERSON	2
+pleuron	GPE	2
+pisenor	ORG	2
+pieria	PERSON	2
+phylas	PERSON	2
+phylacus	ORG	2
+phronius	ORG	2
+phorbas	GPE	2
+pheres	ORG	2
+pheidon	PERSON	2
+phaenops	GPE	2
+perimedes	PERSON	2
+periboea	GPE	2
+pelops	GPE	2
+pelagon	GPE	2
+patroclus	GPE	2
+pasithea	PERSON	2
+paeon	ORG	2
+ortygia	GPE	2
+opoeis	PERSON	2
+oechalia	GPE	2
+noemon	PERSON	2
+noble achilles	PERSON	2
+nisus	ORG	2
+nereus	GPE	2
+naiads	LOC	2
+mydon	ORG	2
+muse	GPE	2
+mount pelion	LOC	2
+mount ida	LOC	2
+morys	ORG	2
+miletus	PERSON	2
+mesaulius	ORG	2
+merops of percote	ORG	2
+men-	ORG	2
+melanippus	PERSON	2
+melampus	PERSON	2
+mastor	ORG	2
+marpessa	PERSON	2
+mantius	PERSON	2
+malea	GPE	2
+maeon	PERSON	2
+madman	PERSON	2
+lyctus	PERSON	2
+lycon	GPE	2
+lycian apollo	PERSON	2
+lelegae	PERSON	2
+larissa	PERSON	2
+laothoe	LOC	2
+laodocus	PERSON	2
+laodameia	GPE	2
+lampetie	PERSON	2
+king jove	PERSON	2
+juno of argos	PERSON	2
+ismarus	ORG	2
+isander	LOC	2
+iphianassa	PERSON	2
+iolcus	GPE	2
+ilioneus	ORG	2
+iasus	ORG	2
+iardanus	ORG	2
+hyperesia	GPE	2
+hyle	PERSON	2
+hound	PERSON	2
+hire	LOC	2
+hippotion	ORG	2
+hippodameia	PERSON	2
+hermione	PERSON	2
+helos	PERSON	2
+helice	ORG	2
+halius	PERSON	2
+gyrae	ORG	2
+great hector	ORG	2
+great ajax	ORG	2
+gargarus	PERSON	2
+gaia	PERSON	2
+folly	PERSON	2
+eurytus	ORG	2
+eurynomus	PERSON	2
+eudorus	GPE	2
+eteoneus	PERSON	2
+erymas	ORG	2
+enops	ORG	2
+eleon	ORG	2
+elatreus	ORG	2
+eioneus	ORG	2
+echephron	ORG	2
+echeneus	PERSON	2
+dymas	PERSON	2
+discord	GPE	2
+diores	ORG	2
+cteatus	ORG	2
+cruel jove	PERSON	2
+cretheus	PERSON	2
+crete	GPE	2
+corinth	PERSON	2
+coiranus	LOC	2
+clonius	ORG	2
+cleopatra	PERSON	2
+chrysothemis	ORG	2
+chimaera	PERSON	2
+capys	PERSON	2
+caeneus	PERSON	2
+cadmus	GPE	2
+brave menelaus	PERSON	2
+bear	ORG	2
+bathycles	ORG	2
+aulis	GPE	2
+augeas	ORG	2
+augeae	PERSON	2
+atymnius	PERSON	2
+assaracus	LOC	2
+ascanius	ORG	2
+ascania	PERSON	2
+arne	PERSON	2
+aretias	ORG	2
+arene	GPE	2
+arcesilaus	PERSON	2
+apeira	ORG	2
+anthea	PERSON	2
+ancaeus	PERSON	2
+amphius	PERSON	2
+amphimachus	PERSON	2
+amazons	LOC	2
+aloeus	ORG	2
+ajaxes	ORG	2
+agastrophus	PERSON	2
+aetolia	GPE	2
+aegyptus	ORG	2
+aegyptius	ORG	2
+aegisthus	PERSON	2
+aeaean circe	PERSON	2
+adrastus	ORG	2
+achaean argos	LOC	2
+achaean	ORG	2
+aeneas	PERSON	2
+woe	PERSON	1
+wicked schemer	PERSON	1
+whereon forthwith	PERSON	1
+whereon pisistratus	ORG	1
+whereon jove ''s	PERSON	1
+whereon hector	ORG	1
+whereon euphorbus	PERSON	1
+vineyards	GPE	1
+us	GPE	1
+the wooded island	LOC	1
+the town council	ORG	1
+the sounding sea	LOC	1
+the magician aeetes	GPE	1
+the knight antenor	ORG	1
+the house of hades	ORG	1
+the house of circe	ORG	1
+the hoar sea	LOC	1
+the fruitful earth	LOC	1
+the far west	LOC	1
+the barren ocean	LOC	1
+the laestrygonian antiphates	ORG	1
+the king of helice	GPE	1
+the island of lemnos	GPE	1
+the icarian sea	LOC	1
+the gygaean lake	LOC	1
+the boebean lake	LOC	1
+the black eagle	ORG	1
+the achaeans hector	ORG	1
+sweet song	PERSON	1
+scoundrel melanthius	PERSON	1
+merry twinkling feet	PERSON	1
+merman	PERSON	1
+mell	PERSON	1
+knight peleus	PERSON	1
+knight patroclus	ORG	1
+hewn stone—	ORG	1
+herdsman	PERSON	1
+helmsman	PERSON	1
+goat	PERSON	1
+glutton	PERSON	1
+gallop	ORG	1
+flung headlong	PERSON	1
+fag	PERSON	1
+eagle	ORG	1
+dreamland	GPE	1
+dim	ORG	1
+crimson leather	ORG	1
+chase	ORG	1
+chamois	GPE	1
+bulwark	PERSON	1
+brave eteocretans	PERSON	1
+anon proserpine	PERSON	1
+zeus	PERSON	1
+wildfire rumour	PERSON	1
+wain	LOC	1
+vixen	ORG	1
+varne	ORG	1
+ucalegon	GPE	1
+tyndarus	ORG	1
+tyndareus	PERSON	1
+tychius	PERSON	1
+troezenus	PERSON	1
+troezene	PERSON	1
+trachis	LOC	1
+tithonus	GPE	1
+titanus	ORG	1
+tiryns	GPE	1
+thymoetes	GPE	1
+thymbraeus	ORG	1
+thymbra	GPE	1
+thunder	GPE	1
+thryum	ORG	1
+thryoessa	PERSON	1
+thrice	GPE	1
+thrasydemus	PERSON	1
+thrasius	PERSON	1
+thootes	PERSON	1
+thoosa	PERSON	1
+thon	PERSON	1
+thoe	PERSON	1
+thespeia	GPE	1
+thereon polypoetes	PERSON	1
+thereon paris	ORG	1
+thereon neptune	ORG	1
+thereon meriones	ORG	1
+thereon juno	ORG	1
+thereon hades	ORG	1
+thereon circe	ORG	1
+thereon antiphus	PERSON	1
+thereon alexandrus	ORG	1
+theban teiresias	PERSON	1
+thaumacia	GPE	1
+thamyris	PERSON	1
+thalysius	ORG	1
+thalpius	PERSON	1
+thalia	ORG	1
+teuthranus	ORG	1
+teutamus	ORG	1
+teucer, meriones	ORG	1
+teucer aretaon	PERSON	1
+tereia	PERSON	1
+tenthredon	ORG	1
+telepylos	GPE	1
+telemus	ORG	1
+telea	GPE	1
+tegea	PERSON	1
+tartarus	ORG	1
+tarphe	GPE	1
+syra	PERSON	1
+syme— nireus	ORG	1
+swineherd	PERSON	1
+sunium	ORG	1
+stymphelus	GPE	1
+strophius	ORG	1
+strife	PERSON	1
+strength	ORG	1
+stratius, perseus	ORG	1
+stratius	ORG	1
+stratie	ORG	1
+straits	LOC	1
+speo	PERSON	1
+south west	LOC	1
+south east	LOC	1
+son vulcan	PERSON	1
+son	PERSON	1
+sister	PERSON	1
+sirs	PERSON	1
+sipylus	ORG	1
+sidonia	GPE	1
+sicyon	PERSON	1
+sicels	ORG	1
+sicania	GPE	1
+shoo	GPE	1
+sestos	PERSON	1
+sesamus	GPE	1
+selli	PERSON	1
+selepus	PERSON	1
+selagus	PERSON	1
+schoenus	ORG	1
+scarphe	GPE	1
+scandea	PERSON	1
+scamandrius	ORG	1
+samothrace	ORG	1
+samos imbrus	PERSON	1
+salmoneus	PERSON	1
+rumour	PERSON	1
+rhodius	ORG	1
+rhipae	ORG	1
+rhene	PERSON	1
+rheithron	ORG	1
+rhea	PERSON	1
+rhaea	GPE	1
+queen	PERSON	1
+pyris	GPE	1
+pyraechmes	ORG	1
+pylon	GPE	1
+pylene	PERSON	1
+pylartes	ORG	1
+pylaeus	PERSON	1
+pylaemenes	GPE	1
+pylaemanes	ORG	1
+pygmies	PERSON	1
+ptolemaeus	LOC	1
+pteleum	ORG	1
+psyra	GPE	1
+prytanis	PERSON	1
+prymneus	GPE	1
+proto	ORG	1
+prothoon and periphetes	ORG	1
+proreus	PERSON	1
+promachus	PERSON	1
+proetus	ORG	1
+procris	GPE	1
+priam slept	PERSON	1
+priam beseech achilles	ORG	1
+practius	PERSON	1
+portheus	PERSON	1
+ponteus	ORG	1
+polyxenus	ORG	1
+polytherses	PERSON	1
+polyphontes	ORG	1
+polyphetes	ORG	1
+polypemon	PERSON	1
+polyneus	PERSON	1
+polymele	ORG	1
+polydamna	PERSON	1
+polycaste	PERSON	1
+polyaemon	ORG	1
+polites echius	PERSON	1
+poias	GPE	1
+podes	PERSON	1
+podargus	ORG	1
+podarge	PERSON	1
+pityeia	ORG	1
+phyleus, thoas	ORG	1
+phyleus, amphion	ORG	1
+phthires	GPE	1
+phradmon	ORG	1
+philoctetes	PERSON	1
+pherusa	ORG	1
+pheras	ORG	1
+pheneus	PERSON	1
+pheidas	GPE	1
+pheae	GPE	1
+phausius	ORG	1
+pharos	GPE	1
+pharis	GPE	1
+phalces	GPE	1
+phaethusa	ORG	1
+phaesus	PERSON	1
+phaestus and rhytium	ORG	1
+phaestus	ORG	1
+phaedra	PERSON	1
+peteon	ORG	1
+perse	PERSON	1
+pero	PERSON	1
+periphetes of mycenae	ORG	1
+periclymenus	PERSON	1
+pergasus	PERSON	1
+perea	GPE	1
+percote	GPE	1
+peraebi	LOC	1
+pellene	PERSON	1
+pelian	GPE	1
+pelasgic argos	LOC	1
+peirous	LOC	1
+peires	PERSON	1
+peiraeus	PERSON	1
+pedaeus	PERSON	1
+pedaeum	GPE	1
+parthenius	PERSON	1
+parrhasia	GPE	1
+paphos	PERSON	1
+papa	PERSON	1
+panope	PERSON	1
+panic	ORG	1
+pammon	GPE	1
+palmys	ORG	1
+paeonia	GPE	1
+otreus	ORG	1
+ossa	PERSON	1
+orus	GPE	1
+ortilochus	GPE	1
+orthe	ORG	1
+orthaeus	PERSON	1
+orneae	PERSON	1
+ormenius	ORG	1
+oresbius	ORG	1
+oreithuia	ORG	1
+opites	ORG	1
+opheltius	PERSON	1
+ophelestes	PERSON	1
+onetor	PERSON	1
+onchestus	ORG	1
+olympian	GPE	1
+oloosson	GPE	1
+olizon	PERSON	1
+olenus	GPE	1
+olene and alesium	ORG	1
+oicleus of amphiaraus	ORG	1
+oicleus	ORG	1
+oetylus	PERSON	1
+oenops	LOC	1
+oedipus	GPE	1
+oechalian eurytus	GPE	1
+oechalian	GPE	1
+ocyalus	ORG	1
+ochesius	ORG	1
+o olympian muses	ORG	1
+nysa	ORG	1
+nurse euryclea	PERSON	1
+noble antilochus	PERSON	1
+nisyrus	GPE	1
+nisus of dulichium	ORG	1
+nisa	PERSON	1
+nireus	ORG	1
+nestor of gerene	ORG	1
+nesaia	GPE	1
+neritus	ORG	1
+nericum	PERSON	1
+nereids	ORG	1
+nectar	ORG	1
+neaera	ORG	1
+nauteus	GPE	1
+naubolus	ORG	1
+nastes	ORG	1
+myrsinus	LOC	1
+myrmidons, hellenes	ORG	1
+myrine	ORG	1
+mynes	PERSON	1
+mygdon	PERSON	1
+mycenae	GPE	1
+mycalessus	GPE	1
+muses	ORG	1
+mulius of dulichium	ORG	1
+mourn	PERSON	1
+mount ossa	LOC	1
+mount olympus	GPE	1
+moly	PERSON	1
+molus	PERSON	1
+moliones	GPE	1
+molion	ORG	1
+minyeius	PERSON	1
+minyas	ORG	1
+minyan orchomenus	ORG	1
+minerva of alalcomene	ORG	1
+minerva hie	PERSON	1
+minerva flung	PERSON	1
+mimas	GPE	1
+midea	PERSON	1
+mesthles	PERSON	1
+messene	ORG	1
+messeis	PERSON	1
+messe	ORG	1
+menon	GPE	1
+memnon	PERSON	1
+melite	GPE	1
+meliboea	PERSON	1
+melas	GPE	1
+melantho	PERSON	1
+melaneus	PERSON	1
+megas	GPE	1
+megara	PERSON	1
+megapenthes	PERSON	1
+medesicaste	PERSON	1
+medeon	ORG	1
+mases	GPE	1
+maron	PERSON	1
+maris	PERSON	1
+marathon	GPE	1
+mantinea	GPE	1
+makar	PERSON	1
+maia	PERSON	1
+maera	PERSON	1
+maemalus	GPE	1
+maeander	ORG	1
+minerva	ORG	1
+lysandrus	GPE	1
+lycophron	PERSON	1
+lycophontes	PERSON	1
+lycastus	PERSON	1
+lotus-	GPE	1
+linos-	PERSON	1
+lindus	GPE	1
+limnorea	GPE	1
+lilaea	ORG	1
+licyon	PERSON	1
+licymnius	ORG	1
+leucus	PERSON	1
+leucothea	PERSON	1
+leucas	ORG	1
+leocritus	PERSON	1
+leleges	ORG	1
+leda	PERSON	1
+lectum	PERSON	1
+latona	PERSON	1
+lamus	GPE	1
+lampus and phaethon	ORG	1
+laertes and ulysses	ORG	1
+laerceus of the fifth	ORG	1
+laas	PERSON	1
+laestrygones	ORG	1
+knights trojans	ORG	1
+king thessalus	ORG	1
+king teucer	ORG	1
+king pylaemenes	ORG	1
+king priam ''s	PERSON	1
+king polydamas	PERSON	1
+king mercury	ORG	1
+king menelaus	PERSON	1
+king eurystheus	ORG	1
+king euphetes	PERSON	1
+king elephenor	PERSON	1
+king creon	PERSON	1
+king augeas	PERSON	1
+king amarynceus	PERSON	1
+king agasthenes	ORG	1
+king achelous	PERSON	1
+jupiter	LOC	1
+juno of the golden	PERSON	1
+jove awakes	PERSON	1
+itymoneus	PERSON	1
+iton	GPE	1
+ithacus	ORG	1
+iphimedeia	GPE	1
+iphiclus	PERSON	1
+ipheus	PERSON	1
+imbrasus	PERSON	1
+ill	PERSON	1
+ilithuia	GPE	1
+ielysus	GPE	1
+idothea	PERSON	1
+idomeneus and meriones	ORG	1
+icmalius	GPE	1
+iasian argos	LOC	1
+iapetus	ORG	1
+ianassa	PERSON	1
+iamenus, orestes	ORG	1
+iamenus	GPE	1
+iaera	ORG	1
+i am the seventh	PERSON	1
+hyrmine	LOC	1
+hyria	GPE	1
+hypsenor	ORG	1
+hyperion	PERSON	1
+hypeiron	PERSON	1
+hymen	ORG	1
+hyllus	GPE	1
+hylax	ORG	1
+hyde	PERSON	1
+hyampolis	GPE	1
+hyads	GPE	1
+house	ORG	1
+holy minerva	PERSON	1
+histiaea	ORG	1
+hippotas	ORG	1
+hipponous	PERSON	1
+hippodamus	GPE	1
+hippodamia	GPE	1
+hippodamas	ORG	1
+hippocoon	ORG	1
+hermus	GPE	1
+hermon	PERSON	1
+hereon	ORG	1
+heptaporus	ORG	1
+hellenes	ORG	1
+harma	GPE	1
+halosydne	ORG	1
+halizoni	PERSON	1
+halios	GPE	1
+halie	PERSON	1
+haliartus	ORG	1
+gyrtone	ORG	1
+gyrtius	ORG	1
+grim mars	PERSON	1
+grenicus	GPE	1
+greeks	PERSON	1
+graia	GPE	1
+graces	ORG	1
+gortys	GPE	1
+gortyn	PERSON	1
+gorgythion	PERSON	1
+gorgo	PERSON	1
+gonoessa	PERSON	1
+glisas	GPE	1
+glaphyrae	PERSON	1
+glad	PERSON	1
+geraestus	PERSON	1
+ganymede	PERSON	1
+galatea	PERSON	1
+forthwith ajax	ORG	1
+fleet iris	LOC	1
+fleet ajax	ORG	1
+first antilochus	ORG	1
+fandarus	PERSON	1
+fair hecamede	ORG	1
+facing-	PERSON	1
+exadius	PERSON	1
+evenor	PERSON	1
+eussorus	ORG	1
+eurynome	GPE	1
+eurymus	PERSON	1
+eurydice	PERSON	1
+euryalus	PERSON	1
+euphorbus and hector	ORG	1
+euphemus	ORG	1
+euneus	PERSON	1
+eumedes	PERSON	1
+eumaeus polybus	PERSON	1
+eumaeus elatus	PERSON	1
+euippus	PERSON	1
+euenus	ORG	1
+euanthes	GPE	1
+ethiopia	GPE	1
+eteonus	PERSON	1
+eteocles	PERSON	1
+erythrae	GPE	1
+erymanthus	PERSON	1
+erylaus	ORG	1
+eriphyle	PERSON	1
+eriopis	ORG	1
+erinys	ORG	1
+erichthonius begat tros	PERSON	1
+erichthonius	PERSON	1
+eretria	GPE	1
+eretmeus	ORG	1
+erechtheus	GPE	1
+epytus	ORG	1
+epidaurus	ORG	1
+epicles	PERSON	1
+eperitus	ORG	1
+epeigeus	PERSON	1
+enyeus	ORG	1
+enope	LOC	1
+enispe	PERSON	1
+enipeus	PERSON	1
+enetae	ORG	1
+emathia	PERSON	1
+elone	GPE	1
+elatus	ORG	1
+elasus	PERSON	1
+eionae	GPE	1
+eilesium	GPE	1
+eetion of imbros	ORG	1
+eeriboea	ORG	1
+echepolus	ORG	1
+echemmon	PERSON	1
+eumaeus	ORG	1
+dynamene	PERSON	1
+dulichium, same	LOC	1
+dryas	PERSON	1
+dread achilles	PERSON	1
+dracius	ORG	1
+doto	PERSON	1
+dorium	PERSON	1
+doris	PERSON	1
+dius	PERSON	1
+dium	GPE	1
+die	PERSON	1
+dia	LOC	1
+dexius	PERSON	1
+dexamene	GPE	1
+deucalion	ORG	1
+demouchus	PERSON	1
+demoptolemus	GPE	1
+demoleon	PERSON	1
+democoon	PERSON	1
+deiochus	PERSON	1
+deicoon	GPE	1
+daulis	PERSON	1
+dares	GPE	1
+dardanian	GPE	1
+dardania	GPE	1
+danae	GPE	1
+danaan heroes	PERSON	1
+daedalus	ORG	1
+cyphus	ORG	1
+cyparisseis	PERSON	1
+cynus	GPE	1
+cymothoe	GPE	1
+cyllene	GPE	1
+ctimene	PERSON	1
+ctesius	PERSON	1
+crouni	ORG	1
+cromna	ORG	1
+crocylea	PERSON	1
+cretan	LOC	1
+creontes	LOC	1
+crataiis	GPE	1
+cranae	LOC	1
+coronus	ORG	1
+coronea	GPE	1
+copreus	PERSON	1
+copae, eutresis	ORG	1
+coon	GPE	1
+coeranus, alastor	ORG	1
+cocytus	ORG	1
+clytoneus	PERSON	1
+clytius, opheltius	ORG	1
+clymenus	PERSON	1
+clymene	PERSON	1
+cleonae	PERSON	1
+cisseus	PERSON	1
+cinyras	ORG	1
+cilla	PERSON	1
+chryseis	PERSON	1
+chloris	GPE	1
+chios	ORG	1
+charops	ORG	1
+charis	ORG	1
+chalcodon	GPE	1
+cerinthus	PERSON	1
+cephissus	PERSON	1
+ceos	PERSON	1
+celadon	ORG	1
+cease	PERSON	1
+cayster	ORG	1
+casus	PERSON	1
+carystus and styra	ORG	1
+caria	GPE	1
+caresus	ORG	1
+cardamyle	LOC	1
+cape malea	PERSON	1
+cameirus	PERSON	1
+callicolone	ORG	1
+calliarus	PERSON	1
+callianassa	PERSON	1
+caletor	PERSON	1
+calesius	PERSON	1
+calchas forthwith	PERSON	1
+cabesus	ORG	1
+cyclopes	ORG	1
+circe	ORG	1
+challenge	ORG	1
+budeum	ORG	1
+bryseae	GPE	1
+briareus	PERSON	1
+brave thrasymedes	PERSON	1
+brave diomed	PERSON	1
+boucolos	ORG	1
+borus the meonian	ORG	1
+borus	ORG	1
+bootes	PERSON	1
+boebe	PERSON	1
+boagrius	ORG	1
+bessa	PERSON	1
+bellerophon—hector	ORG	1
+batieia	ORG	1
+balius	GPE	1
+banquet	GPE	1
+azeus	ORG	1
+autophonus	LOC	1
+autonoe	PERSON	1
+aurora	ORG	1
+atreus and of meriones	ORG	1
+atreus and ulysses	ORG	1
+atreus king agamemnon	ORG	1
+astypylus, mnesus,	ORG	1
+astyochea	PERSON	1
+asterius	GPE	1
+asteris	GPE	1
+aspledon	GPE	1
+arybas	GPE	1
+artacia	LOC	1
+arnaeus	PERSON	1
+arisbas	PERSON	1
+arimi	PERSON	1
+ariadne	PERSON	1
+argive helen	PERSON	1
+argissa	PERSON	1
+argeas	PERSON	1
+arethusa	GPE	1
+areithous	PERSON	1
+archilochus	PERSON	1
+archelochus	GPE	1
+arcadia	GPE	1
+araethyrea	PERSON	1
+apheidas	PERSON	1
+apaesus	ORG	1
+antrum	PERSON	1
+antiphonus	ORG	1
+antiphates	ORG	1
+antiope	PERSON	1
+anticlea	PERSON	1
+anthemion	PERSON	1
+anthedon	PERSON	1
+anemorea	GPE	1
+anchialus	GPE	1
+anabesineus	GPE	1
+amythaon	PERSON	1
+amydon	PERSON	1
+amyclae	PERSON	1
+amphithea	PERSON	1
+amphion and zethus	ORG	1
+amphinomus of dulichium	ORG	1
+amphigenea	ORG	1
+amphiaraus	ORG	1
+amnisus	PERSON	1
+amisodorus	PERSON	1
+ambrosia	GPE	1
+amatheia	PERSON	1
+amarynceus	ORG	1
+alybas	GPE	1
+althaea	PERSON	1
+alos	PERSON	1
+alope	PERSON	1
+all-	PERSON	1
+alision	ORG	1
+alexandria	GPE	1
+alector	GPE	1
+alcmaeon	PERSON	1
+alcippe	PERSON	1
+alcestis	GPE	1
+alcandrus	PERSON	1
+alalcomene	PERSON	1
+ajaxes and meriones	ORG	1
+agrius	ORG	1
+agathon	GPE	1
+agamemnon for ilius	ORG	1
+agamemnon flung	PERSON	1
+agamemnon by echepolus	PERSON	1
+agamemnon and	ORG	1
+agamede	GPE	1
+aethrae	GPE	1
+aethon	ORG	1
+aethe	PERSON	1
+aetes	ORG	1
+aesymnus	ORG	1
+aesyme	ORG	1
+aesyetes	LOC	1
+aesopus	GPE	1
+aeson	ORG	1
+aesepus	PERSON	1
+aenus	ORG	1
+aeneas and hector	ORG	1
+aegina	GPE	1
+aegilips	PERSON	1
+aegialeia	ORG	1
+aegaeon	PERSON	1
+aegae	ORG	1
+aeaean	LOC	1
+acrisius	PERSON	1
+achilles sprang	PERSON	1
+achilles mad	PERSON	1
+achilles hewn	PERSON	1
+achilles flung	PERSON	1
+acheron	ORG	1
+achelous	ORG	1
+abas	ORG	1
+abarbarea	PERSON	1
+aeolus	ORG	1
+"""king apollo"	PERSON	1
