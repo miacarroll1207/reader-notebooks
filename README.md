@@ -3,28 +3,36 @@
 Distant Reader Notebooks
 ========================
 
-This repository includes a set of Jupyter Notebooks and sample data intended to instruct students, researchers, and scholars on the application of text mining & natural language processing against "study carrels" created by the Distant Reader.
-
+This repository includes a set of Jupyter Notebooks and sample data intended to instruct students, researchers, and scholars on the use of text mining & natural language processing techniques against Distant Reader output -- affectionately called "study carrels".
 
 Table of contents
 -----------------
 
-   1. [Getting startted](./02-getting-started.ipynb)
-   2. [Rudimentary analysis](./02-rudimentary.ipynb)
-   3. [Frequencies](./03-frequencies.ipynb)
-   4. 04-parts-of-speech.ipynb
-   5. 05-word-clouds.ipynb
-   6. 06-feature-extraction-with-textacy.ipynb
-   7. 07-sql.ipynb
-   8. 08-catalog.ipynb
-   9. 09-harvest.ipynb
-   10. 10-modeling.ipynb
+   1.  [What is the Distant Reader](./README.md)
+   2.  [Getting startted](./02-getting-started.ipynb)
+   3.  [Rudimentary analysis](./02-rudimentary.ipynb)
+   4.  [Frequencies](./03-frequencies.ipynb)
+   5.  [Parts-Of-Speech](./04-parts-of-speech.ipynb)
+   6.  [Word clouds](./05-word-clouds.ipynb)
+   7.  [Feature Extraction with Textacy](./06-feature-extraction-with-textacy.ipynb)
+   8.  [SQL](./07-sql.ipynb)
+   9.  [Catalog; The "Public" Library](./08-catalog.ipynb)
+   10. [Harvest](./09-harvest.ipynb)
+   11. [Topic Modeling](./10-modeling.ipynb)
 
 
-Introduction
-------------
+What is the Distant Reader, and why should I care?
+--------------------------------------------------
 
-With the advent of the Internet people feel as if they are "drinking from a firehose" -- ofttimes called "information overload". The Distant Reader enables students, researchers, or scholars to embrace information overload, identify patterns & trends in the things they read, and ultimately use & understand their readings more thoroughly. The Distant Reader is not a replacement for traditional reading. No, instead, the Distant Reader supplements the traditional reading process.
+The Distant Reader is a tool for reading.
+
+With the advent of the Internet people feel as if they are "drinking from a firehose" -- ofttimes called "information overload". The Distant Reader is a tool enabling students, researchers, or scholars to embrace information overload, identify patterns & trends in the things they read, and ultimately use & understand their readings more thoroughly. In this way, The Distant Reader is not a replacement for the traditional reading process. Instead, the Distant Reader is intended to supplement traditional reading.
+
+
+What are "study carrels"?
+-------------------------
+
+Given an almost arbitrary amount of unstructured data (text) as input, the Distant Reader outputs a set of structured data -- affectionately called a "study carrel".
 
 
 --- 
