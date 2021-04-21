@@ -9,16 +9,16 @@ Table of contents
 -----------------
 
    1.  [What is the Distant Reader](./README.md)
-   2.  [Getting startted](./02-getting-started.ipynb)
-   3.  [Rudimentary analysis](./02-rudimentary.ipynb)
-   4.  [Frequencies](./03-frequencies.ipynb)
-   5.  [Parts-Of-Speech](./04-parts-of-speech.ipynb)
-   6.  [Word clouds](./05-word-clouds.ipynb)
-   7.  [Feature Extraction with Textacy](./06-feature-extraction-with-textacy.ipynb)
-   8.  [SQL](./07-sql.ipynb)
-   9.  [Catalog; The "Public" Library](./08-catalog.ipynb)
-   10. [Harvest](./09-harvest.ipynb)
-   11. [Topic Modeling](./10-modeling.ipynb)
+   2.  [Getting startted](./notebooks/02-getting-started.ipynb)
+   3.  [Rudimentary analysis](./notebooks/02-rudimentary.ipynb)
+   4.  [Frequencies](./notebooks/03-frequencies.ipynb)
+   5.  [Parts-Of-Speech](.notebooks/04-parts-of-speech.ipynb)
+   6.  [Word clouds](./notebooks/05-word-clouds.ipynb)
+   7.  [Feature Extraction with Textacy](./notebooks/06-feature-extraction-with-textacy.ipynb)
+   8.  [SQL](./notebooks/07-sql.ipynb)
+   9.  [Catalog; The "Public" Library](./notebooks/08-catalog.ipynb)
+   10. [Harvest](./notebooks/09-harvest.ipynb)
+   11. [Topic Modeling](./notebooks/10-modeling.ipynb)
 
 
 What is the Distant Reader, and why should I care?
