@@ -1,0 +1,34 @@
+id	sid	eid	entity	type
+chapter-072	2	1	SPHYNX	ORG
+chapter-072	3	1	Sperm	PERSON
+chapter-072	5	1	some eight	CARDINAL
+chapter-072	6	1	one	CARDINAL
+chapter-072	7	1	Stubb	ORG
+chapter-072	7	2	ten minutes	TIME
+chapter-072	8	1	first	ORDINAL
+chapter-072	10	1	nearly one third	CARDINAL
+chapter-072	10	2	Dutch	NORP
+chapter-072	11	1	Pequod	PERSON
+chapter-072	11	2	about half	CARDINAL
+chapter-072	12	1	Pequod	ORG
+chapter-072	12	2	Holofernes	ORG
+chapter-072	12	3	Judith	PERSON
+chapter-072	13	1	noon	TIME
+chapter-072	16	1	Ahab	ORG
+chapter-072	17	1	Stubb	ORG
+chapter-072	17	2	half	CARDINAL
+chapter-072	18	1	Sphynx	ORG
+chapter-072	22	1	earth	LOC
+chapter-072	22	2	millions	CARDINAL
+chapter-072	23	1	bell	ORG
+chapter-072	25	1	midnight	TIME
+chapter-072	25	2	hours	TIME
+chapter-072	25	3	the deeper midnight	TIME
+chapter-072	25	4	maw	PERSON
+chapter-072	27	1	thou hast	PERSON
+chapter-072	27	2	Abraham	PERSON
+chapter-072	27	3	one	CARDINAL
+chapter-072	30	1	Aye	PERSON
+chapter-072	33	1	Three	CARDINAL
+chapter-072	35	1	St. Paul	GPE
+chapter-072	36	1	Nature	ORG

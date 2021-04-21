@@ -1,0 +1,131 @@
+id	sid	eid	entity	type
+chapter-103	1	1	CHAPTER CI	ORG
+chapter-103	2	1	English	NORP
+chapter-103	2	2	London	GPE
+chapter-103	2	3	Samuel Enderby	PERSON
+chapter-103	2	4	Enderby & Sons	ORG
+chapter-103	2	5	the Tudors and Bourbons	ORG
+chapter-103	3	1	the year	DATE
+chapter-103	3	2	1775	DATE
+chapter-103	3	3	that year (1775	DATE
+chapter-103	3	4	first	ORDINAL
+chapter-103	3	5	English	NORP
+chapter-103	3	6	Sperm Whale	PERSON
+chapter-103	3	7	some score of years previous	DATE
+chapter-103	3	8	1726	DATE
+chapter-103	3	9	Coffins	PERSON
+chapter-103	3	10	Vineyard	ORG
+chapter-103	3	11	Leviathan	GPE
+chapter-103	3	12	the North and South Atlantic	LOC
+chapter-103	4	1	Nantucketers	PERSON
+chapter-103	4	2	first	ORDINAL
+chapter-103	4	3	Sperm Whale	PERSON
+chapter-103	4	4	half a century	DATE
+chapter-103	5	1	1778	DATE
+chapter-103	5	2	Amelia	GPE
+chapter-103	5	3	Enderbys	ORG
+chapter-103	5	4	Cape Horn	PERSON
+chapter-103	5	5	first	ORDINAL
+chapter-103	5	6	South Sea	LOC
+chapter-103	6	1	Amelia	GPE
+chapter-103	6	2	English	NORP
+chapter-103	6	3	American	NORP
+chapter-103	6	4	Sperm	PERSON
+chapter-103	6	5	Pacific	LOC
+chapter-103	7	1	Samuel	PERSON
+chapter-103	7	2	Sons	PERSON
+chapter-103	7	3	British	NORP
+chapter-103	7	4	Rattler	PERSON
+chapter-103	7	5	the South Sea	LOC
+chapter-103	8	1	Post-Captain	ORG
+chapter-103	8	2	Rattler	PERSON
+chapter-103	10	1	1819	DATE
+chapter-103	10	2	Japan	GPE
+chapter-103	11	1	the "Syren"--made	PRODUCT
+chapter-103	11	2	Japanese	NORP
+chapter-103	12	1	Syren	ORG
+chapter-103	12	2	Nantucketer	ORG
+chapter-103	13	1	Enderbys	ORG
+chapter-103	13	2	the present day	DATE
+chapter-103	13	3	Samuel	PERSON
+chapter-103	13	4	South Sea	LOC
+chapter-103	15	1	midnight	TIME
+chapter-103	15	2	Patagonian	NORP
+chapter-103	18	1	Ahab	ORG
+chapter-103	18	2	Saxon	WORK_OF_ART
+chapter-103	21	1	ten gallons	QUANTITY
+chapter-103	21	2	Patagonia	PERSON
+chapter-103	30	1	Samuel Enderby	PERSON
+chapter-103	31	1	ye	PERSON
+chapter-103	31	2	Samuel Enderby	PERSON
+chapter-103	31	3	English	LANGUAGE
+chapter-103	33	1	English	NORP
+chapter-103	35	1	English	LANGUAGE
+chapter-103	35	2	Hollanders	ORG
+chapter-103	35	3	Zealanders	NORP
+chapter-103	35	4	Danes	GPE
+chapter-103	36	1	English	LANGUAGE
+chapter-103	36	2	English	LANGUAGE
+chapter-103	37	1	English	LANGUAGE
+chapter-103	38	1	Dutch	NORP
+chapter-103	39	1	Dan Coopman	PERSON
+chapter-103	39	2	Amsterdam	PERSON
+chapter-103	40	1	Fitz Swackhammer	WORK_OF_ART
+chapter-103	41	1	Snodhead	PERSON
+chapter-103	41	2	Low Dutch	PERSON
+chapter-103	41	3	High German	NORP
+chapter-103	41	4	Santa Claus	GPE
+chapter-103	41	5	St. Pott's	PERSON
+chapter-103	41	6	Snodhead	PERSON
+chapter-103	41	7	Dan Coopman	PERSON
+chapter-103	41	8	The Cooper	WORK_OF_ART
+chapter-103	41	9	The Merchant	WORK_OF_ART
+chapter-103	42	1	Low Dutch	PERSON
+chapter-103	42	2	Holland	GPE
+chapter-103	43	1	Smeer	WORK_OF_ART
+chapter-103	43	2	Fat	WORK_OF_ART
+chapter-103	43	3	180	CARDINAL
+chapter-103	43	4	Dutch	NORP
+chapter-103	43	5	Snodhead	PERSON
+chapter-103	44	1	400,000	CARDINAL
+chapter-103	46	1	60,000	CARDINAL
+chapter-103	47	1	Friesland	ORG
+chapter-103	48	1	150,000	CARDINAL
+chapter-103	50	1	550,000	CARDINAL
+chapter-103	52	1	72,000	CARDINAL
+chapter-103	54	1	2,800	CARDINAL
+chapter-103	55	1	20,000	CARDINAL
+chapter-103	56	1	Texel & Leyden	ORG
+chapter-103	57	1	144,000	CARDINAL
+chapter-103	58	1	cheese	ORG
+chapter-103	59	1	550	CARDINAL
+chapter-103	59	2	Geneva	GPE
+chapter-103	60	1	10,800 barrels	QUANTITY
+chapter-103	62	1	three days	DATE
+chapter-103	62	2	Platonic	NORP
+chapter-103	62	3	Low Dutch	ORG
+chapter-103	62	4	Greenland	GPE
+chapter-103	62	5	Spitzbergen	ORG
+chapter-103	63	1	first	ORDINAL
+chapter-103	63	2	Texel	ORG
+chapter-103	63	3	Leyden	GPE
+chapter-103	64	1	Polar Seas	PERSON
+chapter-103	64	2	Esquimaux	PERSON
+chapter-103	65	1	10,800 barrels	QUANTITY
+chapter-103	66	1	one	CARDINAL
+chapter-103	66	2	Dutch	NORP
+chapter-103	66	3	Spitzbergen	NORP
+chapter-103	66	4	three months	DATE
+chapter-103	66	5	30	CARDINAL
+chapter-103	66	6	180	CARDINAL
+chapter-103	66	7	5,400	CARDINAL
+chapter-103	66	8	Dutch	NORP
+chapter-103	66	9	two barrels	QUANTITY
+chapter-103	66	10	a twelve weeks'	DATE
+chapter-103	66	11	550	CARDINAL
+chapter-103	69	1	Equator	ORG
+chapter-103	69	2	Nantucket	GPE
+chapter-103	69	3	New Bedford	GPE
+chapter-103	70	1	Dutch	NORP
+chapter-103	70	2	two or three centuries ago	DATE
+chapter-103	70	3	English	NORP

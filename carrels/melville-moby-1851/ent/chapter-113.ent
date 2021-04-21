@@ -1,0 +1,33 @@
+id	sid	eid	entity	type
+chapter-113	1	1	CHAPTER CXI	ORG
+chapter-113	2	1	PACIFIC	ORG
+chapter-113	2	2	Bashee	GPE
+chapter-113	2	3	South Sea	LOC
+chapter-113	2	4	Pacific	LOC
+chapter-113	2	5	thousand	CARDINAL
+chapter-113	3	1	Ephesian	NORP
+chapter-113	3	2	Evangelist	ORG
+chapter-113	3	3	St. John	PERSON
+chapter-113	4	1	four	CARDINAL
+chapter-113	4	2	millions	CARDINAL
+chapter-113	5	1	Magian	NORP
+chapter-113	5	2	Pacific	LOC
+chapter-113	6	1	Indian	NORP
+chapter-113	6	2	Atlantic	LOC
+chapter-113	7	1	Californian	NORP
+chapter-113	7	2	yesterday	DATE
+chapter-113	7	3	Asiatic	NORP
+chapter-113	7	4	Abraham	PERSON
+chapter-113	7	5	Archipelagoes	ORG
+chapter-113	7	6	Japans	NORP
+chapter-113	8	1	Pacific	LOC
+chapter-113	8	2	one	CARDINAL
+chapter-113	8	3	earth	LOC
+chapter-113	9	1	Pan	ORG
+chapter-113	10	1	Ahab	ORG
+chapter-113	10	2	Bashee	GPE
+chapter-113	10	3	White Whale	ORG
+chapter-113	11	1	Japanese	NORP
+chapter-113	12	1	overladen brooks	PERSON
+chapter-113	12	2	Stern	WORK_OF_ART
+chapter-113	13	1	White Whale	ORG

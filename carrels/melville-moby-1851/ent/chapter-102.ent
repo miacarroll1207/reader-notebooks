@@ -1,0 +1,111 @@
+id	sid	eid	entity	type
+chapter-102	1	1	CHAPTER C. LEG	PERSON
+chapter-102	2	1	LONDON	GPE
+chapter-102	3	1	the White Whale	ORG
+chapter-102	4	1	English	LANGUAGE
+chapter-102	6	1	sixty	CARDINAL
+chapter-102	6	2	one	CARDINAL
+chapter-102	7	1	the White Whale	ORG
+chapter-102	9	1	sperm whale bone	ORG
+chapter-102	12	1	less than a minute	TIME
+chapter-102	14	1	Ahab	ORG
+chapter-102	14	2	Pequod	PERSON
+chapter-102	15	1	half	CARDINAL
+chapter-102	16	1	one	CARDINAL
+chapter-102	18	1	two	CARDINAL
+chapter-102	18	2	first	ORDINAL
+chapter-102	18	3	one	CARDINAL
+chapter-102	19	1	a minute	TIME
+chapter-102	21	1	day	DATE
+chapter-102	21	2	two	CARDINAL
+chapter-102	22	1	Ahab	ORG
+chapter-102	24	1	Ahab	ORG
+chapter-102	24	2	two	CARDINAL
+chapter-102	24	3	Aye	PERSON
+chapter-102	26	1	White Whale?--how	FAC
+chapter-102	27	1	The White Whale	ORG
+chapter-102	27	2	Englishman	NORP
+chapter-102	27	3	East	LOC
+chapter-102	27	4	Line	LOC
+chapter-102	29	1	Ahab	ORG
+chapter-102	29	2	Englishman	NORP
+chapter-102	30	1	Aye	PERSON
+chapter-102	32	1	first	ORDINAL
+chapter-102	32	2	Englishman	ORG
+chapter-102	33	1	the White Whale	ORG
+chapter-102	34	1	one day	DATE
+chapter-102	34	2	four or five	CARDINAL
+chapter-102	34	3	one	CARDINAL
+chapter-102	39	1	Aye	PERSON
+chapter-102	40	1	Englishman	ORG
+chapter-102	42	1	Aye	PERSON
+chapter-102	43	1	one	CARDINAL
+chapter-102	46	1	first	ORDINAL
+chapter-102	46	2	Mounttop	PERSON
+chapter-102	46	3	Mounttop	PERSON
+chapter-102	46	4	Mounttop	PERSON
+chapter-102	46	5	Mounttop	PERSON
+chapter-102	46	6	first	ORDINAL
+chapter-102	48	1	midday	TIME
+chapter-102	48	2	second	ORDINAL
+chapter-102	48	3	Lima	GPE
+chapter-102	48	4	two	CARDINAL
+chapter-102	48	5	half	CARDINAL
+chapter-102	48	6	first	ORDINAL
+chapter-102	51	1	one	CARDINAL
+chapter-102	51	2	second	ORDINAL
+chapter-102	51	3	Bunger	PERSON
+chapter-102	51	4	Bunger	PERSON
+chapter-102	52	1	Bunger	PERSON
+chapter-102	54	1	two	CARDINAL
+chapter-102	56	1	Boomer	PERSON
+chapter-102	56	2	Samuel Enderby	PERSON
+chapter-102	56	3	one	CARDINAL
+chapter-102	56	4	Ahab	ORG
+chapter-102	57	1	Sammy	PERSON
+chapter-102	59	1	every night	TIME
+chapter-102	59	2	half	CARDINAL
+chapter-102	59	3	about three o'clock in the morning	TIME
+chapter-102	60	1	ye	PERSON
+chapter-102	63	1	Bunger	PERSON
+chapter-102	64	1	Bunger	PERSON
+chapter-102	68	1	Bunger	ORG
+chapter-102	69	1	French	NORP
+chapter-102	69	2	Jack Bunger	PERSON
+chapter-102	72	1	Boomer	PERSON
+chapter-102	72	2	more than two feet	QUANTITY
+chapter-102	72	3	several inches	QUANTITY
+chapter-102	79	1	Bunger	ORG
+chapter-102	80	1	Bunger	ORG
+chapter-102	81	1	Bunger	ORG
+chapter-102	82	1	the White Whale	ORG
+chapter-102	83	1	two	CARDINAL
+chapter-102	85	1	one	CARDINAL
+chapter-102	86	1	Line	LOC
+chapter-102	86	2	Moby Dick	PERSON
+chapter-102	92	1	Moby Dick	PERSON
+chapter-102	93	1	Bunger	PERSON
+chapter-102	94	1	Divine Providence	PERSON
+chapter-102	96	1	the White Whale's	ORG
+chapter-102	98	1	Ceylon	GPE
+chapter-102	98	2	one	CARDINAL
+chapter-102	98	3	twelvemonth	ORDINAL
+chapter-102	99	1	jack-knife	PERSON
+chapter-102	100	1	Captain Boomer	PERSON
+chapter-102	101	1	ye	PERSON
+chapter-102	101	2	Bunger	PERSON
+chapter-102	101	3	English	NORP
+chapter-102	103	1	hark ye	PERSON
+chapter-102	111	1	Bunger	PERSON
+chapter-102	111	2	Ahab	ORG
+chapter-102	112	1	Ahab	ORG
+chapter-102	114	1	bulwarks--"Man	PRODUCT
+chapter-102	117	1	English	NORP
+chapter-102	119	1	think.--Is	FAC
+chapter-102	120	1	Fedallah	ORG
+chapter-102	121	1	Fedallah	PERSON
+chapter-102	121	2	Ahab	ORG
+chapter-102	122	1	a moment	TIME
+chapter-102	122	2	Manilla	PERSON
+chapter-102	123	1	English	NORP
+chapter-102	124	1	Pequod	PERSON

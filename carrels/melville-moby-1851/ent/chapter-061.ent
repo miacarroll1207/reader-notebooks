@@ -1,0 +1,25 @@
+id	sid	eid	entity	type
+chapter-061	2	1	Pequod	PERSON
+chapter-061	2	2	Java	ORG
+chapter-061	2	3	three	CARDINAL
+chapter-061	3	1	the silvery night	TIME
+chapter-061	4	1	one	CARDINAL
+chapter-061	4	2	Daggoo	PERSON
+chapter-061	8	1	this Moby Dick	PERSON
+chapter-061	9	1	Daggoo	ORG
+chapter-061	14	1	The White Whale	ORG
+chapter-061	14	2	the White Whale	ORG
+chapter-061	16	1	Daggoo	ORG
+chapter-061	17	1	first	ORDINAL
+chapter-061	17	2	the white mass	FAC
+chapter-061	18	1	four	CARDINAL
+chapter-061	18	2	Ahab	ORG
+chapter-061	21	1	Moby Dick	PERSON
+chapter-061	24	1	Starbuck	ORG
+chapter-061	24	2	Moby Dick	PERSON
+chapter-061	28	1	Ahab	ORG
+chapter-061	32	1	twenty and thirty feet	QUANTITY
+chapter-061	34	1	Bishop Pontoppodan	ORG
+chapter-061	34	2	Squid	ORG
+chapter-061	35	1	Bishop	ORG
+chapter-061	35	2	two	CARDINAL

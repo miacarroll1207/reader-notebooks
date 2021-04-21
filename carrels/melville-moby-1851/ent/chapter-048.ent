@@ -1,0 +1,27 @@
+id	sid	eid	entity	type
+chapter-048	2	1	Moby Dick	PERSON
+chapter-048	2	2	one	CARDINAL
+chapter-048	4	1	the White Whale	ORG
+chapter-048	7	1	Starbuck	ORG
+chapter-048	8	1	Starbuck	ORG
+chapter-048	8	2	Starbuck	PERSON
+chapter-048	8	3	Ahab	ORG
+chapter-048	8	4	Starbuck	ORG
+chapter-048	9	1	the White Whale	ORG
+chapter-048	10	1	Starbuck	ORG
+chapter-048	11	1	Moby Dick	PERSON
+chapter-048	11	2	Moby Dick	PERSON
+chapter-048	15	1	Ahab	ORG
+chapter-048	16	1	White Whale	ORG
+chapter-048	16	2	Moby Dick	PERSON
+chapter-048	17	1	Crusaders	PRODUCT
+chapter-048	17	2	two thousand miles	QUANTITY
+chapter-048	18	1	one	CARDINAL
+chapter-048	19	1	Ahab	ORG
+chapter-048	20	1	some months	DATE
+chapter-048	22	1	Pequod	PERSON
+chapter-048	22	2	Ahab	PERSON
+chapter-048	24	1	every minute	TIME
+chapter-048	25	1	Ahab	ORG
+chapter-048	25	2	Pequod	PERSON
+chapter-048	26	1	three	CARDINAL

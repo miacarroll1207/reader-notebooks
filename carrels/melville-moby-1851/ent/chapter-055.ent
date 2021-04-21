@@ -1,0 +1,51 @@
+id	sid	eid	entity	type
+chapter-055	4	1	five minutes	TIME
+chapter-055	6	1	two	CARDINAL
+chapter-055	6	2	the Pine Barrens	ORG
+chapter-055	6	3	New York State	GPE
+chapter-055	6	4	Salisbury Plain	ORG
+chapter-055	6	5	England	GPE
+chapter-055	6	6	Pine Barrens	LOC
+chapter-055	6	7	Salisbury Plains	NORP
+chapter-055	6	8	two	CARDINAL
+chapter-055	6	9	earth	LOC
+chapter-055	6	10	King's Mills	ORG
+chapter-055	7	1	one	CARDINAL
+chapter-055	8	1	a date a year or two later	DATE
+chapter-055	11	1	one	CARDINAL
+chapter-055	11	2	some third	CARDINAL
+chapter-055	14	1	one	CARDINAL
+chapter-055	14	2	Americans	NORP
+chapter-055	14	3	English	LANGUAGE
+chapter-055	15	1	English	LANGUAGE
+chapter-055	15	2	Englishman	NORP
+chapter-055	15	3	Yankee	NORP
+chapter-055	16	1	English	NORP
+chapter-055	16	2	American	NORP
+chapter-055	16	3	Nantucketer	ORG
+chapter-055	17	1	English	NORP
+chapter-055	17	2	Yankees	ORG
+chapter-055	17	3	one day	DATE
+chapter-055	17	4	English	LANGUAGE
+chapter-055	17	5	ten years	DATE
+chapter-055	18	1	English	LANGUAGE
+chapter-055	18	2	Nantucketer	ORG
+chapter-055	20	1	Broadway	FAC
+chapter-055	21	1	first	ORDINAL
+chapter-055	23	1	first	ORDINAL
+chapter-055	36	1	Johnson	PERSON
+chapter-055	36	2	Noah Webster's	PERSON
+chapter-055	37	1	many years	DATE
+chapter-055	37	2	fifteen thousand	CARDINAL
+chapter-055	37	3	Yankees	ORG
+chapter-055	38	1	Lexicon	ORG
+chapter-055	40	1	GAM	ORG
+chapter-055	41	1	two	CARDINAL
+chapter-055	41	2	two	CARDINAL
+chapter-055	41	3	one	CARDINAL
+chapter-055	41	4	two	CARDINAL
+chapter-055	42	1	Gamming	ORG
+chapter-055	48	1	two	CARDINAL
+chapter-055	51	1	two	CARDINAL
+chapter-055	53	1	two	CARDINAL
+chapter-055	53	2	oarsman	PERSON

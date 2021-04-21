@@ -1,0 +1,103 @@
+id	sid	eid	entity	type
+chapter-107	3	1	Leviathan	GPE
+chapter-107	3	2	Eternities	ORG
+chapter-107	4	1	the present day	DATE
+chapter-107	4	2	Tertiary	LOC
+chapter-107	4	3	Tertiary	LOC
+chapter-107	5	1	Alabama	GPE
+chapter-107	5	2	less than seventy feet	QUANTITY
+chapter-107	6	1	seventy-two feet	QUANTITY
+chapter-107	7	1	Sperm Whales	PERSON
+chapter-107	7	2	a hundred feet	QUANTITY
+chapter-107	8	1	the present hour	TIME
+chapter-107	8	2	Adam	PERSON
+chapter-107	9	1	Pliny	ORG
+chapter-107	10	1	eight hundred feet	QUANTITY
+chapter-107	10	2	Thames Tunnels	FAC
+chapter-107	10	3	Whales	GPE
+chapter-107	11	1	days	DATE
+chapter-107	11	2	Cooke	ORG
+chapter-107	11	3	Danish	NORP
+chapter-107	11	4	the Academy of Sciences	ORG
+chapter-107	11	5	Iceland Whales	PERSON
+chapter-107	11	6	Wrinkled Bellies	PERSON
+chapter-107	11	7	one hundred and twenty yards	QUANTITY
+chapter-107	11	8	three hundred and sixty feet	QUANTITY
+chapter-107	12	1	Lacpde	PERSON
+chapter-107	12	2	French	NORP
+chapter-107	12	3	3	CARDINAL
+chapter-107	12	4	one hundred metres	QUANTITY
+chapter-107	12	5	three hundred and twenty-eight	CARDINAL
+chapter-107	13	1	1825	DATE
+chapter-107	16	1	to-day	DATE
+chapter-107	16	2	Pliny	ORG
+chapter-107	17	1	Pliny	ORG
+chapter-107	18	1	Egyptian	NORP
+chapter-107	18	2	thousands of years	DATE
+chapter-107	18	3	Kentuckian	NORP
+chapter-107	18	4	Egyptian	NORP
+chapter-107	18	5	Nineveh	GPE
+chapter-107	18	6	Smithfield	GPE
+chapter-107	18	7	Pharaoh	PERSON
+chapter-107	19	1	one	CARDINAL
+chapter-107	20	1	Behring	ORG
+chapter-107	20	2	Leviathan	GPE
+chapter-107	21	1	forty years ago	DATE
+chapter-107	21	2	tens of thousands	CARDINAL
+chapter-107	21	3	Illinois	GPE
+chapter-107	21	4	Missouri	GPE
+chapter-107	23	1	Illinois	GPE
+chapter-107	23	2	London	GPE
+chapter-107	23	3	one	CARDINAL
+chapter-107	23	4	Leviathan	GPE
+chapter-107	24	1	Forty	CARDINAL
+chapter-107	24	2	one	CARDINAL
+chapter-107	24	3	forty-eight months	DATE
+chapter-107	24	4	forty	CARDINAL
+chapter-107	25	1	days	DATE
+chapter-107	25	2	Canadian	NORP
+chapter-107	25	3	Indian	NORP
+chapter-107	25	4	West	LOC
+chapter-107	25	5	months	DATE
+chapter-107	25	6	forty	DATE
+chapter-107	25	7	forty thousand	CARDINAL
+chapter-107	26	1	Sperm Whale	PERSON
+chapter-107	26	2	former years	DATE
+chapter-107	26	3	the last century	DATE
+chapter-107	26	4	Leviathans	NORP
+chapter-107	29	1	former years	DATE
+chapter-107	30	1	one	CARDINAL
+chapter-107	31	1	Leviathans	NORP
+chapter-107	31	2	two	CARDINAL
+chapter-107	32	1	Swiss	NORP
+chapter-107	32	2	Polar	ORG
+chapter-107	32	3	December	DATE
+chapter-107	33	1	as perhaps fifty	CARDINAL
+chapter-107	33	2	one	CARDINAL
+chapter-107	34	1	less than 13,000	CARDINAL
+chapter-107	34	2	annually	DATE
+chapter-107	34	3	west coast	LOC
+chapter-107	34	4	Americans	NORP
+chapter-107	35	1	Harto	ORG
+chapter-107	35	2	Goa	PERSON
+chapter-107	35	3	the King of Siam	WORK_OF_ART
+chapter-107	35	4	4000	CARDINAL
+chapter-107	36	1	thousands of years	DATE
+chapter-107	36	2	Semiramis	PERSON
+chapter-107	36	3	Porus	PERSON
+chapter-107	36	4	Hannibal	ORG
+chapter-107	36	5	East	LOC
+chapter-107	36	6	Asia	LOC
+chapter-107	36	7	Americas	LOC
+chapter-107	36	8	Europe	LOC
+chapter-107	36	9	Africa	LOC
+chapter-107	36	10	New Holland	GPE
+chapter-107	37	1	the age of a century	DATE
+chapter-107	37	2	one	CARDINAL
+chapter-107	38	1	seventy-five years ago	DATE
+chapter-107	40	1	Windsor Castle	PERSON
+chapter-107	40	2	Kremlin	FAC
+chapter-107	41	1	Noah	PERSON
+chapter-107	41	2	Noah	PERSON
+chapter-107	41	3	Ark	PERSON
+chapter-107	41	4	Netherlands	GPE

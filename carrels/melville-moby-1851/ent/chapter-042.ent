@@ -1,0 +1,95 @@
+id	sid	eid	entity	type
+chapter-042	2	1	MIDNIGHT	ORG
+chapter-042	2	2	FORECASTLE	ORG
+chapter-042	4	1	Spanish	NORP
+chapter-042	5	1	Spain	GPE
+chapter-042	6	1	1ST NANTUCKET SAILOR	PERSON
+chapter-042	15	1	MATE	ORG
+chapter-042	16	1	Eight	CARDINAL
+chapter-042	19	1	Eight	CARDINAL
+chapter-042	20	1	bell-boy	ORG
+chapter-042	21	1	eight	CARDINAL
+chapter-042	21	2	Pip	PERSON
+chapter-042	26	1	Eight	CARDINAL
+chapter-042	28	1	SAILOR	ORG
+chapter-042	29	1	maty	PERSON
+chapter-042	29	2	fat night	TIME
+chapter-042	30	1	Mogul	PERSON
+chapter-042	36	1	Amsterdam	PERSON
+chapter-042	37	1	FRENCH SAILOR	PERSON
+chapter-042	39	1	two	CARDINAL
+chapter-042	39	2	Blanket Bay	LOC
+chapter-042	40	1	ye	PERSON
+chapter-042	44	1	Pip	PERSON
+chapter-042	46	1	PIP	ORG
+chapter-042	47	1	Sulky	ORG
+chapter-042	49	1	FRENCH SAILOR	PERSON
+chapter-042	53	1	Indian	NORP
+chapter-042	53	2	gallop	ORG
+chapter-042	57	1	ICELAND SAILOR	PERSON
+chapter-042	58	1	maty	PERSON
+chapter-042	61	1	MALTESE SAILOR	PERSON
+chapter-042	66	1	SICILIAN SAILOR	PERSON
+chapter-042	67	1	Aye	ORG
+chapter-042	69	1	ye sulkies	ORG
+chapter-042	74	1	AZORE SAILOR	PERSON
+chapter-042	76	1	Pip	PERSON
+chapter-042	78	1	half	CARDINAL
+chapter-042	80	1	AZORE SAILOR	PERSON
+chapter-042	82	1	Pip	PERSON
+chapter-042	85	1	PIP	ORG
+chapter-042	87	1	CHINA	GPE
+chapter-042	89	1	FRENCH SAILOR	PERSON
+chapter-042	90	1	Merry-mad	PERSON
+chapter-042	91	1	Pip	PERSON
+chapter-042	92	1	split jibs	PERSON
+chapter-042	94	1	TASHTEGO	ORG
+chapter-042	98	1	MANX SAILOR	PERSON
+chapter-042	100	1	night	TIME
+chapter-042	105	1	3D	CARDINAL
+chapter-042	105	2	SAILOR	ORG
+chapter-042	107	1	Tash	PERSON
+chapter-042	111	1	Brahma	PERSON
+chapter-042	113	1	Ganges	PERSON
+chapter-042	114	1	Seeva	GPE
+chapter-042	115	1	MALTESE SAILOR	PERSON
+chapter-042	121	1	SICILIAN SAILOR	PERSON
+chapter-042	124	1	Hark ye	PERSON
+chapter-042	129	1	ye	PERSON
+chapter-042	130	1	Pagan	PERSON
+chapter-042	134	1	Hail	ORG
+chapter-042	136	1	Tahiti	ORG
+chapter-042	139	1	the first day	DATE
+chapter-042	139	2	ye thence	GPE
+chapter-042	142	1	Pirohitee	ORG
+chapter-042	150	1	DANISH SAILOR	PERSON
+chapter-042	152	1	thou crackest	PERSON
+chapter-042	152	2	thou holdest	PERSON
+chapter-042	155	1	Cattegat	GPE
+chapter-042	155	2	Baltic	LOC
+chapter-042	156	1	4TH	CARDINAL
+chapter-042	158	1	Ahab	PERSON
+chapter-042	166	1	MANX SAILOR	PERSON
+chapter-042	167	1	three	CARDINAL
+chapter-042	181	1	Aye	ORG
+chapter-042	186	1	Spaniard	PERSON
+chapter-042	187	1	one	CARDINAL
+chapter-042	187	2	Mogul	PERSON
+chapter-042	188	1	5TH	CARDINAL
+chapter-042	192	1	Daggoo	PERSON
+chapter-042	194	1	Swallow	GPE
+chapter-042	203	1	TASHTEGO	ORG
+chapter-042	206	1	BELFAST	GPE
+chapter-042	206	2	SAILOR	ORG
+chapter-042	208	1	arrah a row	PERSON
+chapter-042	215	1	MANX SAILOR	PERSON
+chapter-042	219	1	Abel	WORK_OF_ART
+chapter-042	223	1	MATE	ORG
+chapter-042	232	1	PIP	ORG
+chapter-042	235	1	Crish	NORP
+chapter-042	237	1	Blang-whang	PERSON
+chapter-042	239	1	Pip	PERSON
+chapter-042	240	1	the last day of the year	DATE
+chapter-042	245	1	Jimmini	ORG
+chapter-042	248	1	white whale	ORG
+chapter-042	252	1	only this evening	TIME

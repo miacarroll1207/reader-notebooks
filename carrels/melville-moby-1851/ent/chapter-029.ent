@@ -1,0 +1,89 @@
+id	sid	eid	entity	type
+chapter-029	2	1	KNIGHTS	ORG
+chapter-029	2	2	SQUIRES Stubb	PERSON
+chapter-029	2	3	second	ORDINAL
+chapter-029	3	1	Cape Cod	GPE
+chapter-029	3	2	Cape-Cod-man	FAC
+chapter-029	4	1	the year	DATE
+chapter-029	9	1	Stubb	PERSON
+chapter-029	16	1	Stubb dressed	PERSON
+chapter-029	16	2	first	ORDINAL
+chapter-029	17	1	Stubb	ORG
+chapter-029	18	1	third	ORDINAL
+chapter-029	18	2	Flask	NORP
+chapter-029	18	3	Tisbury	GPE
+chapter-029	18	4	Martha	PERSON
+chapter-029	18	5	Vineyard	ORG
+chapter-029	21	1	a three years'	DATE
+chapter-029	21	2	Cape Horn	LOC
+chapter-029	23	1	Little Flask	PERSON
+chapter-029	23	2	one	CARDINAL
+chapter-029	24	1	him King-Post	ORG
+chapter-029	24	2	Pequod	PERSON
+chapter-029	24	3	Arctic	LOC
+chapter-029	25	1	three	CARDINAL
+chapter-029	25	2	Starbuck, Stubb	PERSON
+chapter-029	26	1	three	CARDINAL
+chapter-029	26	2	Pequod	PERSON
+chapter-029	27	1	three	CARDINAL
+chapter-029	29	1	a Gothic Knight of old	PERSON
+chapter-029	29	2	two	CARDINAL
+chapter-029	29	3	Pequod	PERSON
+chapter-029	30	1	First	ORDINAL
+chapter-029	30	2	Queequeg	PERSON
+chapter-029	30	3	Starbuck	PERSON
+chapter-029	31	1	Queequeg	PERSON
+chapter-029	32	1	Tashtego	GPE
+chapter-029	32	2	Indian	NORP
+chapter-029	32	3	Gay Head	PERSON
+chapter-029	32	4	Martha	PERSON
+chapter-029	32	5	Nantucket	GPE
+chapter-029	33	1	Gay-Headers	ORG
+chapter-029	34	1	Tashtego	ORG
+chapter-029	34	2	Indian	NORP
+chapter-029	34	3	Oriental	NORP
+chapter-029	34	4	New England	LOC
+chapter-029	35	1	Tashtego	PERSON
+chapter-029	36	1	Puritans	NORP
+chapter-029	36	2	half	CARDINAL
+chapter-029	36	3	Indian	NORP
+chapter-029	37	1	Tashtego	PERSON
+chapter-029	37	2	Stubb	PERSON
+chapter-029	37	3	second	ORDINAL
+chapter-029	38	1	Third	ORDINAL
+chapter-029	38	2	Daggoo	PERSON
+chapter-029	38	3	Ahasuerus	NORP
+chapter-029	39	1	two	CARDINAL
+chapter-029	40	1	Daggoo	ORG
+chapter-029	41	1	Africa	LOC
+chapter-029	41	2	Nantucket	GPE
+chapter-029	41	3	many years	DATE
+chapter-029	41	4	Daggoo	PERSON
+chapter-029	41	5	six feet	QUANTITY
+chapter-029	41	6	five	CARDINAL
+chapter-029	44	1	Pequod	ORG
+chapter-029	44	2	the present day	DATE
+chapter-029	44	3	one	CARDINAL
+chapter-029	44	4	two	CARDINAL
+chapter-029	44	5	the many thousand	CARDINAL
+chapter-029	44	6	American	NORP
+chapter-029	44	7	Americans	NORP
+chapter-029	45	1	American	NORP
+chapter-029	45	2	American	NORP
+chapter-029	45	3	the American Canals	ORG
+chapter-029	45	4	Railroads	PERSON
+chapter-029	46	1	American	NORP
+chapter-029	47	1	Azores	ORG
+chapter-029	48	1	Greenland	PERSON
+chapter-029	48	2	Hull	ORG
+chapter-029	48	3	London	GPE
+chapter-029	48	4	the Shetland Islands	GPE
+chapter-029	51	1	Islanders	NORP
+chapter-029	51	2	Pequod	EVENT
+chapter-029	51	3	Isolato	ORG
+chapter-029	53	1	Anacharsis Clootz	ORG
+chapter-029	53	2	Old Ahab in the Pequod	WORK_OF_ART
+chapter-029	56	1	Alabama	GPE
+chapter-029	57	1	Pequod	PERSON
+chapter-029	57	2	ye shall	FAC
+chapter-029	57	3	the great quarter-deck	DATE

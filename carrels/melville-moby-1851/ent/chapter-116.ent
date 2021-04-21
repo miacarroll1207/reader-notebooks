@@ -1,0 +1,22 @@
+id	sid	eid	entity	type
+chapter-116	1	1	CHAPTER CXIV	ORG
+chapter-116	2	1	Japanese	NORP
+chapter-116	2	2	Pequod	PERSON
+chapter-116	3	1	twelve, fifteen, eighteen	DATE
+chapter-116	3	2	twenty hours	TIME
+chapter-116	3	3	sixty or seventy minutes	MONEY
+chapter-116	4	1	all day	DATE
+chapter-116	4	2	one	CARDINAL
+chapter-116	6	1	May-time	DATE
+chapter-116	7	1	half	CARDINAL
+chapter-116	7	2	one	CARDINAL
+chapter-116	11	1	life,--in ye	PERSON
+chapter-116	14	1	one	CARDINAL
+chapter-116	14	2	infancy	ORG
+chapter-116	14	3	manhood	LOC
+chapter-116	15	1	Ifs	ORG
+chapter-116	20	1	Starbuck lowly murmured:--	PERSON
+chapter-116	22	1	Stubb	PERSON
+chapter-116	22	2	Stubb	PERSON
+chapter-116	22	3	Stubb	PERSON
+chapter-116	22	4	Stubb	PERSON

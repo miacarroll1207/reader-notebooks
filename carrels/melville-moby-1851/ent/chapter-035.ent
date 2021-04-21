@@ -1,0 +1,29 @@
+id	sid	eid	entity	type
+chapter-035	3	1	Dutch Fishery	ORG
+chapter-035	3	2	two centuries	DATE
+chapter-035	3	3	more ago	DATE
+chapter-035	3	4	Specksnyder	ORG
+chapter-035	4	1	Fat-Cutter	PERSON
+chapter-035	4	2	Chief Harpooneer	PERSON
+chapter-035	5	1	those days	DATE
+chapter-035	5	2	Specksnyder	ORG
+chapter-035	5	3	Harpooneer	ORG
+chapter-035	6	1	British	NORP
+chapter-035	6	2	Dutch	NORP
+chapter-035	7	1	Harpooneer	ORG
+chapter-035	7	2	one	CARDINAL
+chapter-035	8	1	American	NORP
+chapter-035	8	2	Fishery	NORP
+chapter-035	8	3	night	TIME
+chapter-035	9	1	first	ORDINAL
+chapter-035	10	1	their quarters	DATE
+chapter-035	10	2	American	NORP
+chapter-035	12	1	Southern	NORP
+chapter-035	12	2	Mesopotamian	NORP
+chapter-035	14	1	Pequod	PERSON
+chapter-035	14	2	Ahab	PERSON
+chapter-035	18	1	Empire	GPE
+chapter-035	18	2	Divine	PERSON
+chapter-035	20	1	Nicholas the Czar	PERSON
+chapter-035	20	2	plebeian	NORP
+chapter-035	21	1	one	CARDINAL

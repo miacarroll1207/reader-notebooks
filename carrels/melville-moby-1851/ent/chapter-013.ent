@@ -1,0 +1,15 @@
+id	sid	eid	entity	type
+chapter-013	2	1	Queequeg	PERSON
+chapter-013	3	1	four	CARDINAL
+chapter-013	3	2	two	CARDINAL
+chapter-013	8	1	Queequeg	PERSON
+chapter-013	9	1	one	CARDINAL
+chapter-013	11	1	one	CARDINAL
+chapter-013	12	1	day	DATE
+chapter-013	12	2	night	TIME
+chapter-013	14	1	twelve-o'clock-at-night	TIME
+chapter-013	15	1	Queequeg	PERSON
+chapter-013	15	2	Tomahawk	PRODUCT
+chapter-013	16	1	the night	TIME
+chapter-013	17	1	Queequeg	PERSON
+chapter-013	20	1	Tomahawk	PERSON

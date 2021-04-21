@@ -1,0 +1,41 @@
+id	sid	eid	entity	type
+chapter-120	2	1	every day	DATE
+chapter-120	2	2	Ahab	PERSON
+chapter-120	4	1	noon	TIME
+chapter-120	4	2	Ahab	ORG
+chapter-120	4	3	daily	DATE
+chapter-120	5	1	Japanese	NORP
+chapter-120	5	2	the days	DATE
+chapter-120	5	3	summer	DATE
+chapter-120	6	1	Japanese	NORP
+chapter-120	6	2	the glassy ocean's	LOC
+chapter-120	8	1	Ahab	ORG
+chapter-120	10	1	Parsee	GPE
+chapter-120	10	2	Ahab	ORG
+chapter-120	10	3	half	CARDINAL
+chapter-120	12	1	Thou sea-mark	PERSON
+chapter-120	14	1	thou tellest	PERSON
+chapter-120	16	1	Moby Dick	PERSON
+chapter-120	19	1	Foolish	NORP
+chapter-120	20	1	Commodores	PRODUCT
+chapter-120	20	2	Captains	ORG
+chapter-120	22	1	Thou	PERSON
+chapter-120	22	2	one	CARDINAL
+chapter-120	22	3	one	CARDINAL
+chapter-120	22	4	noon	TIME
+chapter-120	25	1	earth	LOC
+chapter-120	28	1	Aye	ORG
+chapter-120	29	1	Ahab	ORG
+chapter-120	29	2	Parsee	GPE
+chapter-120	30	1	Ahab	ORG
+chapter-120	32	1	half	CARDINAL
+chapter-120	32	2	three	CARDINAL
+chapter-120	32	3	three	CARDINAL
+chapter-120	32	4	Horatii	ORG
+chapter-120	32	5	one	CARDINAL
+chapter-120	33	1	Pequod	ORG
+chapter-120	33	2	Ahab	ORG
+chapter-120	36	1	one	CARDINAL
+chapter-120	37	1	Aye	PERSON
+chapter-120	37	2	Stubb	PERSON
+chapter-120	37	3	Starbuck	PERSON

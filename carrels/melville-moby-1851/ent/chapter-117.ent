@@ -1,0 +1,29 @@
+id	sid	eid	entity	type
+chapter-117	2	1	some few weeks	DATE
+chapter-117	2	2	Ahab	ORG
+chapter-117	3	1	Bachelor	PRODUCT
+chapter-117	4	1	three	CARDINAL
+chapter-117	6	1	three	CARDINAL
+chapter-117	6	2	two barrels	QUANTITY
+chapter-117	7	1	Bachelor	PERSON
+chapter-117	7	2	months	DATE
+chapter-117	11	1	Pequod	PERSON
+chapter-117	12	1	the Polynesian Isles	GPE
+chapter-117	12	2	three	CARDINAL
+chapter-117	12	3	Long Island	LOC
+chapter-117	14	1	Bastile	PRODUCT
+chapter-117	16	1	two	CARDINAL
+chapter-117	16	2	one	CARDINAL
+chapter-117	16	3	two	CARDINAL
+chapter-117	18	1	Bachelor	PERSON
+chapter-117	19	1	the White Whale	ORG
+chapter-117	26	1	two	CARDINAL
+chapter-117	28	1	ye	PERSON
+chapter-117	28	2	merry	PERSON
+chapter-117	34	1	one	CARDINAL
+chapter-117	34	2	two	CARDINAL
+chapter-117	34	3	Pequod	PERSON
+chapter-117	34	4	Bachelor	PERSON
+chapter-117	34	5	Bachelor	PERSON
+chapter-117	35	1	Ahab	ORG
+chapter-117	35	2	two	CARDINAL

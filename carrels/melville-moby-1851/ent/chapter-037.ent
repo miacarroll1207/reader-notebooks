@@ -1,0 +1,89 @@
+id	sid	eid	entity	type
+chapter-037	2	1	first	ORDINAL
+chapter-037	3	1	American	NORP
+chapter-037	3	2	fifteen thousand miles	QUANTITY
+chapter-037	4	1	three	CARDINAL
+chapter-037	4	2	four	CARDINAL
+chapter-037	4	3	five years'	DATE
+chapter-037	4	4	one	CARDINAL
+chapter-037	6	1	Egyptians	NORP
+chapter-037	7	1	Babel	ORG
+chapter-037	7	2	Asia	LOC
+chapter-037	7	3	Africa	LOC
+chapter-037	7	4	Babel	PERSON
+chapter-037	7	5	Egyptians	NORP
+chapter-037	8	1	Egyptians	NORP
+chapter-037	8	2	first	ORDINAL
+chapter-037	8	3	four	CARDINAL
+chapter-037	9	1	Saint Stylites	GPE
+chapter-037	9	2	Christian	NORP
+chapter-037	11	1	Napoleon	ORG
+chapter-037	11	2	Vendome	GPE
+chapter-037	11	3	one hundred and fifty feet	QUANTITY
+chapter-037	11	4	Louis Philippe	PERSON
+chapter-037	11	5	Louis Blanc	PERSON
+chapter-037	11	6	Louis the Devil	PERSON
+chapter-037	12	1	Great Washington	PERSON
+chapter-037	12	2	Baltimore	GPE
+chapter-037	12	3	one	CARDINAL
+chapter-037	12	4	Hercules	GPE
+chapter-037	13	1	Nelson	PERSON
+chapter-037	13	2	Trafalgar Square	FAC
+chapter-037	13	3	London	GPE
+chapter-037	14	1	Washington	GPE
+chapter-037	14	2	Napoleon	ORG
+chapter-037	14	3	Nelson	PERSON
+chapter-037	15	1	Obed Macy	ORG
+chapter-037	15	2	Nantucket	GPE
+chapter-037	17	1	A few years ago	DATE
+chapter-037	17	2	the Bay whalemen	LOC
+chapter-037	17	3	New Zealand	GPE
+chapter-037	18	1	one	CARDINAL
+chapter-037	19	1	three	CARDINAL
+chapter-037	19	2	every two hours	TIME
+chapter-037	21	1	a hundred feet	QUANTITY
+chapter-037	21	2	Rhodes	PERSON
+chapter-037	24	1	three years	DATE
+chapter-037	25	1	one	CARDINAL
+chapter-037	25	2	three or four years'	DATE
+chapter-037	25	3	the various hours	TIME
+chapter-037	25	4	several entire months	DATE
+chapter-037	27	1	two	CARDINAL
+chapter-037	29	1	Alps	LOC
+chapter-037	29	2	winter	DATE
+chapter-037	31	1	Greenland	ORG
+chapter-037	32	1	Sleet	PERSON
+chapter-037	32	2	A Voyage among the Icebergs	WORK_OF_ART
+chapter-037	32	3	the Lost Icelandic Colonies	ORG
+chapter-037	32	4	Glacier	GPE
+chapter-037	32	5	Sleet	PERSON
+chapter-037	34	1	Sleet	GPE
+chapter-037	39	1	Sleet	PERSON
+chapter-037	39	2	Glacier	GPE
+chapter-037	39	3	Sleet	PERSON
+chapter-037	40	1	Captain	ORG
+chapter-037	40	2	three or four	CARDINAL
+chapter-037	41	1	Southern	NORP
+chapter-037	42	1	one	CARDINAL
+chapter-037	42	2	Queequeg	PERSON
+chapter-037	45	1	ye ship-owners	PERSON
+chapter-037	45	2	Nantucket	GPE
+chapter-037	46	1	Phdon	ORG
+chapter-037	46	2	Bowditch	PERSON
+chapter-037	47	1	Platonist	PERSON
+chapter-037	47	2	ten	CARDINAL
+chapter-037	47	3	one	CARDINAL
+chapter-037	49	1	earth	LOC
+chapter-037	50	1	Childe Harold	PERSON
+chapter-037	51	1	Ten thousand	CARDINAL
+chapter-037	52	1	half	CARDINAL
+chapter-037	55	1	thou monkey	PERSON
+chapter-037	55	2	three years	DATE
+chapter-037	57	1	the mystic ocean	LOC
+chapter-037	57	2	half	CARDINAL
+chapter-037	58	1	Cranmer	ORG
+chapter-037	58	2	Pantheistic	NORP
+chapter-037	62	1	mid-day	DATE
+chapter-037	62	2	one half	CARDINAL
+chapter-037	62	3	the summer sea	LOC
+chapter-037	63	1	Heed	ORG

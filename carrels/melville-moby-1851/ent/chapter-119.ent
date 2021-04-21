@@ -1,0 +1,26 @@
+id	sid	eid	entity	type
+chapter-119	2	1	four	CARDINAL
+chapter-119	2	2	evening	TIME
+chapter-119	2	3	one	CARDINAL
+chapter-119	2	4	one	CARDINAL
+chapter-119	2	5	one	CARDINAL
+chapter-119	3	1	three	CARDINAL
+chapter-119	3	2	morning	TIME
+chapter-119	3	3	all night	TIME
+chapter-119	3	4	Ahab's	ORG
+chapter-119	5	1	Parsee	GPE
+chapter-119	6	1	Gomorrah	GPE
+chapter-119	7	1	Parsee	GPE
+chapter-119	12	1	two	CARDINAL
+chapter-119	12	2	first	ORDINAL
+chapter-119	12	3	America	GPE
+chapter-119	13	1	Aye	PERSON
+chapter-119	22	1	two	CARDINAL
+chapter-119	22	2	Moby Dick	PERSON
+chapter-119	23	1	Parsee	GPE
+chapter-119	23	2	gloom,--"Hemp	ORG
+chapter-119	24	1	ye mean.--I am	PERSON
+chapter-119	24	2	cried Ahab	WORK_OF_ART
+chapter-119	24	3	derision;--"Immortal	CARDINAL
+chapter-119	25	1	one	CARDINAL
+chapter-119	26	1	ere noon	TIME

@@ -1,0 +1,121 @@
+id	sid	eid	entity	type
+chapter-135	2	1	FIRST	ORDINAL
+chapter-135	8	1	three	CARDINAL
+chapter-135	8	2	Daggoo	ORG
+chapter-135	15	1	two thirds	CARDINAL
+chapter-135	17	1	Moby Dick	PERSON
+chapter-135	18	1	three	CARDINAL
+chapter-135	19	1	Tashtego	GPE
+chapter-135	19	2	Indian	NORP
+chapter-135	19	3	Ahab	ORG
+chapter-135	20	1	some mile	QUANTITY
+chapter-135	21	1	Atlantic	LOC
+chapter-135	21	2	Indian Oceans	NORP
+chapter-135	24	1	Tashtego	PERSON
+chapter-135	26	1	ye	PERSON
+chapter-135	26	2	the White Whale	ORG
+chapter-135	34	1	three	CARDINAL
+chapter-135	35	1	Starbuck	PERSON
+chapter-135	37	1	Luff	ORG
+chapter-135	43	1	Starbuck	PERSON
+chapter-135	43	2	lower,--quick	ORG
+chapter-135	45	1	Stubb	PERSON
+chapter-135	52	1	Starbuck	ORG
+chapter-135	52	2	Ahab	ORG
+chapter-135	53	1	Fedallah	ORG
+chapter-135	55	1	noon	TIME
+chapter-135	58	1	Turkish	NORP
+chapter-135	59	1	hundreds	CARDINAL
+chapter-135	59	2	one	CARDINAL
+chapter-135	61	1	Jupiter	LOC
+chapter-135	61	2	Europa	LOC
+chapter-135	62	1	White Whale	ORG
+chapter-135	66	1	thou glidest	PERSON
+chapter-135	66	2	first	ORDINAL
+chapter-135	67	1	Moby Dick	PERSON
+chapter-135	68	1	Virginia	GPE
+chapter-135	68	2	Natural Bridge	FAC
+chapter-135	70	1	three	CARDINAL
+chapter-135	70	2	Moby Dick's	PERSON
+chapter-135	71	1	An hour	TIME
+chapter-135	75	1	Tashtego	PERSON
+chapter-135	76	1	Indian	NORP
+chapter-135	76	2	Ahab	ORG
+chapter-135	76	3	a few yards	QUANTITY
+chapter-135	78	1	two	CARDINAL
+chapter-135	79	1	Moby Dick's	PERSON
+chapter-135	79	2	half	CARDINAL
+chapter-135	80	1	one	CARDINAL
+chapter-135	81	1	Fedallah	ORG
+chapter-135	81	2	Perth	GPE
+chapter-135	83	1	Moby Dick	PERSON
+chapter-135	85	1	six inches	QUANTITY
+chapter-135	85	2	Ahab	ORG
+chapter-135	86	1	the White Whale	ORG
+chapter-135	87	1	Fedallah	ORG
+chapter-135	88	1	Ahab	ORG
+chapter-135	89	1	two	CARDINAL
+chapter-135	91	1	first	ORDINAL
+chapter-135	91	2	one	CARDINAL
+chapter-135	93	1	Moby Dick	PERSON
+chapter-135	93	2	some twenty or more feet	QUANTITY
+chapter-135	94	1	23	CARDINAL
+chapter-135	94	2	Channel	NORP
+chapter-135	95	1	23	CARDINAL
+chapter-135	98	1	Moby Dick	PERSON
+chapter-135	99	1	Antiochus	PERSON
+chapter-135	100	1	half	CARDINAL
+chapter-135	101	1	Fedallah	ORG
+chapter-135	102	1	the White Whale's	ORG
+chapter-135	105	1	Moby Dick	PERSON
+chapter-135	107	1	Pequod	PERSON
+chapter-135	109	1	Stubb	ORG
+chapter-135	109	2	Ahab	ORG
+chapter-135	109	3	Stubb	PERSON
+chapter-135	109	4	one	CARDINAL
+chapter-135	112	1	one	CARDINAL
+chapter-135	113	1	one	CARDINAL
+chapter-135	114	1	Ahab	ORG
+chapter-135	114	2	half	CARDINAL
+chapter-135	114	3	one	CARDINAL
+chapter-135	115	1	Aye	PERSON
+chapter-135	115	2	Stubb	PERSON
+chapter-135	117	1	One	CARDINAL
+chapter-135	117	2	two	CARDINAL
+chapter-135	117	3	three	CARDINAL
+chapter-135	117	4	four	CARDINAL
+chapter-135	117	5	five	CARDINAL
+chapter-135	117	6	five	CARDINAL
+chapter-135	124	1	Ahab	ORG
+chapter-135	126	1	second	ORDINAL
+chapter-135	128	1	some one	CARDINAL
+chapter-135	130	1	two	CARDINAL
+chapter-135	130	2	Pequod	PERSON
+chapter-135	130	3	Moby Dick	PERSON
+chapter-135	131	1	Ahab	ORG
+chapter-135	135	1	the day	DATE
+chapter-135	138	1	exclaimed--"The	DATE
+chapter-135	144	1	Aye	PERSON
+chapter-135	144	2	Starbuck drawing	PERSON
+chapter-135	148	1	two	CARDINAL
+chapter-135	148	2	one	CARDINAL
+chapter-135	148	3	Starbuck is Stubb	ORG
+chapter-135	148	4	Stubb	PERSON
+chapter-135	148	5	Starbuck	PERSON
+chapter-135	148	6	two	CARDINAL
+chapter-135	148	7	Ahab	ORG
+chapter-135	148	8	millions	CARDINAL
+chapter-135	149	1	shiver!--How	ORG
+chapter-135	152	1	ten	CARDINAL
+chapter-135	152	2	second	ORDINAL
+chapter-135	153	1	The day	DATE
+chapter-135	160	1	Starbuck	PERSON
+chapter-135	161	1	morning	TIME
+chapter-135	163	1	wind!--Aloft	ORG
+chapter-135	165	1	the White Whale	ORG
+chapter-135	165	2	ye first	ORG
+chapter-135	165	3	the day	DATE
+chapter-135	165	4	that day	DATE
+chapter-135	165	5	ten	CARDINAL
+chapter-135	167	1	half	CARDINAL
+chapter-135	167	2	the night	TIME

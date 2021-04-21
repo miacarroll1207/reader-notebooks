@@ -1,0 +1,46 @@
+id	sid	eid	entity	type
+chapter-105	2	1	first	ORDINAL
+chapter-105	4	1	Scoresby	PERSON
+chapter-105	4	2	seventy tons	QUANTITY
+chapter-105	4	3	Greenland	ORG
+chapter-105	4	4	sixty feet	QUANTITY
+chapter-105	4	5	Sperm Whale	PERSON
+chapter-105	4	6	between eighty-five	DATE
+chapter-105	4	7	less than forty feet	QUANTITY
+chapter-105	4	8	at least ninety tons	QUANTITY
+chapter-105	4	9	thirteen	CARDINAL
+chapter-105	4	10	one thousand one hundred	CARDINAL
+chapter-105	8	1	Sperm Whale's	PERSON
+chapter-105	8	2	Tranque	NORP
+chapter-105	8	3	seventy-two feet	QUANTITY
+chapter-105	8	4	ninety feet	QUANTITY
+chapter-105	8	5	about one fifth	CARDINAL
+chapter-105	9	1	seventy-two feet	QUANTITY
+chapter-105	9	2	some twenty feet	QUANTITY
+chapter-105	9	3	some fifty feet	QUANTITY
+chapter-105	10	1	less than a third	CARDINAL
+chapter-105	11	1	only some twenty	CARDINAL
+chapter-105	12	1	ten	CARDINAL
+chapter-105	13	1	first	ORDINAL
+chapter-105	13	2	nearly six feet	QUANTITY
+chapter-105	13	3	second	ORDINAL
+chapter-105	13	4	third	ORDINAL
+chapter-105	13	5	fourth	ORDINAL
+chapter-105	13	6	fifth	ORDINAL
+chapter-105	13	7	eight feet	QUANTITY
+chapter-105	14	1	tenth	ORDINAL
+chapter-105	14	2	five feet	QUANTITY
+chapter-105	19	1	Tranque	NORP
+chapter-105	19	2	one	CARDINAL
+chapter-105	20	1	at least sixteen feet	QUANTITY
+chapter-105	20	2	eight feet	QUANTITY
+chapter-105	21	1	half	CARDINAL
+chapter-105	22	1	tons	QUANTITY
+chapter-105	24	1	skeleton	ORG
+chapter-105	30	1	Pompey	PERSON
+chapter-105	30	2	Pillar	LOC
+chapter-105	31	1	forty	DATE
+chapter-105	32	1	Gothic	NORP
+chapter-105	33	1	less than three feet	QUANTITY
+chapter-105	33	2	more than four	CARDINAL
+chapter-105	34	1	only two inches	QUANTITY

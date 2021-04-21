@@ -1,0 +1,22 @@
+id	sid	eid	entity	type
+chapter-078	2	1	Sperm Whale's	PERSON
+chapter-078	4	1	one	CARDINAL
+chapter-078	5	1	Sperm Whale	PERSON
+chapter-078	6	1	nearly one third	CARDINAL
+chapter-078	7	1	Sperm	PERSON
+chapter-078	7	2	Whale	PERSON
+chapter-078	8	1	twenty feet	QUANTITY
+chapter-078	9	1	one	CARDINAL
+chapter-078	14	1	Sperm	PERSON
+chapter-078	17	1	two	CARDINAL
+chapter-078	17	2	Indiamen	NORP
+chapter-078	22	1	Sperm Whale	PERSON
+chapter-078	25	1	one	CARDINAL
+chapter-078	26	1	Sperm Whale	PERSON
+chapter-078	26	2	Isthmus	PERSON
+chapter-078	26	3	Darien	ORG
+chapter-078	26	4	Atlantic	LOC
+chapter-078	26	5	Pacific	LOC
+chapter-078	27	1	Truth	GPE
+chapter-078	28	1	Truth	LOC
+chapter-078	29	1	Lais	GPE

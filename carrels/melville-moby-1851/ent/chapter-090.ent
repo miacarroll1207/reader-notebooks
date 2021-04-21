@@ -1,0 +1,48 @@
+id	sid	eid	entity	type
+chapter-090	2	1	Sperm Whales	PERSON
+chapter-090	3	1	the present day	DATE
+chapter-090	3	2	twenty to fifty	CARDINAL
+chapter-090	5	1	two	CARDINAL
+chapter-090	7	1	Ottoman	NORP
+chapter-090	8	1	Ottoman	NORP
+chapter-090	8	2	more than one third	CARDINAL
+chapter-090	9	1	half a dozen yards	QUANTITY
+chapter-090	13	1	Equatorial	LOC
+chapter-090	13	2	the summer	DATE
+chapter-090	13	3	the Northern seas	LOC
+chapter-090	13	4	summer	DATE
+chapter-090	14	1	Equator	ORG
+chapter-090	14	2	Oriental	NORP
+chapter-090	14	3	the year	DATE
+chapter-090	16	1	Leviathan	PERSON
+chapter-090	16	2	Bashaw	GPE
+chapter-090	17	1	Bashaw	ORG
+chapter-090	17	2	Lothario	PERSON
+chapter-090	21	1	encounters,--furrowed	ORG
+chapter-090	22	1	first	ORDINAL
+chapter-090	23	1	Lothario	PERSON
+chapter-090	23	2	Solomon	PERSON
+chapter-090	23	3	thousand	CARDINAL
+chapter-090	24	1	these Grand Turks	NORP
+chapter-090	24	2	these Grand Turks	NORP
+chapter-090	26	1	Whale	PERSON
+chapter-090	27	1	as years	DATE
+chapter-090	27	2	Turk	PERSON
+chapter-090	27	3	Ottoman	NORP
+chapter-090	27	4	Leviathan	PERSON
+chapter-090	30	1	first	ORDINAL
+chapter-090	30	2	Ottoman	NORP
+chapter-090	30	3	Vidocq	GPE
+chapter-090	30	4	Frenchman	NORP
+chapter-090	30	5	his younger days	DATE
+chapter-090	31	1	his advancing years	DATE
+chapter-090	31	2	Sperm Whales	PERSON
+chapter-090	32	1	Leviathan	GPE
+chapter-090	33	1	Daniel Boone	PERSON
+chapter-090	33	2	Nature	ORG
+chapter-090	35	1	Leviathans	NORP
+chapter-090	36	1	Forty-barrel	DATE
+chapter-090	37	1	Yale	ORG
+chapter-090	37	2	Harvard	ORG
+chapter-090	38	1	about three	CARDINAL
+chapter-090	40	1	Forty-barrel	QUANTITY

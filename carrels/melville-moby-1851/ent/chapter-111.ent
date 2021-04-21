@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-111	1	1	CHAPTER CIX	ORG
+chapter-111	2	1	STARBUCK	ORG
+chapter-111	2	2	CABIN	ORG
+chapter-111	2	3	next morning	TIME
+chapter-111	4	1	Starbuck	ORG
+chapter-111	5	1	22	CARDINAL
+chapter-111	5	2	22	CARDINAL
+chapter-111	7	1	South	LOC
+chapter-111	7	2	West	LOC
+chapter-111	7	3	Formosa	GPE
+chapter-111	7	4	the Bashee Isles	PERSON
+chapter-111	7	5	one	CARDINAL
+chapter-111	7	6	China	GPE
+chapter-111	7	7	Pacific	LOC
+chapter-111	8	1	Starbuck	ORG
+chapter-111	8	2	oriental	NORP
+chapter-111	8	3	one	CARDINAL
+chapter-111	8	4	Japanese	NORP
+chapter-111	8	5	Niphon	GPE
+chapter-111	8	6	Matsmai	GPE
+chapter-111	8	7	Sikoke	ORG
+chapter-111	14	1	Captain Ahab	WORK_OF_ART
+chapter-111	16	1	Burtons	ORG
+chapter-111	18	1	Japan	GPE
+chapter-111	18	2	a week	DATE
+chapter-111	19	1	one day	DATE
+chapter-111	19	2	a year	DATE
+chapter-111	20	1	twenty thousand miles	QUANTITY
+chapter-111	29	1	Pequod	PERSON
+chapter-111	32	1	Burtons	ORG
+chapter-111	34	1	Nantucket beach	GPE
+chapter-111	34	2	Typhoons	ORG
+chapter-111	35	1	Ahab	ORG
+chapter-111	37	1	Starbuck	PERSON
+chapter-111	38	1	hark ye	PERSON
+chapter-111	38	2	keel.--On	ORG
+chapter-111	39	1	Captain Ahab	WORK_OF_ART
+chapter-111	39	2	more than half	CARDINAL
+chapter-111	40	1	Captain Ahab	PERSON
+chapter-111	42	1	me?--On	ORG
+chapter-111	46	1	South-Sea	LOC
+chapter-111	46	2	Starbuck	GPE
+chapter-111	46	3	one	CARDINAL
+chapter-111	48	1	half	CARDINAL
+chapter-111	48	2	Starbuck	ORG
+chapter-111	48	3	Ahab	ORG
+chapter-111	50	1	Ahab	PERSON
+chapter-111	50	2	Starbuck	ORG
+chapter-111	53	1	Starbuck	PERSON
+chapter-111	53	2	Furl the t'gallant-sails and close-reef the top-sails	WORK_OF_ART
+chapter-111	53	3	Burtons	ORG
+chapter-111	55	1	prudential	ORG
+chapter-111	56	1	Burtons	ORG

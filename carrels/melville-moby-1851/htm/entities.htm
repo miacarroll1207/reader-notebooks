@@ -1,0 +1,1879 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Named entities</li>
+		</ol>
+	</nav>
+
+
+<h1>Named entities</h1>
+<p>This is a table of named entities, their types, and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel. Please keep in mind that named-entity extraction is not as accurate as more generic parts-of-speech extraction. Unusual results will appear here.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>entity</th>
+                <th>type</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>queequeg</td><td>PERSON</td><td>235</td></tr>
+<tr><td>ahab</td><td>ORG</td><td>185</td></tr>
+<tr><td>stubb</td><td>PERSON</td><td>170</td></tr>
+<tr><td>pequod</td><td>PERSON</td><td>148</td></tr>
+<tr><td>starbuck</td><td>PERSON</td><td>125</td></tr>
+<tr><td>ye</td><td>PERSON</td><td>91</td></tr>
+<tr><td>moby dick</td><td>PERSON</td><td>73</td></tr>
+<tr><td>aye</td><td>PERSON</td><td>72</td></tr>
+<tr><td>leviathan</td><td>PERSON</td><td>64</td></tr>
+<tr><td>bildad</td><td>PERSON</td><td>63</td></tr>
+<tr><td>pip</td><td>PERSON</td><td>59</td></tr>
+<tr><td>sperm whale</td><td>PERSON</td><td>54</td></tr>
+<tr><td>sperm</td><td>PERSON</td><td>53</td></tr>
+<tr><td>nantucket</td><td>GPE</td><td>49</td></tr>
+<tr><td>the white whale</td><td>ORG</td><td>49</td></tr>
+<tr><td>tashtego</td><td>PERSON</td><td>49</td></tr>
+<tr><td>daggoo</td><td>ORG</td><td>33</td></tr>
+<tr><td>jonah</td><td>GPE</td><td>28</td></tr>
+<tr><td>greenland</td><td>PERSON</td><td>28</td></tr>
+<tr><td>pacific</td><td>LOC</td><td>25</td></tr>
+<tr><td>fedallah</td><td>ORG</td><td>25</td></tr>
+<tr><td>whale</td><td>PERSON</td><td>23</td></tr>
+<tr><td>parsee</td><td>LOC</td><td>23</td></tr>
+<tr><td>steelkilt</td><td>GPE</td><td>22</td></tr>
+<tr><td>radney</td><td>PERSON</td><td>22</td></tr>
+<tr><td>gabriel</td><td>PERSON</td><td>20</td></tr>
+<tr><td>earth</td><td>LOC</td><td>19</td></tr>
+<tr><td>perth</td><td>GPE</td><td>18</td></tr>
+<tr><td>lakeman</td><td>PERSON</td><td>18</td></tr>
+<tr><td>ishmael</td><td>GPE</td><td>18</td></tr>
+<tr><td>new bedford</td><td>GPE</td><td>18</td></tr>
+<tr><td>yojo</td><td>PERSON</td><td>17</td></tr>
+<tr><td>nantucketer</td><td>PERSON</td><td>17</td></tr>
+<tr><td>captain ahab</td><td>PERSON</td><td>17</td></tr>
+<tr><td>atlantic</td><td>LOC</td><td>16</td></tr>
+<tr><td>flask</td><td>PERSON</td><td>14</td></tr>
+<tr><td>cape horn</td><td>LOC</td><td>14</td></tr>
+<tr><td>captain</td><td>ORG</td><td>12</td></tr>
+<tr><td>bunger</td><td>PERSON</td><td>12</td></tr>
+<tr><td>england</td><td>GPE</td><td>11</td></tr>
+<tr><td>cook</td><td>PERSON</td><td>11</td></tr>
+<tr><td>manxman</td><td>PERSON</td><td>11</td></tr>
+<tr><td>fleece</td><td>PERSON</td><td>11</td></tr>
+<tr><td>hussey</td><td>PERSON</td><td>11</td></tr>
+<tr><td>white whale</td><td>ORG</td><td>10</td></tr>
+<tr><td>whales</td><td>PERSON</td><td>10</td></tr>
+<tr><td>roman</td><td>PERSON</td><td>10</td></tr>
+<tr><td>quaker</td><td>ORG</td><td>10</td></tr>
+<tr><td>japan</td><td>GPE</td><td>10</td></tr>
+<tr><td>derick</td><td>PERSON</td><td>10</td></tr>
+<tr><td>london</td><td>GPE</td><td>9</td></tr>
+<tr><td>lima</td><td>GPE</td><td>9</td></tr>
+<tr><td>i.</td><td>ORG</td><td>9</td></tr>
+<tr><td>mapple</td><td>PERSON</td><td>9</td></tr>
+<tr><td>sperm whale''s</td><td>PERSON</td><td>9</td></tr>
+<tr><td>joppa</td><td>PERSON</td><td>8</td></tr>
+<tr><td>africa</td><td>LOC</td><td>8</td></tr>
+<tr><td>america</td><td>GPE</td><td>8</td></tr>
+<tr><td>china</td><td>GPE</td><td>8</td></tr>
+<tr><td>guernsey</td><td>PERSON</td><td>8</td></tr>
+<tr><td>dough-boy</td><td>ORG</td><td>8</td></tr>
+<tr><td>mediterranean</td><td>LOC</td><td>8</td></tr>
+<tr><td>octavo</td><td>ORG</td><td>8</td></tr>
+<tr><td>polar</td><td>ORG</td><td>8</td></tr>
+<tr><td>solomon</td><td>PERSON</td><td>8</td></tr>
+<tr><td>the white whale''s</td><td>ORG</td><td>8</td></tr>
+<tr><td>narwhale</td><td>PERSON</td><td>7</td></tr>
+<tr><td>andes</td><td>LOC</td><td>7</td></tr>
+<tr><td>don sebastian</td><td>PERSON</td><td>7</td></tr>
+<tr><td>east</td><td>LOC</td><td>7</td></tr>
+<tr><td>jeroboam</td><td>PERSON</td><td>7</td></tr>
+<tr><td>king-post</td><td>ORG</td><td>7</td></tr>
+<tr><td>typhoon</td><td>LOC</td><td>7</td></tr>
+<tr><td>pagan</td><td>PERSON</td><td>7</td></tr>
+<tr><td>quohog</td><td>PERSON</td><td>7</td></tr>
+<tr><td>scoresby</td><td>PERSON</td><td>7</td></tr>
+<tr><td>west</td><td>LOC</td><td>7</td></tr>
+<tr><td>yarman</td><td>PERSON</td><td>7</td></tr>
+<tr><td>lee</td><td>PERSON</td><td>7</td></tr>
+<tr><td>sperm whales</td><td>PERSON</td><td>6</td></tr>
+<tr><td>adam</td><td>PERSON</td><td>6</td></tr>
+<tr><td>alabama</td><td>GPE</td><td>6</td></tr>
+<tr><td>cape</td><td>PERSON</td><td>6</td></tr>
+<tr><td>hercules</td><td>GPE</td><td>6</td></tr>
+<tr><td>monsieur</td><td>ORG</td><td>6</td></tr>
+<tr><td>noah</td><td>PERSON</td><td>6</td></tr>
+<tr><td>yea</td><td>PERSON</td><td>6</td></tr>
+<tr><td>st. george</td><td>GPE</td><td>6</td></tr>
+<tr><td>tahiti</td><td>ORG</td><td>6</td></tr>
+<tr><td>thou</td><td>PERSON</td><td>6</td></tr>
+<tr><td>vishnoo</td><td>GPE</td><td>6</td></tr>
+<tr><td>cook</td><td>PERSON</td><td>6</td></tr>
+<tr><td>sunda</td><td>ORG</td><td>6</td></tr>
+<tr><td>india</td><td>GPE</td><td>5</td></tr>
+<tr><td>macey</td><td>PERSON</td><td>5</td></tr>
+<tr><td>linnus</td><td>GPE</td><td>5</td></tr>
+<tr><td>line</td><td>LOC</td><td>5</td></tr>
+<tr><td>jungfrau</td><td>GPE</td><td>5</td></tr>
+<tr><td>jove</td><td>PERSON</td><td>5</td></tr>
+<tr><td>java</td><td>ORG</td><td>5</td></tr>
+<tr><td>france</td><td>GPE</td><td>5</td></tr>
+<tr><td>hark ye</td><td>PERSON</td><td>5</td></tr>
+<tr><td>god</td><td>PERSON</td><td>5</td></tr>
+<tr><td>duodecimo</td><td>PERSON</td><td>5</td></tr>
+<tr><td>don</td><td>PERSON</td><td>5</td></tr>
+<tr><td>asia</td><td>LOC</td><td>5</td></tr>
+<tr><td>mogul</td><td>PERSON</td><td>5</td></tr>
+<tr><td>manilla</td><td>PERSON</td><td>5</td></tr>
+<tr><td>sleet</td><td>PERSON</td><td>5</td></tr>
+<tr><td>nay</td><td>PERSON</td><td>5</td></tr>
+<tr><td>south sea</td><td>LOC</td><td>5</td></tr>
+<tr><td>new england</td><td>LOC</td><td>5</td></tr>
+<tr><td>vineyard</td><td>ORG</td><td>5</td></tr>
+<tr><td>tash</td><td>PERSON</td><td>5</td></tr>
+<tr><td>sumatra</td><td>ORG</td><td>5</td></tr>
+<tr><td>spain</td><td>GPE</td><td>5</td></tr>
+<tr><td>tarshish</td><td>ORG</td><td>5</td></tr>
+<tr><td>aye</td><td>ORG</td><td>5</td></tr>
+<tr><td>samuel enderby</td><td>PERSON</td><td>5</td></tr>
+<tr><td>rome</td><td>GPE</td><td>5</td></tr>
+<tr><td>rachel</td><td>PERSON</td><td>5</td></tr>
+<tr><td>perseus</td><td>PERSON</td><td>5</td></tr>
+<tr><td>new york</td><td>GPE</td><td>5</td></tr>
+<tr><td>christendom</td><td>GPE</td><td>4</td></tr>
+<tr><td>holland</td><td>GPE</td><td>4</td></tr>
+<tr><td>folio</td><td>ORG</td><td>4</td></tr>
+<tr><td>europe</td><td>LOC</td><td>4</td></tr>
+<tr><td>euroclydon</td><td>PERSON</td><td>4</td></tr>
+<tr><td>equator</td><td>ORG</td><td>4</td></tr>
+<tr><td>don pedro</td><td>PERSON</td><td>4</td></tr>
+<tr><td>cologne</td><td>PERSON</td><td>4</td></tr>
+<tr><td>bachelor</td><td>PERSON</td><td>4</td></tr>
+<tr><td>cetology</td><td>GPE</td><td>4</td></tr>
+<tr><td>carpenter</td><td>PERSON</td><td>4</td></tr>
+<tr><td>burtons</td><td>ORG</td><td>4</td></tr>
+<tr><td>bulkington</td><td>GPE</td><td>4</td></tr>
+<tr><td>belshazzar</td><td>ORG</td><td>4</td></tr>
+<tr><td>jupiter</td><td>LOC</td><td>4</td></tr>
+<tr><td>arctic</td><td>LOC</td><td>4</td></tr>
+<tr><td>andromeda</td><td>ORG</td><td>4</td></tr>
+<tr><td>johnson</td><td>PERSON</td><td>4</td></tr>
+<tr><td>captain mayhew</td><td>PERSON</td><td>4</td></tr>
+<tr><td>martha</td><td>PERSON</td><td>4</td></tr>
+<tr><td>sag-harbor</td><td>ORG</td><td>4</td></tr>
+<tr><td>ding</td><td>PERSON</td><td>4</td></tr>
+<tr><td>bulwarks</td><td>LOC</td><td>4</td></tr>
+<tr><td>virtue</td><td>PERSON</td><td>4</td></tr>
+<tr><td>virginia</td><td>GPE</td><td>4</td></tr>
+<tr><td>tranquo</td><td>PERSON</td><td>4</td></tr>
+<tr><td>time</td><td>ORG</td><td>4</td></tr>
+<tr><td>starbuck and stubb</td><td>ORG</td><td>4</td></tr>
+<tr><td>tis</td><td>PERSON</td><td>4</td></tr>
+<tr><td>prometheus</td><td>PERSON</td><td>4</td></tr>
+<tr><td>nineveh</td><td>GPE</td><td>4</td></tr>
+<tr><td>porpoise</td><td>ORG</td><td>4</td></tr>
+<tr><td>nature</td><td>ORG</td><td>4</td></tr>
+<tr><td>new zealand</td><td>GPE</td><td>4</td></tr>
+<tr><td>mounttop</td><td>PERSON</td><td>4</td></tr>
+<tr><td>owen</td><td>PERSON</td><td>4</td></tr>
+<tr><td>peru</td><td>GPE</td><td>4</td></tr>
+<tr><td>moss</td><td>PERSON</td><td>4</td></tr>
+<tr><td>gomorrah</td><td>GPE</td><td>3</td></tr>
+<tr><td>elijah</td><td>ORG</td><td>3</td></tr>
+<tr><td>emir</td><td>PERSON</td><td>3</td></tr>
+<tr><td>french sailor</td><td>PERSON</td><td>3</td></tr>
+<tr><td>fate</td><td>ORG</td><td>3</td></tr>
+<tr><td>fates</td><td>ORG</td><td>3</td></tr>
+<tr><td>garnery</td><td>ORG</td><td>3</td></tr>
+<tr><td>globe</td><td>ORG</td><td>3</td></tr>
+<tr><td>labrador</td><td>GPE</td><td>3</td></tr>
+<tr><td>grace</td><td>ORG</td><td>3</td></tr>
+<tr><td>harris</td><td>PERSON</td><td>3</td></tr>
+<tr><td>hosea hussey</td><td>PERSON</td><td>3</td></tr>
+<tr><td>iii</td><td>ORG</td><td>3</td></tr>
+<tr><td>illinois</td><td>GPE</td><td>3</td></tr>
+<tr><td>job</td><td>GPE</td><td>3</td></tr>
+<tr><td>killer</td><td>PERSON</td><td>3</td></tr>
+<tr><td>kings</td><td>PERSON</td><td>3</td></tr>
+<tr><td>deity</td><td>ORG</td><td>3</td></tr>
+<tr><td>egypt</td><td>GPE</td><td>3</td></tr>
+<tr><td>buffalo</td><td>GPE</td><td>3</td></tr>
+<tr><td>cuvier</td><td>ORG</td><td>3</td></tr>
+<tr><td>baltic</td><td>LOC</td><td>3</td></tr>
+<tr><td>lazarus</td><td>PERSON</td><td>3</td></tr>
+<tr><td>abraham</td><td>PERSON</td><td>3</td></tr>
+<tr><td>alps</td><td>LOC</td><td>3</td></tr>
+<tr><td>amsterdam</td><td>PERSON</td><td>3</td></tr>
+<tr><td>antarctic</td><td>GPE</td><td>3</td></tr>
+<tr><td>aunt charity</td><td>ORG</td><td>3</td></tr>
+<tr><td>azores</td><td>ORG</td><td>3</td></tr>
+<tr><td>bennett</td><td>PERSON</td><td>3</td></tr>
+<tr><td>crozetts</td><td>PERSON</td><td>3</td></tr>
+<tr><td>bowditch</td><td>PERSON</td><td>3</td></tr>
+<tr><td>chapter ii</td><td>ORG</td><td>3</td></tr>
+<tr><td>chapter iv</td><td>ORG</td><td>3</td></tr>
+<tr><td>cadiz</td><td>PERSON</td><td>3</td></tr>
+<tr><td>captains</td><td>ORG</td><td>3</td></tr>
+<tr><td>clifford</td><td>PERSON</td><td>3</td></tr>
+<tr><td>constantinople</td><td>ORG</td><td>3</td></tr>
+<tr><td>langsdorff</td><td>PERSON</td><td>3</td></tr>
+<tr><td>south</td><td>LOC</td><td>3</td></tr>
+<tr><td>loose-fish</td><td>GPE</td><td>3</td></tr>
+<tr><td>sailor</td><td>ORG</td><td>3</td></tr>
+<tr><td>snodhead</td><td>PERSON</td><td>3</td></tr>
+<tr><td>sperm whaler</td><td>PERSON</td><td>3</td></tr>
+<tr><td>spitzbergen</td><td>ORG</td><td>3</td></tr>
+<tr><td>st. george''s</td><td>GPE</td><td>3</td></tr>
+<tr><td>st. peter''s</td><td>PERSON</td><td>3</td></tr>
+<tr><td>starbuck, stubb</td><td>PERSON</td><td>3</td></tr>
+<tr><td>tartar</td><td>ORG</td><td>3</td></tr>
+<tr><td>tertiary</td><td>LOC</td><td>3</td></tr>
+<tr><td>turk</td><td>PERSON</td><td>3</td></tr>
+<tr><td>washington</td><td>GPE</td><td>3</td></tr>
+<tr><td>dong</td><td>PERSON</td><td>3</td></tr>
+<tr><td>gamy</td><td>GPE</td><td>3</td></tr>
+<tr><td>hem</td><td>ORG</td><td>3</td></tr>
+<tr><td>jesty</td><td>GPE</td><td>3</td></tr>
+<tr><td>joky</td><td>PERSON</td><td>3</td></tr>
+<tr><td>sperm whale</td><td>PERSON</td><td>3</td></tr>
+<tr><td>low dutch</td><td>PERSON</td><td>3</td></tr>
+<tr><td>samuel</td><td>PERSON</td><td>3</td></tr>
+<tr><td>yankees</td><td>ORG</td><td>3</td></tr>
+<tr><td>right whale</td><td>PERSON</td><td>3</td></tr>
+<tr><td>north</td><td>LOC</td><td>3</td></tr>
+<tr><td>manx sailor</td><td>PERSON</td><td>3</td></tr>
+<tr><td>pupella</td><td>GPE</td><td>3</td></tr>
+<tr><td>massachusetts</td><td>GPE</td><td>3</td></tr>
+<tr><td>mayhew</td><td>PERSON</td><td>3</td></tr>
+<tr><td>mexico</td><td>GPE</td><td>3</td></tr>
+<tr><td>napoleon</td><td>ORG</td><td>3</td></tr>
+<tr><td>nelson</td><td>PERSON</td><td>3</td></tr>
+<tr><td>new guinea</td><td>GPE</td><td>3</td></tr>
+<tr><td>nantucketers</td><td>PERSON</td><td>3</td></tr>
+<tr><td>ocean</td><td>LOC</td><td>3</td></tr>
+<tr><td>ohio</td><td>GPE</td><td>3</td></tr>
+<tr><td>pip</td><td>ORG</td><td>3</td></tr>
+<tr><td>pliny</td><td>ORG</td><td>3</td></tr>
+<tr><td>pollard</td><td>PERSON</td><td>3</td></tr>
+<tr><td>procopius</td><td>ORG</td><td>3</td></tr>
+<tr><td>propontis</td><td>GPE</td><td>3</td></tr>
+<tr><td>glacier</td><td>GPE</td><td>2</td></tr>
+<tr><td>gall</td><td>ORG</td><td>2</td></tr>
+<tr><td>gardiner</td><td>PERSON</td><td>2</td></tr>
+<tr><td>guido</td><td>PERSON</td><td>2</td></tr>
+<tr><td>gemini</td><td>PERSON</td><td>2</td></tr>
+<tr><td>gor</td><td>ORG</td><td>2</td></tr>
+<tr><td>gods</td><td>ORG</td><td>2</td></tr>
+<tr><td>goney</td><td>PERSON</td><td>2</td></tr>
+<tr><td>greeks</td><td>PERSON</td><td>2</td></tr>
+<tr><td>greece</td><td>GPE</td><td>2</td></tr>
+<tr><td>frederick cuvier''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>friesland</td><td>GPE</td><td>2</td></tr>
+<tr><td>englishman</td><td>ORG</td><td>2</td></tr>
+<tr><td>frederick cuvier</td><td>PERSON</td><td>2</td></tr>
+<tr><td>fossil whales</td><td>PERSON</td><td>2</td></tr>
+<tr><td>fejee</td><td>ORG</td><td>2</td></tr>
+<tr><td>forecastle</td><td>ORG</td><td>2</td></tr>
+<tr><td>evangelists</td><td>ORG</td><td>2</td></tr>
+<tr><td>esquimaux</td><td>PERSON</td><td>2</td></tr>
+<tr><td>erskine</td><td>PERSON</td><td>2</td></tr>
+<tr><td>equatorial</td><td>LOC</td><td>2</td></tr>
+<tr><td>enderbys</td><td>ORG</td><td>2</td></tr>
+<tr><td>empire</td><td>GPE</td><td>2</td></tr>
+<tr><td>elephanta</td><td>GPE</td><td>2</td></tr>
+<tr><td>harris coll</td><td>PERSON</td><td>2</td></tr>
+<tr><td>etymology</td><td>ORG</td><td>2</td></tr>
+<tr><td>harpooneer</td><td>ORG</td><td>2</td></tr>
+<tr><td>lacpde</td><td>PERSON</td><td>2</td></tr>
+<tr><td>harvard</td><td>ORG</td><td>2</td></tr>
+<tr><td>heidelburgh tun</td><td>PERSON</td><td>2</td></tr>
+<tr><td>mate</td><td>ORG</td><td>2</td></tr>
+<tr><td>maltese sailor</td><td>PERSON</td><td>2</td></tr>
+<tr><td>lothario</td><td>PERSON</td><td>2</td></tr>
+<tr><td>long island</td><td>LOC</td><td>2</td></tr>
+<tr><td>libra</td><td>GPE</td><td>2</td></tr>
+<tr><td>leyden</td><td>GPE</td><td>2</td></tr>
+<tr><td>ledyard</td><td>PERSON</td><td>2</td></tr>
+<tr><td>lay</td><td>ORG</td><td>2</td></tr>
+<tr><td>doubloon</td><td>ORG</td><td>2</td></tr>
+<tr><td>krusenstern</td><td>PERSON</td><td>2</td></tr>
+<tr><td>knights</td><td>ORG</td><td>2</td></tr>
+<tr><td>john leo</td><td>PERSON</td><td>2</td></tr>
+<tr><td>john hunter</td><td>PERSON</td><td>2</td></tr>
+<tr><td>jenny</td><td>PERSON</td><td>2</td></tr>
+<tr><td>java head</td><td>PERSON</td><td>2</td></tr>
+<tr><td>jaffa</td><td>PERSON</td><td>2</td></tr>
+<tr><td>j. ross browne</td><td>PERSON</td><td>2</td></tr>
+<tr><td>icelandic</td><td>ORG</td><td>2</td></tr>
+<tr><td>ii</td><td>ORG</td><td>2</td></tr>
+<tr><td>hurrah</td><td>PERSON</td><td>2</td></tr>
+<tr><td>hull</td><td>ORG</td><td>2</td></tr>
+<tr><td>hudson</td><td>LOC</td><td>2</td></tr>
+<tr><td>hosea</td><td>PERSON</td><td>2</td></tr>
+<tr><td>himmalehs</td><td>PERSON</td><td>2</td></tr>
+<tr><td>henry</td><td>PERSON</td><td>2</td></tr>
+<tr><td>dough-boy''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>chili</td><td>GPE</td><td>2</td></tr>
+<tr><td>ding</td><td>PERSON</td><td>2</td></tr>
+<tr><td>chapter vi</td><td>ORG</td><td>2</td></tr>
+<tr><td>chapter iii</td><td>ORG</td><td>2</td></tr>
+<tr><td>bull</td><td>PERSON</td><td>2</td></tr>
+<tr><td>bremen</td><td>GPE</td><td>2</td></tr>
+<tr><td>brahma</td><td>PERSON</td><td>2</td></tr>
+<tr><td>boston</td><td>GPE</td><td>2</td></tr>
+<tr><td>boomer</td><td>PERSON</td><td>2</td></tr>
+<tr><td>bolivia</td><td>GPE</td><td>2</td></tr>
+<tr><td>blackstone</td><td>ORG</td><td>2</td></tr>
+<tr><td>black letter</td><td>ORG</td><td>2</td></tr>
+<tr><td>bishop</td><td>ORG</td><td>2</td></tr>
+<tr><td>bibles</td><td>GPE</td><td>2</td></tr>
+<tr><td>beelzebub</td><td>PERSON</td><td>2</td></tr>
+<tr><td>beale''s</td><td>ORG</td><td>2</td></tr>
+<tr><td>beale</td><td>PERSON</td><td>2</td></tr>
+<tr><td>bashee</td><td>GPE</td><td>2</td></tr>
+<tr><td>bashaw</td><td>GPE</td><td>2</td></tr>
+<tr><td>babel</td><td>ORG</td><td>2</td></tr>
+<tr><td>australia</td><td>GPE</td><td>2</td></tr>
+<tr><td>ark</td><td>PERSON</td><td>2</td></tr>
+<tr><td>aquarius</td><td>PERSON</td><td>2</td></tr>
+<tr><td>amelia</td><td>GPE</td><td>2</td></tr>
+<tr><td>albino</td><td>LOC</td><td>2</td></tr>
+<tr><td>albatross</td><td>PERSON</td><td>2</td></tr>
+<tr><td>azore sailor</td><td>PERSON</td><td>2</td></tr>
+<tr><td>man</td><td>PERSON</td><td>2</td></tr>
+<tr><td>chapter lxii</td><td>ORG</td><td>2</td></tr>
+<tr><td>cabaco</td><td>PERSON</td><td>2</td></tr>
+<tr><td>desmarest</td><td>LOC</td><td>2</td></tr>
+<tr><td>canaan</td><td>PERSON</td><td>2</td></tr>
+<tr><td>derick de deer</td><td>PERSON</td><td>2</td></tr>
+<tr><td>deacon deuteronomy</td><td>ORG</td><td>2</td></tr>
+<tr><td>davy jones</td><td>PERSON</td><td>2</td></tr>
+<tr><td>dardanelles</td><td>PERSON</td><td>2</td></tr>
+<tr><td>dan coopman</td><td>PERSON</td><td>2</td></tr>
+<tr><td>dan</td><td>PERSON</td><td>2</td></tr>
+<tr><td>daboll</td><td>PERSON</td><td>2</td></tr>
+<tr><td>duodecimo</td><td>PERSON</td><td>2</td></tr>
+<tr><td>d''wolf</td><td>PERSON</td><td>2</td></tr>
+<tr><td>czar</td><td>ORG</td><td>2</td></tr>
+<tr><td>cuba</td><td>GPE</td><td>2</td></tr>
+<tr><td>cretan labyrinth</td><td>ORG</td><td>2</td></tr>
+<tr><td>cooke</td><td>PERSON</td><td>2</td></tr>
+<tr><td>congo</td><td>GPE</td><td>2</td></tr>
+<tr><td>commodore</td><td>ORG</td><td>2</td></tr>
+<tr><td>columbus</td><td>GPE</td><td>2</td></tr>
+<tr><td>cleopatra</td><td>ORG</td><td>2</td></tr>
+<tr><td>charley coffin</td><td>PERSON</td><td>2</td></tr>
+<tr><td>charity</td><td>ORG</td><td>2</td></tr>
+<tr><td>chapel</td><td>ORG</td><td>2</td></tr>
+<tr><td>chaldee</td><td>ORG</td><td>2</td></tr>
+<tr><td>chace</td><td>ORG</td><td>2</td></tr>
+<tr><td>cetus</td><td>ORG</td><td>2</td></tr>
+<tr><td>captain scoresby</td><td>PERSON</td><td>2</td></tr>
+<tr><td>canada</td><td>GPE</td><td>2</td></tr>
+<tr><td>mackinaw</td><td>LOC</td><td>2</td></tr>
+<tr><td>gay-head indian</td><td>ORG</td><td>2</td></tr>
+<tr><td>mark</td><td>PERSON</td><td>2</td></tr>
+<tr><td>venice</td><td>GPE</td><td>2</td></tr>
+<tr><td>hark ye</td><td>PERSON</td><td>2</td></tr>
+<tr><td>east</td><td>GPE</td><td>2</td></tr>
+<tr><td>a''ready</td><td>PERSON</td><td>2</td></tr>
+<tr><td>xerxes</td><td>PERSON</td><td>2</td></tr>
+<tr><td>woebegone</td><td>ORG</td><td>2</td></tr>
+<tr><td>whereupon</td><td>ORG</td><td>2</td></tr>
+<tr><td>whalebone</td><td>ORG</td><td>2</td></tr>
+<tr><td>wapping</td><td>GPE</td><td>2</td></tr>
+<tr><td>whales</td><td>ORG</td><td>2</td></tr>
+<tr><td>virgin</td><td>GPE</td><td>2</td></tr>
+<tr><td>vineyarder</td><td>PERSON</td><td>2</td></tr>
+<tr><td>vesuvius</td><td>ORG</td><td>2</td></tr>
+<tr><td>vedas</td><td>LOC</td><td>2</td></tr>
+<tr><td>tahitian</td><td>ORG</td><td>2</td></tr>
+<tr><td>vancouver</td><td>GPE</td><td>2</td></tr>
+<tr><td>typhoons</td><td>ORG</td><td>2</td></tr>
+<tr><td>twins</td><td>PERSON</td><td>2</td></tr>
+<tr><td>truth</td><td>GPE</td><td>2</td></tr>
+<tr><td>tophet</td><td>ORG</td><td>2</td></tr>
+<tr><td>tom</td><td>PERSON</td><td>2</td></tr>
+<tr><td>thy</td><td>PERSON</td><td>2</td></tr>
+<tr><td>the white whale</td><td>ORG</td><td>2</td></tr>
+<tr><td>thames</td><td>GPE</td><td>2</td></tr>
+<tr><td>texas</td><td>GPE</td><td>2</td></tr>
+<tr><td>teneriffe</td><td>ORG</td><td>2</td></tr>
+<tr><td>temple</td><td>LOC</td><td>2</td></tr>
+<tr><td>harpoon</td><td>ORG</td><td>2</td></tr>
+<tr><td>helmsman</td><td>PERSON</td><td>2</td></tr>
+<tr><td>house</td><td>ORG</td><td>2</td></tr>
+<tr><td>i. e.</td><td>PERSON</td><td>2</td></tr>
+<tr><td>ye shall</td><td>PERSON</td><td>2</td></tr>
+<tr><td>mary</td><td>PERSON</td><td>2</td></tr>
+<tr><td>ye harpooneers</td><td>PERSON</td><td>2</td></tr>
+<tr><td>ye queen''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>west</td><td>LOC</td><td>2</td></tr>
+<tr><td>us</td><td>GPE</td><td>2</td></tr>
+<tr><td>the united states</td><td>GPE</td><td>2</td></tr>
+<tr><td>the true whale</td><td>ORG</td><td>2</td></tr>
+<tr><td>the south seas</td><td>LOC</td><td>2</td></tr>
+<tr><td>the polar sea</td><td>LOC</td><td>2</td></tr>
+<tr><td>the persian gulf</td><td>LOC</td><td>2</td></tr>
+<tr><td>the pacific ocean</td><td>LOC</td><td>2</td></tr>
+<tr><td>the pacific ocean</td><td>LOC</td><td>2</td></tr>
+<tr><td>the indian ocean</td><td>LOC</td><td>2</td></tr>
+<tr><td>the indian ocean</td><td>LOC</td><td>2</td></tr>
+<tr><td>the cinque ports</td><td>ORG</td><td>2</td></tr>
+<tr><td>the black fish</td><td>LOC</td><td>2</td></tr>
+<tr><td>sun</td><td>ORG</td><td>2</td></tr>
+<tr><td>skirra</td><td>ORG</td><td>2</td></tr>
+<tr><td>rap</td><td>ORG</td><td>2</td></tr>
+<tr><td>negro</td><td>ORG</td><td>2</td></tr>
+<tr><td>moon</td><td>PERSON</td><td>2</td></tr>
+<tr><td>moody ahab</td><td>PERSON</td><td>2</td></tr>
+<tr><td>maty</td><td>PERSON</td><td>2</td></tr>
+<tr><td>lirra</td><td>ORG</td><td>2</td></tr>
+<tr><td>tarquin</td><td>PERSON</td><td>2</td></tr>
+<tr><td>oarsman</td><td>PERSON</td><td>2</td></tr>
+<tr><td>tashtego</td><td>ORG</td><td>2</td></tr>
+<tr><td>quarto</td><td>PERSON</td><td>2</td></tr>
+<tr><td>providence</td><td>ORG</td><td>2</td></tr>
+<tr><td>povelson</td><td>PERSON</td><td>2</td></tr>
+<tr><td>poland</td><td>GPE</td><td>2</td></tr>
+<tr><td>plowdon</td><td>ORG</td><td>2</td></tr>
+<tr><td>plato</td><td>ORG</td><td>2</td></tr>
+<tr><td>pharaoh</td><td>PERSON</td><td>2</td></tr>
+<tr><td>peter coffin</td><td>PERSON</td><td>2</td></tr>
+<tr><td>peleg</td><td>PERSON</td><td>2</td></tr>
+<tr><td>paul</td><td>PERSON</td><td>2</td></tr>
+<tr><td>patagonia</td><td>GPE</td><td>2</td></tr>
+<tr><td>parliament</td><td>ORG</td><td>2</td></tr>
+<tr><td>paradise</td><td>PERSON</td><td>2</td></tr>
+<tr><td>pacific</td><td>LOC</td><td>2</td></tr>
+<tr><td>owen chace</td><td>PERSON</td><td>2</td></tr>
+<tr><td>nile</td><td>PERSON</td><td>2</td></tr>
+<tr><td>niagara</td><td>ORG</td><td>2</td></tr>
+<tr><td>newfoundland</td><td>GPE</td><td>2</td></tr>
+<tr><td>new hampshire</td><td>GPE</td><td>2</td></tr>
+<tr><td>national</td><td>ORG</td><td>2</td></tr>
+<tr><td>nantucket beach</td><td>GPE</td><td>2</td></tr>
+<tr><td>moluccas</td><td>LOC</td><td>2</td></tr>
+<tr><td>moby dick''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>mississippi</td><td>GPE</td><td>2</td></tr>
+<tr><td>stubb and flask</td><td>ORG</td><td>2</td></tr>
+<tr><td>missouri</td><td>GPE</td><td>2</td></tr>
+<tr><td>quakeress</td><td>ORG</td><td>2</td></tr>
+<tr><td>oregon</td><td>GPE</td><td>2</td></tr>
+<tr><td>queen anne''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>savesoul</td><td>ORG</td><td>2</td></tr>
+<tr><td>straightway</td><td>GPE</td><td>2</td></tr>
+<tr><td>steward</td><td>PERSON</td><td>2</td></tr>
+<tr><td>quito</td><td>GPE</td><td>2</td></tr>
+<tr><td>state</td><td>ORG</td><td>2</td></tr>
+<tr><td>st. paul</td><td>GPE</td><td>2</td></tr>
+<tr><td>squid</td><td>ORG</td><td>2</td></tr>
+<tr><td>spring</td><td>PERSON</td><td>2</td></tr>
+<tr><td>specksnyder</td><td>ORG</td><td>2</td></tr>
+<tr><td>south america</td><td>LOC</td><td>2</td></tr>
+<tr><td>siberia</td><td>LOC</td><td>2</td></tr>
+<tr><td>shaster</td><td>PERSON</td><td>2</td></tr>
+<tr><td>sea</td><td>PERSON</td><td>2</td></tr>
+<tr><td>sovereign</td><td>ORG</td><td>2</td></tr>
+<tr><td>sam</td><td>PERSON</td><td>2</td></tr>
+<tr><td>rib</td><td>PERSON</td><td>2</td></tr>
+<tr><td>sagittarius</td><td>PERSON</td><td>2</td></tr>
+<tr><td>sag harbor</td><td>ORG</td><td>2</td></tr>
+<tr><td>ram</td><td>GPE</td><td>2</td></tr>
+<tr><td>sicilian sailor</td><td>PERSON</td><td>2</td></tr>
+<tr><td>rose-bud</td><td>PERSON</td><td>2</td></tr>
+<tr><td>sal</td><td>PERSON</td><td>2</td></tr>
+<tr><td>rokovoko</td><td>GPE</td><td>2</td></tr>
+<tr><td>rattler</td><td>PERSON</td><td>2</td></tr>
+<tr><td>right whale''s</td><td>PERSON</td><td>2</td></tr>
+<tr><td>ireland</td><td>GPE</td><td>1</td></tr>
+<tr><td>isaiah</td><td>GPE</td><td>1</td></tr>
+<tr><td>ingin</td><td>ORG</td><td>1</td></tr>
+<tr><td>islanders</td><td>PERSON</td><td>1</td></tr>
+<tr><td>indies</td><td>ORG</td><td>1</td></tr>
+<tr><td>imprimis</td><td>ORG</td><td>1</td></tr>
+<tr><td>island</td><td>LOC</td><td>1</td></tr>
+<tr><td>israelites</td><td>PERSON</td><td>1</td></tr>
+<tr><td>isolato</td><td>ORG</td><td>1</td></tr>
+<tr><td>israel</td><td>GPE</td><td>1</td></tr>
+<tr><td>isthmus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>italy</td><td>GPE</td><td>1</td></tr>
+<tr><td>javan</td><td>GPE</td><td>1</td></tr>
+<tr><td>ignorance</td><td>ORG</td><td>1</td></tr>
+<tr><td>jack bunger</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jack</td><td>PERSON</td><td>1</td></tr>
+<tr><td>imperial electors</td><td>ORG</td><td>1</td></tr>
+<tr><td>hydriote</td><td>ORG</td><td>1</td></tr>
+<tr><td>ifs</td><td>ORG</td><td>1</td></tr>
+<tr><td>hydrus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hump</td><td>PERSON</td><td>1</td></tr>
+<tr><td>huggins''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>jeremy bentham''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>humpback</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hunter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>huron</td><td>PERSON</td><td>1</td></tr>
+<tr><td>huzza porpoise</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hyena</td><td>PERSON</td><td>1</td></tr>
+<tr><td>icy seas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>i am the fates''</td><td>PERSON</td><td>1</td></tr>
+<tr><td>i''ve---- faith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>iceland sailor</td><td>PERSON</td><td>1</td></tr>
+<tr><td>iv.</td><td>GPE</td><td>1</td></tr>
+<tr><td>iceberg whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>iceland</td><td>GPE</td><td>1</td></tr>
+<tr><td>iceland whales</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jeremy</td><td>GPE</td><td>1</td></tr>
+<tr><td>king porus''</td><td>ORG</td><td>1</td></tr>
+<tr><td>jesu</td><td>ORG</td><td>1</td></tr>
+<tr><td>koo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>king ahab''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>king alfred</td><td>GPE</td><td>1</td></tr>
+<tr><td>king juba</td><td>PERSON</td><td>1</td></tr>
+<tr><td>king tranquo''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>king''s mills</td><td>ORG</td><td>1</td></tr>
+<tr><td>kit carson</td><td>PERSON</td><td>1</td></tr>
+<tr><td>kokovoko</td><td>PERSON</td><td>1</td></tr>
+<tr><td>korah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>khan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>krusensterns</td><td>GPE</td><td>1</td></tr>
+<tr><td>log</td><td>ORG</td><td>1</td></tr>
+<tr><td>london</td><td>GPE</td><td>1</td></tr>
+<tr><td>labor</td><td>ORG</td><td>1</td></tr>
+<tr><td>lais</td><td>GPE</td><td>1</td></tr>
+<tr><td>hosmannus</td><td>ORG</td><td>1</td></tr>
+<tr><td>lake erie</td><td>LOC</td><td>1</td></tr>
+<tr><td>killer).--of</td><td>PERSON</td><td>1</td></tr>
+<tr><td>kedron</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jesus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>john the asiatic</td><td>PERSON</td><td>1</td></tr>
+<tr><td>jew</td><td>ORG</td><td>1</td></tr>
+<tr><td>jimimi</td><td>ORG</td><td>1</td></tr>
+<tr><td>jimmini</td><td>ORG</td><td>1</td></tr>
+<tr><td>joe</td><td>PERSON</td><td>1</td></tr>
+<tr><td>john</td><td>PERSON</td><td>1</td></tr>
+<tr><td>john bull</td><td>PERSON</td><td>1</td></tr>
+<tr><td>john ferdinando</td><td>PERSON</td><td>1</td></tr>
+<tr><td>johnny</td><td>PERSON</td><td>1</td></tr>
+<tr><td>kant</td><td>GPE</td><td>1</td></tr>
+<tr><td>jordan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>joy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>juan fernandes</td><td>PERSON</td><td>1</td></tr>
+<tr><td>judith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>julys</td><td>GPE</td><td>1</td></tr>
+<tr><td>justice</td><td>ORG</td><td>1</td></tr>
+<tr><td>justinian</td><td>GPE</td><td>1</td></tr>
+<tr><td>hotel de cluny</td><td>ORG</td><td>1</td></tr>
+<tr><td>goa</td><td>PERSON</td><td>1</td></tr>
+<tr><td>horned</td><td>ORG</td><td>1</td></tr>
+<tr><td>good hope</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gesner</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ginger</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lank bildad</td><td>PERSON</td><td>1</td></tr>
+<tr><td>goat</td><td>PERSON</td><td>1</td></tr>
+<tr><td>god"--advancing</td><td>ORG</td><td>1</td></tr>
+<tr><td>golconda</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gondibert</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gospel</td><td>ORG</td><td>1</td></tr>
+<tr><td>george washington</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gothic</td><td>LOC</td><td>1</td></tr>
+<tr><td>grammar</td><td>PERSON</td><td>1</td></tr>
+<tr><td>great jove</td><td>PERSON</td><td>1</td></tr>
+<tr><td>great washington</td><td>PERSON</td><td>1</td></tr>
+<tr><td>green</td><td>PERSON</td><td>1</td></tr>
+<tr><td>green mountains</td><td>LOC</td><td>1</td></tr>
+<tr><td>greenland justice of the peace</td><td>ORG</td><td>1</td></tr>
+<tr><td>ger</td><td>PERSON</td><td>1</td></tr>
+<tr><td>geneva</td><td>GPE</td><td>1</td></tr>
+<tr><td>grenadier</td><td>ORG</td><td>1</td></tr>
+<tr><td>gam</td><td>ORG</td><td>1</td></tr>
+<tr><td>folio, octavo</td><td>ORG</td><td>1</td></tr>
+<tr><td>formosa</td><td>GPE</td><td>1</td></tr>
+<tr><td>forthwith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>frankfort</td><td>ORG</td><td>1</td></tr>
+<tr><td>free-mason</td><td>ORG</td><td>1</td></tr>
+<tr><td>frenchman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>froissart</td><td>GPE</td><td>1</td></tr>
+<tr><td>galleries</td><td>PERSON</td><td>1</td></tr>
+<tr><td>genesis</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gallipagos</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gamming</td><td>ORG</td><td>1</td></tr>
+<tr><td>ganges</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gay</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gay head</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gay-headers</td><td>ORG</td><td>1</td></tr>
+<tr><td>gayhead</td><td>ORG</td><td>1</td></tr>
+<tr><td>greenlanders</td><td>ORG</td><td>1</td></tr>
+<tr><td>grin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>horn</td><td>LOC</td><td>1</td></tr>
+<tr><td>hist</td><td>ORG</td><td>1</td></tr>
+<tr><td>henry t. cheever</td><td>PERSON</td><td>1</td></tr>
+<tr><td>herculaneum</td><td>GPE</td><td>1</td></tr>
+<tr><td>herod</td><td>PERSON</td><td>1</td></tr>
+<tr><td>herschel</td><td>GPE</td><td>1</td></tr>
+<tr><td>himmalehan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hindostan</td><td>LOC</td><td>1</td></tr>
+<tr><td>his "mene, mene</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hittite</td><td>PERSON</td><td>1</td></tr>
+<tr><td>heidelburgh</td><td>GPE</td><td>1</td></tr>
+<tr><td>hobbes</td><td>GPE</td><td>1</td></tr>
+<tr><td>hogarth</td><td>ORG</td><td>1</td></tr>
+<tr><td>hollanders</td><td>ORG</td><td>1</td></tr>
+<tr><td>holofernes</td><td>ORG</td><td>1</td></tr>
+<tr><td>holy state</td><td>GPE</td><td>1</td></tr>
+<tr><td>honorary grand harpooneer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>horatii</td><td>ORG</td><td>1</td></tr>
+<tr><td>hemp</td><td>PERSON</td><td>1</td></tr>
+<tr><td>heed</td><td>ORG</td><td>1</td></tr>
+<tr><td>guinea</td><td>GPE</td><td>1</td></tr>
+<tr><td>hampton court</td><td>ORG</td><td>1</td></tr>
+<tr><td>gurry</td><td>ORG</td><td>1</td></tr>
+<tr><td>hvalt</td><td>ORG</td><td>1</td></tr>
+<tr><td>hvalur</td><td>ORG</td><td>1</td></tr>
+<tr><td>hackluyt</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hadst</td><td>ORG</td><td>1</td></tr>
+<tr><td>hail</td><td>ORG</td><td>1</td></tr>
+<tr><td>hallo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hang-ho</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hebrews</td><td>ORG</td><td>1</td></tr>
+<tr><td>hannibal</td><td>ORG</td><td>1</td></tr>
+<tr><td>har</td><td>PERSON</td><td>1</td></tr>
+<tr><td>harry</td><td>PERSON</td><td>1</td></tr>
+<tr><td>harry macey</td><td>PERSON</td><td>1</td></tr>
+<tr><td>harry--(a</td><td>PERSON</td><td>1</td></tr>
+<tr><td>harto</td><td>ORG</td><td>1</td></tr>
+<tr><td>hartz</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lamatins</td><td>ORG</td><td>1</td></tr>
+<tr><td>meantime pip''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lapland</td><td>GPE</td><td>1</td></tr>
+<tr><td>o don miguel</td><td>PERSON</td><td>1</td></tr>
+<tr><td>niphon</td><td>GPE</td><td>1</td></tr>
+<tr><td>noah webster''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nod</td><td>GPE</td><td>1</td></tr>
+<tr><td>north-west</td><td>GPE</td><td>1</td></tr>
+<tr><td>northern</td><td>LOC</td><td>1</td></tr>
+<tr><td>northman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nostril</td><td>ORG</td><td>1</td></tr>
+<tr><td>octavo</td><td>ORG</td><td>1</td></tr>
+<tr><td>niger</td><td>PERSON</td><td>1</td></tr>
+<tr><td>octavoes</td><td>ORG</td><td>1</td></tr>
+<tr><td>oahu</td><td>GPE</td><td>1</td></tr>
+<tr><td>obed macy</td><td>ORG</td><td>1</td></tr>
+<tr><td>oceanica</td><td>GPE</td><td>1</td></tr>
+<tr><td>ochotsh</td><td>ORG</td><td>1</td></tr>
+<tr><td>octher</td><td>PERSON</td><td>1</td></tr>
+<tr><td>olassen</td><td>GPE</td><td>1</td></tr>
+<tr><td>nimbly</td><td>ORG</td><td>1</td></tr>
+<tr><td>nick</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ombay</td><td>GPE</td><td>1</td></tr>
+<tr><td>negro hill</td><td>LOC</td><td>1</td></tr>
+<tr><td>nantucket quakerism</td><td>ORG</td><td>1</td></tr>
+<tr><td>nantuckois</td><td>ORG</td><td>1</td></tr>
+<tr><td>narcissus</td><td>GPE</td><td>1</td></tr>
+<tr><td>nat</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nat swaine</td><td>ORG</td><td>1</td></tr>
+<tr><td>nathan swain</td><td>PERSON</td><td>1</td></tr>
+<tr><td>naturalist</td><td>ORG</td><td>1</td></tr>
+<tr><td>nescio</td><td>ORG</td><td>1</td></tr>
+<tr><td>nicholas the czar</td><td>PERSON</td><td>1</td></tr>
+<tr><td>neskyeuna</td><td>PERSON</td><td>1</td></tr>
+<tr><td>neskyeuna shakers</td><td>PERSON</td><td>1</td></tr>
+<tr><td>netherlands</td><td>GPE</td><td>1</td></tr>
+<tr><td>new holland</td><td>GPE</td><td>1</td></tr>
+<tr><td>new york state</td><td>GPE</td><td>1</td></tr>
+<tr><td>new zealand tom</td><td>PERSON</td><td>1</td></tr>
+<tr><td>newcastle</td><td>GPE</td><td>1</td></tr>
+<tr><td>olmstead</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ontario</td><td>GPE</td><td>1</td></tr>
+<tr><td>nathan coleman</td><td>ORG</td><td>1</td></tr>
+<tr><td>pippin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>phdon</td><td>ORG</td><td>1</td></tr>
+<tr><td>phidias</td><td>ORG</td><td>1</td></tr>
+<tr><td>phil</td><td>PERSON</td><td>1</td></tr>
+<tr><td>philistines</td><td>ORG</td><td>1</td></tr>
+<tr><td>physeter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pillar</td><td>LOC</td><td>1</td></tr>
+<tr><td>pine barrens</td><td>LOC</td><td>1</td></tr>
+<tr><td>pirohitee</td><td>ORG</td><td>1</td></tr>
+<tr><td>peter coffin''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>pitferren</td><td>ORG</td><td>1</td></tr>
+<tr><td>pizarro</td><td>ORG</td><td>1</td></tr>
+<tr><td>platonist</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pliny, purchas</td><td>GPE</td><td>1</td></tr>
+<tr><td>polar seas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pole</td><td>LOC</td><td>1</td></tr>
+<tr><td>fogo von slack</td><td>PERSON</td><td>1</td></tr>
+<tr><td>peter peterson</td><td>PERSON</td><td>1</td></tr>
+<tr><td>peter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>orient world</td><td>ORG</td><td>1</td></tr>
+<tr><td>paracelsan</td><td>LOC</td><td>1</td></tr>
+<tr><td>orleans</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pehee-nuee-nuee</td><td>ORG</td><td>1</td></tr>
+<tr><td>pekee-nuee-nuee</td><td>ORG</td><td>1</td></tr>
+<tr><td>pagan roman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pale sherry</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pampas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pan</td><td>ORG</td><td>1</td></tr>
+<tr><td>paris</td><td>GPE</td><td>1</td></tr>
+<tr><td>persia</td><td>GPE</td><td>1</td></tr>
+<tr><td>pascal</td><td>PERSON</td><td>1</td></tr>
+<tr><td>patagonian cape</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pedro</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pegu</td><td>PERSON</td><td>1</td></tr>
+<tr><td>people''s business</td><td>ORG</td><td>1</td></tr>
+<tr><td>perchance</td><td>ORG</td><td>1</td></tr>
+<tr><td>perchance ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nut</td><td>ORG</td><td>1</td></tr>
+<tr><td>mysticetus</td><td>ORG</td><td>1</td></tr>
+<tr><td>laplander</td><td>ORG</td><td>1</td></tr>
+<tr><td>merry</td><td>ORG</td><td>1</td></tr>
+<tr><td>louis blanc</td><td>PERSON</td><td>1</td></tr>
+<tr><td>louis philippe</td><td>PERSON</td><td>1</td></tr>
+<tr><td>louis xvi</td><td>PERSON</td><td>1</td></tr>
+<tr><td>louis le gros</td><td>ORG</td><td>1</td></tr>
+<tr><td>louis the devil</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lucifer</td><td>ORG</td><td>1</td></tr>
+<tr><td>luff</td><td>ORG</td><td>1</td></tr>
+<tr><td>midnight</td><td>ORG</td><td>1</td></tr>
+<tr><td>lookee</td><td>GPE</td><td>1</td></tr>
+<tr><td>macy</td><td>ORG</td><td>1</td></tr>
+<tr><td>madame leviathan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mahomet</td><td>LOC</td><td>1</td></tr>
+<tr><td>malacca</td><td>PERSON</td><td>1</td></tr>
+<tr><td>manchester</td><td>LOC</td><td>1</td></tr>
+<tr><td>manhatto</td><td>PERSON</td><td>1</td></tr>
+<tr><td>manhattoes</td><td>ORG</td><td>1</td></tr>
+<tr><td>lord;--vishnoo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>long-john</td><td>PERSON</td><td>1</td></tr>
+<tr><td>manx</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lexicon</td><td>ORG</td><td>1</td></tr>
+<tr><td>lascars</td><td>LOC</td><td>1</td></tr>
+<tr><td>lavater</td><td>ORG</td><td>1</td></tr>
+<tr><td>leap</td><td>PERSON</td><td>1</td></tr>
+<tr><td>leo</td><td>GPE</td><td>1</td></tr>
+<tr><td>lesson</td><td>PERSON</td><td>1</td></tr>
+<tr><td>leuwenhoeck</td><td>LOC</td><td>1</td></tr>
+<tr><td>leviathanic</td><td>ORG</td><td>1</td></tr>
+<tr><td>lieutenant maury</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lombardy</td><td>GPE</td><td>1</td></tr>
+<tr><td>lion</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lionel</td><td>ORG</td><td>1</td></tr>
+<tr><td>lionel wafer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>little flask</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>locke</td><td>GPE</td><td>1</td></tr>
+<tr><td>logan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>manillas;--a</td><td>GPE</td><td>1</td></tr>
+<tr><td>marine insurance</td><td>ORG</td><td>1</td></tr>
+<tr><td>murray</td><td>GPE</td><td>1</td></tr>
+<tr><td>moby dick;--and</td><td>PERSON</td><td>1</td></tr>
+<tr><td>michael</td><td>PERSON</td><td>1</td></tr>
+<tr><td>michigan</td><td>GPE</td><td>1</td></tr>
+<tr><td>midwifery</td><td>ORG</td><td>1</td></tr>
+<tr><td>miles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>miriam</td><td>PERSON</td><td>1</td></tr>
+<tr><td>moby dick bodily</td><td>PERSON</td><td>1</td></tr>
+<tr><td>moby dick ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>monongahela</td><td>GPE</td><td>1</td></tr>
+<tr><td>merry-mad</td><td>PERSON</td><td>1</td></tr>
+<tr><td>monsoons</td><td>ORG</td><td>1</td></tr>
+<tr><td>mordecai</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mote</td><td>ORG</td><td>1</td></tr>
+<tr><td>mother carey''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mr stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mrs hussey</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mungo park</td><td>PERSON</td><td>1</td></tr>
+<tr><td>meshach</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mendanna</td><td>PERSON</td><td>1</td></tr>
+<tr><td>marius</td><td>ORG</td><td>1</td></tr>
+<tr><td>mary morrel</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mark antony</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mark ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>marmora</td><td>GPE</td><td>1</td></tr>
+<tr><td>marten</td><td>PERSON</td><td>1</td></tr>
+<tr><td>martin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>martin frobisher</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mary folger</td><td>PERSON</td><td>1</td></tr>
+<tr><td>massa shark</td><td>PERSON</td><td>1</td></tr>
+<tr><td>melancthon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>massa stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mastodon</td><td>GPE</td><td>1</td></tr>
+<tr><td>matsmai</td><td>GPE</td><td>1</td></tr>
+<tr><td>matter</td><td>LOC</td><td>1</td></tr>
+<tr><td>mazeppa</td><td>ORG</td><td>1</td></tr>
+<tr><td>mecca</td><td>GPE</td><td>1</td></tr>
+<tr><td>medes</td><td>PERSON</td><td>1</td></tr>
+<tr><td>folgers</td><td>ORG</td><td>1</td></tr>
+<tr><td>beckett</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fishes</td><td>ORG</td><td>1</td></tr>
+<tr><td>bloody</td><td>GPE</td><td>1</td></tr>
+<tr><td>bishop jebb''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bishop pontoppodan</td><td>ORG</td><td>1</td></tr>
+<tr><td>black parliament</td><td>ORG</td><td>1</td></tr>
+<tr><td>blanco</td><td>GPE</td><td>1</td></tr>
+<tr><td>blang-whang</td><td>PERSON</td><td>1</td></tr>
+<tr><td>blanket bay</td><td>LOC</td><td>1</td></tr>
+<tr><td>blocksburg</td><td>ORG</td><td>1</td></tr>
+<tr><td>blue whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>betty</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bombay</td><td>GPE</td><td>1</td></tr>
+<tr><td>bonapartes</td><td>GPE</td><td>1</td></tr>
+<tr><td>bone</td><td>ORG</td><td>1</td></tr>
+<tr><td>bonneterre</td><td>PERSON</td><td>1</td></tr>
+<tr><td>booble alley</td><td>ORG</td><td>1</td></tr>
+<tr><td>bordeaux</td><td>GPE</td><td>1</td></tr>
+<tr><td>borean</td><td>PERSON</td><td>1</td></tr>
+<tr><td>birmah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bernard germain</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bouton</td><td>ORG</td><td>1</td></tr>
+<tr><td>believe ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bartholomew diaz</td><td>PERSON</td><td>1</td></tr>
+<tr><td>basilosaurus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>battery</td><td>LOC</td><td>1</td></tr>
+<tr><td>pompey</td><td>PERSON</td><td>1</td></tr>
+<tr><td>behring</td><td>ORG</td><td>1</td></tr>
+<tr><td>behring''s straits</td><td>ORG</td><td>1</td></tr>
+<tr><td>belial</td><td>ORG</td><td>1</td></tr>
+<tr><td>belisarius</td><td>ORG</td><td>1</td></tr>
+<tr><td>bernard</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bell</td><td>ORG</td><td>1</td></tr>
+<tr><td>bell-boy</td><td>ORG</td><td>1</td></tr>
+<tr><td>belshazzar''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>belubed</td><td>ORG</td><td>1</td></tr>
+<tr><td>bengal</td><td>PERSON</td><td>1</td></tr>
+<tr><td>benjamin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>benjamin franklin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>borneo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bouton de rose,"--rose-button</td><td>ORG</td><td>1</td></tr>
+<tr><td>baltimore</td><td>GPE</td><td>1</td></tr>
+<tr><td>chapter cxx</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cix</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cviii</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cx</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxii</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxvi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter c. leg</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chapter cxxix</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxvi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxvii</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxx</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxxi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter cxxxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter ix</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter ci</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter c epilogue</td><td>ORG</td><td>1</td></tr>
+<tr><td>bouton-de-rose</td><td>ORG</td><td>1</td></tr>
+<tr><td>brother jonathan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bouton-de-rose-bud</td><td>ORG</td><td>1</td></tr>
+<tr><td>bouton-de-roses</td><td>ORG</td><td>1</td></tr>
+<tr><td>bracton</td><td>GPE</td><td>1</td></tr>
+<tr><td>brahmins</td><td>ORG</td><td>1</td></tr>
+<tr><td>brandreth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>brisson</td><td>PERSON</td><td>1</td></tr>
+<tr><td>britain</td><td>GPE</td><td>1</td></tr>
+<tr><td>bungle</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter b extracts</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bunyan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>burton constable</td><td>ORG</td><td>1</td></tr>
+<tr><td>cabin</td><td>ORG</td><td>1</td></tr>
+<tr><td>carpenter</td><td>ORG</td><td>1</td></tr>
+<tr><td>castaway</td><td>ORG</td><td>1</td></tr>
+<tr><td>cetology</td><td>ORG</td><td>1</td></tr>
+<tr><td>cetus</td><td>ORG</td><td>1</td></tr>
+<tr><td>barbary</td><td>PERSON</td><td>1</td></tr>
+<tr><td>balne</td><td>ORG</td><td>1</td></tr>
+<tr><td>fishery</td><td>ORG</td><td>1</td></tr>
+<tr><td>affghanistan</td><td>GPE</td><td>1</td></tr>
+<tr><td>--whale song</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--wharton the whale killer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--said starbuck</td><td>PERSON</td><td>1</td></tr>
+<tr><td>1st nantucket sailor</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a.d. 1828</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a.s. walw-ian</td><td>PERSON</td><td>1</td></tr>
+<tr><td>advocate</td><td>ORG</td><td>1</td></tr>
+<tr><td>affidavit</td><td>ORG</td><td>1</td></tr>
+<tr><td>--thomas jefferson''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ahab</td><td>ORG</td><td>1</td></tr>
+<tr><td>abednego</td><td>PERSON</td><td>1</td></tr>
+<tr><td>abjectus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>achilles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>actium</td><td>GPE</td><td>1</td></tr>
+<tr><td>adieu</td><td>ORG</td><td>1</td></tr>
+<tr><td>agassiz</td><td>GPE</td><td>1</td></tr>
+<tr><td>--tooke</td><td>ORG</td><td>1</td></tr>
+<tr><td>--the fairie queen.</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ahab!--shudder</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--missionary journal of tyerman</td><td>ORG</td><td>1</td></tr>
+<tr><td>--edmund burke</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--edmund burke''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--elizabeth oakes smith.</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--fuller</td><td>ORG</td><td>1</td></tr>
+<tr><td>--john hunter''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--lord bacon''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--mcculloch</td><td>GPE</td><td>1</td></tr>
+<tr><td>--montgomery</td><td>ORG</td><td>1</td></tr>
+<tr><td>--stowe''s annals</td><td>ORG</td><td>1</td></tr>
+<tr><td>--n. e. primer.</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--nantucket song</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--paley''s theology</td><td>ORG</td><td>1</td></tr>
+<tr><td>--richard strafford''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--sibbald</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--sir t. browne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>--sir william davenant</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ahab answered--"aye</td><td>ORG</td><td>1</td></tr>
+<tr><td>ahab''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>bally</td><td>ORG</td><td>1</td></tr>
+<tr><td>artedi</td><td>PERSON</td><td>1</td></tr>
+<tr><td>antwerp</td><td>GPE</td><td>1</td></tr>
+<tr><td>archer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>archipelagoes</td><td>ORG</td><td>1</td></tr>
+<tr><td>arethusa</td><td>GPE</td><td>1</td></tr>
+<tr><td>arion</td><td>ORG</td><td>1</td></tr>
+<tr><td>aristotle</td><td>PERSON</td><td>1</td></tr>
+<tr><td>arkansas</td><td>GPE</td><td>1</td></tr>
+<tr><td>ashantee</td><td>ORG</td><td>1</td></tr>
+<tr><td>antilles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>asiatic</td><td>LOC</td><td>1</td></tr>
+<tr><td>asiatics</td><td>LOC</td><td>1</td></tr>
+<tr><td>aunt charity''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>belfast</td><td>GPE</td><td>1</td></tr>
+<tr><td>biographical queequeg</td><td>PERSON</td><td>1</td></tr>
+<tr><td>books</td><td>ORG</td><td>1</td></tr>
+<tr><td>baden-baden</td><td>GPE</td><td>1</td></tr>
+<tr><td>antiochus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>annus mirabilis</td><td>ORG</td><td>1</td></tr>
+<tr><td>ahabs</td><td>ORG</td><td>1</td></tr>
+<tr><td>algiers</td><td>GPE</td><td>1</td></tr>
+<tr><td>aladdin</td><td>ORG</td><td>1</td></tr>
+<tr><td>albert durer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>albicore</td><td>ORG</td><td>1</td></tr>
+<tr><td>aldrovandi</td><td>PERSON</td><td>1</td></tr>
+<tr><td>alexander</td><td>PERSON</td><td>1</td></tr>
+<tr><td>alexander the great</td><td>PERSON</td><td>1</td></tr>
+<tr><td>alfred the great</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ambergriese</td><td>ORG</td><td>1</td></tr>
+<tr><td>annawon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>americas</td><td>LOC</td><td>1</td></tr>
+<tr><td>amittai</td><td>ORG</td><td>1</td></tr>
+<tr><td>anacharsis clootz</td><td>ORG</td><td>1</td></tr>
+<tr><td>andrew jackson</td><td>PERSON</td><td>1</td></tr>
+<tr><td>angel of doom</td><td>ORG</td><td>1</td></tr>
+<tr><td>angelo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>anglo-saxon</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter l. ahab''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chapter li</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lx</td><td>ORG</td><td>1</td></tr>
+<tr><td>delight</td><td>ORG</td><td>1</td></tr>
+<tr><td>darien</td><td>ORG</td><td>1</td></tr>
+<tr><td>darmonodes</td><td>PERSON</td><td>1</td></tr>
+<tr><td>davis</td><td>PERSON</td><td>1</td></tr>
+<tr><td>de witt''s</td><td>GPE</td><td>1</td></tr>
+<tr><td>deacon deuteronomy coleman''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>deacon deuteronomy''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>debell bennett''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>denderah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>daniel webster''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dericks</td><td>ORG</td><td>1</td></tr>
+<tr><td>devil</td><td>GPE</td><td>1</td></tr>
+<tr><td>devil-dam</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dick</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dictionary</td><td>PERSON</td><td>1</td></tr>
+<tr><td>discovery expedition</td><td>ORG</td><td>1</td></tr>
+<tr><td>dismal swamp</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dantean</td><td>LOC</td><td>1</td></tr>
+<tr><td>daniel boone</td><td>PERSON</td><td>1</td></tr>
+<tr><td>divine providence</td><td>PERSON</td><td>1</td></tr>
+<tr><td>czar peter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>count de lacpde</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cowley</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cowper</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cranmer</td><td>ORG</td><td>1</td></tr>
+<tr><td>creagh</td><td>PERSON</td><td>1</td></tr>
+<tr><td>crockett</td><td>PERSON</td><td>1</td></tr>
+<tr><td>csar</td><td>ORG</td><td>1</td></tr>
+<tr><td>danish sailor</td><td>PERSON</td><td>1</td></tr>
+<tr><td>danes</td><td>GPE</td><td>1</td></tr>
+<tr><td>doubloon</td><td>ORG</td><td>1</td></tr>
+<tr><td>dagon</td><td>GPE</td><td>1</td></tr>
+<tr><td>dame isabella''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>damn</td><td>PERSON</td><td>1</td></tr>
+<tr><td>damn ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>damocles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dampier</td><td>GPE</td><td>1</td></tr>
+<tr><td>divine</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dodge</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxiii</td><td>ORG</td><td>1</td></tr>
+<tr><td>fat-cutter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>english south-sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>erie</td><td>PERSON</td><td>1</td></tr>
+<tr><td>essex</td><td>PERSON</td><td>1</td></tr>
+<tr><td>eternities</td><td>ORG</td><td>1</td></tr>
+<tr><td>europa</td><td>LOC</td><td>1</td></tr>
+<tr><td>evangelist</td><td>ORG</td><td>1</td></tr>
+<tr><td>ezekiel</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fata morgana</td><td>PERSON</td><td>1</td></tr>
+<tr><td>elephant</td><td>ORG</td><td>1</td></tr>
+<tr><td>feegee</td><td>GPE</td><td>1</td></tr>
+<tr><td>fegee</td><td>PERSON</td><td>1</td></tr>
+<tr><td>figuera</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fin</td><td>ORG</td><td>1</td></tr>
+<tr><td>fin-back</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fin-back).--under</td><td>PERSON</td><td>1</td></tr>
+<tr><td>first congregational church</td><td>ORG</td><td>1</td></tr>
+<tr><td>enderby & sons</td><td>ORG</td><td>1</td></tr>
+<tr><td>elbe</td><td>ORG</td><td>1</td></tr>
+<tr><td>don miguel</td><td>PERSON</td><td>1</td></tr>
+<tr><td>duodecimoes</td><td>ORG</td><td>1</td></tr>
+<tr><td>don sebastian''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dorchester</td><td>GPE</td><td>1</td></tr>
+<tr><td>dough</td><td>GPE</td><td>1</td></tr>
+<tr><td>dover</td><td>GPE</td><td>1</td></tr>
+<tr><td>dugongs</td><td>PERSON</td><td>1</td></tr>
+<tr><td>dunder</td><td>ORG</td><td>1</td></tr>
+<tr><td>dunkirk</td><td>LOC</td><td>1</td></tr>
+<tr><td>dutch fishery</td><td>ORG</td><td>1</td></tr>
+<tr><td>ehrenbreitstein</td><td>ORG</td><td>1</td></tr>
+<tr><td>extracts</td><td>ORG</td><td>1</td></tr>
+<tr><td>earls</td><td>LOC</td><td>1</td></tr>
+<tr><td>eastern continents</td><td>ORG</td><td>1</td></tr>
+<tr><td>ebony</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ecclesiastes</td><td>ORG</td><td>1</td></tr>
+<tr><td>edmund burke</td><td>PERSON</td><td>1</td></tr>
+<tr><td>edward</td><td>PERSON</td><td>1</td></tr>
+<tr><td>corlaer</td><td>ORG</td><td>1</td></tr>
+<tr><td>copenhagen</td><td>ORG</td><td>1</td></tr>
+<tr><td>constantine</td><td>ORG</td><td>1</td></tr>
+<tr><td>cape cod</td><td>GPE</td><td>1</td></tr>
+<tr><td>callao</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cambyses or csar</td><td>ORG</td><td>1</td></tr>
+<tr><td>camel</td><td>ORG</td><td>1</td></tr>
+<tr><td>can herr alexander</td><td>PERSON</td><td>1</td></tr>
+<tr><td>canaris</td><td>PERSON</td><td>1</td></tr>
+<tr><td>canterbury cathedral</td><td>ORG</td><td>1</td></tr>
+<tr><td>cap''ain</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cape-down</td><td>GPE</td><td>1</td></tr>
+<tr><td>crew</td><td>ORG</td><td>1</td></tr>
+<tr><td>cape-horner</td><td>GPE</td><td>1</td></tr>
+<tr><td>cape-town</td><td>GPE</td><td>1</td></tr>
+<tr><td>capes</td><td>GPE</td><td>1</td></tr>
+<tr><td>capricornus</td><td>ORG</td><td>1</td></tr>
+<tr><td>captain bildad</td><td>PERSON</td><td>1</td></tr>
+<tr><td>captain boomer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>captain butler</td><td>PERSON</td><td>1</td></tr>
+<tr><td>calais</td><td>GPE</td><td>1</td></tr>
+<tr><td>counterpane</td><td>ORG</td><td>1</td></tr>
+<tr><td>connecticut</td><td>GPE</td><td>1</td></tr>
+<tr><td>chapter xcix</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chapter lxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxvi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxvii</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxxx</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxxxi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter lxxxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter v. breakfast</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chapter xii</td><td>ORG</td><td>1</td></tr>
+<tr><td>cistern</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xvi</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xxv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xxxiv</td><td>ORG</td><td>1</td></tr>
+<tr><td>chapter xxxvii</td><td>ORG</td><td>1</td></tr>
+<tr><td>china</td><td>GPE</td><td>1</td></tr>
+<tr><td>captain coffin</td><td>ORG</td><td>1</td></tr>
+<tr><td>captain colnett</td><td>PERSON</td><td>1</td></tr>
+<tr><td>captain noah</td><td>PERSON</td><td>1</td></tr>
+<tr><td>coffin</td><td>ORG</td><td>1</td></tr>
+<tr><td>christianity</td><td>ORG</td><td>1</td></tr>
+<tr><td>cinque port</td><td>ORG</td><td>1</td></tr>
+<tr><td>civitas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cleveland</td><td>GPE</td><td>1</td></tr>
+<tr><td>clifford constable</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cockatoo point</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cods</td><td>PERSON</td><td>1</td></tr>
+<tr><td>coffin my innkeeper</td><td>ORG</td><td>1</td></tr>
+<tr><td>captors</td><td>ORG</td><td>1</td></tr>
+<tr><td>coffins</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cognac</td><td>GPE</td><td>1</td></tr>
+<tr><td>coke</td><td>ORG</td><td>1</td></tr>
+<tr><td>coleridge</td><td>ORG</td><td>1</td></tr>
+<tr><td>colnett</td><td>PERSON</td><td>1</td></tr>
+<tr><td>colnett''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>commonwealth</td><td>ORG</td><td>1</td></tr>
+<tr><td>cholo</td><td>GPE</td><td>1</td></tr>
+<tr><td>childe harold</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chief harpooneer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chestnut</td><td>GPE</td><td>1</td></tr>
+<tr><td>castle</td><td>ORG</td><td>1</td></tr>
+<tr><td>categut</td><td>ORG</td><td>1</td></tr>
+<tr><td>catholic church</td><td>ORG</td><td>1</td></tr>
+<tr><td>cato</td><td>ORG</td><td>1</td></tr>
+<tr><td>cattegat</td><td>GPE</td><td>1</td></tr>
+<tr><td>cellini</td><td>PERSON</td><td>1</td></tr>
+<tr><td>central europe</td><td>LOC</td><td>1</td></tr>
+<tr><td>cervantes</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cetacea</td><td>ORG</td><td>1</td></tr>
+<tr><td>cetacean history</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ceylon</td><td>GPE</td><td>1</td></tr>
+<tr><td>champagne</td><td>GPE</td><td>1</td></tr>
+<tr><td>champollion</td><td>ORG</td><td>1</td></tr>
+<tr><td>charing cross</td><td>PERSON</td><td>1</td></tr>
+<tr><td>charlemagne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>polynesia</td><td>GPE</td><td>1</td></tr>
+<tr><td>whale-bones</td><td>ORG</td><td>1</td></tr>
+<tr><td>portugal</td><td>GPE</td><td>1</td></tr>
+<tr><td>rear,--than</td><td>PERSON</td><td>1</td></tr>
+<tr><td>perils,--ahab</td><td>ORG</td><td>1</td></tr>
+<tr><td>picturesque</td><td>GPE</td><td>1</td></tr>
+<tr><td>portcullis jaw</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pour ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>prudential</td><td>ORG</td><td>1</td></tr>
+<tr><td>pursuit,--mere</td><td>ORG</td><td>1</td></tr>
+<tr><td>quote:-- sacred to the memory of john talbot</td><td>ORG</td><td>1</td></tr>
+<tr><td>red gore</td><td>PERSON</td><td>1</td></tr>
+<tr><td>paler cheeks</td><td>PERSON</td><td>1</td></tr>
+<tr><td>reg''lar</td><td>PERSON</td><td>1</td></tr>
+<tr><td>returned starbuck</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rich banners</td><td>PERSON</td><td>1</td></tr>
+<tr><td>said--"did ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>said:--"ye''ve</td><td>ORG</td><td>1</td></tr>
+<tr><td>sail ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sap</td><td>ORG</td><td>1</td></tr>
+<tr><td>parvo</td><td>GPE</td><td>1</td></tr>
+<tr><td>palace</td><td>ORG</td><td>1</td></tr>
+<tr><td>ship,--which</td><td>ORG</td><td>1</td></tr>
+<tr><td>motley</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mine!--the parsee</td><td>GPE</td><td>1</td></tr>
+<tr><td>misanthropic woods</td><td>PERSON</td><td>1</td></tr>
+<tr><td>misty dawn</td><td>PERSON</td><td>1</td></tr>
+<tr><td>misty monster</td><td>PERSON</td><td>1</td></tr>
+<tr><td>misty spray</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mongrel renegades</td><td>PERSON</td><td>1</td></tr>
+<tr><td>more.--mr</td><td>ORG</td><td>1</td></tr>
+<tr><td>natur wery</td><td>PERSON</td><td>1</td></tr>
+<tr><td>paid,--what</td><td>ORG</td><td>1</td></tr>
+<tr><td>nick-name</td><td>ORG</td><td>1</td></tr>
+<tr><td>ninetieth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>nomine patris</td><td>GPE</td><td>1</td></tr>
+<tr><td>noon,--goes</td><td>ORG</td><td>1</td></tr>
+<tr><td>numbered:--i.</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ober de roanoke</td><td>PERSON</td><td>1</td></tr>
+<tr><td>overladen brooks</td><td>PERSON</td><td>1</td></tr>
+<tr><td>scene.--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>shipping ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>miles,--ahead</td><td>ORG</td><td>1</td></tr>
+<tr><td>the bays of new zealand</td><td>ORG</td><td>1</td></tr>
+<tr><td>the atlantic ocean</td><td>LOC</td><td>1</td></tr>
+<tr><td>the author of miriam coffin</td><td>GPE</td><td>1</td></tr>
+<tr><td>the baliene ordinaire</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the baling of the case</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the barbary coast</td><td>LOC</td><td>1</td></tr>
+<tr><td>the bashee isles</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the bay whalemen</td><td>LOC</td><td>1</td></tr>
+<tr><td>the bengal bay</td><td>LOC</td><td>1</td></tr>
+<tr><td>the arctic ocean</td><td>LOC</td><td>1</td></tr>
+<tr><td>the black sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the black whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the brazil banks</td><td>ORG</td><td>1</td></tr>
+<tr><td>the cannon whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the cape horn</td><td>LOC</td><td>1</td></tr>
+<tr><td>the cape de verdes</td><td>LOC</td><td>1</td></tr>
+<tr><td>the cape of good hope</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the argo-navis</td><td>ORG</td><td>1</td></tr>
+<tr><td>the american whale fleet</td><td>ORG</td><td>1</td></tr>
+<tr><td>shiver!--how</td><td>ORG</td><td>1</td></tr>
+<tr><td>sperm whale''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>shouted--"no</td><td>GPE</td><td>1</td></tr>
+<tr><td>skeleton</td><td>ORG</td><td>1</td></tr>
+<tr><td>sog</td><td>ORG</td><td>1</td></tr>
+<tr><td>solemn swells</td><td>GPE</td><td>1</td></tr>
+<tr><td>speak!--aye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sperm</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sperm whale bone</td><td>ORG</td><td>1</td></tr>
+<tr><td>sperm whales</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the american canals</td><td>ORG</td><td>1</td></tr>
+<tr><td>split jibs</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sunset sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>t''other a''top</td><td>PERSON</td><td>1</td></tr>
+<tr><td>that,--within</td><td>PERSON</td><td>1</td></tr>
+<tr><td>that?--down</td><td>ORG</td><td>1</td></tr>
+<tr><td>the academy of sciences</td><td>ORG</td><td>1</td></tr>
+<tr><td>the alleganian ridge</td><td>GPE</td><td>1</td></tr>
+<tr><td>miller</td><td>PERSON</td><td>1</td></tr>
+<tr><td>mild head overhung</td><td>PERSON</td><td>1</td></tr>
+<tr><td>porus</td><td>PERSON</td><td>1</td></tr>
+<tr><td>headlong</td><td>PERSON</td><td>1</td></tr>
+<tr><td>grey manxman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hail virgo</td><td>ORG</td><td>1</td></tr>
+<tr><td>hammock--"i</td><td>ORG</td><td>1</td></tr>
+<tr><td>hand!--down</td><td>ORG</td><td>1</td></tr>
+<tr><td>hands--"aye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>harpooneer.--i sha</td><td>PERSON</td><td>1</td></tr>
+<tr><td>he--''he</td><td>ORG</td><td>1</td></tr>
+<tr><td>heath.--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>gor</td><td>ORG</td><td>1</td></tr>
+<tr><td>hempen thews</td><td>PERSON</td><td>1</td></tr>
+<tr><td>here,--three</td><td>ORG</td><td>1</td></tr>
+<tr><td>heron</td><td>ORG</td><td>1</td></tr>
+<tr><td>hill?--crazed;--aloft</td><td>PERSON</td><td>1</td></tr>
+<tr><td>him king-post</td><td>ORG</td><td>1</td></tr>
+<tr><td>him,--"captain bildad</td><td>ORG</td><td>1</td></tr>
+<tr><td>himself--"it</td><td>ORG</td><td>1</td></tr>
+<tr><td>gore</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gloom,--"hemp</td><td>ORG</td><td>1</td></tr>
+<tr><td>hoard ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>few:--the authors</td><td>ORG</td><td>1</td></tr>
+<tr><td>elements.--it</td><td>GPE</td><td>1</td></tr>
+<tr><td>encounters,--furrowed</td><td>ORG</td><td>1</td></tr>
+<tr><td>ex officio</td><td>PERSON</td><td>1</td></tr>
+<tr><td>exclaimed stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>exclaimed,--"look ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>extant--"it</td><td>ORG</td><td>1</td></tr>
+<tr><td>fed</td><td>ORG</td><td>1</td></tr>
+<tr><td>fisherman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>girl?--there</td><td>PERSON</td><td>1</td></tr>
+<tr><td>flagon</td><td>ORG</td><td>1</td></tr>
+<tr><td>folio leviathans</td><td>ORG</td><td>1</td></tr>
+<tr><td>forenoon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>fry ob sharks</td><td>PERSON</td><td>1</td></tr>
+<tr><td>gale.--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>gallop</td><td>ORG</td><td>1</td></tr>
+<tr><td>ginger?--sea</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ho</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hval</td><td>ORG</td><td>1</td></tr>
+<tr><td>merry</td><td>PERSON</td><td>1</td></tr>
+<tr><td>manhood</td><td>LOC</td><td>1</td></tr>
+<tr><td>leviathan gore</td><td>PERSON</td><td>1</td></tr>
+<tr><td>life,--in ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>little king-post</td><td>ORG</td><td>1</td></tr>
+<tr><td>lo</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lower,--quick</td><td>ORG</td><td>1</td></tr>
+<tr><td>mackerel</td><td>PERSON</td><td>1</td></tr>
+<tr><td>maine</td><td>GPE</td><td>1</td></tr>
+<tr><td>mariner</td><td>PERSON</td><td>1</td></tr>
+<tr><td>lengthen ahab''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>mark the unfaltering</td><td>PERSON</td><td>1</td></tr>
+<tr><td>massa stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>maw</td><td>PERSON</td><td>1</td></tr>
+<tr><td>me?--on</td><td>ORG</td><td>1</td></tr>
+<tr><td>meagre</td><td>PERSON</td><td>1</td></tr>
+<tr><td>meanest thou</td><td>PERSON</td><td>1</td></tr>
+<tr><td>meritoque</td><td>PERSON</td><td>1</td></tr>
+<tr><td>leviathan</td><td>GPE</td><td>1</td></tr>
+<tr><td>lege natur</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hvalt</td><td>ORG</td><td>1</td></tr>
+<tr><td>jaw beneath</td><td>PERSON</td><td>1</td></tr>
+<tr><td>hypochondriac</td><td>ORG</td><td>1</td></tr>
+<tr><td>i. e. even</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ill begun</td><td>PERSON</td><td>1</td></tr>
+<tr><td>infancy</td><td>ORG</td><td>1</td></tr>
+<tr><td>jack-knife</td><td>PERSON</td><td>1</td></tr>
+<tr><td>japonicas</td><td>PERSON</td><td>1</td></tr>
+<tr><td>javelin islands</td><td>GPE</td><td>1</td></tr>
+<tr><td>jaw-ivory</td><td>PERSON</td><td>1</td></tr>
+<tr><td>leg?--i''ll</td><td>GPE</td><td>1</td></tr>
+<tr><td>joy queequeg</td><td>PERSON</td><td>1</td></tr>
+<tr><td>keel.--on</td><td>ORG</td><td>1</td></tr>
+<tr><td>keg</td><td>ORG</td><td>1</td></tr>
+<tr><td>kindness</td><td>ORG</td><td>1</td></tr>
+<tr><td>know;--merry</td><td>PERSON</td><td>1</td></tr>
+<tr><td>landsman</td><td>PERSON</td><td>1</td></tr>
+<tr><td>laudanum</td><td>GPE</td><td>1</td></tr>
+<tr><td>the carrol ground</td><td>ORG</td><td>1</td></tr>
+<tr><td>the coffins of nantucket</td><td>ORG</td><td>1</td></tr>
+<tr><td>the coppered whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>wager)--aye</td><td>ORG</td><td>1</td></tr>
+<tr><td>tornado brow</td><td>PERSON</td><td>1</td></tr>
+<tr><td>twine,--have</td><td>ORG</td><td>1</td></tr>
+<tr><td>typhoon</td><td>LOC</td><td>1</td></tr>
+<tr><td>underneath--"the spouter-inn:--peter coffin</td><td>LOC</td><td>1</td></tr>
+<tr><td>unseen headland</td><td>PERSON</td><td>1</td></tr>
+<tr><td>untrodden</td><td>GPE</td><td>1</td></tr>
+<tr><td>valley lake</td><td>LOC</td><td>1</td></tr>
+<tr><td>weeps</td><td>PERSON</td><td>1</td></tr>
+<tr><td>through.--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>west coast</td><td>LOC</td><td>1</td></tr>
+<tr><td>whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whales</td><td>ORG</td><td>1</td></tr>
+<tr><td>whence</td><td>GPE</td><td>1</td></tr>
+<tr><td>where''er i sail</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wheresoe''er</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whew</td><td>ORG</td><td>1</td></tr>
+<tr><td>time</td><td>ORG</td><td>1</td></tr>
+<tr><td>thou wert</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wid de ''</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou glidest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou chilian</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou chap</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou could''st</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou crackest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou fadest</td><td>ORG</td><td>1</td></tr>
+<tr><td>thou famed leviathan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou gettest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou grinning</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou tellest ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou hast</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou holdest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou mayest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou mightest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou monkey</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou reddenest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou tellest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>white whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>will ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the elephant whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye swerve</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye ship-owners</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye sleepers</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye snug</td><td>GPE</td><td>1</td></tr>
+<tr><td>ye sons of bachelors</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye stand</td><td>GPE</td><td>1</td></tr>
+<tr><td>ye strangers</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye sulkies</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye thence</td><td>GPE</td><td>1</td></tr>
+<tr><td>ye prouder</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye three</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye villains</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye wish</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye young</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye, sun</td><td>ORG</td><td>1</td></tr>
+<tr><td>yea</td><td>ORG</td><td>1</td></tr>
+<tr><td>zephyr</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye revellers</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye nobler</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wind!--aloft</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye deaf</td><td>ORG</td><td>1</td></tr>
+<tr><td>windward</td><td>GPE</td><td>1</td></tr>
+<tr><td>ye pip</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye attack</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye believers</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye canting</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye come</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye cup</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye draw</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye mean.--i am</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye first</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye frighten</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye frozen heavens</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye grim</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye landsmen</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye love brandy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ye mark</td><td>PERSON</td><td>1</td></tr>
+<tr><td>this?--green</td><td>GPE</td><td>1</td></tr>
+<tr><td>this:-- quohog</td><td>PERSON</td><td>1</td></tr>
+<tr><td>this moby dick</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the london geological society</td><td>ORG</td><td>1</td></tr>
+<tr><td>the javan sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the king and queen</td><td>ORG</td><td>1</td></tr>
+<tr><td>the king of the cannibals</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the kingdom of cetology</td><td>GPE</td><td>1</td></tr>
+<tr><td>the leading whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the levanter and simoom</td><td>ORG</td><td>1</td></tr>
+<tr><td>the life insurance companies</td><td>ORG</td><td>1</td></tr>
+<tr><td>the lost icelandic colonies</td><td>ORG</td><td>1</td></tr>
+<tr><td>the isle of man</td><td>GPE</td><td>1</td></tr>
+<tr><td>the main of america</td><td>LOC</td><td>1</td></tr>
+<tr><td>the matse avatar</td><td>ORG</td><td>1</td></tr>
+<tr><td>the mediterranean sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the milky way</td><td>LOC</td><td>1</td></tr>
+<tr><td>the nantucket whale-fishery</td><td>ORG</td><td>1</td></tr>
+<tr><td>the national observatory</td><td>ORG</td><td>1</td></tr>
+<tr><td>the north and south atlantic</td><td>LOC</td><td>1</td></tr>
+<tr><td>the japanese coast</td><td>LOC</td><td>1</td></tr>
+<tr><td>the isle of desolation</td><td>GPE</td><td>1</td></tr>
+<tr><td>them,--though</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the great whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the english anatomist</td><td>ORG</td><td>1</td></tr>
+<tr><td>the english house of commons</td><td>ORG</td><td>1</td></tr>
+<tr><td>the english whalemen</td><td>ORG</td><td>1</td></tr>
+<tr><td>the first congregational church</td><td>ORG</td><td>1</td></tr>
+<tr><td>the globe mutiny</td><td>ORG</td><td>1</td></tr>
+<tr><td>the golden inn</td><td>LOC</td><td>1</td></tr>
+<tr><td>the grand turk''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>the green mountains</td><td>LOC</td><td>1</td></tr>
+<tr><td>the isle of albemarle</td><td>GPE</td><td>1</td></tr>
+<tr><td>the growlands walfish</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the holy bible</td><td>GPE</td><td>1</td></tr>
+<tr><td>the holy evangelists</td><td>ORG</td><td>1</td></tr>
+<tr><td>the holy one</td><td>LOC</td><td>1</td></tr>
+<tr><td>the humane and magnanimous societies</td><td>ORG</td><td>1</td></tr>
+<tr><td>the hyena whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the icy sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the northern lights</td><td>ORG</td><td>1</td></tr>
+<tr><td>the northern ocean</td><td>LOC</td><td>1</td></tr>
+<tr><td>the northern seas</td><td>LOC</td><td>1</td></tr>
+<tr><td>the first congregational church</td><td>ORG</td><td>1</td></tr>
+<tr><td>the tudors and bourbons</td><td>ORG</td><td>1</td></tr>
+<tr><td>the upper mississippi</td><td>ORG</td><td>1</td></tr>
+<tr><td>the vision of st. john</td><td>ORG</td><td>1</td></tr>
+<tr><td>the whale fisherman</td><td>ORG</td><td>1</td></tr>
+<tr><td>the white mountains of new hampshire</td><td>LOC</td><td>1</td></tr>
+<tr><td>the black sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the equatorial sun</td><td>ORG</td><td>1</td></tr>
+<tr><td>the gay bachelor</td><td>ORG</td><td>1</td></tr>
+<tr><td>the octavo whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the glassy ocean''s</td><td>LOC</td><td>1</td></tr>
+<tr><td>the lee bow</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the mystic ocean</td><td>LOC</td><td>1</td></tr>
+<tr><td>the sharkish sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the summer sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the van rensselaers</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the wintry ocean</td><td>LOC</td><td>1</td></tr>
+<tr><td>the town-ho,[10</td><td>ORG</td><td>1</td></tr>
+<tr><td>the thames tunnel</td><td>ORG</td><td>1</td></tr>
+<tr><td>the straits of gibraltar</td><td>LOC</td><td>1</td></tr>
+<tr><td>the states of louisiana</td><td>GPE</td><td>1</td></tr>
+<tr><td>the pacific coast</td><td>LOC</td><td>1</td></tr>
+<tr><td>the parsee ahab</td><td>LOC</td><td>1</td></tr>
+<tr><td>the philippine islands</td><td>GPE</td><td>1</td></tr>
+<tr><td>the pine barrens</td><td>ORG</td><td>1</td></tr>
+<tr><td>the polynesian isles</td><td>GPE</td><td>1</td></tr>
+<tr><td>the red men of america</td><td>ORG</td><td>1</td></tr>
+<tr><td>the right whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the rock of gibraltar</td><td>GPE</td><td>1</td></tr>
+<tr><td>the rocky mountains</td><td>LOC</td><td>1</td></tr>
+<tr><td>the scragg whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the shetland islands</td><td>GPE</td><td>1</td></tr>
+<tr><td>the society for the suppression of cruelty to ganders</td><td>ORG</td><td>1</td></tr>
+<tr><td>the south sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the southern seas</td><td>LOC</td><td>1</td></tr>
+<tr><td>the spouter-inn</td><td>LOC</td><td>1</td></tr>
+<tr><td>eh?--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>easy sail</td><td>PERSON</td><td>1</td></tr>
+<tr><td>don''t!--see</td><td>GPE</td><td>1</td></tr>
+<tr><td>sodom</td><td>ORG</td><td>1</td></tr>
+<tr><td>simeon macey</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sirs</td><td>GPE</td><td>1</td></tr>
+<tr><td>slave</td><td>PERSON</td><td>1</td></tr>
+<tr><td>smeerenberg</td><td>PERSON</td><td>1</td></tr>
+<tr><td>smithfield</td><td>GPE</td><td>1</td></tr>
+<tr><td>smut</td><td>PERSON</td><td>1</td></tr>
+<tr><td>society for the suppression of meddling</td><td>ORG</td><td>1</td></tr>
+<tr><td>solander''s voyage to iceland</td><td>ORG</td><td>1</td></tr>
+<tr><td>sikoke</td><td>ORG</td><td>1</td></tr>
+<tr><td>sons</td><td>PERSON</td><td>1</td></tr>
+<tr><td>south sea voyages</td><td>LOC</td><td>1</td></tr>
+<tr><td>south sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>south-sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>southerner</td><td>ORG</td><td>1</td></tr>
+<tr><td>spaniard</td><td>PERSON</td><td>1</td></tr>
+<tr><td>spencer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>silly mansoul</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sibbald</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sperma</td><td>GPE</td><td>1</td></tr>
+<tr><td>seychelle</td><td>PERSON</td><td>1</td></tr>
+<tr><td>scotland</td><td>GPE</td><td>1</td></tr>
+<tr><td>scriptural</td><td>ORG</td><td>1</td></tr>
+<tr><td>seeva</td><td>GPE</td><td>1</td></tr>
+<tr><td>semiramis</td><td>PERSON</td><td>1</td></tr>
+<tr><td>senators and judges</td><td>ORG</td><td>1</td></tr>
+<tr><td>seneca</td><td>ORG</td><td>1</td></tr>
+<tr><td>senor</td><td>PERSON</td><td>1</td></tr>
+<tr><td>shadrach</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ship jeroboam;--why</td><td>PERSON</td><td>1</td></tr>
+<tr><td>shakers</td><td>ORG</td><td>1</td></tr>
+<tr><td>shakespeare</td><td>PERSON</td><td>1</td></tr>
+<tr><td>shark</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sharks</td><td>ORG</td><td>1</td></tr>
+<tr><td>sheffield</td><td>PERSON</td><td>1</td></tr>
+<tr><td>shem</td><td>ORG</td><td>1</td></tr>
+<tr><td>shetland</td><td>GPE</td><td>1</td></tr>
+<tr><td>sperm whale-teeth</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sperma ceti</td><td>ORG</td><td>1</td></tr>
+<tr><td>t. cheever</td><td>ORG</td><td>1</td></tr>
+<tr><td>sumatra and</td><td>ORG</td><td>1</td></tr>
+<tr><td>strello</td><td>ORG</td><td>1</td></tr>
+<tr><td>stubb dressed</td><td>PERSON</td><td>1</td></tr>
+<tr><td>stubb''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>sub-subs</td><td>ORG</td><td>1</td></tr>
+<tr><td>sulky</td><td>ORG</td><td>1</td></tr>
+<tr><td>sulphur bottom).--another</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sultan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>superior</td><td>PERSON</td><td>1</td></tr>
+<tr><td>stoics</td><td>ORG</td><td>1</td></tr>
+<tr><td>surgeon beale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>susan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>swallow</td><td>GPE</td><td>1</td></tr>
+<tr><td>sydney</td><td>PERSON</td><td>1</td></tr>
+<tr><td>syracuse</td><td>GPE</td><td>1</td></tr>
+<tr><td>syren</td><td>ORG</td><td>1</td></tr>
+<tr><td>system</td><td>ORG</td><td>1</td></tr>
+<tr><td>straits</td><td>LOC</td><td>1</td></tr>
+<tr><td>stiggs</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sperma ceti whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>st. jago</td><td>ORG</td><td>1</td></tr>
+<tr><td>spermaceti</td><td>PERSON</td><td>1</td></tr>
+<tr><td>spermacetti whales</td><td>PERSON</td><td>1</td></tr>
+<tr><td>sphynx</td><td>ORG</td><td>1</td></tr>
+<tr><td>spinoza</td><td>PERSON</td><td>1</td></tr>
+<tr><td>spouter-inn</td><td>PERSON</td><td>1</td></tr>
+<tr><td>spurzheim</td><td>PERSON</td><td>1</td></tr>
+<tr><td>st. helena</td><td>GPE</td><td>1</td></tr>
+<tr><td>st. john</td><td>PERSON</td><td>1</td></tr>
+<tr><td>steelkilt charlemagne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>st. pott''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>st. vitus''</td><td>PERSON</td><td>1</td></tr>
+<tr><td>starbuck drawing</td><td>PERSON</td><td>1</td></tr>
+<tr><td>starbuck grasped</td><td>PERSON</td><td>1</td></tr>
+<tr><td>starbuck is stubb</td><td>ORG</td><td>1</td></tr>
+<tr><td>starbuck lowly murmured:--</td><td>PERSON</td><td>1</td></tr>
+<tr><td>starbuck to stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>scotchcap</td><td>PERSON</td><td>1</td></tr>
+<tr><td>scotch sibbald</td><td>ORG</td><td>1</td></tr>
+<tr><td>scotch</td><td>ORG</td><td>1</td></tr>
+<tr><td>rabbins</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queen bess</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queen maachah</td><td>ORG</td><td>1</td></tr>
+<tr><td>queen nature''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queen-pinmoney</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queequeg!--queequeg</td><td>ORG</td><td>1</td></tr>
+<tr><td>quog whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>quoin</td><td>GPE</td><td>1</td></tr>
+<tr><td>rabelais</td><td>GPE</td><td>1</td></tr>
+<tr><td>quebec</td><td>GPE</td><td>1</td></tr>
+<tr><td>rad</td><td>PERSON</td><td>1</td></tr>
+<tr><td>railroads</td><td>PERSON</td><td>1</td></tr>
+<tr><td>raimond sebond</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ramadan</td><td>PERSON</td><td>1</td></tr>
+<tr><td>randolphs</td><td>PERSON</td><td>1</td></tr>
+<tr><td>raphael</td><td>PERSON</td><td>1</td></tr>
+<tr><td>ray</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queen</td><td>PERSON</td><td>1</td></tr>
+<tr><td>quakerish nantucketer</td><td>PERSON</td><td>1</td></tr>
+<tr><td>scorpion</td><td>ORG</td><td>1</td></tr>
+<tr><td>priest</td><td>LOC</td><td>1</td></tr>
+<tr><td>post</td><td>ORG</td><td>1</td></tr>
+<tr><td>post-captain</td><td>ORG</td><td>1</td></tr>
+<tr><td>pottfisch</td><td>PERSON</td><td>1</td></tr>
+<tr><td>pottowotamie sachem''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>prairies</td><td>ORG</td><td>1</td></tr>
+<tr><td>pray</td><td>ORG</td><td>1</td></tr>
+<tr><td>presbyterian church</td><td>ORG</td><td>1</td></tr>
+<tr><td>prodromus</td><td>GPE</td><td>1</td></tr>
+<tr><td>quito</td><td>ORG</td><td>1</td></tr>
+<tr><td>profane</td><td>ORG</td><td>1</td></tr>
+<tr><td>prophet</td><td>PERSON</td><td>1</td></tr>
+<tr><td>prynne</td><td>ORG</td><td>1</td></tr>
+<tr><td>ptolemy philopater</td><td>PERSON</td><td>1</td></tr>
+<tr><td>purchass</td><td>GPE</td><td>1</td></tr>
+<tr><td>pythagoras</td><td>PERSON</td><td>1</td></tr>
+<tr><td>queequeg</td><td>GPE</td><td>1</td></tr>
+<tr><td>reckon</td><td>ORG</td><td>1</td></tr>
+<tr><td>red sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>remark</td><td>ORG</td><td>1</td></tr>
+<tr><td>samson</td><td>ORG</td><td>1</td></tr>
+<tr><td>saco</td><td>ORG</td><td>1</td></tr>
+<tr><td>sahara</td><td>GPE</td><td>1</td></tr>
+<tr><td>saint stylites</td><td>GPE</td><td>1</td></tr>
+<tr><td>saladin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>salem</td><td>GPE</td><td>1</td></tr>
+<tr><td>salisbury plain</td><td>ORG</td><td>1</td></tr>
+<tr><td>sammy</td><td>PERSON</td><td>1</td></tr>
+<tr><td>samuel comstock</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rhenish</td><td>GPE</td><td>1</td></tr>
+<tr><td>sandwich</td><td>GPE</td><td>1</td></tr>
+<tr><td>sandwich islands</td><td>GPE</td><td>1</td></tr>
+<tr><td>santa claus</td><td>GPE</td><td>1</td></tr>
+<tr><td>santa?--heard</td><td>PERSON</td><td>1</td></tr>
+<tr><td>saratoga</td><td>ORG</td><td>1</td></tr>
+<tr><td>saturn</td><td>PERSON</td><td>1</td></tr>
+<tr><td>schmerenburgh</td><td>GPE</td><td>1</td></tr>
+<tr><td>symphony</td><td>ORG</td><td>1</td></tr>
+<tr><td>supper stubb''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>starbuck</td><td>ORG</td><td>1</td></tr>
+<tr><td>squires stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rhodes</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rhyme</td><td>PERSON</td><td>1</td></tr>
+<tr><td>richard iii</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rinaldo rinaldini</td><td>PERSON</td><td>1</td></tr>
+<tr><td>river whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>rockaway beach</td><td>GPE</td><td>1</td></tr>
+<tr><td>rogers</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rondeletius</td><td>PERSON</td><td>1</td></tr>
+<tr><td>rousseau</td><td>PERSON</td><td>1</td></tr>
+<tr><td>s. w. f. (sperm whale fishery</td><td>PERSON</td><td>1</td></tr>
+<tr><td>samuel gleig</td><td>PERSON</td><td>1</td></tr>
+<tr><td>seth macy</td><td>ORG</td><td>1</td></tr>
+<tr><td>sheet-iron</td><td>ORG</td><td>1</td></tr>
+<tr><td>sperm</td><td>ORG</td><td>1</td></tr>
+<tr><td>sphynx</td><td>ORG</td><td>1</td></tr>
+<tr><td>t. browne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>teeth</td><td>ORG</td><td>1</td></tr>
+<tr><td>dolphin borne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a leviathanic museum</td><td>ORG</td><td>1</td></tr>
+<tr><td>zeuglodon</td><td>PERSON</td><td>1</td></tr>
+<tr><td>zodiac</td><td>PERSON</td><td>1</td></tr>
+<tr><td>zogranda</td><td>GPE</td><td>1</td></tr>
+<tr><td>zoology</td><td>GPE</td><td>1</td></tr>
+<tr><td>zoroaster</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a commodore davis</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a gothic knight of old</td><td>PERSON</td><td>1</td></tr>
+<tr><td>a whale boat</td><td>GPE</td><td>1</td></tr>
+<tr><td>yorkshire</td><td>GPE</td><td>1</td></tr>
+<tr><td>ails ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>air,--but</td><td>ORG</td><td>1</td></tr>
+<tr><td>all new england</td><td>LOC</td><td>1</td></tr>
+<tr><td>ambergris</td><td>PERSON</td><td>1</td></tr>
+<tr><td>angel</td><td>ORG</td><td>1</td></tr>
+<tr><td>archangel forthwith</td><td>PERSON</td><td>1</td></tr>
+<tr><td>arctic</td><td>LOC</td><td>1</td></tr>
+<tr><td>young</td><td>PERSON</td><td>1</td></tr>
+<tr><td>yonder</td><td>ORG</td><td>1</td></tr>
+<tr><td>aroma,--literally</td><td>ORG</td><td>1</td></tr>
+<tr><td>windsor castle</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whitehall</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whole atlantics and pacifics</td><td>ORG</td><td>1</td></tr>
+<tr><td>william comstock</td><td>PERSON</td><td>1</td></tr>
+<tr><td>william jones</td><td>PERSON</td><td>1</td></tr>
+<tr><td>william prynne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>willoughby</td><td>PERSON</td><td>1</td></tr>
+<tr><td>windsor</td><td>GPE</td><td>1</td></tr>
+<tr><td>winnebago</td><td>ORG</td><td>1</td></tr>
+<tr><td>yellow sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>wisdom</td><td>ORG</td><td>1</td></tr>
+<tr><td>wise stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>would''st</td><td>ORG</td><td>1</td></tr>
+<tr><td>wrinkled bellies</td><td>PERSON</td><td>1</td></tr>
+<tr><td>yale</td><td>ORG</td><td>1</td></tr>
+<tr><td>yale college</td><td>ORG</td><td>1</td></tr>
+<tr><td>ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>arid</td><td>ORG</td><td>1</td></tr>
+<tr><td>arrah a row</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the monstrous pictures of whales</td><td>ORG</td><td>1</td></tr>
+<tr><td>de sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>crape</td><td>LOC</td><td>1</td></tr>
+<tr><td>cried flask</td><td>ORG</td><td>1</td></tr>
+<tr><td>crown</td><td>ORG</td><td>1</td></tr>
+<tr><td>dandy</td><td>ORG</td><td>1</td></tr>
+<tr><td>dat dat woraciousness--''top dat dam slappin</td><td>PERSON</td><td>1</td></tr>
+<tr><td>de roanoke</td><td>PERSON</td><td>1</td></tr>
+<tr><td>de god wat</td><td>PERSON</td><td>1</td></tr>
+<tr><td>desert ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cook,--though</td><td>ORG</td><td>1</td></tr>
+<tr><td>deserts,--when</td><td>PERSON</td><td>1</td></tr>
+<tr><td>desperado arnold</td><td>PERSON</td><td>1</td></tr>
+<tr><td>destroyed city</td><td>GPE</td><td>1</td></tr>
+<tr><td>devout eckerman</td><td>ORG</td><td>1</td></tr>
+<tr><td>distinct strata</td><td>PERSON</td><td>1</td></tr>
+<tr><td>do?--all</td><td>ORG</td><td>1</td></tr>
+<tr><td>dodge</td><td>ORG</td><td>1</td></tr>
+<tr><td>coopers</td><td>ORG</td><td>1</td></tr>
+<tr><td>clay</td><td>ORG</td><td>1</td></tr>
+<tr><td>avenues,--north</td><td>LOC</td><td>1</td></tr>
+<tr><td>blue sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>aye, sir--(aside</td><td>GPE</td><td>1</td></tr>
+<tr><td>barbecue</td><td>GPE</td><td>1</td></tr>
+<tr><td>beget ye</td><td>PERSON</td><td>1</td></tr>
+<tr><td>bell</td><td>ORG</td><td>1</td></tr>
+<tr><td>bell-boy</td><td>ORG</td><td>1</td></tr>
+<tr><td>berg</td><td>PERSON</td><td>1</td></tr>
+<tr><td>blazes</td><td>GPE</td><td>1</td></tr>
+<tr><td>bob</td><td>PERSON</td><td>1</td></tr>
+<tr><td>cheese</td><td>ORG</td><td>1</td></tr>
+<tr><td>both!--it</td><td>ORG</td><td>1</td></tr>
+<tr><td>brooks</td><td>ORG</td><td>1</td></tr>
+<tr><td>bush</td><td>PERSON</td><td>1</td></tr>
+<tr><td>canoe</td><td>GPE</td><td>1</td></tr>
+<tr><td>carpenter</td><td>PERSON</td><td>1</td></tr>
+<tr><td>carry dung</td><td>PERSON</td><td>1</td></tr>
+<tr><td>chamois</td><td>GPE</td><td>1</td></tr>
+<tr><td>white sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>white hoods of ghent</td><td>ORG</td><td>1</td></tr>
+<tr><td>white dog</td><td>ORG</td><td>1</td></tr>
+<tr><td>tis my mary</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou knowest</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou sea-mark</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou seem''st</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thou should''st go mad</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thrasher</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thy hand!--met</td><td>PERSON</td><td>1</td></tr>
+<tr><td>timor</td><td>GPE</td><td>1</td></tr>
+<tr><td>tisbury</td><td>GPE</td><td>1</td></tr>
+<tr><td>thou canst</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tistig</td><td>GPE</td><td>1</td></tr>
+<tr><td>titanic</td><td>GPE</td><td>1</td></tr>
+<tr><td>tolland county</td><td>GPE</td><td>1</td></tr>
+<tr><td>tolland county</td><td>GPE</td><td>1</td></tr>
+<tr><td>tomahawk</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tongatabooarrs</td><td>GPE</td><td>1</td></tr>
+<tr><td>trades</td><td>LOC</td><td>1</td></tr>
+<tr><td>thou know''st</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thorkill-hake''s</td><td>GPE</td><td>1</td></tr>
+<tr><td>whirlpooles</td><td>GPE</td><td>1</td></tr>
+<tr><td>texel</td><td>ORG</td><td>1</td></tr>
+<tr><td>table-rock</td><td>GPE</td><td>1</td></tr>
+<tr><td>tall-spout</td><td>PERSON</td><td>1</td></tr>
+<tr><td>talus</td><td>ORG</td><td>1</td></tr>
+<tr><td>tamerlane</td><td>ORG</td><td>1</td></tr>
+<tr><td>tanaquil</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tekel upharsin</td><td>ORG</td><td>1</td></tr>
+<tr><td>tennessee</td><td>GPE</td><td>1</td></tr>
+<tr><td>texel & leyden</td><td>ORG</td><td>1</td></tr>
+<tr><td>thomas browne</td><td>PERSON</td><td>1</td></tr>
+<tr><td>the indian sea</td><td>LOC</td><td>1</td></tr>
+<tr><td>the spermacetti whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>the whaleman''s adventures</td><td>ORG</td><td>1</td></tr>
+<tr><td>the white whale''s</td><td>ORG</td><td>1</td></tr>
+<tr><td>thee</td><td>PERSON</td><td>1</td></tr>
+<tr><td>thermes</td><td>ORG</td><td>1</td></tr>
+<tr><td>tho</td><td>PERSON</td><td>1</td></tr>
+<tr><td>traitors</td><td>ORG</td><td>1</td></tr>
+<tr><td>tranque</td><td>GPE</td><td>1</td></tr>
+<tr><td>trinity</td><td>ORG</td><td>1</td></tr>
+<tr><td>watery</td><td>ORG</td><td>1</td></tr>
+<tr><td>volcano bay</td><td>LOC</td><td>1</td></tr>
+<tr><td>von troil''s</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wal</td><td>ORG</td><td>1</td></tr>
+<tr><td>walter canny</td><td>ORG</td><td>1</td></tr>
+<tr><td>whale</td><td>ORG</td><td>1</td></tr>
+<tr><td>whl</td><td>ORG</td><td>1</td></tr>
+<tr><td>wales</td><td>ORG</td><td>1</td></tr>
+<tr><td>watts</td><td>LOC</td><td>1</td></tr>
+<tr><td>tropics</td><td>ORG</td><td>1</td></tr>
+<tr><td>webster</td><td>PERSON</td><td>1</td></tr>
+<tr><td>wellington</td><td>GPE</td><td>1</td></tr>
+<tr><td>west coast</td><td>LOC</td><td>1</td></tr>
+<tr><td>west indian</td><td>LOC</td><td>1</td></tr>
+<tr><td>whaleman''s chapel</td><td>ORG</td><td>1</td></tr>
+<tr><td>wherein</td><td>PERSON</td><td>1</td></tr>
+<tr><td>whereupon stubb</td><td>PERSON</td><td>1</td></tr>
+<tr><td>vidocq</td><td>GPE</td><td>1</td></tr>
+<tr><td>versailles</td><td>GPE</td><td>1</td></tr>
+<tr><td>vermont</td><td>GPE</td><td>1</td></tr>
+<tr><td>vendome</td><td>GPE</td><td>1</td></tr>
+<tr><td>trumpa</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tuileries</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tun</td><td>PERSON</td><td>1</td></tr>
+<tr><td>tun of heidelburgh</td><td>GPE</td><td>1</td></tr>
+<tr><td>turkey</td><td>GPE</td><td>1</td></tr>
+<tr><td>turkish muezzin</td><td>ORG</td><td>1</td></tr>
+<tr><td>u.s.</td><td>GPE</td><td>1</td></tr>
+<tr><td>unicorn</td><td>ORG</td><td>1</td></tr>
+<tr><td>unicornism</td><td>ORG</td><td>1</td></tr>
+<tr><td>unshored</td><td>PERSON</td><td>1</td></tr>
+<tr><td>untried</td><td>ORG</td><td>1</td></tr>
+<tr><td>v. e.</td><td>PERSON</td><td>1</td></tr>
+<tr><td>v. the razor back whale</td><td>PERSON</td><td>1</td></tr>
+<tr><td>vi</td><td>GPE</td><td>1</td></tr>
+<tr><td>valparaiso</td><td>GPE</td><td>1</td></tr>
+<tr><td>--eckermann</td><td>ORG</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

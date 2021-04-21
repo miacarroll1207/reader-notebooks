@@ -1,0 +1,39 @@
+id	sid	eid	entity	type
+chapter-031	2	1	Some days	DATE
+chapter-031	2	2	Pequod	PERSON
+chapter-031	2	3	Quito	GPE
+chapter-031	3	1	Persian	NORP
+chapter-031	4	1	Earls	LOC
+chapter-031	5	1	between such winsome days	DATE
+chapter-031	7	1	hours	TIME
+chapter-031	8	1	Ahab	ORG
+chapter-031	11	1	Ahab	ORG
+chapter-031	13	1	twenty-four hours	TIME
+chapter-031	14	1	six inches	QUANTITY
+chapter-031	15	1	Stubb	PERSON
+chapter-031	15	2	second	ORDINAL
+chapter-031	15	3	Captain Ahab	PERSON
+chapter-031	18	1	Stubb	PERSON
+chapter-031	18	2	Ahab	PERSON
+chapter-031	20	1	ye	ORG
+chapter-031	20	2	ye	ORG
+chapter-031	21	1	Stubb	PERSON
+chapter-031	21	2	less than half	CARDINAL
+chapter-031	24	1	Stubb	PERSON
+chapter-031	25	1	ten	CARDINAL
+chapter-031	26	1	Ahab	ORG
+chapter-031	26	2	Stubb	PERSON
+chapter-031	27	1	Stubb	PERSON
+chapter-031	29	1	Stubb	PERSON
+chapter-031	29	2	that?--down	ORG
+chapter-031	30	1	first	ORDINAL
+chapter-031	31	1	Stubb	PERSON
+chapter-031	35	1	more than three hours	TIME
+chapter-031	35	2	the twenty-four	ORDINAL
+chapter-031	36	1	Dough-Boy	ORG
+chapter-031	40	1	every night	TIME
+chapter-031	40	2	Dough	GPE
+chapter-031	45	1	first	ORDINAL
+chapter-031	51	1	blazes	GPE
+chapter-031	52	1	ten	CARDINAL
+chapter-031	61	1	day	DATE

@@ -1,0 +1,213 @@
+id	sid	eid	entity	type
+chapter-018	1	1	CHAPTER XVI	ORG
+chapter-018	2	1	morrow	DATE
+chapter-018	3	1	Queequeg	PERSON
+chapter-018	3	2	Yojo	PERSON
+chapter-018	3	3	Yojo	PERSON
+chapter-018	3	4	two or three	CARDINAL
+chapter-018	3	5	Yojo	PERSON
+chapter-018	3	6	Yojo	PERSON
+chapter-018	3	7	Ishmael	GPE
+chapter-018	3	8	Queequeg	PERSON
+chapter-018	4	1	Queequeg	PERSON
+chapter-018	4	2	Yojo	PERSON
+chapter-018	4	3	Yojo	PERSON
+chapter-018	5	1	Queequeg	PERSON
+chapter-018	5	2	Yojo	PERSON
+chapter-018	6	1	Queequeg	PERSON
+chapter-018	7	1	Queequeg	PERSON
+chapter-018	8	1	Next morning	TIME
+chapter-018	8	2	Queequeg	PERSON
+chapter-018	8	3	Yojo	PERSON
+chapter-018	8	4	Lent or Ramadan	NORP
+chapter-018	8	5	Queequeg	PERSON
+chapter-018	8	6	Yojo	PERSON
+chapter-018	8	7	that day	DATE
+chapter-018	8	8	Queequeg	PERSON
+chapter-018	8	9	Yojo	PERSON
+chapter-018	9	1	three	CARDINAL
+chapter-018	9	2	three-years'	DATE
+chapter-018	9	3	Pequod	PERSON
+chapter-018	10	1	Devil-Dam	PERSON
+chapter-018	10	2	Pequod	PERSON
+chapter-018	10	3	Massachusetts	GPE
+chapter-018	10	4	Indians	NORP
+chapter-018	10	5	Medes	PERSON
+chapter-018	11	1	the Devil-Dam	FAC
+chapter-018	12	1	day	DATE
+chapter-018	12	2	Japanese	NORP
+chapter-018	12	3	Pequod	PERSON
+chapter-018	14	1	four	CARDINAL
+chapter-018	14	2	French	NORP
+chapter-018	14	3	Egypt	GPE
+chapter-018	14	4	Siberia	LOC
+chapter-018	16	1	Japan	GPE
+chapter-018	16	2	three	CARDINAL
+chapter-018	16	3	Cologne	GPE
+chapter-018	17	1	Canterbury Cathedral	ORG
+chapter-018	17	2	Beckett	PERSON
+chapter-018	18	1	more than half a century	CARDINAL
+chapter-018	19	1	many years	DATE
+chapter-018	19	2	one	CARDINAL
+chapter-018	19	3	Thorkill-Hake's	GPE
+chapter-018	20	1	Ethiopian	NORP
+chapter-018	23	1	hempen thews	PERSON
+chapter-018	25	1	one	CARDINAL
+chapter-018	26	1	Tartar	ORG
+chapter-018	29	1	some one	CARDINAL
+chapter-018	31	1	some ten feet	QUANTITY
+chapter-018	32	1	Pottowotamie Sachem's	PERSON
+chapter-018	34	1	half	CARDINAL
+chapter-018	34	2	noon	TIME
+chapter-018	36	1	Quaker	ORG
+chapter-018	44	1	Nantucketer	ORG
+chapter-018	50	1	leg?--I'll	GPE
+chapter-018	54	1	eh?--it	ORG
+chapter-018	54	2	thou gettest	PERSON
+chapter-018	56	1	Quakerish Nantucketer	PERSON
+chapter-018	56	2	Vineyard	LOC
+chapter-018	58	1	shipping ye	PERSON
+chapter-018	63	1	Captain Ahab	PERSON
+chapter-018	64	1	Aye	PERSON
+chapter-018	65	1	Ahab	PERSON
+chapter-018	67	1	Captain	ORG
+chapter-018	69	1	Bildad	PERSON
+chapter-018	69	2	Pequod	PERSON
+chapter-018	71	1	thou tellest ye	PERSON
+chapter-018	72	1	Captain Ahab	WORK_OF_ART
+chapter-018	72	2	only one	CARDINAL
+chapter-018	80	1	four	CARDINAL
+chapter-018	91	1	ye	PERSON
+chapter-018	93	1	ye	PERSON
+chapter-018	99	1	ye	PERSON
+chapter-018	102	1	ye wish	PERSON
+chapter-018	102	2	Cape Horn	LOC
+chapter-018	104	1	Pequod	PERSON
+chapter-018	106	1	thou mayest	PERSON
+chapter-018	106	2	ye	GPE
+chapter-018	109	1	Bildad	PERSON
+chapter-018	109	2	two	CARDINAL
+chapter-018	111	1	Bildad	PERSON
+chapter-018	111	2	Nantucketers	NORP
+chapter-018	111	3	Quaker	GPE
+chapter-018	111	4	Quaker	ORG
+chapter-018	112	1	Quakers	NORP
+chapter-018	114	1	Quaker	ORG
+chapter-018	114	2	a thousand	CARDINAL
+chapter-018	114	3	Scandinavian	NORP
+chapter-018	114	4	Pagan Roman	PERSON
+chapter-018	115	1	many long night	TIME
+chapter-018	116	1	half	CARDINAL
+chapter-018	119	1	Quaker	ORG
+chapter-018	120	1	Bildad	PERSON
+chapter-018	121	1	Bildad	PERSON
+chapter-018	121	2	Nantucket Quakerism	ORG
+chapter-018	121	3	Horn	LOC
+chapter-018	121	4	Quaker	ORG
+chapter-018	121	5	one	CARDINAL
+chapter-018	122	1	Bildad	PERSON
+chapter-018	123	1	Atlantic	LOC
+chapter-018	123	2	Pacific	LOC
+chapter-018	123	3	leviathan gore	PERSON
+chapter-018	124	1	the contemplative evening	TIME
+chapter-018	124	2	Bildad	PERSON
+chapter-018	124	3	one	CARDINAL
+chapter-018	126	1	Bildad	PERSON
+chapter-018	126	2	sixty	CARDINAL
+chapter-018	126	3	days	DATE
+chapter-018	127	1	Bildad	PERSON
+chapter-018	128	1	Nantucket	GPE
+chapter-018	128	2	Categut	ORG
+chapter-018	129	1	Quaker	ORG
+chapter-018	131	1	Bildad	PERSON
+chapter-018	136	1	Bildad	PERSON
+chapter-018	138	1	Bildad	PERSON
+chapter-018	139	1	the last thirty years	DATE
+chapter-018	140	1	Bildad	PERSON
+chapter-018	141	1	Bildad	PERSON
+chapter-018	142	1	Bildad	PERSON
+chapter-018	144	1	Bildad	PERSON
+chapter-018	145	1	Quaker	ORG
+chapter-018	146	1	Bildad	WORK_OF_ART
+chapter-018	148	1	Bildad	PERSON
+chapter-018	149	1	Quaker	PERSON
+chapter-018	154	1	275th	NORP
+chapter-018	154	2	275th	NORP
+chapter-018	155	1	275th	NORP
+chapter-018	155	2	my three years'	DATE
+chapter-018	155	3	one	CARDINAL
+chapter-018	157	1	one	CARDINAL
+chapter-018	158	1	275th	NORP
+chapter-018	158	2	200th	ORDINAL
+chapter-018	159	1	one	CARDINAL
+chapter-018	159	2	Bildad	PERSON
+chapter-018	159	3	Pequod	PERSON
+chapter-018	159	4	two	CARDINAL
+chapter-018	160	1	Bildad	PERSON
+chapter-018	160	2	Pequod	PERSON
+chapter-018	160	3	Bible	WORK_OF_ART
+chapter-018	161	1	Bildad	PERSON
+chapter-018	161	2	Bildad	PERSON
+chapter-018	161	3	moth--	CARDINAL
+chapter-018	161	4	Well, Captain Bildad	WORK_OF_ART
+chapter-018	162	1	the seven hundred and seventy-seventh	DATE
+chapter-018	162	2	Lay	ORG
+chapter-018	163	1	the seven hundred and seventy-seventh	DATE
+chapter-018	164	1	Bildad	PERSON
+chapter-018	165	1	first	ORDINAL
+chapter-018	165	2	seven hundred and seventy-seven	CARDINAL
+chapter-018	165	3	teenth	QUANTITY
+chapter-018	165	4	the seven hundred and seventy-seventh	DATE
+chapter-018	165	5	seven hundred and seventy-seven	QUANTITY
+chapter-018	166	1	Bildad	PERSON
+chapter-018	168	1	Seven hundred and seventy-seventh	QUANTITY
+chapter-018	168	2	Bildad	PERSON
+chapter-018	169	1	three	CARDINAL
+chapter-018	169	2	ye	PERSON
+chapter-018	169	3	Bildad	PERSON
+chapter-018	170	1	three	CARDINAL
+chapter-018	170	2	hundredth	CARDINAL
+chapter-018	171	1	Captain Peleg	WORK_OF_ART
+chapter-018	172	1	The seven hundred and seventy-seventh lay	DATE
+chapter-018	175	1	Bildad	PERSON
+chapter-018	175	2	Cape Horn	LOC
+chapter-018	176	1	Bildad	PERSON
+chapter-018	176	2	ten inches	QUANTITY
+chapter-018	176	3	ten	QUANTITY
+chapter-018	183	1	ye canting	PERSON
+chapter-018	183	2	ye	PERSON
+chapter-018	184	1	Bildad	GPE
+chapter-018	184	2	Bildad	PERSON
+chapter-018	185	1	two	CARDINAL
+chapter-018	185	2	half	CARDINAL
+chapter-018	185	3	Bildad	GPE
+chapter-018	193	1	ye	GPE
+chapter-018	193	2	Bildad	GPE
+chapter-018	194	1	Ishmael	GPE
+chapter-018	195	1	Ishmael	GPE
+chapter-018	195	2	three	CARDINAL
+chapter-018	195	3	hundredth	CARDINAL
+chapter-018	196	1	morrow	DATE
+chapter-018	200	1	Bildad	GPE
+chapter-018	202	1	Bildad	PERSON
+chapter-018	207	1	a good morning's	TIME
+chapter-018	207	2	Pequod	PERSON
+chapter-018	207	3	Yojo	PERSON
+chapter-018	207	4	Queequeg	PERSON
+chapter-018	207	5	Cape	PERSON
+chapter-018	218	1	Captain Ahab	PERSON
+chapter-018	220	1	Captain Ahab	PERSON
+chapter-018	221	1	Mark ye	PERSON
+chapter-018	221	2	Ahab	ORG
+chapter-018	221	3	Ahab	ORG
+chapter-018	223	1	aye	ORG
+chapter-018	225	1	Bildad	PERSON
+chapter-018	233	1	Tistig	GPE
+chapter-018	233	2	Gayhead	ORG
+chapter-018	237	1	mate years ago	DATE
+chapter-018	237	2	Bildad	LOC
+chapter-018	238	1	Aye	ORG
+chapter-018	242	1	three	CARDINAL
+chapter-018	244	1	Ahab	ORG
+chapter-018	245	1	Captain Ahab	WORK_OF_ART
+chapter-018	249	1	Ahab	ORG

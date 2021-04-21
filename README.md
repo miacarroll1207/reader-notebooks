@@ -32,7 +32,7 @@ With the advent of the Internet people feel as if they are "drinking from a fire
 What are "study carrels"?
 -------------------------
 
-Study carrels are the names given to the outputs of the Distant Reader process. They are structured data sets lending themselves to analysis ("reading") by people or computers. 
+Study carrels are the names given to the outputs of the Distant Reader. They are structured data sets lending themselves to analysis ("reading") by people or computers. 
 
 Given an almost arbitrary amount of unstructured data (think "text") as input, the Distant Reader outputs a set of structured data -- a study carrel. 
 

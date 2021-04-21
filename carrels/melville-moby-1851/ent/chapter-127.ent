@@ -1,0 +1,59 @@
+id	sid	eid	entity	type
+chapter-127	2	1	LOG	ORG
+chapter-127	2	2	Pequod	PERSON
+chapter-127	3	1	every hour	TIME
+chapter-127	4	1	Pequod	PERSON
+chapter-127	7	1	Ahab	ORG
+chapter-127	11	1	Two	CARDINAL
+chapter-127	12	1	Tahitian	ORG
+chapter-127	12	2	Manxman	PERSON
+chapter-127	15	1	Manxman	PERSON
+chapter-127	15	2	Ahab	ORG
+chapter-127	16	1	some thirty	CARDINAL
+chapter-127	16	2	Manxman	PERSON
+chapter-127	20	1	Thou seem'st	PERSON
+chapter-127	26	1	Queen Nature's	PERSON
+chapter-127	32	1	the Isle of Man	GPE
+chapter-127	34	1	Man	PERSON
+chapter-127	34	2	Man	PERSON
+chapter-127	44	1	one	CARDINAL
+chapter-127	47	1	Tahitian	ORG
+chapter-127	47	2	Manxman	PERSON
+chapter-127	51	1	Tahitian	NORP
+chapter-127	53	1	Pip	PERSON
+chapter-127	54	1	Pip	PERSON
+chapter-127	55	1	Pip	PERSON
+chapter-127	56	1	ye Pip	PERSON
+chapter-127	57	1	Pip	PERSON
+chapter-127	58	1	Pip	PERSON
+chapter-127	59	1	ye	PERSON
+chapter-127	59	2	fisherman	PERSON
+chapter-127	61	1	Tahiti	ORG
+chapter-127	70	1	Pip	PERSON
+chapter-127	71	1	Manxman	PERSON
+chapter-127	73	1	Ahab	ORG
+chapter-127	75	1	Pip	PERSON
+chapter-127	77	1	Lo	PERSON
+chapter-127	83	1	Bell-boy	ORG
+chapter-127	83	2	ding	PERSON
+chapter-127	83	3	dong	PERSON
+chapter-127	83	4	ding	PERSON
+chapter-127	87	1	One hundred pounds	QUANTITY
+chapter-127	87	2	Pip	PERSON
+chapter-127	87	3	five feet	QUANTITY
+chapter-127	88	1	Ding	PERSON
+chapter-127	88	2	dong	PERSON
+chapter-127	88	3	ding	PERSON
+chapter-127	89	1	Pip	PERSON
+chapter-127	91	1	ye frozen heavens	PERSON
+chapter-127	94	1	Ahab	ORG
+chapter-127	94	2	Pip	PERSON
+chapter-127	98	1	Ahab	ORG
+chapter-127	99	1	Pip	PERSON
+chapter-127	101	1	Perth	GPE
+chapter-127	101	2	two	CARDINAL
+chapter-127	105	1	ye believers	PERSON
+chapter-127	109	1	two	CARDINAL
+chapter-127	109	2	Manxman	PERSON
+chapter-127	110	1	One	CARDINAL
+chapter-127	114	1	Stubb	PERSON

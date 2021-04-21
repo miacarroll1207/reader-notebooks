@@ -1,0 +1,37 @@
+id	sid	eid	entity	type
+chapter-126	1	1	CHAPTER CXXIV	ORG
+chapter-126	2	1	Next morning	TIME
+chapter-126	2	2	Pequod	PERSON
+chapter-126	4	1	the full morning light	TIME
+chapter-126	5	1	Babylonian	NORP
+chapter-126	9	1	thou mightest	PERSON
+chapter-126	18	1	Heading East	WORK_OF_ART
+chapter-126	18	2	this hour in the morning	TIME
+chapter-126	19	1	Ahab	ORG
+chapter-126	20	1	half	CARDINAL
+chapter-126	20	2	one	CARDINAL
+chapter-126	22	1	two	CARDINAL
+chapter-126	22	2	East	LOC
+chapter-126	22	3	Pequod	PERSON
+chapter-126	22	4	West	LOC
+chapter-126	23	1	first	ORDINAL
+chapter-126	25	1	Starbuck	PERSON
+chapter-126	25	2	last night's	TIME
+chapter-126	27	1	Aye	PERSON
+chapter-126	28	1	more than one	CARDINAL
+chapter-126	33	1	Pequod	PERSON
+chapter-126	34	1	Starbuck	ORG
+chapter-126	34	2	Stubb	PERSON
+chapter-126	36	1	Ahab	ORG
+chapter-126	38	1	the day	DATE
+chapter-126	39	1	sun	ORG
+chapter-126	40	1	yesterday	DATE
+chapter-126	43	1	Starbuck	PERSON
+chapter-126	47	1	Ahab	ORG
+chapter-126	47	2	one	CARDINAL
+chapter-126	52	1	two	CARDINAL
+chapter-126	53	1	first	ORDINAL
+chapter-126	53	2	Ahab	PERSON
+chapter-126	53	3	exclaimed,--"Look ye	PERSON
+chapter-126	54	1	East	LOC
+chapter-126	55	1	One	CARDINAL

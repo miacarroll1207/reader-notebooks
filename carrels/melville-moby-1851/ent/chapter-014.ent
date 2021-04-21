@@ -1,0 +1,35 @@
+id	sid	eid	entity	type
+chapter-014	1	1	CHAPTER XII	ORG
+chapter-014	2	1	BIOGRAPHICAL Queequeg	PERSON
+chapter-014	2	2	Kokovoko	PERSON
+chapter-014	2	3	West	LOC
+chapter-014	2	4	South	LOC
+chapter-014	4	1	Queequeg	PERSON
+chapter-014	4	2	Christendom	GPE
+chapter-014	4	3	two	CARDINAL
+chapter-014	7	1	Sag Harbor	ORG
+chapter-014	7	2	Queequeg	PERSON
+chapter-014	7	3	Christian	NORP
+chapter-014	9	1	Queequeg	PERSON
+chapter-014	11	1	one	CARDINAL
+chapter-014	12	1	one	CARDINAL
+chapter-014	12	2	canoe	GPE
+chapter-014	13	1	Queequeg	PERSON
+chapter-014	13	2	Queequeg	PERSON
+chapter-014	14	1	Christendom	ORG
+chapter-014	15	1	Wales	ORG
+chapter-014	17	1	Czar Peter	PERSON
+chapter-014	17	2	Queequeg	PERSON
+chapter-014	18	1	Christians	NORP
+chapter-014	20	1	Christians	NORP
+chapter-014	21	1	Sag Harbor	FAC
+chapter-014	21	2	Nantucket	GPE
+chapter-014	21	3	Queequeg	PERSON
+chapter-014	23	1	Christians	NORP
+chapter-014	26	1	Christianity	ORG
+chapter-014	26	2	Christians	NORP
+chapter-014	26	3	Kings	PERSON
+chapter-014	28	1	four	CARDINAL
+chapter-014	32	1	Nantucket	GPE
+chapter-014	34	1	Queequeg	PERSON
+chapter-014	35	1	Queequeg	PERSON

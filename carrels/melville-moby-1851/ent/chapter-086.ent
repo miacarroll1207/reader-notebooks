@@ -1,0 +1,24 @@
+id	sid	eid	entity	type
+chapter-086	1	1	CHAPTER LXXXIV	ORG
+chapter-086	4	1	one morning	TIME
+chapter-086	4	2	German	NORP
+chapter-086	4	3	Jungfrau	GPE
+chapter-086	7	1	noon	TIME
+chapter-086	7	2	Cleopatra	ORG
+chapter-086	7	3	Actium	GPE
+chapter-086	8	1	Stubb	ORG
+chapter-086	9	1	Tashtego	PERSON
+chapter-086	9	2	one	CARDINAL
+chapter-086	17	1	some ten or twelve feet	QUANTITY
+chapter-086	20	1	first	ORDINAL
+chapter-086	21	1	Stubb	PERSON
+chapter-086	22	1	forty feet	QUANTITY
+chapter-086	24	1	the butt-end	DATE
+chapter-086	24	2	fifteen feet	QUANTITY
+chapter-086	30	1	Tis July's	DATE
+chapter-086	30	2	Fourth	ORDINAL
+chapter-086	31	1	Orleans	PERSON
+chapter-086	31	2	Ohio	GPE
+chapter-086	31	3	Monongahela	GPE
+chapter-086	32	1	Tashtego	PERSON
+chapter-086	33	1	Yea	PERSON

@@ -1,0 +1,66 @@
+id	sid	eid	entity	type
+chapter-058	2	1	Pliny, Purchas	GPE
+chapter-058	2	2	Hackluyt	NORP
+chapter-058	2	3	Harris	PERSON
+chapter-058	2	4	Cuvier	GPE
+chapter-058	3	1	only four	CARDINAL
+chapter-058	3	2	Sperm Whale	PERSON
+chapter-058	3	3	Colnett's	ORG
+chapter-058	3	4	Huggins's	ORG
+chapter-058	3	5	Frederick Cuvier's	PERSON
+chapter-058	3	6	Beale's	ORG
+chapter-058	4	1	Colnett	PERSON
+chapter-058	5	1	Beale's	ORG
+chapter-058	6	1	three	CARDINAL
+chapter-058	6	2	second	ORDINAL
+chapter-058	7	1	Sperm Whales	PERSON
+chapter-058	8	1	Sperm Whale	ORG
+chapter-058	8	2	J. Ross Browne	PERSON
+chapter-058	10	1	Scoresby	PERSON
+chapter-058	11	1	one	CARDINAL
+chapter-058	12	1	two	CARDINAL
+chapter-058	12	2	French	NORP
+chapter-058	12	3	one	CARDINAL
+chapter-058	12	4	Garnery	ORG
+chapter-058	13	1	Sperm	PERSON
+chapter-058	13	2	Right Whale	PERSON
+chapter-058	14	1	first	ORDINAL
+chapter-058	14	2	Sperm Whale	PERSON
+chapter-058	15	1	one	CARDINAL
+chapter-058	15	2	half	CARDINAL
+chapter-058	17	1	half	CARDINAL
+chapter-058	17	2	bob	PERSON
+chapter-058	19	1	second	ORDINAL
+chapter-058	19	2	Right Whale	PERSON
+chapter-058	19	3	Patagonian	NORP
+chapter-058	22	1	tons	QUANTITY
+chapter-058	26	1	French	NORP
+chapter-058	27	1	Europe	LOC
+chapter-058	27	2	Versailles	GPE
+chapter-058	27	3	France	GPE
+chapter-058	27	4	the Northern Lights	ORG
+chapter-058	28	1	Garnery	ORG
+chapter-058	29	1	French	NORP
+chapter-058	30	1	England	GPE
+chapter-058	30	2	thousandth	CARDINAL
+chapter-058	30	3	Americans	NORP
+chapter-058	31	1	English	NORP
+chapter-058	31	2	American	NORP
+chapter-058	32	1	Scoresby	PERSON
+chapter-058	32	2	Greenland	PERSON
+chapter-058	32	3	three or four	CARDINAL
+chapter-058	32	4	Leuwenhoeck	LOC
+chapter-058	32	5	ninety-six	QUANTITY
+chapter-058	32	6	Arctic	LOC
+chapter-058	33	1	Greenland Justice of the Peace	ORG
+chapter-058	34	1	Garnery	ORG
+chapter-058	34	2	two	CARDINAL
+chapter-058	34	3	French	NORP
+chapter-058	36	1	One	CARDINAL
+chapter-058	37	1	noon	TIME
+chapter-058	37	2	Pacific	LOC
+chapter-058	37	3	French	NORP
+chapter-058	39	1	Leviathanic	ORG
+chapter-058	39	2	Right Whale	ORG
+chapter-058	40	1	three	CARDINAL
+chapter-058	40	2	half	CARDINAL

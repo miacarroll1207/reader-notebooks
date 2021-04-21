@@ -1,0 +1,129 @@
+id	sid	eid	entity	type
+chapter-050	2	1	FIRST	ORDINAL
+chapter-050	3	1	the starboard quarter	DATE
+chapter-050	4	1	one	CARDINAL
+chapter-050	5	1	Chinese	NORP
+chapter-050	7	1	Manillas;--a	GPE
+chapter-050	8	1	Fedallah	PERSON
+chapter-050	9	1	half	CARDINAL
+chapter-050	13	1	three	CARDINAL
+chapter-050	14	1	fourth	ORDINAL
+chapter-050	14	2	five	CARDINAL
+chapter-050	14	3	Starbuck, Stubb	PERSON
+chapter-050	15	1	Fedallah	PERSON
+chapter-050	16	1	Captain Ahab	WORK_OF_ART
+chapter-050	17	1	--said Starbuck	PERSON
+chapter-050	18	1	four	CARDINAL
+chapter-050	19	1	Thou	PERSON
+chapter-050	20	1	Aye	PERSON
+chapter-050	20	2	King-Post	ORG
+chapter-050	29	1	ye	PERSON
+chapter-050	29	2	Cabaco	PERSON
+chapter-050	37	1	only five	CARDINAL
+chapter-050	39	1	a thousand pounds	MONEY
+chapter-050	41	1	Three	CARDINAL
+chapter-050	49	1	ye ragamuffin rapscallions	FAC
+chapter-050	49	2	ye	PERSON
+chapter-050	50	1	ye sleepers	ORG
+chapter-050	57	1	ye draw	PERSON
+chapter-050	62	1	Stubb	PERSON
+chapter-050	67	1	Stubb	PERSON
+chapter-050	68	1	Stubb	ORG
+chapter-050	68	2	a minute	TIME
+chapter-050	68	3	two	CARDINAL
+chapter-050	68	4	Stubb	PERSON
+chapter-050	69	1	Starbuck	PERSON
+chapter-050	71	1	ye	ORG
+chapter-050	71	2	ye	PERSON
+chapter-050	73	1	returned Starbuck	PERSON
+chapter-050	73	2	a single inch	QUANTITY
+chapter-050	73	3	Stubb's	ORG
+chapter-050	74	1	ye	PERSON
+chapter-050	77	1	Stubb	PERSON
+chapter-050	79	1	Stubb	PERSON
+chapter-050	82	1	Stubb	PERSON
+chapter-050	84	1	Sperm	ORG
+chapter-050	84	2	sperm	PERSON
+chapter-050	86	1	Aye	PERSON
+chapter-050	87	1	Aye	ORG
+chapter-050	87	2	Dough	NORP
+chapter-050	89	1	The White Whale's	ORG
+chapter-050	94	1	the White Whale	ORG
+chapter-050	97	1	Stubb	ORG
+chapter-050	97	2	Ahab	ORG
+chapter-050	98	1	Pequod	PERSON
+chapter-050	98	2	Elijah	PRODUCT
+chapter-050	100	1	five	CARDINAL
+chapter-050	100	2	Mississippi	GPE
+chapter-050	101	1	Fedallah	PERSON
+chapter-050	101	2	Ahab	PERSON
+chapter-050	101	3	half	CARDINAL
+chapter-050	101	4	a thousand	CARDINAL
+chapter-050	101	5	the White Whale	ORG
+chapter-050	102	1	five	CARDINAL
+chapter-050	104	1	three	CARDINAL
+chapter-050	105	1	Ahab	ORG
+chapter-050	108	1	Thou	PERSON
+chapter-050	108	2	Queequeg	PERSON
+chapter-050	109	1	Nimbly	ORG
+chapter-050	111	1	some two feet	QUANTITY
+chapter-050	114	1	King-Post	ORG
+chapter-050	114	2	King-Post	ORG
+chapter-050	114	3	King-Post	ORG
+chapter-050	115	1	three	CARDINAL
+chapter-050	116	1	Daggoo	PERSON
+chapter-050	119	1	fifty feet	QUANTITY
+chapter-050	120	1	Whereupon	ORG
+chapter-050	120	2	two	CARDINAL
+chapter-050	120	3	Flask	GPE
+chapter-050	120	4	Flask	PERSON
+chapter-050	120	5	one	CARDINAL
+chapter-050	121	1	Daggoo	PERSON
+chapter-050	124	1	Daggoo	ORG
+chapter-050	128	1	earth	LOC
+chapter-050	128	2	earth	LOC
+chapter-050	129	1	Stubb	PERSON
+chapter-050	129	2	third	ORDINAL
+chapter-050	130	1	one	CARDINAL
+chapter-050	130	2	fright	CARDINAL
+chapter-050	130	3	Stubb	PERSON
+chapter-050	132	1	Tashtego	PERSON
+chapter-050	132	2	two	CARDINAL
+chapter-050	137	1	four	CARDINAL
+chapter-050	139	1	Starbuck	PERSON
+chapter-050	139	2	two	CARDINAL
+chapter-050	139	3	two	CARDINAL
+chapter-050	141	1	one	CARDINAL
+chapter-050	145	1	Martha	PERSON
+chapter-050	145	2	Vineyard	ORG
+chapter-050	151	1	Stubb	PERSON
+chapter-050	151	2	Flask	PERSON
+chapter-050	155	1	know;--merry	PERSON
+chapter-050	160	1	two	CARDINAL
+chapter-050	162	1	Ahab	ORG
+chapter-050	163	1	tornado brow	PERSON
+chapter-050	165	1	some one	CARDINAL
+chapter-050	165	2	two	CARDINAL
+chapter-050	168	1	eight	CARDINAL
+chapter-050	168	2	two	CARDINAL
+chapter-050	168	3	headlong	PERSON
+chapter-050	169	1	first	ORDINAL
+chapter-050	169	2	first	ORDINAL
+chapter-050	169	3	first	ORDINAL
+chapter-050	172	1	three	CARDINAL
+chapter-050	173	1	lee	PERSON
+chapter-050	175	1	Starbuck	PERSON
+chapter-050	178	1	two	CARDINAL
+chapter-050	178	2	Starbuck	ORG
+chapter-050	179	1	Queequeg	PERSON
+chapter-050	179	2	harpoon	ORG
+chapter-050	180	1	fifty	CARDINAL
+chapter-050	184	1	Starbuck	PERSON
+chapter-050	185	1	Queequeg	PERSON
+chapter-050	186	1	one	CARDINAL
+chapter-050	187	1	half	CARDINAL
+chapter-050	194	1	night	TIME
+chapter-050	197	1	keg	ORG
+chapter-050	197	2	Starbuck	PERSON
+chapter-050	197	3	Queequeg	PERSON
+chapter-050	202	1	Queequeg	PERSON

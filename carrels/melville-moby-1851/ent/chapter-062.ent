@@ -1,0 +1,42 @@
+id	sid	eid	entity	type
+chapter-062	1	1	CHAPTER LX	ORG
+chapter-062	4	1	late years	DATE
+chapter-062	4	2	Manilla	PERSON
+chapter-062	4	3	American	NORP
+chapter-062	5	1	Hemp	PERSON
+chapter-062	5	2	Indian	NORP
+chapter-062	5	3	Manilla	PERSON
+chapter-062	5	4	Circassian	NORP
+chapter-062	6	1	only two thirds	CARDINAL
+chapter-062	6	2	an inch	QUANTITY
+chapter-062	7	1	first	ORDINAL
+chapter-062	8	1	one and fifty	CARDINAL
+chapter-062	8	2	one hundred and twenty pounds	QUANTITY
+chapter-062	8	3	three tons	QUANTITY
+chapter-062	9	1	over two hundred	CARDINAL
+chapter-062	10	1	one	CARDINAL
+chapter-062	12	1	an entire morning	TIME
+chapter-062	13	1	English	LANGUAGE
+chapter-062	13	2	two	CARDINAL
+chapter-062	13	3	one	CARDINAL
+chapter-062	14	1	American	NORP
+chapter-062	14	2	nearly three feet	QUANTITY
+chapter-062	14	3	one half-inch	QUANTITY
+chapter-062	15	1	American	NORP
+chapter-062	17	1	two	CARDINAL
+chapter-062	18	1	First	ORDINAL
+chapter-062	19	1	one	CARDINAL
+chapter-062	19	2	first	ORDINAL
+chapter-062	20	1	Second	ORDINAL
+chapter-062	20	2	smoking minute	TIME
+chapter-062	22	1	some ten or twenty	CARDINAL
+chapter-062	24	1	Indian	NORP
+chapter-062	25	1	first	ORDINAL
+chapter-062	27	1	half-inch	QUANTITY
+chapter-062	27	2	six	CARDINAL
+chapter-062	27	3	Calais	GPE
+chapter-062	27	4	Edward	PERSON
+chapter-062	27	5	six	CARDINAL
+chapter-062	30	1	one	CARDINAL
+chapter-062	30	2	Mazeppa	ORG
+chapter-062	35	1	one	CARDINAL

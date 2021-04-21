@@ -1,0 +1,41 @@
+id	sid	eid	entity	type
+chapter-081	2	1	Leviathan	GPE
+chapter-081	2	2	Physiognomist	NORP
+chapter-081	2	3	Phrenologist	NORP
+chapter-081	3	1	the Rock of Gibraltar	GPE
+chapter-081	3	2	Gall	ORG
+chapter-081	3	3	the Dome of the Pantheon	WORK_OF_ART
+chapter-081	5	1	Gall	ORG
+chapter-081	5	2	Spurzheim	PERSON
+chapter-081	6	1	two	CARDINAL
+chapter-081	8	1	Sperm Whale	PERSON
+chapter-081	12	1	Phidias	ORG
+chapter-081	13	1	Leviathan	PERSON
+chapter-081	18	1	Sperm	PERSON
+chapter-081	20	1	the morning	TIME
+chapter-081	23	1	German	NORP
+chapter-081	24	1	this day	DATE
+chapter-081	26	1	Shakespeare	PERSON
+chapter-081	26	2	Melancthon	PERSON
+chapter-081	26	3	Highland	FAC
+chapter-081	27	1	Sperm Whale	PERSON
+chapter-081	27	2	Deity	ORG
+chapter-081	28	1	one	CARDINAL
+chapter-081	30	1	Lavater	ORG
+chapter-081	32	1	Sperm	PERSON
+chapter-081	33	1	Sperm Whale	PERSON
+chapter-081	36	1	Sperm Whale	PERSON
+chapter-081	36	2	Orient World	ORG
+chapter-081	37	1	Nile	LOC
+chapter-081	37	2	Sperm Whale	PERSON
+chapter-081	38	1	May-day	DATE
+chapter-081	38	2	Jove	PERSON
+chapter-081	38	3	Sperm Whale	PERSON
+chapter-081	40	1	Champollion	ORG
+chapter-081	40	2	Egypt	GPE
+chapter-081	42	1	William Jones	PERSON
+chapter-081	42	2	thirty	CARDINAL
+chapter-081	42	3	Ishmael	GPE
+chapter-081	42	4	Chaldee	PERSON
+chapter-081	42	5	Sperm	PERSON
+chapter-081	42	6	Whale	PERSON

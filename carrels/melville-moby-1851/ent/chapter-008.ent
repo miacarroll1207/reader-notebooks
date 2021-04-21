@@ -1,0 +1,55 @@
+id	sid	eid	entity	type
+chapter-008	1	1	CHAPTER VI	ORG
+chapter-008	2	1	first	ORDINAL
+chapter-008	2	2	Queequeg	PERSON
+chapter-008	2	3	first	ORDINAL
+chapter-008	2	4	New Bedford	GPE
+chapter-008	4	1	Broadway	FAC
+chapter-008	4	2	Chestnut	GPE
+chapter-008	4	3	Mediterranean	LOC
+chapter-008	5	1	Lascars	LOC
+chapter-008	5	2	Malays	PRODUCT
+chapter-008	5	3	Bombay	GPE
+chapter-008	5	4	the Apollo Green	FAC
+chapter-008	5	5	Yankees	ORG
+chapter-008	6	1	New Bedford	GPE
+chapter-008	6	2	Wapping	GPE
+chapter-008	7	1	New Bedford	GPE
+chapter-008	9	1	Feegeeans	NORP
+chapter-008	9	2	Tongatabooarrs	GPE
+chapter-008	9	3	Erromanggoans	NORP
+chapter-008	9	4	Pannangians	NORP
+chapter-008	9	5	Brighggians	NORP
+chapter-008	10	1	weekly	DATE
+chapter-008	10	2	New Hampshire	GPE
+chapter-008	12	1	Green Mountains	LOC
+chapter-008	13	1	a few hours old	TIME
+chapter-008	18	1	dandy	ORG
+chapter-008	18	2	the dog-days	DATE
+chapter-008	18	3	two acres	QUANTITY
+chapter-008	22	1	first	ORDINAL
+chapter-008	25	1	New Bedford	GPE
+chapter-008	26	1	this day	DATE
+chapter-008	26	2	Labrador	GPE
+chapter-008	28	1	all New England	LOC
+chapter-008	29	1	Canaan	PERSON
+chapter-008	31	1	America	GPE
+chapter-008	31	2	New Bedford	GPE
+chapter-008	35	1	Atlantic	LOC
+chapter-008	35	2	Pacific	LOC
+chapter-008	35	3	Indian	NORP
+chapter-008	36	1	One	CARDINAL
+chapter-008	37	1	Can Herr Alexander	PERSON
+chapter-008	38	1	New Bedford	GPE
+chapter-008	39	1	New Bedford	GPE
+chapter-008	40	1	summer	DATE
+chapter-008	41	1	August	DATE
+chapter-008	42	1	New Bedford	GPE
+chapter-008	42	2	final day	DATE
+chapter-008	43	1	New Bedford	GPE
+chapter-008	44	1	summer	DATE
+chapter-008	44	2	seventh	ORDINAL
+chapter-008	45	1	Salem	GPE
+chapter-008	45	2	miles	QUANTITY
+chapter-008	45	3	Moluccas	LOC
+chapter-008	45	4	Puritanic	NORP

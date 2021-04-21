@@ -1,0 +1,50 @@
+id	sid	eid	entity	type
+chapter-016	1	1	CHAPTER XIV	ORG
+chapter-016	2	1	Nantucket	GPE
+chapter-016	7	1	twenty years	DATE
+chapter-016	8	1	Canada	GPE
+chapter-016	8	2	Nantucket	GPE
+chapter-016	8	3	Rome	GPE
+chapter-016	8	4	summer	DATE
+chapter-016	8	5	one	CARDINAL
+chapter-016	8	6	three	CARDINAL
+chapter-016	8	7	day	DATE
+chapter-016	8	8	Laplander	ORG
+chapter-016	9	1	Nantucket	GPE
+chapter-016	9	2	Illinois	GPE
+chapter-016	12	1	New England	LOC
+chapter-016	12	2	Indian	NORP
+chapter-016	15	1	Indian	NORP
+chapter-016	16	1	Nantucketers	WORK_OF_ART
+chapter-016	17	1	first	ORDINAL
+chapter-016	17	2	mackerel	PERSON
+chapter-016	17	3	Behring's Straits	ORG
+chapter-016	17	4	all seasons	DATE
+chapter-016	18	1	Himmalehan	PERSON
+chapter-016	18	2	Mastodon	GPE
+chapter-016	19	1	Nantucketers	WORK_OF_ART
+chapter-016	19	2	Alexanders	PRODUCT
+chapter-016	19	3	Atlantic	LOC
+chapter-016	19	4	Pacific	LOC
+chapter-016	19	5	Indian	NORP
+chapter-016	19	6	three	CARDINAL
+chapter-016	19	7	Poland	GPE
+chapter-016	20	1	America	GPE
+chapter-016	20	2	Mexico	GPE
+chapter-016	20	3	Texas	GPE
+chapter-016	20	4	Cuba	GPE
+chapter-016	20	5	Canada	GPE
+chapter-016	20	6	English	NORP
+chapter-016	20	7	India	GPE
+chapter-016	20	8	two thirds	CARDINAL
+chapter-016	20	9	Nantucketer	ORG
+chapter-016	23	1	Nantucketer	ORG
+chapter-016	23	2	Bible	WORK_OF_ART
+chapter-016	24	1	Noah	PERSON
+chapter-016	24	2	millions	CARDINAL
+chapter-016	24	3	China	GPE
+chapter-016	25	1	chamois	GPE
+chapter-016	25	2	Alps	LOC
+chapter-016	26	1	years	DATE
+chapter-016	26	2	Earthsman	PRODUCT
+chapter-016	27	1	Nantucketer	ORG

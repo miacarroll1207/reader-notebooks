@@ -1,0 +1,51 @@
+id	sid	eid	entity	type
+chapter-087	2	1	six thousand years	DATE
+chapter-087	2	2	many millions	CARDINAL
+chapter-087	2	3	some centuries	DATE
+chapter-087	2	4	thousands	CARDINAL
+chapter-087	2	5	fifteen and a	DATE
+chapter-087	2	6	one o'clock P.M. of this sixteenth day	TIME
+chapter-087	2	7	A.D. 1851	DATE
+chapter-087	4	1	a century	DATE
+chapter-087	7	1	Sperm Whale's	PERSON
+chapter-087	7	2	at least eight feet	QUANTITY
+chapter-087	10	1	one	CARDINAL
+chapter-087	12	1	full hour	TIME
+chapter-087	14	1	Cretan labyrinth	ORG
+chapter-087	15	1	an hour	TIME
+chapter-087	15	2	a thousand	CARDINAL
+chapter-087	15	3	four	CARDINAL
+chapter-087	18	1	Sperm Whale	PERSON
+chapter-087	19	1	eleven minutes	TIME
+chapter-087	19	2	seventy	CARDINAL
+chapter-087	19	3	seventy	CARDINAL
+chapter-087	19	4	seventy	CARDINAL
+chapter-087	21	1	seventy	CARDINAL
+chapter-087	22	1	Remark	ORG
+chapter-087	25	1	a thousand	CARDINAL
+chapter-087	27	1	one	CARDINAL
+chapter-087	27	2	two or three	CARDINAL
+chapter-087	28	1	Sperm	PERSON
+chapter-087	28	2	about one	CARDINAL
+chapter-087	28	3	Sunday	DATE
+chapter-087	29	1	two	CARDINAL
+chapter-087	31	1	Sperm	PERSON
+chapter-087	33	1	Cologne	PERSON
+chapter-087	34	1	Erie Canal	FAC
+chapter-087	39	1	several feet	QUANTITY
+chapter-087	39	2	one	CARDINAL
+chapter-087	40	1	Sperm	PERSON
+chapter-087	43	1	Sperm	PERSON
+chapter-087	43	2	Whale	PERSON
+chapter-087	53	1	the mid-day sea	DATE
+chapter-087	64	1	Sperm	PERSON
+chapter-087	64	2	Whale	PERSON
+chapter-087	66	1	Plato	ORG
+chapter-087	66	2	Pyrrho	NORP
+chapter-087	66	3	Devil	GPE
+chapter-087	66	4	Jupiter	LOC
+chapter-087	68	1	six	CARDINAL
+chapter-087	68	2	August	DATE
+chapter-087	68	3	noon	TIME
+chapter-087	69	1	misty monster	PERSON
+chapter-087	69	2	mild head overhung	PERSON

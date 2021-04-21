@@ -1,0 +1,22 @@
+id	sid	eid	entity	type
+chapter-051	7	1	Pequod	PERSON
+chapter-051	7	2	White Whale	ORG
+chapter-051	8	1	Queequeg	PERSON
+chapter-051	8	2	Queequeg	PERSON
+chapter-051	10	1	Stubb	PERSON
+chapter-051	10	2	Stubb	PERSON
+chapter-051	10	3	Starbuck	PERSON
+chapter-051	13	1	Cape Horn	LOC
+chapter-051	14	1	Flask	PERSON
+chapter-051	14	2	little King-Post	ORG
+chapter-051	15	1	Flask	PERSON
+chapter-051	22	1	three	CARDINAL
+chapter-051	23	1	Starbuck	ORG
+chapter-051	23	2	Starbuck	PERSON
+chapter-051	23	3	Starbuck	PERSON
+chapter-051	23	4	the White Whale	ORG
+chapter-051	24	1	Queequeg	PERSON
+chapter-051	26	1	fourth	ORDINAL
+chapter-051	28	1	as good as the days	DATE
+chapter-051	28	2	Lazarus	PERSON
+chapter-051	28	3	so many months or weeks	DATE

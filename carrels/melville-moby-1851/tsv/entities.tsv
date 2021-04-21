@@ -1,0 +1,1743 @@
+entity	type	frequency
+queequeg	PERSON	235
+ahab	ORG	185
+stubb	PERSON	170
+pequod	PERSON	148
+starbuck	PERSON	125
+ye	PERSON	91
+moby dick	PERSON	73
+aye	PERSON	72
+leviathan	PERSON	64
+bildad	PERSON	63
+pip	PERSON	59
+sperm whale	PERSON	54
+sperm	PERSON	53
+the white whale	ORG	49
+tashtego	PERSON	49
+nantucket	GPE	49
+daggoo	ORG	33
+jonah	GPE	28
+greenland	PERSON	28
+pacific	LOC	25
+fedallah	ORG	25
+whale	PERSON	23
+parsee	LOC	23
+steelkilt	GPE	22
+radney	PERSON	22
+gabriel	PERSON	20
+earth	LOC	19
+perth	GPE	18
+new bedford	GPE	18
+lakeman	PERSON	18
+ishmael	GPE	18
+yojo	PERSON	17
+nantucketer	PERSON	17
+captain ahab	PERSON	17
+atlantic	LOC	16
+flask	PERSON	14
+cape horn	LOC	14
+captain	ORG	12
+bunger	PERSON	12
+manxman	PERSON	11
+hussey	PERSON	11
+fleece	PERSON	11
+england	GPE	11
+cook	PERSON	11
+white whale	ORG	10
+whales	PERSON	10
+roman	PERSON	10
+quaker	ORG	10
+japan	GPE	10
+derick	PERSON	10
+sperm whale''s	PERSON	9
+mapple	PERSON	9
+london	GPE	9
+lima	GPE	9
+i.	ORG	9
+the white whale''s	ORG	8
+solomon	PERSON	8
+polar	ORG	8
+octavo	ORG	8
+mediterranean	LOC	8
+joppa	PERSON	8
+guernsey	PERSON	8
+dough-boy	ORG	8
+china	GPE	8
+america	GPE	8
+africa	LOC	8
+lee	PERSON	7
+yarman	PERSON	7
+west	LOC	7
+typhoon	LOC	7
+scoresby	PERSON	7
+quohog	PERSON	7
+pagan	PERSON	7
+narwhale	PERSON	7
+king-post	ORG	7
+jeroboam	PERSON	7
+east	LOC	7
+don sebastian	PERSON	7
+andes	LOC	7
+cook	PERSON	6
+yea	PERSON	6
+vishnoo	GPE	6
+thou	PERSON	6
+tahiti	ORG	6
+sunda	ORG	6
+st. george	GPE	6
+sperm whales	PERSON	6
+noah	PERSON	6
+monsieur	ORG	6
+hercules	GPE	6
+cape	PERSON	6
+alabama	GPE	6
+adam	PERSON	6
+aye	ORG	5
+vineyard	ORG	5
+tash	PERSON	5
+tarshish	ORG	5
+sumatra	ORG	5
+spain	GPE	5
+south sea	LOC	5
+sleet	PERSON	5
+samuel enderby	PERSON	5
+rome	GPE	5
+rachel	PERSON	5
+perseus	PERSON	5
+new york	GPE	5
+new england	LOC	5
+nay	PERSON	5
+mogul	PERSON	5
+manilla	PERSON	5
+macey	PERSON	5
+linnus	GPE	5
+line	LOC	5
+jungfrau	GPE	5
+jove	PERSON	5
+java	ORG	5
+india	GPE	5
+hark ye	PERSON	5
+god	PERSON	5
+france	GPE	5
+duodecimo	PERSON	5
+don	PERSON	5
+asia	LOC	5
+ding	PERSON	4
+bulwarks	LOC	4
+virtue	PERSON	4
+virginia	GPE	4
+tranquo	PERSON	4
+tis	PERSON	4
+time	ORG	4
+starbuck and stubb	ORG	4
+sag-harbor	ORG	4
+prometheus	PERSON	4
+porpoise	ORG	4
+peru	GPE	4
+owen	PERSON	4
+nineveh	GPE	4
+new zealand	GPE	4
+nature	ORG	4
+mounttop	PERSON	4
+moss	PERSON	4
+martha	PERSON	4
+jupiter	LOC	4
+johnson	PERSON	4
+holland	GPE	4
+folio	ORG	4
+europe	LOC	4
+euroclydon	PERSON	4
+equator	ORG	4
+don pedro	PERSON	4
+cologne	PERSON	4
+christendom	GPE	4
+cetology	GPE	4
+carpenter	PERSON	4
+captain mayhew	PERSON	4
+burtons	ORG	4
+bulkington	GPE	4
+belshazzar	ORG	4
+bachelor	PERSON	4
+arctic	LOC	4
+andromeda	ORG	4
+sperm whale	PERSON	3
+joky	PERSON	3
+jesty	GPE	3
+hem	ORG	3
+gamy	GPE	3
+dong	PERSON	3
+yankees	ORG	3
+washington	GPE	3
+turk	PERSON	3
+tertiary	LOC	3
+tartar	ORG	3
+starbuck, stubb	PERSON	3
+st. peter''s	PERSON	3
+st. george''s	GPE	3
+spitzbergen	ORG	3
+sperm whaler	PERSON	3
+south	LOC	3
+snodhead	PERSON	3
+samuel	PERSON	3
+sailor	ORG	3
+right whale	PERSON	3
+pupella	GPE	3
+propontis	GPE	3
+procopius	ORG	3
+pollard	PERSON	3
+pliny	ORG	3
+pip	ORG	3
+ohio	GPE	3
+ocean	LOC	3
+north	LOC	3
+new guinea	GPE	3
+nelson	PERSON	3
+napoleon	ORG	3
+nantucketers	PERSON	3
+mexico	GPE	3
+mayhew	PERSON	3
+massachusetts	GPE	3
+manx sailor	PERSON	3
+low dutch	PERSON	3
+loose-fish	GPE	3
+lazarus	PERSON	3
+langsdorff	PERSON	3
+labrador	GPE	3
+kings	PERSON	3
+killer	PERSON	3
+job	GPE	3
+illinois	GPE	3
+iii	ORG	3
+hosea hussey	PERSON	3
+harris	PERSON	3
+grace	ORG	3
+gomorrah	GPE	3
+globe	ORG	3
+garnery	ORG	3
+fates	ORG	3
+fate	ORG	3
+french sailor	PERSON	3
+emir	PERSON	3
+elijah	ORG	3
+egypt	GPE	3
+deity	ORG	3
+cuvier	ORG	3
+crozetts	PERSON	3
+constantinople	ORG	3
+clifford	PERSON	3
+captains	ORG	3
+cadiz	PERSON	3
+chapter iv	ORG	3
+chapter ii	ORG	3
+buffalo	GPE	3
+bowditch	PERSON	3
+bennett	PERSON	3
+baltic	LOC	3
+azores	ORG	3
+aunt charity	ORG	3
+antarctic	GPE	3
+amsterdam	PERSON	3
+alps	LOC	3
+abraham	PERSON	3
+ye shall	PERSON	2
+ye harpooneers	PERSON	2
+ye queen''s	PERSON	2
+west	LOC	2
+us	GPE	2
+the united states	GPE	2
+the true whale	ORG	2
+the south seas	LOC	2
+the polar sea	LOC	2
+the persian gulf	LOC	2
+the pacific ocean	LOC	2
+the pacific ocean	LOC	2
+the indian ocean	LOC	2
+the indian ocean	LOC	2
+the cinque ports	ORG	2
+the black fish	LOC	2
+sun	ORG	2
+skirra	ORG	2
+rap	ORG	2
+oarsman	PERSON	2
+negro	ORG	2
+moon	PERSON	2
+moody ahab	PERSON	2
+maty	PERSON	2
+lirra	ORG	2
+i. e.	PERSON	2
+house	ORG	2
+helmsman	PERSON	2
+harpoon	ORG	2
+hark ye	PERSON	2
+east	GPE	2
+a''ready	PERSON	2
+xerxes	PERSON	2
+woebegone	ORG	2
+whereupon	ORG	2
+whalebone	ORG	2
+wapping	GPE	2
+whales	ORG	2
+virgin	GPE	2
+vineyarder	PERSON	2
+vesuvius	ORG	2
+venice	GPE	2
+vedas	LOC	2
+vancouver	GPE	2
+typhoons	ORG	2
+twins	PERSON	2
+truth	GPE	2
+tophet	ORG	2
+tom	PERSON	2
+thy	PERSON	2
+the white whale	ORG	2
+thames	GPE	2
+texas	GPE	2
+teneriffe	ORG	2
+temple	LOC	2
+tarquin	PERSON	2
+tahitian	ORG	2
+tashtego	ORG	2
+stubb and flask	ORG	2
+straightway	GPE	2
+steward	PERSON	2
+state	ORG	2
+st. paul	GPE	2
+squid	ORG	2
+spring	PERSON	2
+specksnyder	ORG	2
+sovereign	ORG	2
+south america	LOC	2
+siberia	LOC	2
+shaster	PERSON	2
+sea	PERSON	2
+savesoul	ORG	2
+sam	PERSON	2
+sal	PERSON	2
+sagittarius	PERSON	2
+sag harbor	ORG	2
+sicilian sailor	PERSON	2
+rose-bud	PERSON	2
+rokovoko	GPE	2
+right whale''s	PERSON	2
+rib	PERSON	2
+rattler	PERSON	2
+ram	GPE	2
+quito	GPE	2
+queen anne''s	PERSON	2
+quarto	PERSON	2
+quakeress	ORG	2
+providence	ORG	2
+povelson	PERSON	2
+poland	GPE	2
+plowdon	ORG	2
+plato	ORG	2
+pharaoh	PERSON	2
+peter coffin	PERSON	2
+peleg	PERSON	2
+paul	PERSON	2
+patagonia	GPE	2
+parliament	ORG	2
+paradise	PERSON	2
+pacific	LOC	2
+owen chace	PERSON	2
+oregon	GPE	2
+nile	PERSON	2
+niagara	ORG	2
+newfoundland	GPE	2
+new hampshire	GPE	2
+national	ORG	2
+nantucket beach	GPE	2
+moluccas	LOC	2
+moby dick''s	PERSON	2
+missouri	GPE	2
+mississippi	GPE	2
+mary	PERSON	2
+mark	PERSON	2
+man	PERSON	2
+mackinaw	LOC	2
+mate	ORG	2
+maltese sailor	PERSON	2
+lothario	PERSON	2
+long island	LOC	2
+libra	GPE	2
+leyden	GPE	2
+ledyard	PERSON	2
+lay	ORG	2
+lacpde	PERSON	2
+krusenstern	PERSON	2
+knights	ORG	2
+john leo	PERSON	2
+john hunter	PERSON	2
+jenny	PERSON	2
+java head	PERSON	2
+jaffa	PERSON	2
+j. ross browne	PERSON	2
+icelandic	ORG	2
+ii	ORG	2
+hurrah	PERSON	2
+hull	ORG	2
+hudson	LOC	2
+hosea	PERSON	2
+himmalehs	PERSON	2
+henry	PERSON	2
+heidelburgh tun	PERSON	2
+harvard	ORG	2
+harris coll	PERSON	2
+harpooneer	ORG	2
+guido	PERSON	2
+greeks	PERSON	2
+greece	GPE	2
+gor	ORG	2
+goney	PERSON	2
+gods	ORG	2
+glacier	GPE	2
+gemini	PERSON	2
+gay-head indian	ORG	2
+gardiner	PERSON	2
+gall	ORG	2
+friesland	GPE	2
+frederick cuvier''s	PERSON	2
+frederick cuvier	PERSON	2
+fossil whales	PERSON	2
+fejee	ORG	2
+forecastle	ORG	2
+evangelists	ORG	2
+esquimaux	PERSON	2
+erskine	PERSON	2
+equatorial	LOC	2
+englishman	ORG	2
+enderbys	ORG	2
+empire	GPE	2
+elephanta	GPE	2
+etymology	ORG	2
+dough-boy''s	PERSON	2
+doubloon	ORG	2
+ding	PERSON	2
+desmarest	LOC	2
+derick de deer	PERSON	2
+deacon deuteronomy	ORG	2
+davy jones	PERSON	2
+dardanelles	PERSON	2
+dan coopman	PERSON	2
+dan	PERSON	2
+daboll	PERSON	2
+duodecimo	PERSON	2
+d''wolf	PERSON	2
+czar	ORG	2
+cuba	GPE	2
+cretan labyrinth	ORG	2
+cooke	PERSON	2
+congo	GPE	2
+commodore	ORG	2
+columbus	GPE	2
+cleopatra	ORG	2
+chili	GPE	2
+charley coffin	PERSON	2
+charity	ORG	2
+chapel	ORG	2
+chaldee	ORG	2
+chace	ORG	2
+cetus	ORG	2
+captain scoresby	PERSON	2
+canada	GPE	2
+canaan	PERSON	2
+cabaco	PERSON	2
+chapter vi	ORG	2
+chapter lxii	ORG	2
+chapter iii	ORG	2
+bull	PERSON	2
+bremen	GPE	2
+brahma	PERSON	2
+boston	GPE	2
+boomer	PERSON	2
+bolivia	GPE	2
+blackstone	ORG	2
+black letter	ORG	2
+bishop	ORG	2
+bibles	GPE	2
+beelzebub	PERSON	2
+beale''s	ORG	2
+beale	PERSON	2
+bashee	GPE	2
+bashaw	GPE	2
+babel	ORG	2
+australia	GPE	2
+ark	PERSON	2
+aquarius	PERSON	2
+amelia	GPE	2
+albino	LOC	2
+albatross	PERSON	2
+azore sailor	PERSON	2
+zephyr	PERSON	1
+yea	ORG	1
+ye, sun	ORG	1
+ye young	PERSON	1
+ye wish	PERSON	1
+ye villains	PERSON	1
+ye three	ORG	1
+ye thence	GPE	1
+ye swerve	ORG	1
+ye sulkies	ORG	1
+ye strangers	ORG	1
+ye stand	GPE	1
+ye sons of bachelors	ORG	1
+ye snug	GPE	1
+ye sleepers	ORG	1
+ye ship-owners	PERSON	1
+ye revellers	PERSON	1
+ye prouder	ORG	1
+ye nobler	PERSON	1
+ye mean.--i am	PERSON	1
+ye mark	PERSON	1
+ye love brandy	PERSON	1
+ye landsmen	PERSON	1
+ye grim	PERSON	1
+ye frozen heavens	PERSON	1
+ye frighten	PERSON	1
+ye first	ORG	1
+ye draw	PERSON	1
+ye deaf	ORG	1
+ye cup	PERSON	1
+ye come	PERSON	1
+ye canting	PERSON	1
+ye believers	PERSON	1
+ye attack	PERSON	1
+ye pip	PERSON	1
+windward	GPE	1
+wind!--aloft	ORG	1
+will ye	PERSON	1
+wid de ''	PERSON	1
+white whale	ORG	1
+whew	ORG	1
+wheresoe''er	PERSON	1
+where''er i sail	PERSON	1
+whence	GPE	1
+whales	ORG	1
+whale	PERSON	1
+west coast	LOC	1
+weeps	PERSON	1
+wager)--aye	ORG	1
+valley lake	LOC	1
+untrodden	GPE	1
+unseen headland	PERSON	1
+"underneath--""the spouter-inn:--peter coffin"	LOC	1
+typhoon	LOC	1
+twine,--have	ORG	1
+tornado brow	PERSON	1
+time	ORG	1
+through.--it	ORG	1
+thou wert	PERSON	1
+thou tellest ye	PERSON	1
+thou tellest	PERSON	1
+thou reddenest	PERSON	1
+thou monkey	PERSON	1
+thou mightest	PERSON	1
+thou mayest	PERSON	1
+thou holdest	PERSON	1
+thou hast	PERSON	1
+thou grinning	PERSON	1
+thou glidest	PERSON	1
+thou gettest	PERSON	1
+thou famed leviathan	PERSON	1
+thou fadest	ORG	1
+thou crackest	PERSON	1
+thou could''st	PERSON	1
+thou chap	PERSON	1
+thou chilian	PERSON	1
+this?--green	GPE	1
+this:-- quohog	PERSON	1
+this moby dick	PERSON	1
+them,--though	PERSON	1
+the wintry ocean	LOC	1
+the van rensselaers	PERSON	1
+the summer sea	LOC	1
+the sharkish sea	LOC	1
+the mystic ocean	LOC	1
+the lee bow	PERSON	1
+the glassy ocean''s	LOC	1
+the gay bachelor	ORG	1
+the first congregational church	ORG	1
+the equatorial sun	ORG	1
+the black sea	LOC	1
+the white mountains of new hampshire	LOC	1
+the whale fisherman	ORG	1
+the vision of st. john	ORG	1
+the upper mississippi	ORG	1
+the tudors and bourbons	ORG	1
+the town-ho,[10	ORG	1
+the thames tunnel	ORG	1
+the straits of gibraltar	LOC	1
+the states of louisiana	GPE	1
+the spouter-inn	LOC	1
+the southern seas	LOC	1
+the south sea	LOC	1
+the society for the suppression of cruelty to ganders	ORG	1
+the shetland islands	GPE	1
+the scragg whale	ORG	1
+the rocky mountains	LOC	1
+the rock of gibraltar	GPE	1
+the right whale	PERSON	1
+the red men of america	ORG	1
+the polynesian isles	GPE	1
+the pine barrens	ORG	1
+the philippine islands	GPE	1
+the parsee ahab	LOC	1
+the pacific coast	LOC	1
+the octavo whale	ORG	1
+the northern seas	LOC	1
+the northern ocean	LOC	1
+the northern lights	ORG	1
+the north and south atlantic	LOC	1
+the national observatory	ORG	1
+the nantucket whale-fishery	ORG	1
+the milky way	LOC	1
+the mediterranean sea	LOC	1
+the matse avatar	ORG	1
+the main of america	LOC	1
+the lost icelandic colonies	ORG	1
+the london geological society	ORG	1
+the life insurance companies	ORG	1
+the levanter and simoom	ORG	1
+the leading whale	ORG	1
+the kingdom of cetology	GPE	1
+the king of the cannibals	PERSON	1
+the king and queen	ORG	1
+the javan sea	LOC	1
+the japanese coast	LOC	1
+the isle of man	GPE	1
+the isle of desolation	GPE	1
+the isle of albemarle	GPE	1
+the icy sea	LOC	1
+the hyena whale	ORG	1
+the humane and magnanimous societies	ORG	1
+the holy one	LOC	1
+the holy evangelists	ORG	1
+the holy bible	GPE	1
+the growlands walfish	PERSON	1
+the green mountains	LOC	1
+the great whale	ORG	1
+the grand turk''s	ORG	1
+the golden inn	LOC	1
+the globe mutiny	ORG	1
+the first congregational church	ORG	1
+the english whalemen	ORG	1
+the english house of commons	ORG	1
+the english anatomist	ORG	1
+the elephant whale	ORG	1
+the coppered whale	ORG	1
+the coffins of nantucket	ORG	1
+the carrol ground	ORG	1
+the cape of good hope	PERSON	1
+the cape de verdes	LOC	1
+the cape horn	LOC	1
+the cannon whale	PERSON	1
+the brazil banks	ORG	1
+the black whale	ORG	1
+the black sea	LOC	1
+the bengal bay	LOC	1
+the bays of new zealand	ORG	1
+the bay whalemen	LOC	1
+the bashee isles	PERSON	1
+the barbary coast	LOC	1
+the baling of the case	PERSON	1
+the baliene ordinaire	PERSON	1
+the author of miriam coffin	GPE	1
+the atlantic ocean	LOC	1
+the argo-navis	ORG	1
+the arctic ocean	LOC	1
+the american whale fleet	ORG	1
+the american canals	ORG	1
+the alleganian ridge	GPE	1
+the academy of sciences	ORG	1
+that?--down	ORG	1
+that,--within	PERSON	1
+t''other a''top	PERSON	1
+sunset sea	LOC	1
+split jibs	PERSON	1
+sperm whales	PERSON	1
+sperm whale''s	PERSON	1
+sperm whale bone	ORG	1
+sperm	PERSON	1
+speak!--aye	PERSON	1
+solemn swells	GPE	1
+sog	ORG	1
+skeleton	ORG	1
+"shouted--""no"	GPE	1
+shiver!--how	ORG	1
+shipping ye	PERSON	1
+ship,--which	ORG	1
+scene.--it	ORG	1
+sap	ORG	1
+sail ye	PERSON	1
+"said:--""ye''ve"	ORG	1
+"said--""did ye"	PERSON	1
+rich banners	PERSON	1
+returned starbuck	PERSON	1
+reg''lar	PERSON	1
+red gore	PERSON	1
+rear,--than	PERSON	1
+quote:-- sacred to the memory of john talbot	ORG	1
+pursuit,--mere	ORG	1
+prudential	ORG	1
+pour ye	PERSON	1
+portcullis jaw	PERSON	1
+picturesque	GPE	1
+perils,--ahab	ORG	1
+parvo	GPE	1
+paler cheeks	PERSON	1
+palace	ORG	1
+paid,--what	ORG	1
+overladen brooks	PERSON	1
+ober de roanoke	PERSON	1
+numbered:--i.	PERSON	1
+noon,--goes	ORG	1
+nomine patris	GPE	1
+ninetieth	PERSON	1
+nick-name	ORG	1
+natur wery	PERSON	1
+motley	PERSON	1
+more.--mr	ORG	1
+mongrel renegades	PERSON	1
+misty spray	PERSON	1
+misty monster	PERSON	1
+misty dawn	PERSON	1
+misanthropic woods	PERSON	1
+mine!--the parsee	GPE	1
+miller	PERSON	1
+miles,--ahead	ORG	1
+mild head overhung	PERSON	1
+merry	PERSON	1
+meritoque	PERSON	1
+meanest thou	PERSON	1
+meagre	PERSON	1
+me?--on	ORG	1
+maw	PERSON	1
+massa stubb	PERSON	1
+mark the unfaltering	PERSON	1
+mariner	PERSON	1
+manhood	LOC	1
+maine	GPE	1
+mackerel	PERSON	1
+lower,--quick	ORG	1
+lo	PERSON	1
+little king-post	ORG	1
+life,--in ye	PERSON	1
+leviathan gore	PERSON	1
+leviathan	GPE	1
+lengthen ahab''s	ORG	1
+lege natur	PERSON	1
+leg?--i''ll	GPE	1
+laudanum	GPE	1
+landsman	PERSON	1
+know;--merry	PERSON	1
+kindness	ORG	1
+keg	ORG	1
+keel.--on	ORG	1
+joy queequeg	PERSON	1
+jaw-ivory	PERSON	1
+jaw beneath	PERSON	1
+javelin islands	GPE	1
+japonicas	PERSON	1
+jack-knife	PERSON	1
+infancy	ORG	1
+ill begun	PERSON	1
+i. e. even	PERSON	1
+hypochondriac	ORG	1
+hvalt	ORG	1
+hval	ORG	1
+hoard ye	PERSON	1
+ho	PERSON	1
+"himself--""it"	ORG	1
+"him,--""captain bildad"	ORG	1
+him king-post	ORG	1
+hill?--crazed;--aloft	PERSON	1
+heron	ORG	1
+here,--three	ORG	1
+hempen thews	PERSON	1
+heath.--it	ORG	1
+headlong	PERSON	1
+he--''he	ORG	1
+harpooneer.--i sha	PERSON	1
+"hands--""aye"	PERSON	1
+hand!--down	ORG	1
+"hammock--""i"	ORG	1
+hail virgo	ORG	1
+grey manxman	PERSON	1
+gore	PERSON	1
+gor	ORG	1
+"gloom,--""hemp"	ORG	1
+girl?--there	PERSON	1
+ginger?--sea	PERSON	1
+gallop	ORG	1
+gale.--it	ORG	1
+fry ob sharks	PERSON	1
+forenoon	PERSON	1
+folio leviathans	ORG	1
+flagon	ORG	1
+fisherman	PERSON	1
+few:--the authors	ORG	1
+fed	ORG	1
+"extant--""it"	ORG	1
+"exclaimed,--""look ye"	PERSON	1
+exclaimed stubb	PERSON	1
+ex officio	PERSON	1
+encounters,--furrowed	ORG	1
+elements.--it	GPE	1
+eh?--it	ORG	1
+easy sail	PERSON	1
+don''t!--see	GPE	1
+dolphin borne	PERSON	1
+dodge	ORG	1
+do?--all	ORG	1
+distinct strata	PERSON	1
+devout eckerman	ORG	1
+destroyed city	GPE	1
+desperado arnold	PERSON	1
+deserts,--when	PERSON	1
+desert ye	PERSON	1
+de sea	LOC	1
+de god wat	PERSON	1
+de roanoke	PERSON	1
+dat dat woraciousness--''top dat dam slappin	PERSON	1
+dandy	ORG	1
+crown	ORG	1
+cried flask	ORG	1
+crape	LOC	1
+coopers	ORG	1
+cook,--though	ORG	1
+clay	ORG	1
+cheese	ORG	1
+chamois	GPE	1
+carry dung	PERSON	1
+carpenter	PERSON	1
+canoe	GPE	1
+bush	PERSON	1
+brooks	ORG	1
+both!--it	ORG	1
+bob	PERSON	1
+blue sea	LOC	1
+blazes	GPE	1
+berg	PERSON	1
+bell-boy	ORG	1
+bell	ORG	1
+beget ye	PERSON	1
+barbecue	GPE	1
+aye, sir--(aside	GPE	1
+avenues,--north	LOC	1
+arrah a row	PERSON	1
+aroma,--literally	ORG	1
+arid	ORG	1
+arctic	LOC	1
+archangel forthwith	PERSON	1
+angel	ORG	1
+ambergris	PERSON	1
+all new england	LOC	1
+air,--but	ORG	1
+ails ye	PERSON	1
+a whale boat	GPE	1
+a leviathanic museum	ORG	1
+a gothic knight of old	PERSON	1
+a commodore davis	PERSON	1
+zoroaster	PERSON	1
+zoology	GPE	1
+zogranda	GPE	1
+zodiac	PERSON	1
+zeuglodon	PERSON	1
+young	PERSON	1
+yorkshire	GPE	1
+yonder	ORG	1
+yellow sea	LOC	1
+ye	PERSON	1
+yale college	ORG	1
+yale	ORG	1
+wrinkled bellies	PERSON	1
+would''st	ORG	1
+wise stubb	PERSON	1
+wisdom	ORG	1
+winnebago	ORG	1
+windsor castle	PERSON	1
+windsor	GPE	1
+willoughby	PERSON	1
+william prynne	PERSON	1
+william jones	PERSON	1
+william comstock	PERSON	1
+whole atlantics and pacifics	ORG	1
+whitehall	PERSON	1
+white sea	LOC	1
+white hoods of ghent	ORG	1
+white dog	ORG	1
+whirlpooles	GPE	1
+whereupon stubb	PERSON	1
+wherein	PERSON	1
+whaleman''s chapel	ORG	1
+whale-bones	ORG	1
+west indian	LOC	1
+west coast	LOC	1
+wellington	GPE	1
+webster	PERSON	1
+watts	LOC	1
+watery	ORG	1
+wales	ORG	1
+whl	ORG	1
+whale	ORG	1
+walter canny	ORG	1
+wal	ORG	1
+von troil''s	PERSON	1
+volcano bay	LOC	1
+vidocq	GPE	1
+versailles	GPE	1
+vermont	GPE	1
+vendome	GPE	1
+valparaiso	GPE	1
+vi	GPE	1
+v. the razor back whale	PERSON	1
+v. e.	PERSON	1
+untried	ORG	1
+unshored	PERSON	1
+unicornism	ORG	1
+unicorn	ORG	1
+u.s.	GPE	1
+turkish muezzin	ORG	1
+turkey	GPE	1
+tun of heidelburgh	GPE	1
+tun	PERSON	1
+tuileries	PERSON	1
+trumpa	PERSON	1
+tropics	ORG	1
+trinity	ORG	1
+tranque	GPE	1
+traitors	ORG	1
+trades	LOC	1
+tongatabooarrs	GPE	1
+tomahawk	PERSON	1
+tolland county	GPE	1
+tolland county	GPE	1
+titanic	GPE	1
+tistig	GPE	1
+tisbury	GPE	1
+tis my mary	PERSON	1
+timor	GPE	1
+thy hand!--met	PERSON	1
+thrasher	PERSON	1
+thou should''st go mad	PERSON	1
+thou seem''st	PERSON	1
+thou sea-mark	PERSON	1
+thou knowest	PERSON	1
+thou know''st	PERSON	1
+thou canst	PERSON	1
+thorkill-hake''s	GPE	1
+thomas browne	PERSON	1
+tho	PERSON	1
+thermes	ORG	1
+thee	PERSON	1
+the white whale''s	ORG	1
+the whaleman''s adventures	ORG	1
+the spermacetti whale	ORG	1
+the indian sea	LOC	1
+texel & leyden	ORG	1
+texel	ORG	1
+tennessee	GPE	1
+tekel upharsin	ORG	1
+tanaquil	PERSON	1
+tamerlane	ORG	1
+talus	ORG	1
+tall-spout	PERSON	1
+table-rock	GPE	1
+the monstrous pictures of whales	ORG	1
+teeth	ORG	1
+t. cheever	ORG	1
+t. browne	PERSON	1
+system	ORG	1
+syren	ORG	1
+syracuse	GPE	1
+sydney	PERSON	1
+swallow	GPE	1
+susan	PERSON	1
+surgeon beale	PERSON	1
+superior	PERSON	1
+sumatra and	ORG	1
+sultan	PERSON	1
+sulphur bottom).--another	PERSON	1
+sulky	ORG	1
+sub-subs	ORG	1
+stubb''s	ORG	1
+stubb dressed	PERSON	1
+strello	ORG	1
+straits	LOC	1
+stoics	ORG	1
+stiggs	PERSON	1
+steelkilt charlemagne	PERSON	1
+starbuck to stubb	PERSON	1
+starbuck lowly murmured:--	PERSON	1
+starbuck is stubb	ORG	1
+starbuck grasped	PERSON	1
+starbuck drawing	PERSON	1
+st. vitus''	PERSON	1
+st. pott''s	PERSON	1
+st. john	PERSON	1
+st. jago	ORG	1
+st. helena	GPE	1
+spurzheim	PERSON	1
+spouter-inn	PERSON	1
+spinoza	PERSON	1
+sphynx	ORG	1
+spermacetti whales	PERSON	1
+spermaceti	PERSON	1
+sperma ceti whale	ORG	1
+sperma ceti	ORG	1
+sperma	GPE	1
+sperm whale-teeth	PERSON	1
+spencer	PERSON	1
+spaniard	PERSON	1
+southerner	ORG	1
+south-sea	LOC	1
+south sea	LOC	1
+south sea voyages	LOC	1
+sons	PERSON	1
+solander''s voyage to iceland	ORG	1
+sodom	ORG	1
+society for the suppression of meddling	ORG	1
+smut	PERSON	1
+smithfield	GPE	1
+smeerenberg	PERSON	1
+slave	PERSON	1
+sirs	GPE	1
+simeon macey	PERSON	1
+silly mansoul	PERSON	1
+sikoke	ORG	1
+sibbald	PERSON	1
+ship jeroboam;--why	PERSON	1
+shetland	GPE	1
+shem	ORG	1
+sheffield	PERSON	1
+sharks	ORG	1
+shark	PERSON	1
+shakespeare	PERSON	1
+shakers	ORG	1
+shadrach	PERSON	1
+seychelle	PERSON	1
+senor	PERSON	1
+seneca	ORG	1
+senators and judges	ORG	1
+semiramis	PERSON	1
+seeva	GPE	1
+scriptural	ORG	1
+scotland	GPE	1
+scotchcap	PERSON	1
+scotch sibbald	ORG	1
+scotch	ORG	1
+scorpion	ORG	1
+schmerenburgh	GPE	1
+saturn	PERSON	1
+saratoga	ORG	1
+santa?--heard	PERSON	1
+santa claus	GPE	1
+sandwich islands	GPE	1
+sandwich	GPE	1
+samuel comstock	PERSON	1
+samson	ORG	1
+sammy	PERSON	1
+salisbury plain	ORG	1
+salem	GPE	1
+saladin	PERSON	1
+saint stylites	GPE	1
+sahara	GPE	1
+saco	ORG	1
+symphony	ORG	1
+supper stubb''s	PERSON	1
+starbuck	ORG	1
+squires stubb	PERSON	1
+sphynx	ORG	1
+sperm	ORG	1
+sheet-iron	ORG	1
+seth macy	ORG	1
+samuel gleig	PERSON	1
+s. w. f. (sperm whale fishery	PERSON	1
+rousseau	PERSON	1
+rondeletius	PERSON	1
+rogers	PERSON	1
+rockaway beach	GPE	1
+river whale	ORG	1
+rinaldo rinaldini	PERSON	1
+richard iii	PERSON	1
+rhyme	PERSON	1
+rhodes	PERSON	1
+rhenish	GPE	1
+remark	ORG	1
+red sea	LOC	1
+reckon	ORG	1
+ray	PERSON	1
+raphael	PERSON	1
+randolphs	PERSON	1
+ramadan	PERSON	1
+raimond sebond	PERSON	1
+railroads	PERSON	1
+rad	PERSON	1
+rabelais	GPE	1
+rabbins	PERSON	1
+quoin	GPE	1
+quog whale	PERSON	1
+queequeg!--queequeg	ORG	1
+queen-pinmoney	PERSON	1
+queen nature''s	PERSON	1
+queen maachah	ORG	1
+queen bess	PERSON	1
+queen	PERSON	1
+quebec	GPE	1
+quakerish nantucketer	PERSON	1
+quito	ORG	1
+queequeg	GPE	1
+pythagoras	PERSON	1
+purchass	GPE	1
+ptolemy philopater	PERSON	1
+prynne	ORG	1
+prophet	PERSON	1
+profane	ORG	1
+prodromus	GPE	1
+priest	LOC	1
+presbyterian church	ORG	1
+pray	ORG	1
+prairies	ORG	1
+pottowotamie sachem''s	PERSON	1
+pottfisch	PERSON	1
+post-captain	ORG	1
+post	ORG	1
+porus	PERSON	1
+portugal	GPE	1
+pompey	PERSON	1
+polynesia	GPE	1
+pole	LOC	1
+polar seas	PERSON	1
+pliny, purchas	GPE	1
+platonist	PERSON	1
+pizarro	ORG	1
+pitferren	ORG	1
+pirohitee	ORG	1
+pippin	PERSON	1
+pine barrens	LOC	1
+pillar	LOC	1
+physeter	PERSON	1
+philistines	ORG	1
+phil	PERSON	1
+phidias	ORG	1
+phdon	ORG	1
+peter peterson	PERSON	1
+peter coffin''s	ORG	1
+peter	PERSON	1
+persia	GPE	1
+perchance ye	PERSON	1
+perchance	ORG	1
+people''s business	ORG	1
+pegu	PERSON	1
+pedro	PERSON	1
+patagonian cape	PERSON	1
+pascal	PERSON	1
+paris	GPE	1
+paracelsan	LOC	1
+pan	ORG	1
+pampas	PERSON	1
+pale sherry	PERSON	1
+pagan roman	PERSON	1
+pekee-nuee-nuee	ORG	1
+pehee-nuee-nuee	ORG	1
+orleans	PERSON	1
+orient world	ORG	1
+ontario	GPE	1
+ombay	GPE	1
+olmstead	PERSON	1
+olassen	GPE	1
+octher	PERSON	1
+ochotsh	ORG	1
+oceanica	GPE	1
+obed macy	ORG	1
+oahu	GPE	1
+octavoes	ORG	1
+octavo	ORG	1
+o don miguel	PERSON	1
+nostril	ORG	1
+northman	PERSON	1
+northern	LOC	1
+north-west	GPE	1
+nod	GPE	1
+noah webster''s	PERSON	1
+niphon	GPE	1
+nimbly	ORG	1
+niger	PERSON	1
+nick	PERSON	1
+nicholas the czar	PERSON	1
+newcastle	GPE	1
+new zealand tom	PERSON	1
+new york state	GPE	1
+new holland	GPE	1
+netherlands	GPE	1
+neskyeuna shakers	PERSON	1
+neskyeuna	PERSON	1
+nescio	ORG	1
+negro hill	LOC	1
+naturalist	ORG	1
+nathan swain	PERSON	1
+nat swaine	ORG	1
+nat	PERSON	1
+narcissus	GPE	1
+nantuckois	ORG	1
+nantucket quakerism	ORG	1
+nut	ORG	1
+nathan coleman	ORG	1
+mysticetus	ORG	1
+murray	GPE	1
+mungo park	PERSON	1
+mrs hussey	PERSON	1
+mr stubb	PERSON	1
+mother carey''s	PERSON	1
+mote	ORG	1
+mordecai	PERSON	1
+monsoons	ORG	1
+monongahela	GPE	1
+moby dick;--and	PERSON	1
+moby dick ye	PERSON	1
+moby dick bodily	PERSON	1
+miriam	PERSON	1
+miles	PERSON	1
+midwifery	ORG	1
+michigan	GPE	1
+michael	PERSON	1
+meshach	PERSON	1
+merry-mad	PERSON	1
+mendanna	PERSON	1
+melancthon	PERSON	1
+medes	PERSON	1
+mecca	GPE	1
+meantime pip''s	PERSON	1
+mazeppa	ORG	1
+matter	LOC	1
+matsmai	GPE	1
+mastodon	GPE	1
+massa stubb	PERSON	1
+massa shark	PERSON	1
+mary morrel	PERSON	1
+mary folger	PERSON	1
+martin frobisher	PERSON	1
+martin	PERSON	1
+marten	PERSON	1
+marmora	GPE	1
+mark ye	PERSON	1
+mark antony	PERSON	1
+marius	ORG	1
+marine insurance	ORG	1
+manx	PERSON	1
+manillas;--a	GPE	1
+manhattoes	ORG	1
+manhatto	PERSON	1
+manchester	LOC	1
+malacca	PERSON	1
+mahomet	LOC	1
+madame leviathan	PERSON	1
+macy	ORG	1
+midnight	ORG	1
+merry	ORG	1
+luff	ORG	1
+lucifer	ORG	1
+louis the devil	PERSON	1
+louis le gros	ORG	1
+louis xvi	PERSON	1
+louis philippe	PERSON	1
+louis blanc	PERSON	1
+lord;--vishnoo	PERSON	1
+lookee	GPE	1
+long-john	PERSON	1
+lombardy	GPE	1
+logan	PERSON	1
+locke	GPE	1
+lo	PERSON	1
+little flask	PERSON	1
+lionel wafer	PERSON	1
+lionel	ORG	1
+lion	PERSON	1
+lieutenant maury	PERSON	1
+lexicon	ORG	1
+leviathanic	ORG	1
+leuwenhoeck	LOC	1
+lesson	PERSON	1
+leo	GPE	1
+leap	PERSON	1
+lavater	ORG	1
+lascars	LOC	1
+laplander	ORG	1
+lapland	GPE	1
+lank bildad	PERSON	1
+lamatins	ORG	1
+lake erie	LOC	1
+lais	GPE	1
+labor	ORG	1
+london	GPE	1
+log	ORG	1
+krusensterns	GPE	1
+korah	PERSON	1
+koo	PERSON	1
+kokovoko	PERSON	1
+kit carson	PERSON	1
+king''s mills	ORG	1
+king tranquo''s	PERSON	1
+king porus''	ORG	1
+king juba	PERSON	1
+king alfred	GPE	1
+king ahab''s	PERSON	1
+killer).--of	PERSON	1
+khan	PERSON	1
+kedron	PERSON	1
+kant	GPE	1
+justinian	GPE	1
+justice	ORG	1
+julys	GPE	1
+judith	PERSON	1
+juan fernandes	PERSON	1
+joy	PERSON	1
+jordan	PERSON	1
+johnny	PERSON	1
+john the asiatic	PERSON	1
+john ferdinando	PERSON	1
+john bull	PERSON	1
+john	PERSON	1
+joe	PERSON	1
+jimmini	ORG	1
+jimimi	ORG	1
+jew	ORG	1
+jesus	PERSON	1
+jesu	ORG	1
+jeremy bentham''s	PERSON	1
+jeremy	GPE	1
+javan	GPE	1
+jack bunger	PERSON	1
+jack	PERSON	1
+italy	GPE	1
+isthmus	PERSON	1
+israelites	PERSON	1
+israel	GPE	1
+isolato	ORG	1
+islanders	PERSON	1
+island	LOC	1
+isaiah	GPE	1
+ireland	GPE	1
+ingin	ORG	1
+indies	ORG	1
+imprimis	ORG	1
+imperial electors	ORG	1
+ignorance	ORG	1
+ifs	ORG	1
+icy seas	PERSON	1
+iceland whales	PERSON	1
+iceland	GPE	1
+iceberg whale	PERSON	1
+iv.	GPE	1
+iceland sailor	PERSON	1
+i''ve---- faith	PERSON	1
+i am the fates''	PERSON	1
+hyena	PERSON	1
+hydrus	PERSON	1
+hydriote	ORG	1
+huzza porpoise	PERSON	1
+huron	PERSON	1
+hunter	PERSON	1
+humpback	PERSON	1
+hump	PERSON	1
+huggins''s	ORG	1
+hotel de cluny	ORG	1
+hosmannus	ORG	1
+horned	ORG	1
+horn	LOC	1
+horatii	ORG	1
+honorary grand harpooneer	PERSON	1
+holy state	GPE	1
+holofernes	ORG	1
+hollanders	ORG	1
+hogarth	ORG	1
+hobbes	GPE	1
+hittite	PERSON	1
+hist	ORG	1
+"his ""mene, mene"	PERSON	1
+hindostan	LOC	1
+himmalehan	PERSON	1
+herschel	GPE	1
+herod	PERSON	1
+herculaneum	GPE	1
+henry t. cheever	PERSON	1
+hemp	PERSON	1
+heidelburgh	GPE	1
+heed	ORG	1
+hebrews	ORG	1
+hartz	PERSON	1
+harto	ORG	1
+harry--(a	PERSON	1
+harry macey	PERSON	1
+harry	PERSON	1
+har	PERSON	1
+hannibal	ORG	1
+hang-ho	PERSON	1
+hampton court	ORG	1
+hallo	PERSON	1
+hail	ORG	1
+hadst	ORG	1
+hackluyt	PERSON	1
+hvalur	ORG	1
+hvalt	ORG	1
+gurry	ORG	1
+guinea	GPE	1
+grin	PERSON	1
+grenadier	ORG	1
+greenlanders	ORG	1
+greenland justice of the peace	ORG	1
+green mountains	LOC	1
+green	PERSON	1
+great washington	PERSON	1
+great jove	PERSON	1
+grammar	PERSON	1
+gothic	LOC	1
+gospel	ORG	1
+good hope	PERSON	1
+gondibert	PERSON	1
+golconda	PERSON	1
+"god""--advancing"	ORG	1
+goat	PERSON	1
+goa	PERSON	1
+ginger	PERSON	1
+gesner	PERSON	1
+ger	PERSON	1
+george washington	PERSON	1
+geneva	GPE	1
+genesis	PERSON	1
+gayhead	ORG	1
+gay-headers	ORG	1
+gay head	PERSON	1
+gay	PERSON	1
+ganges	PERSON	1
+gamming	ORG	1
+gallipagos	PERSON	1
+galleries	PERSON	1
+gam	ORG	1
+froissart	GPE	1
+frenchman	PERSON	1
+free-mason	ORG	1
+frankfort	ORG	1
+forthwith	PERSON	1
+formosa	GPE	1
+folio, octavo	ORG	1
+folgers	ORG	1
+fogo von slack	PERSON	1
+fishes	ORG	1
+fishery	ORG	1
+first congregational church	ORG	1
+fin-back).--under	PERSON	1
+fin-back	PERSON	1
+fin	ORG	1
+figuera	PERSON	1
+fegee	PERSON	1
+feegee	GPE	1
+fata morgana	PERSON	1
+fat-cutter	PERSON	1
+ezekiel	PERSON	1
+evangelist	ORG	1
+europa	LOC	1
+eternities	ORG	1
+essex	PERSON	1
+erie	PERSON	1
+english south-sea	LOC	1
+enderby & sons	ORG	1
+elephant	ORG	1
+elbe	ORG	1
+ehrenbreitstein	ORG	1
+edward	PERSON	1
+edmund burke	PERSON	1
+ecclesiastes	ORG	1
+ebony	PERSON	1
+eastern continents	ORG	1
+earls	LOC	1
+extracts	ORG	1
+dutch fishery	ORG	1
+duodecimoes	ORG	1
+dunkirk	LOC	1
+dunder	ORG	1
+dugongs	PERSON	1
+dover	GPE	1
+dough	GPE	1
+dorchester	GPE	1
+don sebastian''s	PERSON	1
+don miguel	PERSON	1
+dodge	ORG	1
+divine providence	PERSON	1
+divine	PERSON	1
+dismal swamp	PERSON	1
+discovery expedition	ORG	1
+dictionary	PERSON	1
+dick	PERSON	1
+devil-dam	PERSON	1
+devil	GPE	1
+dericks	ORG	1
+denderah	PERSON	1
+delight	ORG	1
+debell bennett''s	PERSON	1
+deacon deuteronomy''s	ORG	1
+deacon deuteronomy coleman''s	ORG	1
+de witt''s	GPE	1
+davis	PERSON	1
+darmonodes	PERSON	1
+darien	ORG	1
+dantean	LOC	1
+daniel webster''s	PERSON	1
+daniel boone	PERSON	1
+danes	GPE	1
+dampier	GPE	1
+damocles	PERSON	1
+damn ye	PERSON	1
+damn	PERSON	1
+dame isabella''s	PERSON	1
+dagon	GPE	1
+doubloon	ORG	1
+danish sailor	PERSON	1
+czar peter	PERSON	1
+csar	ORG	1
+crockett	PERSON	1
+creagh	PERSON	1
+cranmer	ORG	1
+cowper	PERSON	1
+cowley	PERSON	1
+count de lacpde	PERSON	1
+corlaer	ORG	1
+copenhagen	ORG	1
+constantine	ORG	1
+connecticut	GPE	1
+commonwealth	ORG	1
+colnett''s	ORG	1
+colnett	PERSON	1
+coleridge	ORG	1
+coke	ORG	1
+cognac	GPE	1
+coffins	PERSON	1
+coffin my innkeeper	ORG	1
+coffin	ORG	1
+cods	PERSON	1
+cockatoo point	PERSON	1
+clifford constable	PERSON	1
+cleveland	GPE	1
+civitas	PERSON	1
+cinque port	ORG	1
+christianity	ORG	1
+cholo	GPE	1
+childe harold	PERSON	1
+chief harpooneer	PERSON	1
+chestnut	GPE	1
+charlemagne	PERSON	1
+charing cross	PERSON	1
+champollion	ORG	1
+champagne	GPE	1
+ceylon	GPE	1
+cetacean history	PERSON	1
+cetacea	ORG	1
+cervantes	PERSON	1
+central europe	LOC	1
+cellini	PERSON	1
+cattegat	GPE	1
+cato	ORG	1
+catholic church	ORG	1
+categut	ORG	1
+castle	ORG	1
+captors	ORG	1
+captain noah	PERSON	1
+captain colnett	PERSON	1
+captain coffin	ORG	1
+captain butler	PERSON	1
+captain boomer	PERSON	1
+captain bildad	PERSON	1
+capricornus	ORG	1
+capes	GPE	1
+cape-town	GPE	1
+cape-horner	GPE	1
+cape-down	GPE	1
+cape cod	GPE	1
+cap''ain	PERSON	1
+canterbury cathedral	ORG	1
+canaris	PERSON	1
+can herr alexander	PERSON	1
+camel	ORG	1
+cambyses or csar	ORG	1
+callao	PERSON	1
+calais	GPE	1
+crew	ORG	1
+counterpane	ORG	1
+cistern	ORG	1
+china	GPE	1
+chapter xxxvii	ORG	1
+chapter xxxiv	ORG	1
+chapter xxv	ORG	1
+chapter xvi	ORG	1
+chapter xv	ORG	1
+chapter xiv	ORG	1
+chapter xii	ORG	1
+chapter xcix	PERSON	1
+chapter v. breakfast	PERSON	1
+chapter lxxxiv	ORG	1
+chapter lxxxi	ORG	1
+chapter lxxx	ORG	1
+chapter lxvii	ORG	1
+chapter lxvi	ORG	1
+chapter lxiv	ORG	1
+chapter lxiii	ORG	1
+chapter lx	ORG	1
+chapter li	ORG	1
+chapter l. ahab''s	PERSON	1
+chapter ix	ORG	1
+chapter cxxxiv	ORG	1
+chapter cxxxi	ORG	1
+chapter cxxx	ORG	1
+chapter cxxvii	ORG	1
+chapter cxxvi	ORG	1
+chapter cxxix	ORG	1
+chapter cxxiv	ORG	1
+chapter cxx	ORG	1
+chapter cxvi	ORG	1
+chapter cxiv	ORG	1
+chapter cxii	ORG	1
+chapter cxi	ORG	1
+chapter cx	ORG	1
+chapter cviii	ORG	1
+chapter cix	ORG	1
+chapter ci	ORG	1
+chapter c. leg	PERSON	1
+chapter c epilogue	ORG	1
+chapter b extracts	PERSON	1
+cetus	ORG	1
+cetology	ORG	1
+castaway	ORG	1
+carpenter	ORG	1
+cabin	ORG	1
+burton constable	ORG	1
+bunyan	PERSON	1
+bungle	ORG	1
+brother jonathan	PERSON	1
+britain	GPE	1
+brisson	PERSON	1
+brandreth	PERSON	1
+brahmins	ORG	1
+bracton	GPE	1
+bouton-de-roses	ORG	1
+bouton-de-rose-bud	ORG	1
+bouton-de-rose	ORG	1
+"bouton de rose,""--rose-button"	ORG	1
+bouton	ORG	1
+borneo	PERSON	1
+borean	PERSON	1
+bordeaux	GPE	1
+booble alley	ORG	1
+bonneterre	PERSON	1
+bone	ORG	1
+bonapartes	GPE	1
+bombay	GPE	1
+blue whale	ORG	1
+bloody	GPE	1
+blocksburg	ORG	1
+blanket bay	LOC	1
+blang-whang	PERSON	1
+blanco	GPE	1
+black parliament	ORG	1
+bishop pontoppodan	ORG	1
+bishop jebb''s	PERSON	1
+birmah	PERSON	1
+betty	PERSON	1
+bernard germain	PERSON	1
+bernard	PERSON	1
+benjamin franklin	PERSON	1
+benjamin	PERSON	1
+bengal	PERSON	1
+belubed	ORG	1
+belshazzar''s	ORG	1
+bell-boy	ORG	1
+bell	ORG	1
+belisarius	ORG	1
+believe ye	PERSON	1
+belial	ORG	1
+behring''s straits	ORG	1
+behring	ORG	1
+beckett	PERSON	1
+battery	LOC	1
+basilosaurus	PERSON	1
+bartholomew diaz	PERSON	1
+barbary	PERSON	1
+baltimore	GPE	1
+balne	ORG	1
+bally	ORG	1
+baden-baden	GPE	1
+books	ORG	1
+biographical queequeg	PERSON	1
+belfast	GPE	1
+aunt charity''s	ORG	1
+asiatics	LOC	1
+asiatic	LOC	1
+ashantee	ORG	1
+artedi	PERSON	1
+arkansas	GPE	1
+aristotle	PERSON	1
+arion	ORG	1
+arethusa	GPE	1
+archipelagoes	ORG	1
+archer	PERSON	1
+antwerp	GPE	1
+antiochus	PERSON	1
+antilles	PERSON	1
+annus mirabilis	ORG	1
+annawon	PERSON	1
+anglo-saxon	ORG	1
+angelo	PERSON	1
+angel of doom	ORG	1
+andrew jackson	PERSON	1
+anacharsis clootz	ORG	1
+amittai	ORG	1
+americas	LOC	1
+ambergriese	ORG	1
+algiers	GPE	1
+alfred the great	PERSON	1
+alexander the great	PERSON	1
+alexander	PERSON	1
+aldrovandi	PERSON	1
+albicore	ORG	1
+albert durer	PERSON	1
+aladdin	ORG	1
+ahabs	ORG	1
+ahab''s	ORG	1
+ahab!--shudder	PERSON	1
+"ahab answered--""aye"	ORG	1
+agassiz	GPE	1
+adieu	ORG	1
+actium	GPE	1
+achilles	PERSON	1
+abjectus	PERSON	1
+abednego	PERSON	1
+ahab	ORG	1
+affidavit	ORG	1
+affghanistan	GPE	1
+advocate	ORG	1
+a.s. walw-ian	PERSON	1
+a.d. 1828	PERSON	1
+1st nantucket sailor	PERSON	1
+--said starbuck	PERSON	1
+--wharton the whale killer	PERSON	1
+--whale song	PERSON	1
+--tooke	ORG	1
+--thomas jefferson''s	PERSON	1
+--the fairie queen.	PERSON	1
+--stowe''s annals	ORG	1
+--sir william davenant	PERSON	1
+--sir t. browne	PERSON	1
+--sibbald	PERSON	1
+--richard strafford''s	PERSON	1
+--paley''s theology	ORG	1
+--nantucket song	PERSON	1
+--n. e. primer.	PERSON	1
+--montgomery	ORG	1
+--missionary journal of tyerman	ORG	1
+--mcculloch	GPE	1
+--lord bacon''s	PERSON	1
+--john hunter''s	PERSON	1
+--fuller	ORG	1
+--elizabeth oakes smith.	PERSON	1
+--edmund burke''s	PERSON	1
+--edmund burke	PERSON	1
+--eckermann	ORG	1

@@ -1,0 +1,13 @@
+id	sid	eid	entity	type
+chapter-109	2	1	Saturn	PRODUCT
+chapter-109	4	1	Pequod	ORG
+chapter-109	6	1	Pequod	PERSON
+chapter-109	6	2	thousand	CARDINAL
+chapter-109	6	3	three or four years'	DATE
+chapter-109	8	1	one	CARDINAL
+chapter-109	21	1	midnight	TIME
+chapter-109	21	2	Noah	PERSON
+chapter-109	26	1	one	CARDINAL
+chapter-109	26	2	parvo	GPE
+chapter-109	26	3	Sheffield	PERSON
+chapter-109	31	1	some sixty years or more	DATE

@@ -1,0 +1,87 @@
+id	sid	eid	entity	type
+chapter-011	1	1	CHAPTER IX	ORG
+chapter-011	2	1	Mapple	PERSON
+chapter-011	12	1	dolphin borne	PERSON
+chapter-011	13	1	that joyful hour	TIME
+chapter-011	15	1	Bible	WORK_OF_ART
+chapter-011	15	2	first	ORDINAL
+chapter-011	16	1	only four	CARDINAL
+chapter-011	16	2	four	CARDINAL
+chapter-011	23	1	two	CARDINAL
+chapter-011	24	1	Jonah	GPE
+chapter-011	25	1	Amittai	ORG
+chapter-011	30	1	Joppa	PERSON
+chapter-011	30	2	Tarshish	ORG
+chapter-011	32	1	Tarshish	ORG
+chapter-011	32	2	Cadiz	PERSON
+chapter-011	34	1	Cadiz	PERSON
+chapter-011	35	1	Cadiz	PERSON
+chapter-011	35	2	Spain	GPE
+chapter-011	35	3	Joppa	PERSON
+chapter-011	35	4	those ancient days	DATE
+chapter-011	35	5	Atlantic	LOC
+chapter-011	36	1	Joppa	PERSON
+chapter-011	36	2	Jaffa	PERSON
+chapter-011	36	3	Mediterranean	LOC
+chapter-011	36	4	Syrian	NORP
+chapter-011	36	5	Tarshish or Cadiz	NORP
+chapter-011	36	6	more than two thousand miles	DATE
+chapter-011	36	7	the Straits of Gibraltar	LOC
+chapter-011	41	1	those days	DATE
+chapter-011	41	2	Jonah	GPE
+chapter-011	44	1	Tarshish	NORP
+chapter-011	47	1	Joe	PERSON
+chapter-011	47	2	Harry	PERSON
+chapter-011	47	3	Gomorrah	PERSON
+chapter-011	47	4	one	CARDINAL
+chapter-011	47	5	Sodom	ORG
+chapter-011	48	1	five hundred	CARDINAL
+chapter-011	49	1	Jonah	GPE
+chapter-011	59	1	Tarshish	ORG
+chapter-011	59	2	sail ye	PERSON
+chapter-011	60	1	Jonah	GPE
+chapter-011	70	1	Jonah	PERSON
+chapter-011	71	1	Virtue	PERSON
+chapter-011	72	1	Jonah	PERSON
+chapter-011	72	2	Jonah	PERSON
+chapter-011	74	1	Captain	ORG
+chapter-011	74	2	Jonah	GPE
+chapter-011	85	1	that stifling hour	TIME
+chapter-011	93	1	a night	TIME
+chapter-011	93	2	Roman	PERSON
+chapter-011	93	3	Jonah	GPE
+chapter-011	94	1	Tarshish	ORG
+chapter-011	95	1	first	ORDINAL
+chapter-011	96	1	Jonah	GPE
+chapter-011	99	1	Jonah	PERSON
+chapter-011	101	1	Aye	ORG
+chapter-011	101	2	Jonah	PERSON
+chapter-011	102	1	meanest thou	PERSON
+chapter-011	118	1	Hebrew	LANGUAGE
+chapter-011	120	1	Aye	ORG
+chapter-011	121	1	Straightway	GPE
+chapter-011	122	1	Jonah	PERSON
+chapter-011	122	2	deserts,--when	PERSON
+chapter-011	123	1	Jonah	GPE
+chapter-011	132	1	Jonah	GPE
+chapter-011	135	1	Jonah	PERSON
+chapter-011	138	1	one	CARDINAL
+chapter-011	139	1	ye	PERSON
+chapter-011	139	2	ye	PERSON
+chapter-011	139	3	ye	GPE
+chapter-011	141	1	Nineveh	GPE
+chapter-011	141	2	Jonah	GPE
+chapter-011	141	3	Joppa	PERSON
+chapter-011	142	1	Tarshish	ORG
+chapter-011	143	1	ten thousand	CARDINAL
+chapter-011	145	1	second	ORDINAL
+chapter-011	145	2	Jonah	GPE
+chapter-011	145	3	two	CARDINAL
+chapter-011	150	1	Gospel	ORG
+chapter-011	156	1	Yea	PERSON
+chapter-011	156	2	Paul	PERSON
+chapter-011	163	1	no quarter	DATE
+chapter-011	163	2	Senators and Judges	ORG
+chapter-011	166	1	Thy	PERSON
+chapter-011	167	1	Thine	NORP
+chapter-011	168	1	Thee	PERSON

@@ -1,0 +1,20 @@
+id	sid	eid	entity	type
+chapter-010	3	1	Mapple	PERSON
+chapter-010	4	1	many years past	DATE
+chapter-010	5	1	Mapple	PERSON
+chapter-010	5	2	winter	DATE
+chapter-010	5	3	second	ORDINAL
+chapter-010	5	4	February	DATE
+chapter-010	6	1	first	ORDINAL
+chapter-010	6	2	Mapple	PERSON
+chapter-010	8	1	one	CARDINAL
+chapter-010	8	2	one	CARDINAL
+chapter-010	9	1	Mapple	PERSON
+chapter-010	11	1	Mapple	PERSON
+chapter-010	13	1	first	ORDINAL
+chapter-010	14	1	Mapple	PERSON
+chapter-010	16	1	Mapple	PERSON
+chapter-010	19	1	Ehrenbreitstein	ORG
+chapter-010	22	1	Nelson	PERSON
+chapter-010	26	1	the Holy Bible	GPE
+chapter-010	27	1	earth	LOC

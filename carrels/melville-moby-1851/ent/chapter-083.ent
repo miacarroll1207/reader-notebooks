@@ -1,0 +1,167 @@
+id	sid	eid	entity	type
+chapter-083	1	1	CHAPTER LXXXI	ORG
+chapter-083	2	1	day	DATE
+chapter-083	2	2	Jungfrau	GPE
+chapter-083	2	3	Derick De Deer	PERSON
+chapter-083	2	4	Bremen	GPE
+chapter-083	3	1	one	CARDINAL
+chapter-083	3	2	Dutch	NORP
+chapter-083	3	3	Germans	NORP
+chapter-083	3	4	Pacific	LOC
+chapter-083	4	1	Jungfrau	GPE
+chapter-083	5	1	Pequod	PERSON
+chapter-083	7	1	German	NORP
+chapter-083	9	1	Stubb	PERSON
+chapter-083	9	2	Starbuck	PERSON
+chapter-083	9	3	Yarman	PERSON
+chapter-083	11	1	Yarman	PERSON
+chapter-083	14	1	Newcastle	GPE
+chapter-083	14	2	Derick De Deer	PERSON
+chapter-083	14	3	Flask	NORP
+chapter-083	15	1	German	NORP
+chapter-083	15	2	the White Whale	ORG
+chapter-083	15	3	night	TIME
+chapter-083	15	4	Bremen	GPE
+chapter-083	15	5	Fishery	ORG
+chapter-083	15	6	Jungfrau	GPE
+chapter-083	15	7	Virgin	GPE
+chapter-083	16	1	Derick	PERSON
+chapter-083	16	2	Derick	GPE
+chapter-083	16	3	leviathan	GPE
+chapter-083	17	1	three	CARDINAL
+chapter-083	17	2	German	NORP
+chapter-083	17	3	Pequod	PERSON
+chapter-083	18	1	eight	CARDINAL
+chapter-083	23	1	two	CARDINAL
+chapter-083	26	1	Stubb	PERSON
+chapter-083	27	1	half an acre	QUANTITY
+chapter-083	28	1	Christmas	DATE
+chapter-083	29	1	first	ORDINAL
+chapter-083	31	1	Indiaman	NORP
+chapter-083	31	2	Hindostan	LOC
+chapter-083	35	1	German	NORP
+chapter-083	36	1	one	CARDINAL
+chapter-083	37	1	Pequod	ORG
+chapter-083	37	2	three	CARDINAL
+chapter-083	37	3	German	NORP
+chapter-083	37	4	Derick	PERSON
+chapter-083	39	1	Derick	PERSON
+chapter-083	41	1	five minutes ago	TIME
+chapter-083	44	1	Stubb	PERSON
+chapter-083	44	2	Yarman	PERSON
+chapter-083	44	3	ye	PERSON
+chapter-083	46	1	ye love brandy	PERSON
+chapter-083	52	1	Yarman	PERSON
+chapter-083	56	1	cried Flask	ORG
+chapter-083	58	1	a hundred	CARDINAL
+chapter-083	58	2	don't!--see	GPE
+chapter-083	58	3	Yarman	PERSON
+chapter-083	59	1	ye	ORG
+chapter-083	59	2	sog	ORG
+chapter-083	62	1	three thousand dollars	MONEY
+chapter-083	63	1	Yarman	PERSON
+chapter-083	64	1	Derick	PERSON
+chapter-083	65	1	Dutch	NORP
+chapter-083	66	1	Stubb	PERSON
+chapter-083	67	1	fifty thousand	CARDINAL
+chapter-083	68	1	Tashtego	PERSON
+chapter-083	68	2	two	QUANTITY
+chapter-083	68	3	twenty	CARDINAL
+chapter-083	68	4	Gay	PERSON
+chapter-083	70	1	Indian	NORP
+chapter-083	71	1	German	NORP
+chapter-083	71	2	Pequod	PERSON
+chapter-083	71	3	three	CARDINAL
+chapter-083	72	1	three	CARDINAL
+chapter-083	72	2	oarsman	PERSON
+chapter-083	74	1	Yarman	PERSON
+chapter-083	76	1	Derick	PERSON
+chapter-083	76	2	his midship oarsman	DATE
+chapter-083	77	1	Derick	PERSON
+chapter-083	77	2	Starbuck, Stubb	PERSON
+chapter-083	78	1	German	NORP
+chapter-083	79	1	four	CARDINAL
+chapter-083	81	1	one	CARDINAL
+chapter-083	82	1	one	CARDINAL
+chapter-083	84	1	portcullis jaw	PERSON
+chapter-083	85	1	Pequod	PERSON
+chapter-083	85	2	Derick	PERSON
+chapter-083	86	1	three	CARDINAL
+chapter-083	86	2	Queequeg	PERSON
+chapter-083	86	3	Tashtego	PERSON
+chapter-083	86	4	Daggoo	PERSON
+chapter-083	86	5	German	NORP
+chapter-083	86	6	three	CARDINAL
+chapter-083	88	1	three	CARDINAL
+chapter-083	88	2	first	ORDINAL
+chapter-083	88	3	German	NORP
+chapter-083	88	4	Derick	PERSON
+chapter-083	88	5	three	CARDINAL
+chapter-083	89	1	Stubb	PERSON
+chapter-083	89	2	Bernard	PERSON
+chapter-083	93	1	three tin kettles	QUANTITY
+chapter-083	96	1	Davy Jones	PERSON
+chapter-083	101	1	three	CARDINAL
+chapter-083	101	2	three	CARDINAL
+chapter-083	101	3	three	CARDINAL
+chapter-083	103	1	Leviathan	GPE
+chapter-083	105	1	less than square feet	QUANTITY
+chapter-083	106	1	two hundred	CARDINAL
+chapter-083	107	1	fifty	CARDINAL
+chapter-083	108	1	One	CARDINAL
+chapter-083	108	2	twenty	CARDINAL
+chapter-083	109	1	three	CARDINAL
+chapter-083	109	2	eternal blue noon	TIME
+chapter-083	109	3	its depths	DATE
+chapter-083	109	4	landsman	PERSON
+chapter-083	110	1	eight inches	QUANTITY
+chapter-083	111	1	three	CARDINAL
+chapter-083	111	2	Leviathan	PERSON
+chapter-083	111	3	eight day	DATE
+chapter-083	114	1	three	CARDINAL
+chapter-083	122	1	a thousand	CARDINAL
+chapter-083	122	2	Leviathan	PERSON
+chapter-083	122	3	Pequod	PERSON
+chapter-083	123	1	afternoon	TIME
+chapter-083	123	2	three	CARDINAL
+chapter-083	123	3	half	CARDINAL
+chapter-083	123	4	Xerxes	PERSON
+chapter-083	125	1	Starbuck	ORG
+chapter-083	125	2	three	CARDINAL
+chapter-083	130	1	one	CARDINAL
+chapter-083	130	2	two	CARDINAL
+chapter-083	133	1	one	CARDINAL
+chapter-083	147	1	Starbuck	ORG
+chapter-083	148	1	gore	PERSON
+chapter-083	148	2	Flask	PERSON
+chapter-083	152	1	half	CARDINAL
+chapter-083	154	1	Starbuck	ORG
+chapter-083	154	2	a few inches	QUANTITY
+chapter-083	156	1	first	ORDINAL
+chapter-083	156	2	harpoon	ORG
+chapter-083	161	1	West Indian	LOC
+chapter-083	161	2	America	GPE
+chapter-083	164	1	Starbuck	PERSON
+chapter-083	165	1	Pequod	PERSON
+chapter-083	175	1	Aye	ORG
+chapter-083	175	2	Queequeg	PERSON
+chapter-083	178	1	Sperm Whale	PERSON
+chapter-083	179	1	Sperm Whale	PERSON
+chapter-083	180	1	meagre	PERSON
+chapter-083	182	1	May	DATE
+chapter-083	183	1	Sperm	PERSON
+chapter-083	184	1	one	CARDINAL
+chapter-083	184	2	twenty	CARDINAL
+chapter-083	184	3	Whales	PERSON
+chapter-083	185	1	Venetian	NORP
+chapter-083	185	2	more than a ton	QUANTITY
+chapter-083	185	3	Sperm	PERSON
+chapter-083	186	1	of many hours	TIME
+chapter-083	190	1	the Bays of New Zealand	ORG
+chapter-083	191	1	Pequod	PERSON
+chapter-083	191	2	Jungfrau	GPE
+chapter-083	192	1	Sperm	PERSON
+chapter-083	193	1	Derick	PERSON
+chapter-083	194	1	Virgin	PERSON
+chapter-083	194	2	four	CARDINAL
+chapter-083	196	1	Dericks	ORG

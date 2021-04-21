@@ -1,0 +1,43 @@
+id	sid	eid	entity	type
+chapter-030	2	1	several days	DATE
+chapter-030	2	2	Nantucket	GPE
+chapter-030	2	3	Captain Ahab	WORK_OF_ART
+chapter-030	6	1	Elijah	ORG
+chapter-030	9	1	heathenish	NORP
+chapter-030	9	2	motley	PERSON
+chapter-030	9	3	Scandinavian	NORP
+chapter-030	10	1	three	CARDINAL
+chapter-030	11	1	Three	CARDINAL
+chapter-030	11	2	Americans	NORP
+chapter-030	11	3	Nantucketer	ORG
+chapter-030	11	4	Vineyarder	ORG
+chapter-030	11	5	Cape	PERSON
+chapter-030	12	1	Christmas	DATE
+chapter-030	12	2	Polar	ORG
+chapter-030	12	3	winter	DATE
+chapter-030	13	1	mornings	TIME
+chapter-030	14	1	Captain Ahab	ORG
+chapter-030	16	1	one	CARDINAL
+chapter-030	17	1	Cellini	PERSON
+chapter-030	22	1	Tashtego	PERSON
+chapter-030	22	2	Gay-Head Indian	ORG
+chapter-030	22	3	forty years old	DATE
+chapter-030	23	1	grey Manxman	PERSON
+chapter-030	23	2	Nantucket	GPE
+chapter-030	24	1	Manxman	PERSON
+chapter-030	28	1	Aye	PERSON
+chapter-030	28	2	Japan	GPE
+chapter-030	28	3	Gay-Head Indian	ORG
+chapter-030	31	1	Pequod	ORG
+chapter-030	31	2	quarter	DATE
+chapter-030	31	3	about half an inch	QUANTITY
+chapter-030	32	1	one	CARDINAL
+chapter-030	32	2	Captain Ahab	ORG
+chapter-030	36	1	first	ORDINAL
+chapter-030	37	1	that morning	TIME
+chapter-030	37	2	every day	DATE
+chapter-030	40	1	Pequod	PERSON
+chapter-030	42	1	April	DATE
+chapter-030	42	2	May	DATE
+chapter-030	42	3	misanthropic woods	PERSON
+chapter-030	42	4	Ahab	ORG

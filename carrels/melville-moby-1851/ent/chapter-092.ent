@@ -1,0 +1,47 @@
+id	sid	eid	entity	type
+chapter-092	3	1	Bracton	GPE
+chapter-092	3	2	3	CARDINAL
+chapter-092	3	3	3	CARDINAL
+chapter-092	4	1	Latin	NORP
+chapter-092	4	2	Honorary Grand Harpooneer	PERSON
+chapter-092	4	3	Queen	PERSON
+chapter-092	6	1	this day	DATE
+chapter-092	6	2	England	GPE
+chapter-092	6	3	English	LANGUAGE
+chapter-092	7	1	first	ORDINAL
+chapter-092	7	2	the last two years	DATE
+chapter-092	8	1	Dover	GPE
+chapter-092	8	2	Sandwich	GPE
+chapter-092	8	3	some one	CARDINAL
+chapter-092	8	4	the Cinque Ports	ORG
+chapter-092	9	1	the Cinque Ports	ORG
+chapter-092	9	2	a Lord Warden	LAW
+chapter-092	10	1	Cinque Port	ORG
+chapter-092	14	1	150	CARDINAL
+chapter-092	14	2	Christian	NORP
+chapter-092	14	3	Blackstone	ORG
+chapter-092	16	1	the Lord Warden's	WORK_OF_ART
+chapter-092	17	1	English	LANGUAGE
+chapter-092	18	1	Blackstone	ORG
+chapter-092	19	1	one	CARDINAL
+chapter-092	20	1	the Lord Warden	WORK_OF_ART
+chapter-092	30	1	a quarter or a half	DATE
+chapter-092	32	1	Wellington	GPE
+chapter-092	33	1	Grace	ORG
+chapter-092	35	1	three	CARDINAL
+chapter-092	36	1	Sovereign	ORG
+chapter-092	37	1	Sovereign	ORG
+chapter-092	39	1	Plowdon	ORG
+chapter-092	40	1	Plowdon	PERSON
+chapter-092	40	2	the King and Queen	ORG
+chapter-092	44	1	Queen-Gold	WORK_OF_ART
+chapter-092	44	2	Queen-pinmoney	PERSON
+chapter-092	44	3	King's Bench	WORK_OF_ART
+chapter-092	44	4	one	CARDINAL
+chapter-092	44	5	William Prynne	PERSON
+chapter-092	44	6	ye Queen's	PERSON
+chapter-092	44	7	ye Queen's	PERSON
+chapter-092	45	1	Greenland	PERSON
+chapter-092	46	1	Prynne	ORG
+chapter-092	49	1	two royal	MONEY
+chapter-092	49	2	English	LANGUAGE

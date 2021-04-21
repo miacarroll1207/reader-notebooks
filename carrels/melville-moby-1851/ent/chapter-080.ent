@@ -1,0 +1,66 @@
+id	sid	eid	entity	type
+chapter-080	2	1	CISTERN	ORG
+chapter-080	2	2	Tashtego	PERSON
+chapter-080	3	1	only two	CARDINAL
+chapter-080	4	1	one	CARDINAL
+chapter-080	5	1	Indian	NORP
+chapter-080	6	1	Turkish Muezzin	ORG
+chapter-080	9	1	two or three	CARDINAL
+chapter-080	10	1	Indian	NORP
+chapter-080	11	1	Tun	PERSON
+chapter-080	14	1	Tashtego	PERSON
+chapter-080	14	2	some twenty feet	QUANTITY
+chapter-080	15	1	Pequod	PERSON
+chapter-080	16	1	Tashtego	PERSON
+chapter-080	16	2	Indian	NORP
+chapter-080	16	3	one	CARDINAL
+chapter-080	16	4	eightieth	ORDINAL
+chapter-080	16	5	ninetieth	PERSON
+chapter-080	17	1	Tashtego	PERSON
+chapter-080	17	2	Tun of Heidelburgh	GPE
+chapter-080	19	1	Daggoo	PERSON
+chapter-080	19	2	first	ORDINAL
+chapter-080	21	1	one	CARDINAL
+chapter-080	21	2	Tashtego	PERSON
+chapter-080	23	1	Indian	NORP
+chapter-080	24	1	Daggoo	PERSON
+chapter-080	24	2	one	CARDINAL
+chapter-080	24	3	two	CARDINAL
+chapter-080	25	1	one	CARDINAL
+chapter-080	27	1	Daggoo	ORG
+chapter-080	28	1	Stubb	PERSON
+chapter-080	33	1	Niagara	ORG
+chapter-080	33	2	Table-Rock	GPE
+chapter-080	33	3	half	CARDINAL
+chapter-080	33	4	Daggoo	PERSON
+chapter-080	33	5	Tashtego	PERSON
+chapter-080	34	1	one	CARDINAL
+chapter-080	34	2	bulwarks	LOC
+chapter-080	35	1	Queequeg	PERSON
+chapter-080	36	1	One	CARDINAL
+chapter-080	40	1	Daggoo	PERSON
+chapter-080	42	1	both!--it	ORG
+chapter-080	43	1	Daggoo	PERSON
+chapter-080	43	2	Queequeg	PERSON
+chapter-080	43	3	Indian	NORP
+chapter-080	44	1	Tashtego	PERSON
+chapter-080	44	2	Queequeg	PERSON
+chapter-080	46	1	Queequeg	PERSON
+chapter-080	46	2	Tash	PERSON
+chapter-080	47	1	first	ORDINAL
+chapter-080	47	2	Indian	NORP
+chapter-080	49	1	Queequeg	PERSON
+chapter-080	49	2	Tashtego	GPE
+chapter-080	50	1	Midwifery	ORG
+chapter-080	51	1	the Gay-Header's	FAC
+chapter-080	51	2	Indian	NORP
+chapter-080	51	3	Sperm	PERSON
+chapter-080	51	4	Whale	PERSON
+chapter-080	53	1	Sperm	PERSON
+chapter-080	55	1	Tash	PERSON
+chapter-080	56	1	Queequeg	PERSON
+chapter-080	58	1	Tashtego	ORG
+chapter-080	59	1	Only one	CARDINAL
+chapter-080	59	2	Ohio	GPE
+chapter-080	60	1	ye	PERSON
+chapter-080	60	2	Plato	PERSON

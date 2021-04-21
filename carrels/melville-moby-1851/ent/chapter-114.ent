@@ -1,0 +1,32 @@
+id	sid	eid	entity	type
+chapter-114	1	1	CHAPTER CXII	ORG
+chapter-114	2	1	summer	DATE
+chapter-114	2	2	Perth	GPE
+chapter-114	2	3	Ahab	ORG
+chapter-114	10	1	one	CARDINAL
+chapter-114	10	2	winter	DATE
+chapter-114	10	3	midnight	TIME
+chapter-114	10	4	two	CARDINAL
+chapter-114	10	5	half	CARDINAL
+chapter-114	12	1	four	CARDINAL
+chapter-114	12	2	one	CARDINAL
+chapter-114	12	3	uncatastrophied fifth act	LAW
+chapter-114	14	1	three	CARDINAL
+chapter-114	14	2	Sunday	DATE
+chapter-114	15	1	one night	TIME
+chapter-114	19	1	Labor	ORG
+chapter-114	22	1	Hadst	ORG
+chapter-114	22	2	their after years	DATE
+chapter-114	23	1	daily	DATE
+chapter-114	25	1	every day	DATE
+chapter-114	25	2	every day	DATE
+chapter-114	25	3	house	ORG
+chapter-114	25	4	crape	LOC
+chapter-114	26	1	Untried	ORG
+chapter-114	26	2	first	ORDINAL
+chapter-114	26	3	Watery	ORG
+chapter-114	26	4	Unshored	PERSON
+chapter-114	31	1	East	LOC
+chapter-114	31	2	West	LOC
+chapter-114	31	3	Aye	PERSON
+chapter-114	32	1	Perth	ORG

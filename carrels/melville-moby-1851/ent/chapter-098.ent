@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-098	2	1	American	NORP
+chapter-098	6	1	some ten feet	QUANTITY
+chapter-098	6	2	five	CARDINAL
+chapter-098	9	1	two	CARDINAL
+chapter-098	12	1	night	TIME
+chapter-098	13	1	one	CARDINAL
+chapter-098	15	1	Pequod	PERSON
+chapter-098	16	1	two	CARDINAL
+chapter-098	22	1	about nine o'clock	TIME
+chapter-098	22	2	night	TIME
+chapter-098	22	3	Pequod	PERSON
+chapter-098	28	1	first	ORDINAL
+chapter-098	28	2	fed	ORG
+chapter-098	36	1	the day	DATE
+chapter-098	37	1	midnight	TIME
+chapter-098	39	1	Greek	NORP
+chapter-098	41	1	Hydriote	ORG
+chapter-098	41	2	Canaris	PERSON
+chapter-098	41	3	midnight	TIME
+chapter-098	41	4	Turkish	NORP
+chapter-098	43	1	Tartarean	NORP
+chapter-098	51	1	the night	TIME
+chapter-098	51	2	Pequod	PERSON
+chapter-098	52	1	long hours	TIME
+chapter-098	54	1	half	CARDINAL
+chapter-098	54	2	half	CARDINAL
+chapter-098	55	1	night	TIME
+chapter-098	57	1	half	CARDINAL
+chapter-098	58	1	a minute	TIME
+chapter-098	65	1	I.	ORG
+chapter-098	69	1	the night	TIME
+chapter-098	69	2	lee	PERSON
+chapter-098	72	1	first	ORDINAL
+chapter-098	73	1	morrow	DATE
+chapter-098	74	1	Virginia	GPE
+chapter-098	74	2	Dismal Swamp	PERSON
+chapter-098	74	3	Rome	GPE
+chapter-098	74	4	Sahara	GPE
+chapter-098	74	5	millions of miles	QUANTITY
+chapter-098	75	1	earth	LOC
+chapter-098	75	2	two thirds	CARDINAL
+chapter-098	78	1	the Man of Sorrows	WORK_OF_ART
+chapter-098	78	2	Solomon	PERSON
+chapter-098	78	3	Ecclesiastes	ORG
+chapter-098	81	1	Solomon	PERSON
+chapter-098	82	1	Cowper	PERSON
+chapter-098	82	2	Young	PERSON
+chapter-098	82	3	Pascal	PERSON
+chapter-098	82	4	Rousseau	PERSON
+chapter-098	82	5	Rabelais	GPE
+chapter-098	82	6	Solomon	PERSON
+chapter-098	83	1	Solomon	PERSON
+chapter-098	83	2	i. e. even	PERSON

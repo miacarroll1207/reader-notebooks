@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-110	1	1	CHAPTER CVIII	ORG
+chapter-110	2	1	Carpenter	PERSON
+chapter-110	2	2	two	CARDINAL
+chapter-110	9	1	Aye	ORG
+chapter-110	10	1	sneezes)--why	PRODUCT
+chapter-110	10	2	sneezes)--yes	PRODUCT
+chapter-110	13	1	Smut	PERSON
+chapter-110	15	1	Time	ORG
+chapter-110	21	1	AHAB	ORG
+chapter-110	29	1	first	ORDINAL
+chapter-110	36	1	Prometheus	PERSON
+chapter-110	41	1	Aye	ORG
+chapter-110	44	1	Greek	NORP
+chapter-110	44	2	Prometheus	PERSON
+chapter-110	46	1	Greek	NORP
+chapter-110	46	2	Africans	NORP
+chapter-110	49	1	Prometheus	PERSON
+chapter-110	50	1	Imprimis	ORG
+chapter-110	50	2	fifty feet	QUANTITY
+chapter-110	50	3	the Thames Tunnel	ORG
+chapter-110	50	4	one	CARDINAL
+chapter-110	50	5	three feet	QUANTITY
+chapter-110	50	6	about a quarter	CARDINAL
+chapter-110	56	1	Tis	PERSON
+chapter-110	56	2	one	CARDINAL
+chapter-110	60	1	two	CARDINAL
+chapter-110	67	1	clay	ORG
+chapter-110	71	1	Bone	ORG
+chapter-110	77	1	Adam	PERSON
+chapter-110	82	1	only one	CARDINAL
+chapter-110	82	2	two	CARDINAL
+chapter-110	86	1	Hist	ORG
+chapter-110	88	1	most solitary hours	TIME
+chapter-110	95	1	an hour	TIME
+chapter-110	96	1	Bungle	ORG
+chapter-110	98	1	Greek	NORP
+chapter-110	101	1	Prtorians	NORP
+chapter-110	101	2	Roman	LOC
+chapter-110	103	1	one	CARDINAL
+chapter-110	105	1	CARPENTER	ORG
+chapter-110	107	1	Stubb	ORG
+chapter-110	107	2	one	CARDINAL
+chapter-110	107	3	Stubb	PERSON
+chapter-110	107	4	Starbuck	PERSON
+chapter-110	110	1	whale	PERSON
+chapter-110	112	1	about one	CARDINAL
+chapter-110	112	2	three	CARDINAL
+chapter-110	112	3	three	CARDINAL
+chapter-110	112	4	one	CARDINAL
+chapter-110	117	1	heron	ORG
+chapter-110	119	1	one	CARDINAL
+chapter-110	121	1	one	CARDINAL
+chapter-110	125	1	morrow	DATE

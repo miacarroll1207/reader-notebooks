@@ -1,0 +1,127 @@
+id	sid	eid	entity	type
+chapter-043	2	1	Ishmael	GPE
+chapter-043	2	2	one	CARDINAL
+chapter-043	5	1	White Whale	ORG
+chapter-043	5	2	Sperm	PERSON
+chapter-043	7	1	Moby Dick	PERSON
+chapter-043	8	1	Sperm Whale	PERSON
+chapter-043	8	2	Moby Dick	PERSON
+chapter-043	9	1	Sperm Whale	PERSON
+chapter-043	9	2	Moby Dick	PERSON
+chapter-043	9	3	Sperm Whale	PERSON
+chapter-043	11	1	the White Whale	ORG
+chapter-043	12	1	Moby Dick	PERSON
+chapter-043	12	2	the White Whale	ORG
+chapter-043	17	1	a thousand miles	QUANTITY
+chapter-043	17	2	thousand	QUANTITY
+chapter-043	18	1	the White Whale	ORG
+chapter-043	18	2	half	CARDINAL
+chapter-043	18	3	Moby Dick	PERSON
+chapter-043	19	1	the White Whale	ORG
+chapter-043	21	1	the present day	DATE
+chapter-043	21	2	Sperm Whale	PERSON
+chapter-043	22	1	this day	DATE
+chapter-043	22	2	Greenland	PERSON
+chapter-043	22	3	Sperm	PERSON
+chapter-043	22	4	Whale	PERSON
+chapter-043	22	5	American	NORP
+chapter-043	22	6	Sperm Whale	PERSON
+chapter-043	22	7	North	LOC
+chapter-043	22	8	Southern	NORP
+chapter-043	23	1	Sperm Whale	PERSON
+chapter-043	24	1	Olassen	GPE
+chapter-043	24	2	Povelson	PERSON
+chapter-043	24	3	Sperm	PERSON
+chapter-043	25	1	Cuvier	ORG
+chapter-043	26	1	Sperm	PERSON
+chapter-043	27	1	Povelson	PERSON
+chapter-043	28	1	Moby Dick	PERSON
+chapter-043	28	2	Sperm Whale	PERSON
+chapter-043	28	3	Sperm Whale	PERSON
+chapter-043	31	1	Moby Dick	PERSON
+chapter-043	32	1	One	CARDINAL
+chapter-043	32	2	the White Whale	ORG
+chapter-043	32	3	Moby Dick	PERSON
+chapter-043	34	1	Sperm	PERSON
+chapter-043	35	1	American	NORP
+chapter-043	35	2	English	LANGUAGE
+chapter-043	35	3	Scoresby	PERSON
+chapter-043	35	4	Pacific	LOC
+chapter-043	35	5	Greenland	GPE
+chapter-043	36	1	two	CARDINAL
+chapter-043	36	2	many days	DATE
+chapter-043	38	1	Strello	ORG
+chapter-043	38	2	Portugal	GPE
+chapter-043	38	3	Arethusa	GPE
+chapter-043	38	4	Syracuse	GPE
+chapter-043	38	5	the Holy Land	WORK_OF_ART
+chapter-043	39	1	the White Whale	ORG
+chapter-043	39	2	Moby Dick	PERSON
+chapter-043	39	3	hundreds	CARDINAL
+chapter-043	43	1	the White Whale	ORG
+chapter-043	43	2	blue sea	LOC
+chapter-043	48	1	the White Whale's	ORG
+chapter-043	50	1	three	CARDINAL
+chapter-043	50	2	one	CARDINAL
+chapter-043	50	3	Arkansas	GPE
+chapter-043	50	4	six inch	QUANTITY
+chapter-043	52	1	jaw beneath	PERSON
+chapter-043	52	2	Moby Dick	PERSON
+chapter-043	52	3	Ahab	ORG
+chapter-043	53	1	Turk	PERSON
+chapter-043	53	2	Venetian	NORP
+chapter-043	53	3	Malay	NORP
+chapter-043	54	1	Ahab	ORG
+chapter-043	55	1	White Whale	ORG
+chapter-043	55	2	half	CARDINAL
+chapter-043	55	3	half	CARDINAL
+chapter-043	56	1	Christians	NORP
+chapter-043	56	2	one-half	CARDINAL
+chapter-043	56	3	Ophites	NORP
+chapter-043	57	1	Ahab	ORG
+chapter-043	57	2	Moby Dick	FAC
+chapter-043	58	1	Adam	PERSON
+chapter-043	61	1	long months of days	DATE
+chapter-043	61	2	weeks	DATE
+chapter-043	61	3	Ahab	ORG
+chapter-043	61	4	one	CARDINAL
+chapter-043	61	5	mid winter	DATE
+chapter-043	61	6	Patagonian Cape	PERSON
+chapter-043	62	1	Egyptian	NORP
+chapter-043	64	1	Cape Horn	GPE
+chapter-043	64	2	Ahab	ORG
+chapter-043	67	1	Ahab	ORG
+chapter-043	67	2	Hudson	LOC
+chapter-043	67	3	Northman	PERSON
+chapter-043	67	4	Highland	FAC
+chapter-043	68	1	Ahab	ORG
+chapter-043	70	1	a thousand fold	CARDINAL
+chapter-043	70	2	one	CARDINAL
+chapter-043	71	1	Ahab	ORG
+chapter-043	73	1	Hotel de Cluny	ORG
+chapter-043	73	2	ye nobler	PERSON
+chapter-043	73	3	Roman	PERSON
+chapter-043	73	4	Thermes	ORG
+chapter-043	75	1	ye prouder	ORG
+chapter-043	78	1	aye	ORG
+chapter-043	78	2	beget ye	PERSON
+chapter-043	78	3	ye young	PERSON
+chapter-043	78	4	State	ORG
+chapter-043	79	1	Ahab	ORG
+chapter-043	84	1	the very day	DATE
+chapter-043	84	2	Pequod	PERSON
+chapter-043	88	1	Ahab	ORG
+chapter-043	88	2	the White Whale	FAC
+chapter-043	89	1	one	CARDINAL
+chapter-043	89	2	half	CARDINAL
+chapter-043	92	1	Job	GPE
+chapter-043	92	2	mongrel renegades	PERSON
+chapter-043	92	3	Starbuck	GPE
+chapter-043	92	4	Stubb	GPE
+chapter-043	92	5	Flask	GPE
+chapter-043	94	1	the White Whale	ORG
+chapter-043	94	2	the White Whale	ORG
+chapter-043	94	3	Ishmael	GPE
+chapter-043	95	1	one	CARDINAL
+chapter-043	97	1	seventy-four	CARDINAL
+chapter-043	98	1	one	CARDINAL

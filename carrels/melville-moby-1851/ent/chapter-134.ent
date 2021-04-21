@@ -1,0 +1,63 @@
+id	sid	eid	entity	type
+chapter-134	2	1	SYMPHONY	ORG
+chapter-134	3	1	Samson	ORG
+chapter-134	5	1	two	CARDINAL
+chapter-134	12	1	Ahab	ORG
+chapter-134	13	1	Miriam	PERSON
+chapter-134	13	2	Martha	PERSON
+chapter-134	14	1	Ahab	ORG
+chapter-134	17	1	Ahab	ORG
+chapter-134	17	2	one	CARDINAL
+chapter-134	25	1	first	ORDINAL
+chapter-134	25	2	eighteen	CARDINAL
+chapter-134	26	1	Forty--forty--forty years	DATE
+chapter-134	27	1	Forty years	DATE
+chapter-134	28	1	forty years	DATE
+chapter-134	29	1	forty years	DATE
+chapter-134	30	1	forty years	DATE
+chapter-134	30	2	forty years	DATE
+chapter-134	31	1	Aye	ORG
+chapter-134	31	2	Starbuck	PERSON
+chapter-134	31	3	three	CARDINAL
+chapter-134	34	1	Guinea	GPE
+chapter-134	34	2	forty years	DATE
+chapter-134	34	3	daily	DATE
+chapter-134	34	4	fifty	CARDINAL
+chapter-134	34	5	Cape Horn	LOC
+chapter-134	34	6	the next day	DATE
+chapter-134	34	7	one	CARDINAL
+chapter-134	36	1	Aye	ORG
+chapter-134	36	2	Starbuck	PERSON
+chapter-134	36	3	thousand	CARDINAL
+chapter-134	36	4	Ahab	ORG
+chapter-134	36	5	man!--aye	CARDINAL
+chapter-134	37	1	a forty years'	DATE
+chapter-134	43	1	one	CARDINAL
+chapter-134	46	1	Starbuck	PERSON
+chapter-134	47	1	Adam	PERSON
+chapter-134	47	2	centuries	DATE
+chapter-134	47	3	Paradise	PERSON
+chapter-134	52	1	ye	PERSON
+chapter-134	54	1	Starbuck	PERSON
+chapter-134	57	1	Moby Dick	PERSON
+chapter-134	65	1	one	CARDINAL
+chapter-134	73	1	Nantucket	GPE
+chapter-134	75	1	some summer days	DATE
+chapter-134	76	1	noon	TIME
+chapter-134	77	1	Tis my Mary	PERSON
+chapter-134	77	2	Mary	PERSON
+chapter-134	78	1	every morning	TIME
+chapter-134	78	2	first	ORDINAL
+chapter-134	87	1	Ahab	ORG
+chapter-134	91	1	one	CARDINAL
+chapter-134	91	2	one	CARDINAL
+chapter-134	91	3	one	CARDINAL
+chapter-134	92	1	Fate	ORG
+chapter-134	96	1	Albicore	ORG
+chapter-134	100	1	Andes	LOC
+chapter-134	100	2	Starbuck	GPE
+chapter-134	102	1	Aye	ORG
+chapter-134	104	1	Aye	ORG
+chapter-134	104	2	last year's	DATE
+chapter-134	106	1	two	CARDINAL
+chapter-134	107	1	Fedallah	ORG

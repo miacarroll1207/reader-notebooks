@@ -1,0 +1,24 @@
+id	sid	eid	entity	type
+chapter-100	2	1	Shadrach	PERSON
+chapter-100	2	2	Meshach	PERSON
+chapter-100	2	3	Abednego	PERSON
+chapter-100	4	1	six	CARDINAL
+chapter-100	4	2	rap	ORG
+chapter-100	4	3	rap	ORG
+chapter-100	4	4	ex officio	PERSON
+chapter-100	8	1	One day	DATE
+chapter-100	8	2	the sacred quarter-deck	DATE
+chapter-100	9	1	day	DATE
+chapter-100	9	2	two	CARDINAL
+chapter-100	16	1	Holland	GPE
+chapter-100	21	1	three	CARDINAL
+chapter-100	21	2	three	CARDINAL
+chapter-100	21	3	at least one	CARDINAL
+chapter-100	22	1	no night	TIME
+chapter-100	22	2	ninety-six hours	TIME
+chapter-100	22	3	all day	DATE
+chapter-100	22	4	the equatorial sun	ORG
+chapter-100	31	1	Pythagoras	PERSON
+chapter-100	31	2	Greece	GPE
+chapter-100	31	3	two thousand years ago	DATE
+chapter-100	31	4	Peruvian	NORP

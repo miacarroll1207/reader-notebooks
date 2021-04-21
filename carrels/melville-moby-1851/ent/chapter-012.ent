@@ -1,0 +1,45 @@
+id	sid	eid	entity	type
+chapter-012	2	1	Chapel	ORG
+chapter-012	2	2	Queequeg	PERSON
+chapter-012	2	3	Chapel	ORG
+chapter-012	3	1	heathenish	NORP
+chapter-012	5	1	the next fifty	DATE
+chapter-012	5	2	number one	CARDINAL
+chapter-012	5	3	more than fifty	CARDINAL
+chapter-012	9	1	a thousand	CARDINAL
+chapter-012	10	1	Pagan	PERSON
+chapter-012	13	1	Washington	PERSON
+chapter-012	14	1	two	CARDINAL
+chapter-012	15	1	Queequeg	PERSON
+chapter-012	15	2	George Washington	PERSON
+chapter-012	16	1	half	CARDINAL
+chapter-012	17	1	the night	TIME
+chapter-012	19	1	first	ORDINAL
+chapter-012	19	2	Socratic	NORP
+chapter-012	20	1	Queequeg	PERSON
+chapter-012	22	1	second	ORDINAL
+chapter-012	23	1	twenty thousand miles	QUANTITY
+chapter-012	23	2	Cape Horn	GPE
+chapter-012	23	3	Jupiter	LOC
+chapter-012	27	1	first	ORDINAL
+chapter-012	27	2	evening	TIME
+chapter-012	27	3	us	GPE
+chapter-012	27	4	solemn swells	GPE
+chapter-012	34	1	Christian	NORP
+chapter-012	36	1	first	ORDINAL
+chapter-012	36	2	last night's	TIME
+chapter-012	42	1	Pagan	PERSON
+chapter-012	46	1	some thirty dollars	MONEY
+chapter-012	46	2	two	CARDINAL
+chapter-012	46	3	one	CARDINAL
+chapter-012	49	1	evening	TIME
+chapter-012	51	1	Christian	NORP
+chapter-012	51	2	Presbyterian Church	ORG
+chapter-012	54	1	I.	ORG
+chapter-012	55	1	Ishmael	GPE
+chapter-012	59	1	Queequeg	PERSON
+chapter-012	60	1	Queequeg	PERSON
+chapter-012	61	1	Presbyterian	NORP
+chapter-012	63	1	Queequeg	PERSON
+chapter-012	66	1	nearly morning	TIME
+chapter-012	67	1	Queequeg	PERSON

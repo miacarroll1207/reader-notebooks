@@ -1,0 +1,25 @@
+id	sid	eid	entity	type
+chapter-129	1	1	CHAPTER CXXVII	ORG
+chapter-129	2	1	two	CARDINAL
+chapter-129	2	2	Carpenter	PERSON
+chapter-129	2	3	Pip	PERSON
+chapter-129	8	1	Starbuck	PERSON
+chapter-129	11	1	ye	PERSON
+chapter-129	22	1	Aye	ORG
+chapter-129	22	2	Queequeg	PERSON
+chapter-129	23	1	heathenish	NORP
+chapter-129	23	2	one day	DATE
+chapter-129	23	3	the next day	DATE
+chapter-129	28	1	Hark ye	PERSON
+chapter-129	29	1	Titans	NORP
+chapter-129	36	1	Aye	ORG
+chapter-129	37	1	Carpenter	PERSON
+chapter-129	39	1	I've---- Faith	PERSON
+chapter-129	50	1	the Isle of Albemarle	GPE
+chapter-129	50	2	Gallipagos	PERSON
+chapter-129	52	1	Line	LOC
+chapter-129	62	1	two	CARDINAL
+chapter-129	65	1	seconds	TIME
+chapter-129	75	1	earth	LOC
+chapter-129	76	1	Carpenter	PERSON
+chapter-129	78	1	Pip	PERSON

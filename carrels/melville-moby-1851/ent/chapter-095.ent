@@ -1,0 +1,69 @@
+id	sid	eid	entity	type
+chapter-095	2	1	CASTAWAY	ORG
+chapter-095	2	2	some few days	DATE
+chapter-095	2	3	Frenchman	NORP
+chapter-095	2	4	Pequod	PERSON
+chapter-095	7	1	Pequod	PERSON
+chapter-095	7	2	Pippin	PERSON
+chapter-095	7	3	nick-name	ORG
+chapter-095	7	4	Pip	PERSON
+chapter-095	9	1	ye	PERSON
+chapter-095	9	2	ye	PERSON
+chapter-095	10	1	Pip	PERSON
+chapter-095	10	2	Dough-Boy	ORG
+chapter-095	11	1	Dough-Boy	PERSON
+chapter-095	11	2	Pip	PERSON
+chapter-095	12	1	year	DATE
+chapter-095	12	2	three hundred and sixty-five	QUANTITY
+chapter-095	12	3	Julys	GPE
+chapter-095	12	4	New Year's Days	EVENT
+chapter-095	14	1	Pip	PERSON
+chapter-095	14	2	ten	CARDINAL
+chapter-095	14	3	Tolland County	GPE
+chapter-095	14	4	Connecticut	GPE
+chapter-095	15	1	one	CARDINAL
+chapter-095	16	1	day	DATE
+chapter-095	19	1	Stubb	PERSON
+chapter-095	19	2	Pip	PERSON
+chapter-095	20	1	first	ORDINAL
+chapter-095	20	2	Stubb	PERSON
+chapter-095	20	3	Pip	PERSON
+chapter-095	21	1	second	ORDINAL
+chapter-095	21	2	Pip	PERSON
+chapter-095	24	1	Pip	PERSON
+chapter-095	27	1	Pip	PERSON
+chapter-095	28	1	Stubb	ORG
+chapter-095	29	1	Meantime Pip's	PERSON
+chapter-095	31	1	less than half	CARDINAL
+chapter-095	33	1	Stubb	PERSON
+chapter-095	33	2	Pip	PERSON
+chapter-095	35	1	half	CARDINAL
+chapter-095	35	2	Pip	ORG
+chapter-095	36	1	Pip	PERSON
+chapter-095	37	1	Stick	FAC
+chapter-095	37	2	Leap	PERSON
+chapter-095	38	1	Pip	PERSON
+chapter-095	38	2	Stubb	PERSON
+chapter-095	38	3	Pip	PERSON
+chapter-095	39	1	thirty	CARDINAL
+chapter-095	39	2	Pip	PERSON
+chapter-095	39	3	Alabama	GPE
+chapter-095	42	1	Gods	ORG
+chapter-095	42	2	Pip	PERSON
+chapter-095	43	1	first	ORDINAL
+chapter-095	43	2	Pip	PERSON
+chapter-095	47	1	Pip	PERSON
+chapter-095	49	1	Stubb	ORG
+chapter-095	50	1	three minutes	TIME
+chapter-095	50	2	Pip	PERSON
+chapter-095	50	3	Stubb	PERSON
+chapter-095	51	1	Pip	PERSON
+chapter-095	56	1	Mark	PERSON
+chapter-095	59	1	two	CARDINAL
+chapter-095	59	2	Pip	PERSON
+chapter-095	60	1	Pip	PERSON
+chapter-095	60	2	Stubb	PERSON
+chapter-095	60	3	Pip	PERSON
+chapter-095	61	1	that hour	TIME
+chapter-095	64	1	Wisdom	ORG
+chapter-095	64	2	Pip	PERSON

@@ -1,0 +1,53 @@
+id	sid	eid	entity	type
+chapter-021	2	1	ye	PERSON
+chapter-021	3	1	Queequeg	PERSON
+chapter-021	3	2	Pequod	PERSON
+chapter-021	6	1	ye	PERSON
+chapter-021	8	1	Pequod	PERSON
+chapter-021	9	1	Aye	PERSON
+chapter-021	9	2	Pequod	FAC
+chapter-021	15	1	fifth	ORDINAL
+chapter-021	17	1	I.	ORG
+chapter-021	19	1	Queequeg	PERSON
+chapter-021	22	1	Ye	PERSON
+chapter-021	25	1	Captain Ahab	WORK_OF_ART
+chapter-021	27	1	Pequod	PERSON
+chapter-021	28	1	Aye	PERSON
+chapter-021	34	1	Ahab	PERSON
+chapter-021	41	1	Captain Ahab	PERSON
+chapter-021	42	1	Cape Horn	LOC
+chapter-021	42	2	three days	DATE
+chapter-021	42	3	nights	TIME
+chapter-021	42	4	Spaniard	NORP
+chapter-021	42	5	Santa?--heard	PERSON
+chapter-021	46	1	ye	PERSON
+chapter-021	49	1	ye	PERSON
+chapter-021	50	1	only one	CARDINAL
+chapter-021	52	1	Captain Ahab	WORK_OF_ART
+chapter-021	52	2	Pequod	PERSON
+chapter-021	53	1	do?--all	ORG
+chapter-021	55	1	Pequod	PERSON
+chapter-021	55	2	said:--"Ye've	ORG
+chapter-021	58	1	a'ready	PERSON
+chapter-021	59	1	Morning	TIME
+chapter-021	59	2	ye	GPE
+chapter-021	61	1	ye	GPE
+chapter-021	62	1	Morning	TIME
+chapter-021	62	2	ye	GPE
+chapter-021	66	1	Morning	TIME
+chapter-021	66	2	morning	TIME
+chapter-021	67	1	Morning	TIME
+chapter-021	68	1	Queequeg	PERSON
+chapter-021	73	1	above a hundred yards	QUANTITY
+chapter-021	73	2	Elijah	NORP
+chapter-021	74	1	Queequeg	PERSON
+chapter-021	76	1	half	CARDINAL
+chapter-021	76	2	half	CARDINAL
+chapter-021	76	3	half	CARDINAL
+chapter-021	76	4	Pequod	PERSON
+chapter-021	76	5	Captain Ahab	PERSON
+chapter-021	76	6	the Cape Horn	LOC
+chapter-021	76	7	the day previous	DATE
+chapter-021	76	8	hundred	CARDINAL
+chapter-021	77	1	Queequeg	PERSON
+chapter-021	78	1	Elijah	NORP

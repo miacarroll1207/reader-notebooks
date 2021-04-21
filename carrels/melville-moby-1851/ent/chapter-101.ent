@@ -1,0 +1,143 @@
+id	sid	eid	entity	type
+chapter-101	1	1	CHAPTER XCIX	PERSON
+chapter-101	2	1	DOUBLOON	ORG
+chapter-101	4	1	one morning	TIME
+chapter-101	4	2	first	ORDINAL
+chapter-101	5	1	Boston	GPE
+chapter-101	5	2	the Milky Way	LOC
+chapter-101	6	1	whence	GPE
+chapter-101	6	2	east	GPE
+chapter-101	6	3	west	LOC
+chapter-101	6	4	golden sands	FAC
+chapter-101	6	5	Pactolus	NORP
+chapter-101	7	1	Quito	GPE
+chapter-101	8	1	every hour	TIME
+chapter-101	8	2	the livelong nights	DATE
+chapter-101	9	1	one	CARDINAL
+chapter-101	9	2	one	CARDINAL
+chapter-101	10	1	night	TIME
+chapter-101	11	1	South America	LOC
+chapter-101	12	1	sun	ORG
+chapter-101	12	2	rich banners	PERSON
+chapter-101	12	3	Spanishly	DATE
+chapter-101	13	1	Pequod	PERSON
+chapter-101	14	1	QUITO	ORG
+chapter-101	15	1	Andes	LOC
+chapter-101	16	1	three	CARDINAL
+chapter-101	16	2	Andes	LOC
+chapter-101	16	3	one	CARDINAL
+chapter-101	16	4	third	ORDINAL
+chapter-101	16	5	Libra	GPE
+chapter-101	18	1	here,--three	ORG
+chapter-101	18	2	Lucifer	ORG
+chapter-101	19	1	Ahab	ORG
+chapter-101	19	2	Ahab	PERSON
+chapter-101	19	3	Ahab	PERSON
+chapter-101	19	4	Ahab	PERSON
+chapter-101	22	1	aye	ORG
+chapter-101	23	1	six months	DATE
+chapter-101	30	1	yesterday	DATE
+chapter-101	30	2	Starbuck	PERSON
+chapter-101	31	1	Belshazzar	ORG
+chapter-101	34	1	between three	CARDINAL
+chapter-101	34	2	Trinity	ORG
+chapter-101	36	1	half	CARDINAL
+chapter-101	37	1	midnight	TIME
+chapter-101	40	1	Mogul	PERSON
+chapter-101	40	2	Starbuck	PERSON
+chapter-101	40	3	nine	CARDINAL
+chapter-101	41	1	Negro Hill	LOC
+chapter-101	41	2	Corlaer	ORG
+chapter-101	41	3	Hook	WORK_OF_ART
+chapter-101	44	1	Spain	GPE
+chapter-101	44	2	Peru	GPE
+chapter-101	44	3	Chili	GPE
+chapter-101	44	4	Bolivia	GPE
+chapter-101	44	5	Popayan	NORP
+chapter-101	44	6	half	CARDINAL
+chapter-101	45	1	Equator	ORG
+chapter-101	46	1	Golconda	PERSON
+chapter-101	50	1	Bowditch	PERSON
+chapter-101	51	1	Daboll	PERSON
+chapter-101	51	2	Massachusetts	GPE
+chapter-101	55	1	hem	ORG
+chapter-101	55	2	hem	ORG
+chapter-101	55	3	Ram	GPE
+chapter-101	55	4	Taurus	PRODUCT
+chapter-101	55	5	Bull	PERSON
+chapter-101	55	6	Jimimi	ORG
+chapter-101	56	1	Gemini	PERSON
+chapter-101	56	2	Twins	PERSON
+chapter-101	58	1	Aye	ORG
+chapter-101	58	2	between two of twelve	CARDINAL
+chapter-101	62	1	Massachusetts	GPE
+chapter-101	62	2	Bowditch	PERSON
+chapter-101	62	3	Daboll	PERSON
+chapter-101	66	1	Jove	PERSON
+chapter-101	67	1	Doubloon	ORG
+chapter-101	67	2	one	CARDINAL
+chapter-101	69	1	Ram	ORG
+chapter-101	69	2	Taurus	PRODUCT
+chapter-101	69	3	Bull	ORG
+chapter-101	69	4	Gemini	PERSON
+chapter-101	69	5	Twins	PERSON
+chapter-101	69	6	Virtue	PERSON
+chapter-101	69	7	Virtue	PERSON
+chapter-101	70	1	Virtue	GPE
+chapter-101	70	2	Leo	GPE
+chapter-101	70	3	Lion	PERSON
+chapter-101	70	4	hail Virgo	ORG
+chapter-101	70	5	Virgin	PRODUCT
+chapter-101	71	1	first	ORDINAL
+chapter-101	71	2	Libra	GPE
+chapter-101	71	3	Scales	NORP
+chapter-101	72	1	Scorpio	PRODUCT
+chapter-101	72	2	Scorpion	ORG
+chapter-101	72	3	Sagittarius	PERSON
+chapter-101	72	4	Archer	PERSON
+chapter-101	73	1	Capricornus	ORG
+chapter-101	73	2	Goat	PERSON
+chapter-101	73	3	Aquarius	PERSON
+chapter-101	73	4	Fishes	ORG
+chapter-101	74	1	every year	DATE
+chapter-101	75	1	Stubb	ORG
+chapter-101	77	1	Adieu	ORG
+chapter-101	77	2	Doubloon	ORG
+chapter-101	78	1	King-Post	ORG
+chapter-101	78	2	dodge	ORG
+chapter-101	83	1	sixteen dollars	MONEY
+chapter-101	83	2	two cents	MONEY
+chapter-101	83	3	nine hundred and sixty	CARDINAL
+chapter-101	84	1	Stubb	PERSON
+chapter-101	84	2	nine hundred and sixty	CARDINAL
+chapter-101	84	3	Flask	NORP
+chapter-101	86	1	Manxman	PERSON
+chapter-101	91	1	a month and	DATE
+chapter-101	91	2	some one	CARDINAL
+chapter-101	92	1	two score years ago	DATE
+chapter-101	92	2	Copenhagen	ORG
+chapter-101	100	1	one	CARDINAL
+chapter-101	101	1	Dodge	ORG
+chapter-101	102	1	Queequeg	PERSON
+chapter-101	102	2	Zodiac	PERSON
+chapter-101	105	1	Jove	PERSON
+chapter-101	105	2	Sagittarius	PERSON
+chapter-101	108	1	Fedallah	PERSON
+chapter-101	113	1	Pip	PERSON
+chapter-101	114	1	half	CARDINAL
+chapter-101	118	1	ye	PERSON
+chapter-101	119	1	Murray	GPE
+chapter-101	119	2	Grammar	PERSON
+chapter-101	122	1	ye	PERSON
+chapter-101	125	1	ye	PERSON
+chapter-101	127	1	ye	PERSON
+chapter-101	136	1	two	CARDINAL
+chapter-101	136	2	two	CARDINAL
+chapter-101	138	1	Pip	PERSON
+chapter-101	146	1	the White Whale	ORG
+chapter-101	148	1	Tolland county	GPE
+chapter-101	152	1	hoard ye	PERSON
+chapter-101	157	1	ho	PERSON
+chapter-101	157	2	cook	PERSON
+chapter-101	160	1	Jenny	PERSON
+chapter-101	160	2	Jenny	PERSON

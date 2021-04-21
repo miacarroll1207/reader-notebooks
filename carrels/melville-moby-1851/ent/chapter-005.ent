@@ -1,0 +1,140 @@
+id	sid	eid	entity	type
+chapter-005	2	1	Spouter-Inn	PERSON
+chapter-005	2	2	one	CARDINAL
+chapter-005	3	1	one	CARDINAL
+chapter-005	4	1	first	ORDINAL
+chapter-005	4	2	the New England	FAC
+chapter-005	6	1	three	CARDINAL
+chapter-005	8	1	half-attained	CARDINAL
+chapter-005	9	1	through.--It	ORG
+chapter-005	9	2	the Black Sea	LOC
+chapter-005	9	3	midnight	TIME
+chapter-005	9	4	gale.--It	ORG
+chapter-005	9	5	four	CARDINAL
+chapter-005	9	6	elements.--It	GPE
+chapter-005	9	7	heath.--It	ORG
+chapter-005	9	8	scene.--It	ORG
+chapter-005	9	9	Time	ORG
+chapter-005	10	1	one	CARDINAL
+chapter-005	15	1	Cape-Horner	GPE
+chapter-005	15	2	half	CARDINAL
+chapter-005	15	3	three	CARDINAL
+chapter-005	15	4	three	CARDINAL
+chapter-005	16	1	heathenish	NORP
+chapter-005	17	1	one	CARDINAL
+chapter-005	21	1	fifty years ago	DATE
+chapter-005	21	2	Nathan Swain	PERSON
+chapter-005	21	3	fifteen	QUANTITY
+chapter-005	22	1	Javan	GPE
+chapter-005	22	2	years	DATE
+chapter-005	22	3	Cape	LOC
+chapter-005	22	4	Blanco	GPE
+chapter-005	23	1	full forty feet	QUANTITY
+chapter-005	26	1	one	CARDINAL
+chapter-005	33	1	a penny	MONEY
+chapter-005	33	2	Cape Horn	LOC
+chapter-005	38	1	two	CARDINAL
+chapter-005	38	2	half	CARDINAL
+chapter-005	43	1	Battery	LOC
+chapter-005	44	1	one	CARDINAL
+chapter-005	46	1	some four or five	CARDINAL
+chapter-005	47	1	Iceland	GPE
+chapter-005	48	1	two	CARDINAL
+chapter-005	49	1	half	CARDINAL
+chapter-005	52	1	One	CARDINAL
+chapter-005	57	1	I.	PERSON
+chapter-005	66	1	this morning	TIME
+chapter-005	66	2	a three years' voyage	DATE
+chapter-005	67	1	Hurrah	PERSON
+chapter-005	67	2	Feegees	WORK_OF_ART
+chapter-005	69	1	Labrador	GPE
+chapter-005	70	1	first	ORDINAL
+chapter-005	72	1	One	CARDINAL
+chapter-005	72	2	Labrador	GPE
+chapter-005	76	1	six feet	QUANTITY
+chapter-005	79	1	Southerner	ORG
+chapter-005	79	2	the Alleganian Ridge	GPE
+chapter-005	79	3	Virginia	GPE
+chapter-005	81	1	a few minutes	TIME
+chapter-005	81	2	Bulkington	WORK_OF_ART
+chapter-005	83	1	Bulkington	WORK_OF_ART
+chapter-005	84	1	house	ORG
+chapter-005	85	1	about nine o'clock	TIME
+chapter-005	86	1	two	CARDINAL
+chapter-005	90	1	two	CARDINAL
+chapter-005	90	2	two	CARDINAL
+chapter-005	90	3	Kings	PERSON
+chapter-005	91	1	one	CARDINAL
+chapter-005	96	1	midnight	TIME
+chapter-005	98	1	harpooneer.--I sha	PERSON
+chapter-005	101	1	ye snug	GPE
+chapter-005	102	1	first	ORDINAL
+chapter-005	107	1	about four inches	QUANTITY
+chapter-005	108	1	first	ORDINAL
+chapter-005	109	1	the night	TIME
+chapter-005	111	1	second	ORDINAL
+chapter-005	112	1	the next morning	TIME
+chapter-005	113	1	night	TIME
+chapter-005	118	1	such late hours	TIME
+chapter-005	119	1	twelve o'clock	TIME
+chapter-005	124	1	Saturday	DATE
+chapter-005	124	2	night	TIME
+chapter-005	124	3	Sunday morning	TIME
+chapter-005	132	1	a'ready	PERSON
+chapter-005	136	1	Hecla	NORP
+chapter-005	136	2	storm,--"landlord	PRODUCT
+chapter-005	138	1	half	CARDINAL
+chapter-005	138	2	half	CARDINAL
+chapter-005	140	1	the night	TIME
+chapter-005	141	1	first	ORDINAL
+chapter-005	143	1	New Zealand	GPE
+chapter-005	143	2	morrow	DATE
+chapter-005	143	3	Sunday	DATE
+chapter-005	144	1	last Sunday	DATE
+chapter-005	144	2	four	CARDINAL
+chapter-005	145	1	Saturday	DATE
+chapter-005	145	2	night	TIME
+chapter-005	147	1	reg'lar	PERSON
+chapter-005	148	1	the night	TIME
+chapter-005	149	1	two	CARDINAL
+chapter-005	150	1	Sal	PERSON
+chapter-005	150	2	Sam	PERSON
+chapter-005	150	3	Johnny	PERSON
+chapter-005	151	1	about one night	TIME
+chapter-005	151	2	Sam	PERSON
+chapter-005	152	1	Sal	PERSON
+chapter-005	154	1	Sunday	DATE
+chapter-005	155	1	four	CARDINAL
+chapter-005	160	1	four	CARDINAL
+chapter-005	161	1	one	CARDINAL
+chapter-005	165	1	Indian	NORP
+chapter-005	166	1	South American	NORP
+chapter-005	167	1	Christian	NORP
+chapter-005	168	1	a rainy day	DATE
+chapter-005	174	1	half	CARDINAL
+chapter-005	174	2	all that night	TIME
+chapter-005	176	1	Nod	GPE
+chapter-005	179	1	New Zealand	GPE
+chapter-005	184	1	blackish	NORP
+chapter-005	195	1	the South Seas	LOC
+chapter-005	198	1	New Zealand	GPE
+chapter-005	203	1	second	ORDINAL
+chapter-005	205	1	Ignorance	ORG
+chapter-005	205	2	night	TIME
+chapter-005	208	1	a Thirty Years' War	DATE
+chapter-005	210	1	the South Seas	LOC
+chapter-005	210	2	Christian	NORP
+chapter-005	216	1	a three days' old	DATE
+chapter-005	216	2	Congo	GPE
+chapter-005	217	1	first	ORDINAL
+chapter-005	220	1	Congo	GPE
+chapter-005	221	1	half	CARDINAL
+chapter-005	222	1	First	ORDINAL
+chapter-005	236	1	Peter Coffin	PERSON
+chapter-005	248	1	Queequeg	PERSON
+chapter-005	251	1	Queequeg	PERSON
+chapter-005	252	1	Queequeg	PERSON
+chapter-005	258	1	Christian	NORP
+chapter-005	263	1	Queequeg	PERSON
+chapter-005	263	2	ye	GPE
+chapter-005	264	1	night	TIME

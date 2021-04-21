@@ -1,0 +1,82 @@
+id	sid	eid	entity	type
+chapter-036	1	1	CHAPTER XXXIV	ORG
+chapter-036	2	1	noon	TIME
+chapter-036	2	2	Dough-Boy	PERSON
+chapter-036	3	1	moody Ahab	ORG
+chapter-036	4	1	Starbuck	PERSON
+chapter-036	5	1	Starbuck	PERSON
+chapter-036	5	2	first	ORDINAL
+chapter-036	5	3	Emir	PERSON
+chapter-036	5	4	Starbuck	PERSON
+chapter-036	5	5	Stubb	PERSON
+chapter-036	6	1	second	ORDINAL
+chapter-036	6	2	Emir	PERSON
+chapter-036	6	3	Flask	PERSON
+chapter-036	7	1	third	ORDINAL
+chapter-036	7	2	Emir	PERSON
+chapter-036	7	3	the Grand Turk's	ORG
+chapter-036	8	1	King Ahab's	PERSON
+chapter-036	8	2	Abjectus	PERSON
+chapter-036	8	3	Slave	PERSON
+chapter-036	9	1	ten to one	CARDINAL
+chapter-036	13	1	Belshazzar	ORG
+chapter-036	13	2	Belshazzar	ORG
+chapter-036	14	1	Belshazzar's	ORG
+chapter-036	14	2	Belshazzar	ORG
+chapter-036	15	1	Csar	ORG
+chapter-036	18	1	Ahab	ORG
+chapter-036	20	1	Ahab	ORG
+chapter-036	24	1	Starbuck	ORG
+chapter-036	25	1	Frankfort	ORG
+chapter-036	25	2	German	NORP
+chapter-036	25	3	seven	CARDINAL
+chapter-036	25	4	Imperial Electors	ORG
+chapter-036	25	5	Ahab	ORG
+chapter-036	26	1	Stubb	ORG
+chapter-036	29	1	first	ORDINAL
+chapter-036	30	1	Ahab	ORG
+chapter-036	31	1	Ahab	ORG
+chapter-036	36	1	first	ORDINAL
+chapter-036	39	1	Stubb	PERSON
+chapter-036	40	1	more than three	CARDINAL
+chapter-036	46	1	Pequod	PERSON
+chapter-036	46	2	Flask	GPE
+chapter-036	47	1	three	CARDINAL
+chapter-036	47	2	first	ORDINAL
+chapter-036	47	3	Pequod	PERSON
+chapter-036	49	1	three	CARDINAL
+chapter-036	53	1	Indian	NORP
+chapter-036	53	2	all day	DATE
+chapter-036	54	1	Queequeg	PERSON
+chapter-036	54	2	Tashtego	PERSON
+chapter-036	54	3	Dough-Boy	PERSON
+chapter-036	55	1	Tashtego	PERSON
+chapter-036	56	1	Daggoo	PERSON
+chapter-036	56	2	Dough-Boy's	PERSON
+chapter-036	56	3	Tashtego	PERSON
+chapter-036	58	1	three	CARDINAL
+chapter-036	58	2	Dough-Boy's	PERSON
+chapter-036	60	1	Queequeg	PERSON
+chapter-036	60	2	Tashtego	PERSON
+chapter-036	60	3	Indian	NORP
+chapter-036	60	4	Daggoo	PERSON
+chapter-036	60	5	African	NORP
+chapter-036	65	1	Queequeg	PERSON
+chapter-036	65	2	Dough-Boy	ORG
+chapter-036	66	1	Tashtego	PERSON
+chapter-036	66	2	Steward	PERSON
+chapter-036	67	1	Dough-Boy	WORK_OF_ART
+chapter-036	68	1	days	DATE
+chapter-036	68	2	Queequeg	PERSON
+chapter-036	73	1	three	CARDINAL
+chapter-036	73	2	Moorish	NORP
+chapter-036	75	1	one	CARDINAL
+chapter-036	75	2	American	NORP
+chapter-036	76	1	Pequod	PERSON
+chapter-036	78	1	Ahab	ORG
+chapter-036	79	1	Christendom	GPE
+chapter-036	80	1	Missouri	GPE
+chapter-036	81	1	Spring	PERSON
+chapter-036	81	2	Summer	DATE
+chapter-036	81	3	Logan	PERSON
+chapter-036	81	4	Ahab	PERSON

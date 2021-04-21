@@ -1,0 +1,69 @@
+id	sid	eid	entity	type
+chapter-004	1	1	CHAPTER II	ORG
+chapter-004	2	1	two	CARDINAL
+chapter-004	2	2	Cape Horn	LOC
+chapter-004	2	3	Pacific	LOC
+chapter-004	3	1	Manhatto	PERSON
+chapter-004	3	2	New Bedford	GPE
+chapter-004	4	1	Saturday	DATE
+chapter-004	4	2	night	TIME
+chapter-004	4	3	December	DATE
+chapter-004	5	1	Monday	DATE
+chapter-004	6	1	New Bedford	GPE
+chapter-004	8	1	New Bedford	GPE
+chapter-004	8	2	Nantucket	PERSON
+chapter-004	8	3	Nantucket	PERSON
+chapter-004	8	4	first	ORDINAL
+chapter-004	8	5	American	NORP
+chapter-004	9	1	Nantucket	GPE
+chapter-004	9	2	the Red-Men	FAC
+chapter-004	9	3	Leviathan	GPE
+chapter-004	10	1	Nantucket	GPE
+chapter-004	10	2	first	ORDINAL
+chapter-004	11	1	a night	TIME
+chapter-004	11	2	another night	TIME
+chapter-004	11	3	New Bedford	GPE
+chapter-004	12	1	night	TIME
+chapter-004	14	1	Ishmael	GPE
+chapter-004	14	2	Ishmael	GPE
+chapter-004	15	1	The Crossed Harpoons"--but	WORK_OF_ART
+chapter-004	16	1	ten inches	QUANTITY
+chapter-004	17	1	one	CARDINAL
+chapter-004	18	1	Ishmael	GPE
+chapter-004	24	1	this hour of the night	TIME
+chapter-004	24	2	the last day of the week	DATE
+chapter-004	24	3	quarter	CARDINAL
+chapter-004	28	1	destroyed city	GPE
+chapter-004	28	2	Gomorrah	GPE
+chapter-004	29	1	The Crossed Harpoons	WORK_OF_ART
+chapter-004	29	2	The Sword-Fish	WORK_OF_ART
+chapter-004	30	1	"The Trap.	WORK_OF_ART
+chapter-004	31	1	second	ORDINAL
+chapter-004	32	1	Black Parliament	ORG
+chapter-004	32	2	Tophet	GPE
+chapter-004	33	1	hundred	CARDINAL
+chapter-004	33	2	Angel of Doom	ORG
+chapter-004	35	1	Ishmael	GPE
+chapter-004	35	2	The Trap	WORK_OF_ART
+chapter-004	36	1	misty spray	PERSON
+chapter-004	36	2	underneath--"The Spouter-Inn:--Peter Coffin	LOC
+chapter-004	37	1	I.	ORG
+chapter-004	38	1	Nantucket	GPE
+chapter-004	38	2	Peter	PERSON
+chapter-004	41	1	Euroclydon	PERSON
+chapter-004	41	2	Paul	PERSON
+chapter-004	42	1	Euroclydon	ORG
+chapter-004	42	2	zephyr	PERSON
+chapter-004	42	3	one	CARDINAL
+chapter-004	43	1	Euroclydon	PERSON
+chapter-004	43	2	extant--"it	ORG
+chapter-004	48	1	a million years ago	DATE
+chapter-004	49	1	Euroclydon	PERSON
+chapter-004	52	1	night	TIME
+chapter-004	53	1	summer	DATE
+chapter-004	53	2	summer	DATE
+chapter-004	54	1	Lazarus	PERSON
+chapter-004	56	1	Sumatra	ORG
+chapter-004	59	1	Lazarus	GPE
+chapter-004	59	2	Moluccas	LOC
+chapter-004	62	1	Spouter	WORK_OF_ART

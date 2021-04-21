@@ -1,0 +1,20 @@
+id	sid	eid	entity	type
+chapter-068	1	1	CHAPTER LXVI	ORG
+chapter-068	2	1	Sperm Whale	PERSON
+chapter-068	2	2	late at night	TIME
+chapter-068	4	1	two	CARDINAL
+chapter-068	5	1	Line	LOC
+chapter-068	5	2	Pacific	LOC
+chapter-068	5	3	six hours	TIME
+chapter-068	5	4	morning	TIME
+chapter-068	7	1	Pequod	PERSON
+chapter-068	7	2	one	CARDINAL
+chapter-068	8	1	Queequeg	PERSON
+chapter-068	8	2	three	CARDINAL
+chapter-068	8	3	two	CARDINAL
+chapter-068	13	1	Pantheistic	NORP
+chapter-068	14	1	Queequeg	PERSON
+chapter-068	15	1	15	CARDINAL
+chapter-068	17	1	twenty to thirty feet	QUANTITY
+chapter-068	18	1	de god wat	PERSON
+chapter-068	18	2	Ingin	ORG

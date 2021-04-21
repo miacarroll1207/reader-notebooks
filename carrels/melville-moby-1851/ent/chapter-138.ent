@@ -1,0 +1,14 @@
+id	sid	eid	entity	type
+chapter-138	1	1	CHAPTER C EPILOGUE	ORG
+chapter-138	5	1	one	CARDINAL
+chapter-138	5	2	one	CARDINAL
+chapter-138	6	1	Parsee	GPE
+chapter-138	6	2	Fates	ORG
+chapter-138	6	3	Ahab	PERSON
+chapter-138	6	4	the last day	DATE
+chapter-138	6	5	three	CARDINAL
+chapter-138	7	1	half	CARDINAL
+chapter-138	11	1	almost one	CARDINAL
+chapter-138	11	2	night	TIME
+chapter-138	13	1	the second day	DATE
+chapter-138	14	1	Rachel	PERSON

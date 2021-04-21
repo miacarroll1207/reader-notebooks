@@ -1,0 +1,51 @@
+id	sid	eid	entity	type
+chapter-076	2	1	SPERM	ORG
+chapter-076	2	2	two	CARDINAL
+chapter-076	3	1	folio leviathans	ORG
+chapter-076	3	2	Sperm	PERSON
+chapter-076	5	1	Nantucketer	ORG
+chapter-076	5	2	two	CARDINAL
+chapter-076	6	1	Pequod	ORG
+chapter-076	7	1	first	ORDINAL
+chapter-076	8	1	Sperm	PERSON
+chapter-076	8	2	Whale	PERSON
+chapter-076	8	3	Whale	PERSON
+chapter-076	9	1	Sperm	PERSON
+chapter-076	9	2	Whale	PERSON
+chapter-076	13	1	two	CARDINAL
+chapter-076	17	1	some thirty degrees	QUANTITY
+chapter-076	17	2	about thirty	CARDINAL
+chapter-076	18	1	broad day	DATE
+chapter-076	19	1	two	CARDINAL
+chapter-076	19	2	two	CARDINAL
+chapter-076	20	1	one	CARDINAL
+chapter-076	20	2	two	CARDINAL
+chapter-076	20	3	many cubic feet	QUANTITY
+chapter-076	20	4	two	CARDINAL
+chapter-076	22	1	two	CARDINAL
+chapter-076	23	1	two	CARDINAL
+chapter-076	23	2	two	CARDINAL
+chapter-076	25	1	Leviathan	GPE
+chapter-076	28	1	one	CARDINAL
+chapter-076	28	2	two	CARDINAL
+chapter-076	29	1	two	CARDINAL
+chapter-076	29	2	one	CARDINAL
+chapter-076	31	1	two	CARDINAL
+chapter-076	32	1	two	CARDINAL
+chapter-076	32	2	Euclid	WORK_OF_ART
+chapter-076	34	1	three or four	CARDINAL
+chapter-076	36	1	two	CARDINAL
+chapter-076	36	2	hours	TIME
+chapter-076	42	1	Herschel	GPE
+chapter-076	45	1	Kentucky Mammoth Cave	FAC
+chapter-076	49	1	one	CARDINAL
+chapter-076	49	2	one	CARDINAL
+chapter-076	52	1	some fifteen feet	QUANTITY
+chapter-076	53	1	hypochondriac	ORG
+chapter-076	55	1	some few days	DATE
+chapter-076	55	2	Queequeg	PERSON
+chapter-076	55	3	Daggoo	PERSON
+chapter-076	55	4	Tashtego	PERSON
+chapter-076	56	1	Queequeg	PERSON
+chapter-076	56	2	Michigan	GPE
+chapter-076	57	1	forty-two	QUANTITY

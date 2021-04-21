@@ -1,0 +1,72 @@
+id	sid	eid	entity	type
+chapter-112	1	1	CHAPTER CX	ORG
+chapter-112	2	1	QUEEQUEG	GPE
+chapter-112	3	1	that black midnight	TIME
+chapter-112	4	1	Captain Noah	PERSON
+chapter-112	6	1	Aristotle	PRODUCT
+chapter-112	7	1	Typhoons	ORG
+chapter-112	8	1	Queequeg	PERSON
+chapter-112	10	1	Queequeg	PERSON
+chapter-112	10	2	all day	DATE
+chapter-112	13	1	about half	CARDINAL
+chapter-112	14	1	some days'	DATE
+chapter-112	18	1	Zoroaster	PERSON
+chapter-112	21	1	Chaldee	ORG
+chapter-112	21	2	Greek	NORP
+chapter-112	21	3	Queequeg	PERSON
+chapter-112	22	1	Queequeg	PERSON
+chapter-112	23	1	the day	DATE
+chapter-112	23	2	Nantucket	GPE
+chapter-112	23	3	Nantucket	GPE
+chapter-112	25	1	Nantucket	GPE
+chapter-112	26	1	Queequeg	PERSON
+chapter-112	27	1	heathenish	NORP
+chapter-112	27	2	Lackaday	DATE
+chapter-112	28	1	Queequeg	PERSON
+chapter-112	28	2	Queequeg	PERSON
+chapter-112	31	1	Long Island	LOC
+chapter-112	32	1	two	CARDINAL
+chapter-112	35	1	half	CARDINAL
+chapter-112	35	2	Queequeg	PERSON
+chapter-112	36	1	Queequeg	PERSON
+chapter-112	37	1	one	CARDINAL
+chapter-112	38	1	Queequeg	PERSON
+chapter-112	39	1	a few minutes	TIME
+chapter-112	39	2	one	CARDINAL
+chapter-112	39	3	Yojo	PERSON
+chapter-112	40	1	Yojo	PERSON
+chapter-112	41	1	Queequeg	PERSON
+chapter-112	43	1	Pip	PERSON
+chapter-112	45	1	will ye	PERSON
+chapter-112	47	1	one	CARDINAL
+chapter-112	48	1	one	CARDINAL
+chapter-112	48	2	Pip	PERSON
+chapter-112	52	1	Queequeg	PERSON
+chapter-112	53	1	Starbuck	PERSON
+chapter-112	54	1	Pip	PERSON
+chapter-112	57	1	two	CARDINAL
+chapter-112	57	2	two	CARDINAL
+chapter-112	63	1	Queequeg	PERSON
+chapter-112	63	2	ye	PERSON
+chapter-112	63	3	Queequeg	PERSON
+chapter-112	65	1	Pip	PERSON
+chapter-112	65	2	Pip	PERSON
+chapter-112	66	1	Hark ye	PERSON
+chapter-112	66	2	ye	PERSON
+chapter-112	66	3	Pip	PERSON
+chapter-112	66	4	Antilles	PERSON
+chapter-112	68	1	Pip	PERSON
+chapter-112	71	1	Pip	PERSON
+chapter-112	74	1	Queequeg	PERSON
+chapter-112	75	1	Pip	PERSON
+chapter-112	76	1	Queequeg	PERSON
+chapter-112	79	1	Queequeg	PERSON
+chapter-112	80	1	six months	DATE
+chapter-112	80	2	a day	DATE
+chapter-112	81	1	Queequeg	PERSON
+chapter-112	81	2	a few indolent days	DATE
+chapter-112	83	1	hours	TIME
+chapter-112	84	1	earth	LOC
+chapter-112	84	2	Queequeg	PERSON
+chapter-112	84	3	one	CARDINAL
+chapter-112	85	1	one morning	TIME

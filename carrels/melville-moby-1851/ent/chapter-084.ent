@@ -1,0 +1,73 @@
+id	sid	eid	entity	type
+chapter-084	3	1	one	CARDINAL
+chapter-084	4	1	Jupiter	LOC
+chapter-084	4	2	first	ORDINAL
+chapter-084	4	3	first	ORDINAL
+chapter-084	5	1	the knightly days	DATE
+chapter-084	6	1	Andromeda	ORG
+chapter-084	6	2	Andromeda	ORG
+chapter-084	6	3	Leviathan	PERSON
+chapter-084	6	4	Perseus	PERSON
+chapter-084	7	1	the present day	DATE
+chapter-084	7	2	Leviathan	GPE
+chapter-084	7	3	first	ORDINAL
+chapter-084	8	1	Arkite	NORP
+chapter-084	8	2	Joppa	PERSON
+chapter-084	8	3	Jaffa	PERSON
+chapter-084	8	4	Syrian	NORP
+chapter-084	8	5	Pagan	PERSON
+chapter-084	8	6	Perseus	PERSON
+chapter-084	9	1	Romans	NORP
+chapter-084	9	2	Joppa	PERSON
+chapter-084	9	3	Italy	GPE
+chapter-084	10	1	Joppa	PERSON
+chapter-084	11	1	Andromeda	ORG
+chapter-084	11	2	St. George	GPE
+chapter-084	12	1	Ezekiel	PERSON
+chapter-084	12	2	Bible	WORK_OF_ART
+chapter-084	13	1	St. George	GPE
+chapter-084	14	1	Perseus	ORG
+chapter-084	14	2	St. George	GPE
+chapter-084	14	3	Coffin	ORG
+chapter-084	15	1	Perseus	ORG
+chapter-084	15	2	St. George's	GPE
+chapter-084	15	3	St. George	GPE
+chapter-084	15	4	Leviathan	GPE
+chapter-084	16	1	Philistines	ORG
+chapter-084	16	2	Dagon	GPE
+chapter-084	16	3	Israel	GPE
+chapter-084	17	1	one	CARDINAL
+chapter-084	17	2	England	GPE
+chapter-084	17	3	Nantucket	GPE
+chapter-084	17	4	St. George	GPE
+chapter-084	18	1	St. George's	GPE
+chapter-084	19	1	Hercules	GPE
+chapter-084	19	2	Greek	NORP
+chapter-084	19	3	Crockett	PERSON
+chapter-084	19	4	Kit Carson	PERSON
+chapter-084	23	1	Grecian	NORP
+chapter-084	23	2	Hercules	GPE
+chapter-084	23	3	Hebrew	LANGUAGE
+chapter-084	23	4	Jonah	GPE
+chapter-084	27	1	oriental	NORP
+chapter-084	27	2	Shaster	PERSON
+chapter-084	27	3	Vishnoo	GPE
+chapter-084	27	4	one	CARDINAL
+chapter-084	27	5	three	CARDINAL
+chapter-084	27	6	Vishnoo	GPE
+chapter-084	27	7	Lord;--Vishnoo	PERSON
+chapter-084	27	8	first	ORDINAL
+chapter-084	27	9	ten	CARDINAL
+chapter-084	28	1	Brahma	PERSON
+chapter-084	28	2	Gods	ORG
+chapter-084	28	3	Shaster	PERSON
+chapter-084	28	4	Vishnoo	GPE
+chapter-084	28	5	Vedas	LOC
+chapter-084	28	6	Vishnoo	GPE
+chapter-084	28	7	Vedas	PERSON
+chapter-084	28	8	Vishnoo	GPE
+chapter-084	31	1	Perseus	ORG
+chapter-084	31	2	St. George	GPE
+chapter-084	31	3	Hercules	GPE
+chapter-084	31	4	Jonah	GPE
+chapter-084	31	5	Vishnoo	GPE

@@ -1,0 +1,67 @@
+id	sid	eid	entity	type
+chapter-020	2	1	Queequeg	PERSON
+chapter-020	4	1	bulwarks	LOC
+chapter-020	6	1	Yea	PERSON
+chapter-020	6	2	Captain Bildad	PERSON
+chapter-020	8	1	Queequeg	PERSON
+chapter-020	8	2	christian	NORP
+chapter-020	9	1	the first Congregational Church	ORG
+chapter-020	10	1	Nantucket	GPE
+chapter-020	11	1	First Congregational Church	ORG
+chapter-020	11	2	Bildad	PERSON
+chapter-020	12	1	Deacon Deuteronomy Coleman's	ORG
+chapter-020	13	1	bulwarks	LOC
+chapter-020	13	2	Queequeg	PERSON
+chapter-020	17	1	Bildad	PERSON
+chapter-020	17	2	Deacon Deuteronomy's	ORG
+chapter-020	18	1	day	DATE
+chapter-020	19	1	Deacon Deuteronomy	ORG
+chapter-020	19	2	Queequeg	PERSON
+chapter-020	19	3	the First Congregational Church	ORG
+chapter-020	20	1	Queequeg	PERSON
+chapter-020	21	1	Bildad	PERSON
+chapter-020	21	2	Hittite	PERSON
+chapter-020	25	1	Catholic Church	ORG
+chapter-020	25	2	Queequeg	PERSON
+chapter-020	28	1	Deacon Deuteronomy	ORG
+chapter-020	28	2	Mapple	PERSON
+chapter-020	30	1	Quohog	PERSON
+chapter-020	31	1	Quohog	PERSON
+chapter-020	34	1	Quohog	PERSON
+chapter-020	36	1	Queequeg	PERSON
+chapter-020	36	2	one	CARDINAL
+chapter-020	36	3	Cap'ain	PERSON
+chapter-020	39	1	Bildad	PERSON
+chapter-020	40	1	Queequeg	PERSON
+chapter-020	41	1	Bildad	PERSON
+chapter-020	42	1	Bildad	PERSON
+chapter-020	43	1	Quohog	PERSON
+chapter-020	44	1	Quohog	PERSON
+chapter-020	44	2	Nantucket	GPE
+chapter-020	45	1	joy Queequeg	PERSON
+chapter-020	46	1	Quohog	PERSON
+chapter-020	47	1	Quohog	PERSON
+chapter-020	49	1	Queequeg	PERSON
+chapter-020	49	2	Peleg	PERSON
+chapter-020	49	3	this:-- Quohog	PERSON
+chapter-020	51	1	Bildad	PERSON
+chapter-020	51	2	Queequeg	PERSON
+chapter-020	51	3	one	CARDINAL
+chapter-020	51	4	The Latter Day Coming	WORK_OF_ART
+chapter-020	51	5	Queequeg	PERSON
+chapter-020	51	6	Pagan	PERSON
+chapter-020	51	7	Belial	ORG
+chapter-020	52	1	Bell	ORG
+chapter-020	55	1	Bildad	LOC
+chapter-020	55	2	Scriptural	ORG
+chapter-020	56	1	Bildad	PERSON
+chapter-020	58	1	Nat Swaine	ORG
+chapter-020	58	2	Nantucket	GPE
+chapter-020	59	1	Davy Jones	PERSON
+chapter-020	62	1	Bildad	PERSON
+chapter-020	64	1	Pequod	PERSON
+chapter-020	64	2	three	CARDINAL
+chapter-020	64	3	typhoon	LOC
+chapter-020	64	4	Japan	GPE
+chapter-020	64	5	Captain Ahab	PERSON
+chapter-020	70	1	three	CARDINAL

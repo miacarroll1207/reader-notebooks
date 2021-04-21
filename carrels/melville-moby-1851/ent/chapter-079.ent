@@ -1,0 +1,24 @@
+id	sid	eid	entity	type
+chapter-079	2	1	the Baling of the Case	PERSON
+chapter-079	4	1	Sperm	PERSON
+chapter-079	4	2	two	CARDINAL
+chapter-079	5	1	two	CARDINAL
+chapter-079	6	1	18	CARDINAL
+chapter-079	6	2	Quoin	GPE
+chapter-079	6	3	Euclidean	NORP
+chapter-079	9	1	one	CARDINAL
+chapter-079	10	1	one	CARDINAL
+chapter-079	10	2	ten thousand	CARDINAL
+chapter-079	11	1	Heidelburgh Tun	PERSON
+chapter-079	13	1	Heidelburgh	GPE
+chapter-079	13	2	Rhenish	GPE
+chapter-079	15	1	first	ORDINAL
+chapter-079	16	1	about five hundred gallons	QUANTITY
+chapter-079	17	1	the Heidelburgh Tun	FAC
+chapter-079	17	2	Sperm	PERSON
+chapter-079	18	1	one third	CARDINAL
+chapter-079	18	2	eighty feet	QUANTITY
+chapter-079	18	3	twenty-six feet	QUANTITY
+chapter-079	20	1	that quarter	DATE
+chapter-079	21	1	Sperm Whale's	PERSON
+chapter-079	21	2	Heidelburgh Tun	PERSON

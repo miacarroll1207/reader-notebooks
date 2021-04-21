@@ -1,0 +1,55 @@
+id	sid	eid	entity	type
+chapter-063	2	1	Squid	ORG
+chapter-063	2	2	Queequeg	PERSON
+chapter-063	4	1	The next day	DATE
+chapter-063	4	2	Pequod	PERSON
+chapter-063	5	1	the Indian Ocean	LOC
+chapter-063	5	2	the Rio de la Plata	FAC
+chapter-063	5	3	Peru	GPE
+chapter-063	7	1	first	ORDINAL
+chapter-063	9	1	three	CARDINAL
+chapter-063	10	1	east	LOC
+chapter-063	10	2	west	LOC
+chapter-063	13	1	lee	PERSON
+chapter-063	13	2	forty	DATE
+chapter-063	13	3	Sperm Whale	PERSON
+chapter-063	13	4	Ethiopian	NORP
+chapter-063	14	1	afternoon	TIME
+chapter-063	16	1	three	CARDINAL
+chapter-063	22	1	Ontario Indians	NORP
+chapter-063	23	1	forty feet	QUANTITY
+chapter-063	25	1	Stubb	PERSON
+chapter-063	26	1	Stubb	PERSON
+chapter-063	33	1	12	CARDINAL
+chapter-063	33	2	12	CARDINAL
+chapter-063	36	1	New York	GPE
+chapter-063	38	1	Stubb	PERSON
+chapter-063	39	1	Tashtego	PERSON
+chapter-063	40	1	Tash	PERSON
+chapter-063	44	1	one	CARDINAL
+chapter-063	44	2	Indian	NORP
+chapter-063	48	1	Daggoo	ORG
+chapter-063	50	1	Koo	PERSON
+chapter-063	51	1	Queequeg	PERSON
+chapter-063	51	2	Grenadier	ORG
+chapter-063	53	1	Stubb	PERSON
+chapter-063	59	1	Stubb	PERSON
+chapter-063	59	2	two	CARDINAL
+chapter-063	60	1	Stubb	ORG
+chapter-063	61	1	two	CARDINAL
+chapter-063	65	1	13	CARDINAL
+chapter-063	67	1	Tashtego	PERSON
+chapter-063	68	1	13	CARDINAL
+chapter-063	68	2	Dutch	NORP
+chapter-063	70	1	two	CARDINAL
+chapter-063	72	1	Tashtego	GPE
+chapter-063	73	1	Whole Atlantics and Pacifics	ORG
+chapter-063	75	1	Stubb	PERSON
+chapter-063	77	1	Stubb	PERSON
+chapter-063	78	1	brooks	ORG
+chapter-063	81	1	Stubb	PERSON
+chapter-063	86	1	Stubb	PERSON
+chapter-063	88	1	the day	DATE
+chapter-063	90	1	red gore	PERSON
+chapter-063	92	1	Stubb	PERSON
+chapter-063	92	2	Daggoo	ORG

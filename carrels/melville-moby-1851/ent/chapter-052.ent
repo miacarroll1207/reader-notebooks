@@ -1,0 +1,25 @@
+id	sid	eid	entity	type
+chapter-052	1	1	CHAPTER L. AHAB'S	PERSON
+chapter-052	1	2	CREW	ORG
+chapter-052	3	1	Stubb	PERSON
+chapter-052	3	2	one	CARDINAL
+chapter-052	8	1	one	CARDINAL
+chapter-052	11	1	Tamerlane	ORG
+chapter-052	13	1	two	CARDINAL
+chapter-052	14	1	Pequod	PERSON
+chapter-052	15	1	five	CARDINAL
+chapter-052	15	2	Pequod	PERSON
+chapter-052	19	1	Moby Dick	PERSON
+chapter-052	22	1	earth	LOC
+chapter-052	22	2	Japanese	NORP
+chapter-052	22	3	Beelzebub	PERSON
+chapter-052	23	1	Fedallah	ORG
+chapter-052	24	1	Ahab	ORG
+chapter-052	24	2	half	CARDINAL
+chapter-052	25	1	Fedallah	ORG
+chapter-052	26	1	Asiatic	LOC
+chapter-052	26	2	Oriental	NORP
+chapter-052	26	3	earth	LOC
+chapter-052	26	4	first	ORDINAL
+chapter-052	26	5	Genesis	PERSON
+chapter-052	26	6	Rabbins	PERSON

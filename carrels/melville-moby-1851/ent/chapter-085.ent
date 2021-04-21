@@ -1,0 +1,56 @@
+id	sid	eid	entity	type
+chapter-085	4	1	Greeks	PERSON
+chapter-085	4	2	Romans	NORP
+chapter-085	4	3	Hercules	GPE
+chapter-085	4	4	Arion	ORG
+chapter-085	5	1	One	CARDINAL
+chapter-085	5	2	Sag-Harbor	ORG
+chapter-085	5	3	Hebrew	NORP
+chapter-085	5	4	Bibles	GPE
+chapter-085	5	5	one	CARDINAL
+chapter-085	5	6	Jonah	PERSON
+chapter-085	5	7	two	CARDINAL
+chapter-085	5	8	Leviathan	GPE
+chapter-085	5	9	A penny	MONEY
+chapter-085	6	1	Bishop Jebb's	PERSON
+chapter-085	7	1	Bishop	PRODUCT
+chapter-085	8	1	Bishop	ORG
+chapter-085	9	1	Whale	PERSON
+chapter-085	10	1	second	ORDINAL
+chapter-085	11	1	Sag-Harbor	ORG
+chapter-085	12	1	German	NORP
+chapter-085	12	2	French	NORP
+chapter-085	12	3	Russian	NORP
+chapter-085	13	1	Jonah	PERSON
+chapter-085	13	2	Joppa	PERSON
+chapter-085	13	3	The Whale	WORK_OF_ART
+chapter-085	13	4	Shark	PERSON
+chapter-085	13	5	the "Eagle	WORK_OF_ART
+chapter-085	15	1	Sag-Harbor	ORG
+chapter-085	17	1	Jonah	PERSON
+chapter-085	17	2	the Mediterranean Sea	LOC
+chapter-085	17	3	three days	DATE
+chapter-085	17	4	three days'	DATE
+chapter-085	17	5	Nineveh	GPE
+chapter-085	17	6	Tigris	NORP
+chapter-085	17	7	Mediterranean	LOC
+chapter-085	22	1	Mediterranean	LOC
+chapter-085	22	2	the Persian Gulf	LOC
+chapter-085	22	3	Red Sea	LOC
+chapter-085	22	4	Africa	LOC
+chapter-085	22	5	three days	DATE
+chapter-085	22	6	Tigris	NORP
+chapter-085	22	7	Nineveh	GPE
+chapter-085	23	1	Bartholomew Diaz	PERSON
+chapter-085	24	1	Sag-Harbor	ORG
+chapter-085	26	1	Portuguese Catholic	NORP
+chapter-085	26	2	the Cape of Good Hope	WORK_OF_ART
+chapter-085	28	1	this day	DATE
+chapter-085	28	2	Turks	NORP
+chapter-085	28	3	Jonah	GPE
+chapter-085	29	1	some three centuries ago	DATE
+chapter-085	29	2	English	NORP
+chapter-085	29	3	Harris	PERSON
+chapter-085	29	4	Turkish	NORP
+chapter-085	29	5	Jonah	GPE
+chapter-085	29	6	mosque	FAC

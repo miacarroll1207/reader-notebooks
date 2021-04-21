@@ -1,0 +1,20 @@
+id	sid	eid	entity	type
+chapter-097	2	1	lee	PERSON
+chapter-097	3	1	as half	CARDINAL
+chapter-097	3	2	cone,--longer	PRODUCT
+chapter-097	3	3	Kentuckian	NORP
+chapter-097	3	4	Yojo	PERSON
+chapter-097	3	5	Queequeg	PERSON
+chapter-097	5	1	Queen Maachah	ORG
+chapter-097	5	2	Judea	DATE
+chapter-097	5	3	Kedron	PERSON
+chapter-097	5	4	15th	ORDINAL
+chapter-097	5	5	Kings	LOC
+chapter-097	6	1	two	CARDINAL
+chapter-097	7	1	African	NORP
+chapter-097	9	1	some three feet	QUANTITY
+chapter-097	9	2	two	CARDINAL
+chapter-097	14	1	21	CARDINAL
+chapter-097	14	2	21	CARDINAL
+chapter-097	14	3	Bible	WORK_OF_ART
+chapter-097	15	1	Bible	WORK_OF_ART

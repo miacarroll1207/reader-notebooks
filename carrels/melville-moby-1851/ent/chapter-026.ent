@@ -1,0 +1,96 @@
+id	sid	eid	entity	type
+chapter-026	2	1	ADVOCATE	ORG
+chapter-026	2	2	Queequeg	PERSON
+chapter-026	2	3	ye landsmen	PERSON
+chapter-026	3	1	first	ORDINAL
+chapter-026	4	1	S. W. F. (Sperm Whale Fishery	PERSON
+chapter-026	5	1	one	CARDINAL
+chapter-026	8	1	ye shall	PERSON
+chapter-026	8	2	earth	LOC
+chapter-026	15	1	Dutch	NORP
+chapter-026	15	2	De Witt's	GPE
+chapter-026	16	1	Louis XVI	PERSON
+chapter-026	17	1	France	GPE
+chapter-026	17	2	Dunkirk	LOC
+chapter-026	17	3	two	CARDINAL
+chapter-026	17	4	Nantucket	GPE
+chapter-026	18	1	Britain	GPE
+chapter-026	18	2	between the years 1750 and 1788	DATE
+chapter-026	18	3	1,000,000	CARDINAL
+chapter-026	19	1	America	GPE
+chapter-026	19	2	seven hundred	QUANTITY
+chapter-026	19	3	eighteen thousand	CARDINAL
+chapter-026	19	4	yearly	DATE
+chapter-026	19	5	4,000,000 of dollars	MONEY
+chapter-026	19	6	20,000,000	MONEY
+chapter-026	19	7	every year	DATE
+chapter-026	19	8	7,000,000	MONEY
+chapter-026	21	1	half	CARDINAL
+chapter-026	22	1	one	CARDINAL
+chapter-026	22	2	the last sixty years	DATE
+chapter-026	22	3	one	CARDINAL
+chapter-026	23	1	One	CARDINAL
+chapter-026	23	2	Egyptian	NORP
+chapter-026	26	1	many years	DATE
+chapter-026	26	2	earth	LOC
+chapter-026	27	1	Cook	PERSON
+chapter-026	27	2	Vancouver	GPE
+chapter-026	28	1	American	NORP
+chapter-026	28	2	European	NORP
+chapter-026	28	3	first	ORDINAL
+chapter-026	29	1	Krusensterns	GPE
+chapter-026	29	2	Captains	ORG
+chapter-026	29	3	Nantucket	GPE
+chapter-026	29	4	Krusenstern	ORG
+chapter-026	30	1	heathenish	NORP
+chapter-026	30	2	javelin islands	GPE
+chapter-026	30	3	Cooke	PERSON
+chapter-026	31	1	South Sea Voyages	LOC
+chapter-026	32	1	Vancouver	GPE
+chapter-026	32	2	three	CARDINAL
+chapter-026	35	1	Cape Horn	PERSON
+chapter-026	35	2	Europe	LOC
+chapter-026	35	3	Spanish	NORP
+chapter-026	35	4	the Pacific coast	LOC
+chapter-026	36	1	first	ORDINAL
+chapter-026	36	2	Spanish	NORP
+chapter-026	36	3	Peru	GPE
+chapter-026	36	4	Chili	GPE
+chapter-026	36	5	Bolivia	GPE
+chapter-026	36	6	Spain	GPE
+chapter-026	37	1	America	GPE
+chapter-026	37	2	Australia	GPE
+chapter-026	38	1	first	ORDINAL
+chapter-026	38	2	Dutchman	NORP
+chapter-026	40	1	first	ORDINAL
+chapter-026	40	2	Australian	NORP
+chapter-026	41	1	Polynesia	GPE
+chapter-026	41	2	first	ORDINAL
+chapter-026	42	1	Japan	GPE
+chapter-026	43	1	fifty	CARDINAL
+chapter-026	46	1	first	ORDINAL
+chapter-026	46	2	Leviathan	PERSON
+chapter-026	48	1	first	ORDINAL
+chapter-026	49	1	Alfred the Great	PERSON
+chapter-026	49	2	Norwegian	NORP
+chapter-026	50	1	Parliament	ORG
+chapter-026	51	1	Edmund Burke	PERSON
+chapter-026	55	1	Benjamin Franklin	PERSON
+chapter-026	55	2	Mary Morrel	PERSON
+chapter-026	55	3	Mary Folger	PERSON
+chapter-026	55	4	Nantucket	GPE
+chapter-026	55	5	Folgers	ORG
+chapter-026	55	6	Benjamin	PERSON
+chapter-026	55	7	this day	DATE
+chapter-026	59	1	English	LANGUAGE
+chapter-026	63	1	one	CARDINAL
+chapter-026	63	2	Roman	NORP
+chapter-026	63	3	Syrian	NORP
+chapter-026	67	1	Cetus	ORG
+chapter-026	67	2	South	LOC
+chapter-026	69	1	Czar	ORG
+chapter-026	69	2	Queequeg	PERSON
+chapter-026	71	1	lifetime	DATE
+chapter-026	71	2	three hundred and fifty	CARDINAL
+chapter-026	74	1	Yale College	ORG
+chapter-026	74	2	Harvard	ORG

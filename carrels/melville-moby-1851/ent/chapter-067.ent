@@ -1,0 +1,32 @@
+id	sid	eid	entity	type
+chapter-067	2	1	Stubb	PERSON
+chapter-067	3	1	three centuries ago	DATE
+chapter-067	3	2	France	GPE
+chapter-067	4	1	Henry	GPE
+chapter-067	5	1	this day	DATE
+chapter-067	9	1	nearly one hundred feet	QUANTITY
+chapter-067	10	1	Stubb	PERSON
+chapter-067	10	2	Esquimaux	PERSON
+chapter-067	12	1	Zogranda	GPE
+chapter-067	12	2	one	CARDINAL
+chapter-067	13	1	Greenland	GPE
+chapter-067	13	2	several months	DATE
+chapter-067	14	1	Dutch	NORP
+chapter-067	14	2	Amsterdam	PERSON
+chapter-067	19	1	the third month	DATE
+chapter-067	23	1	Sperm Whale	PERSON
+chapter-067	24	1	two	CARDINAL
+chapter-067	24	2	two	CARDINAL
+chapter-067	24	3	one	CARDINAL
+chapter-067	26	1	Et tu Brute	WORK_OF_ART
+chapter-067	28	1	i. e.	PERSON
+chapter-067	29	1	first	ORDINAL
+chapter-067	30	1	Saturday	DATE
+chapter-067	30	2	night	TIME
+chapter-067	34	1	Fejee	ORG
+chapter-067	34	2	Fejee	PERSON
+chapter-067	34	3	the day	DATE
+chapter-067	35	1	Stubb	PERSON
+chapter-067	40	1	the Society for the Suppression of Cruelty to Ganders	ORG
+chapter-067	41	1	the last month	DATE
+chapter-067	41	2	two	CARDINAL

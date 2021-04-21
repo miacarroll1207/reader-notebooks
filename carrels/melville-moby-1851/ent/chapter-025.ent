@@ -1,0 +1,15 @@
+id	sid	eid	entity	type
+chapter-025	2	1	one	CARDINAL
+chapter-025	2	2	Bulkington	GPE
+chapter-025	2	3	New Bedford	GPE
+chapter-025	3	1	winter	DATE
+chapter-025	3	2	Pequod	PERSON
+chapter-025	3	3	Bulkington	GPE
+chapter-025	4	1	mid-winter	DATE
+chapter-025	4	2	a four years'	DATE
+chapter-025	6	1	no epitaphs	TIME
+chapter-025	6	2	six-inch	QUANTITY
+chapter-025	6	3	Bulkington	GPE
+chapter-025	9	1	one	CARDINAL
+chapter-025	11	1	ye	PERSON
+chapter-025	11	2	Bulkington	PERSON

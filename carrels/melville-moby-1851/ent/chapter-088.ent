@@ -1,0 +1,47 @@
+id	sid	eid	entity	type
+chapter-088	3	1	Sperm Whale's	PERSON
+chapter-088	3	2	at least fifty square feet	QUANTITY
+chapter-088	4	1	two	CARDINAL
+chapter-088	4	2	less than an inch	QUANTITY
+chapter-088	7	1	twenty feet	QUANTITY
+chapter-088	8	1	three	CARDINAL
+chapter-088	8	2	distinct strata	PERSON
+chapter-088	11	1	Roman	PERSON
+chapter-088	17	1	Hercules	GPE
+chapter-088	18	1	devout Eckerman	ORG
+chapter-088	18	2	Roman	NORP
+chapter-088	19	1	Angelo	PERSON
+chapter-088	20	1	Son	PRODUCT
+chapter-088	20	2	Italian	NORP
+chapter-088	23	1	Five	CARDINAL
+chapter-088	24	1	First	ORDINAL
+chapter-088	24	2	Second	ORDINAL
+chapter-088	24	3	Third	ORDINAL
+chapter-088	24	4	Fourth	ORDINAL
+chapter-088	24	5	Fifth	ORDINAL
+chapter-088	25	1	First	ORDINAL
+chapter-088	25	2	Leviathan	GPE
+chapter-088	31	1	Second	ORDINAL
+chapter-088	31	2	one	CARDINAL
+chapter-088	35	1	two	CARDINAL
+chapter-088	38	1	Third	ORDINAL
+chapter-088	41	1	Darmonodes	PERSON
+chapter-088	42	1	one	CARDINAL
+chapter-088	43	1	Fourth	ORDINAL
+chapter-088	47	1	Fifth	ORDINAL
+chapter-088	47	2	at least thirty feet	QUANTITY
+chapter-088	50	1	Baltic	LOC
+chapter-088	51	1	Dantean	LOC
+chapter-088	51	2	Isaiah	GPE
+chapter-088	53	1	Persia	GPE
+chapter-088	54	1	Ptolemy Philopater	PERSON
+chapter-088	54	2	African	NORP
+chapter-088	55	1	King Juba	PERSON
+chapter-088	55	2	the morning	TIME
+chapter-088	56	1	two	CARDINAL
+chapter-088	57	1	Leviathan	GPE
+chapter-088	57	2	Leviathan	GPE
+chapter-088	58	1	Indian	NORP
+chapter-088	59	1	19	CARDINAL
+chapter-088	59	2	19	CARDINAL
+chapter-088	63	1	Free-Mason	ORG

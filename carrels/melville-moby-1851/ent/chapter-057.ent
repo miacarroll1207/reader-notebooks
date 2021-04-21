@@ -1,0 +1,100 @@
+id	sid	eid	entity	type
+chapter-057	2	1	THE MONSTROUS PICTURES OF WHALES	ORG
+chapter-057	3	1	the present day	DATE
+chapter-057	5	1	Egyptian	NORP
+chapter-057	5	2	Grecian	NORP
+chapter-057	6	1	Saladin	PERSON
+chapter-057	6	2	St. George's	GPE
+chapter-057	7	1	Elephanta	GPE
+chapter-057	7	2	India	GPE
+chapter-057	8	1	Brahmins	ORG
+chapter-057	10	1	the Matse Avatar	ORG
+chapter-057	11	1	half	CARDINAL
+chapter-057	11	2	half	CARDINAL
+chapter-057	13	1	Galleries	PERSON
+chapter-057	13	2	Christian	NORP
+chapter-057	14	1	Guido	PERSON
+chapter-057	14	2	Andromeda	ORG
+chapter-057	15	1	Guido	PERSON
+chapter-057	16	1	Hogarth	ORG
+chapter-057	16	2	Perseus Descending	WORK_OF_ART
+chapter-057	16	3	one	CARDINAL
+chapter-057	17	1	Hogarthian	NORP
+chapter-057	17	2	one inch	QUANTITY
+chapter-057	18	1	Traitors	ORG
+chapter-057	18	2	Thames	GPE
+chapter-057	18	3	Tower	FAC
+chapter-057	19	1	Prodromus	GPE
+chapter-057	19	2	Scotch Sibbald	ORG
+chapter-057	19	3	Jonah	PERSON
+chapter-057	19	4	Bibles	PERSON
+chapter-057	23	1	Italian	NORP
+chapter-057	23	2	the 15th century	DATE
+chapter-057	23	3	the Revival of Learning	FAC
+chapter-057	23	4	those days	DATE
+chapter-057	23	5	Leviathan	GPE
+chapter-057	24	1	Saratoga	ORG
+chapter-057	24	2	Baden-Baden	GPE
+chapter-057	25	1	the "Advancement of Learning"	LAW
+chapter-057	27	1	Harris	PERSON
+chapter-057	27	2	Dutch	NORP
+chapter-057	27	3	A.D. 1671	DATE
+chapter-057	27	4	A Whaling Voyage to Spitzbergen in the ship Jonas	WORK_OF_ART
+chapter-057	27	5	Whale	PERSON
+chapter-057	27	6	Peter Peterson	PERSON
+chapter-057	27	7	Friesland	GPE
+chapter-057	28	1	one	CARDINAL
+chapter-057	30	1	one	CARDINAL
+chapter-057	30	2	Captain Colnett	PERSON
+chapter-057	30	3	English	NORP
+chapter-057	30	4	A Voyage round Cape Horn into the South Seas	WORK_OF_ART
+chapter-057	30	5	the Spermaceti Whale Fisheries	FAC
+chapter-057	31	1	Picture of a Physeter or	WORK_OF_ART
+chapter-057	31	2	Spermaceti	PERSON
+chapter-057	31	3	one	CARDINAL
+chapter-057	31	4	Mexico	GPE
+chapter-057	31	5	August, 1793	DATE
+chapter-057	33	1	one	CARDINAL
+chapter-057	33	2	sperm whale	PERSON
+chapter-057	33	3	some five feet	QUANTITY
+chapter-057	36	1	Goldsmith's Animated Nature	WORK_OF_ART
+chapter-057	37	1	London	GPE
+chapter-057	37	2	1807	DATE
+chapter-057	38	1	one	CARDINAL
+chapter-057	38	2	this nineteenth century	DATE
+chapter-057	39	1	1825	DATE
+chapter-057	39	2	Bernard Germain	PERSON
+chapter-057	39	3	Count de Lacpde	PERSON
+chapter-057	39	4	Leviathan	GPE
+chapter-057	40	1	Mysticetus	ORG
+chapter-057	40	2	Greenland	PERSON
+chapter-057	40	3	Scoresby	PERSON
+chapter-057	41	1	Frederick Cuvier	PERSON
+chapter-057	42	1	1836	DATE
+chapter-057	42	2	Sperm	PERSON
+chapter-057	43	1	Nantucketer	ORG
+chapter-057	43	2	Nantucket	GPE
+chapter-057	44	1	Frederick Cuvier's	PERSON
+chapter-057	44	2	Sperm Whale	PERSON
+chapter-057	44	3	Sperm Whale	PERSON
+chapter-057	46	1	Desmarest	LOC
+chapter-057	46	2	Chinese	NORP
+chapter-057	47	1	Chinese	NORP
+chapter-057	49	1	Richard III	PERSON
+chapter-057	50	1	whales	ORG
+chapter-057	50	2	three or four	CARDINAL
+chapter-057	54	1	Leviathan	GPE
+chapter-057	56	1	Platonian	NORP
+chapter-057	56	2	Leviathan	PERSON
+chapter-057	56	3	one	CARDINAL
+chapter-057	59	1	Leviathan	GPE
+chapter-057	60	1	Jeremy Bentham's	PERSON
+chapter-057	60	2	one	CARDINAL
+chapter-057	60	3	Jeremy	GPE
+chapter-057	61	1	Hunter	PERSON
+chapter-057	64	1	four	CARDINAL
+chapter-057	66	1	Stubb	PERSON
+chapter-057	66	2	one day	DATE
+chapter-057	67	1	Leviathan	PERSON
+chapter-057	68	1	one	CARDINAL
+chapter-057	71	1	Leviathan	GPE

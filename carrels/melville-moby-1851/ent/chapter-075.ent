@@ -1,0 +1,69 @@
+id	sid	eid	entity	type
+chapter-075	2	1	Sperm Whale's	PERSON
+chapter-075	2	2	Pequod	PERSON
+chapter-075	5	1	the past night	TIME
+chapter-075	5	2	forenoon	PERSON
+chapter-075	5	3	Pequod	PERSON
+chapter-075	5	4	Whales	PERSON
+chapter-075	5	5	Leviathan	GPE
+chapter-075	6	1	Pequod	PERSON
+chapter-075	6	2	Crozetts	LOC
+chapter-075	6	3	Sperm Whale	PERSON
+chapter-075	6	4	that day	DATE
+chapter-075	8	1	two	CARDINAL
+chapter-075	8	2	Stubb	PERSON
+chapter-075	12	1	three	CARDINAL
+chapter-075	16	1	a few minutes	TIME
+chapter-075	16	2	one	CARDINAL
+chapter-075	17	1	only a few feet	QUANTITY
+chapter-075	19	1	two	CARDINAL
+chapter-075	20	1	Pequod	GPE
+chapter-075	20	2	Sperm	PERSON
+chapter-075	20	3	Whale	PERSON
+chapter-075	20	4	Israelites	PERSON
+chapter-075	22	1	two	CARDINAL
+chapter-075	23	1	Stubb	PERSON
+chapter-075	25	1	Flask	PERSON
+chapter-075	25	2	Sperm Whale's	ORG
+chapter-075	25	3	Right Whale's	PERSON
+chapter-075	25	4	Stubb	PERSON
+chapter-075	27	1	Fedallah	ORG
+chapter-075	29	1	half	CARDINAL
+chapter-075	29	2	Stubb	PERSON
+chapter-075	30	1	Stubb	PERSON
+chapter-075	32	1	a dark night	TIME
+chapter-075	32	2	Flask"--pointing	CARDINAL
+chapter-075	32	3	hands--"Aye	PERSON
+chapter-075	33	1	Fedallah	PERSON
+chapter-075	40	1	nights	TIME
+chapter-075	45	1	White Whale	ORG
+chapter-075	45	2	Moby Dick	PERSON
+chapter-075	47	1	Fedallah	PERSON
+chapter-075	51	1	John	PERSON
+chapter-075	54	1	John the Asiatic	PERSON
+chapter-075	54	2	one	CARDINAL
+chapter-075	57	1	two	CARDINAL
+chapter-075	58	1	Three	CARDINAL
+chapter-075	59	1	three	CARDINAL
+chapter-075	63	1	Stubb	PERSON
+chapter-075	63	2	Pequod	PERSON
+chapter-075	70	1	Fedallah	ORG
+chapter-075	70	2	Stubb	PERSON
+chapter-075	72	1	Pequod	PERSON
+chapter-075	72	2	Fedallah	PERSON
+chapter-075	74	1	Stubb	PERSON
+chapter-075	74	2	Fedallah	PERSON
+chapter-075	84	1	Fedallah	ORG
+chapter-075	84	2	Captain Ahab	PERSON
+chapter-075	87	1	Beelzebub	PERSON
+chapter-075	88	1	Stubb	PERSON
+chapter-075	91	1	Stubb	PERSON
+chapter-075	95	1	Flask	PERSON
+chapter-075	97	1	Pequod	ORG
+chapter-075	98	1	Locke	GPE
+chapter-075	98	2	Kant	GPE
+chapter-075	105	1	Fedallah	PERSON
+chapter-075	106	1	Parsee	GPE
+chapter-075	106	2	Parsee	GPE
+chapter-075	106	3	lengthen Ahab's	ORG
+chapter-075	107	1	Laplandish	NORP

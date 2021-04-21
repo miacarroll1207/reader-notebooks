@@ -1,0 +1,58 @@
+id	sid	eid	entity	type
+chapter-091	3	1	one	CARDINAL
+chapter-091	4	1	second	ORDINAL
+chapter-091	6	1	Holland	GPE
+chapter-091	7	1	A.D. 1695	DATE
+chapter-091	8	1	American	NORP
+chapter-091	9	1	Chinese	NORP
+chapter-091	9	2	Society for the Suppression of Meddling	ORG
+chapter-091	9	3	People's Business	ORG
+chapter-091	10	1	Queen Anne's	PERSON
+chapter-091	11	1	I.	ORG
+chapter-091	16	1	First	ORDINAL
+chapter-091	17	1	nine-inch	QUANTITY
+chapter-091	19	1	Coke	ORG
+chapter-091	20	1	one	CARDINAL
+chapter-091	22	1	Some fifty years ago	DATE
+chapter-091	22	2	England	GPE
+chapter-091	22	3	Northern	LOC
+chapter-091	26	1	Erskine	PERSON
+chapter-091	29	1	years	DATE
+chapter-091	31	1	Erskine	PERSON
+chapter-091	35	1	two	CARDINAL
+chapter-091	35	2	two	CARDINAL
+chapter-091	35	3	the Temple of the Law	FAC
+chapter-091	35	4	the Temple of the Philistines	FAC
+chapter-091	35	5	two	CARDINAL
+chapter-091	36	1	half	CARDINAL
+chapter-091	38	1	Russian	NORP
+chapter-091	38	2	Republican	NORP
+chapter-091	41	1	Mordecai	PERSON
+chapter-091	41	2	Woebegone	ORG
+chapter-091	41	3	Woebegone	ORG
+chapter-091	42	1	Savesoul	ORG
+chapter-091	42	2	100,000	CARDINAL
+chapter-091	42	3	hundreds of thousands	CARDINAL
+chapter-091	42	4	Savesoul	ORG
+chapter-091	42	5	100,000	CARDINAL
+chapter-091	43	1	Dunder	ORG
+chapter-091	44	1	John Bull	PERSON
+chapter-091	44	2	Ireland	GPE
+chapter-091	45	1	Brother Jonathan	PERSON
+chapter-091	45	2	Texas	GPE
+chapter-091	47	1	Loose-Fish	GPE
+chapter-091	49	1	America	GPE
+chapter-091	49	2	1492	DATE
+chapter-091	49	3	Columbus	GPE
+chapter-091	49	4	Spanish	NORP
+chapter-091	50	1	Poland	GPE
+chapter-091	50	2	Czar	ORG
+chapter-091	51	1	Greece	GPE
+chapter-091	51	2	Turk	PERSON
+chapter-091	52	1	India	GPE
+chapter-091	52	2	England	GPE
+chapter-091	53	1	Mexico	GPE
+chapter-091	53	2	the United States	GPE
+chapter-091	55	1	the Rights of Man and the Liberties of the World but Loose-Fish	LAW
+chapter-091	56	1	Loose-Fish	PERSON
+chapter-091	58	1	Loose-Fish	PERSON

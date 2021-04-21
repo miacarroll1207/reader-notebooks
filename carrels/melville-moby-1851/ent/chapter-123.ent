@@ -1,0 +1,15 @@
+id	sid	eid	entity	type
+chapter-123	2	1	FORECASTLE	ORG
+chapter-123	3	1	Stubb	PERSON
+chapter-123	12	1	Aquarius	PERSON
+chapter-123	13	1	Marine Insurance	ORG
+chapter-123	16	1	First	ORDINAL
+chapter-123	20	1	one	CARDINAL
+chapter-123	20	2	a hundred	CARDINAL
+chapter-123	20	3	ten thousand	CARDINAL
+chapter-123	21	1	King-Post	ORG
+chapter-123	24	1	half	CARDINAL
+chapter-123	25	1	Stubb	PERSON
+chapter-123	31	1	two	CARDINAL
+chapter-123	45	1	whew	ORG
+chapter-123	47	1	a nasty night	TIME

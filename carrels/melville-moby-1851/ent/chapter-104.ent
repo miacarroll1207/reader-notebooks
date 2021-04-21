@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-104	4	1	Ishmael	GPE
+chapter-104	6	1	Stubb	PERSON
+chapter-104	6	2	Cetacea	ORG
+chapter-104	7	1	Ishmael	GPE
+chapter-104	10	1	Ishmael	GPE
+chapter-104	10	2	Jonah	LOC
+chapter-104	11	1	Jonah	PERSON
+chapter-104	12	1	Sperm Whale	PERSON
+chapter-104	14	1	Tranquo	PERSON
+chapter-104	14	2	Tranque	NORP
+chapter-104	15	1	Tranque	GPE
+chapter-104	15	2	Algiers	GPE
+chapter-104	15	3	Arsacidean	NORP
+chapter-104	15	4	Tranque	NORP
+chapter-104	15	5	Pupella	GPE
+chapter-104	15	6	Bamboo-Town	FAC
+chapter-104	16	1	Tranquo	PERSON
+chapter-104	16	2	Pupella	PERSON
+chapter-104	17	1	Sperm Whale	PERSON
+chapter-104	18	1	Pupella	PERSON
+chapter-104	19	1	Arsacidean	NORP
+chapter-104	19	2	Damocles	PERSON
+chapter-104	26	1	palace	ORG
+chapter-104	28	1	one	CARDINAL
+chapter-104	30	1	thousand	CARDINAL
+chapter-104	36	1	Arsacidean	NORP
+chapter-104	37	1	every month	DATE
+chapter-104	39	1	Tranquo	PERSON
+chapter-104	42	1	Arsacidean	NORP
+chapter-104	48	1	Dar'st	WORK_OF_ART
+chapter-104	50	1	Aye	PERSON
+chapter-104	53	1	first	ORDINAL
+chapter-104	55	1	a Leviathanic Museum	ORG
+chapter-104	55	2	Hull	GPE
+chapter-104	55	3	England	GPE
+chapter-104	55	4	one	CARDINAL
+chapter-104	56	1	Manchester	LOC
+chapter-104	56	2	New Hampshire	GPE
+chapter-104	56	3	Greenland	GPE
+chapter-104	56	4	River Whale	ORG
+chapter-104	56	5	the United States	GPE
+chapter-104	57	1	Yorkshire	GPE
+chapter-104	57	2	England	GPE
+chapter-104	57	3	Burton Constable	ORG
+chapter-104	57	4	Clifford Constable	PERSON
+chapter-104	57	5	Sperm Whale	PERSON
+chapter-104	57	6	King Tranquo's	PERSON
+chapter-104	58	1	two	CARDINAL
+chapter-104	59	1	Tranquo	PERSON
+chapter-104	59	2	Clifford	PERSON
+chapter-104	60	1	Clifford	PERSON
+chapter-104	60	2	all day	DATE
+chapter-104	62	1	Clifford	PERSON

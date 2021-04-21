@@ -1,0 +1,111 @@
+id	sid	eid	entity	type
+chapter-044	2	1	Ahab	ORG
+chapter-044	3	1	Moby Dick	PERSON
+chapter-044	6	1	japonicas	PERSON
+chapter-044	6	2	Pegu	PERSON
+chapter-044	6	3	Lord of the White Elephants	WORK_OF_ART
+chapter-044	6	4	Hanoverian	NORP
+chapter-044	6	5	one	CARDINAL
+chapter-044	6	6	Austrian	NORP
+chapter-044	6	7	Empire	GPE
+chapter-044	6	8	Csarian	NORP
+chapter-044	6	9	Rome	GPE
+chapter-044	6	10	Romans	NORP
+chapter-044	6	11	a joyful day	DATE
+chapter-044	6	12	the Red Men of America	ORG
+chapter-044	6	13	Justice	ORG
+chapter-044	6	14	daily	DATE
+chapter-044	6	15	august	DATE
+chapter-044	6	16	Persian	NORP
+chapter-044	6	17	Greek	NORP
+chapter-044	6	18	Great Jove	PERSON
+chapter-044	6	19	Iroquois	NORP
+chapter-044	6	20	White Dog	ORG
+chapter-044	6	21	the Great Spirit	FAC
+chapter-044	6	22	Latin	NORP
+chapter-044	6	23	Christian	NORP
+chapter-044	6	24	one	CARDINAL
+chapter-044	6	25	Romish	NORP
+chapter-044	6	26	the Vision of St. John	ORG
+chapter-044	6	27	four-and-twenty	CARDINAL
+chapter-044	6	28	the Holy One	LOC
+chapter-044	11	1	5	CARDINAL
+chapter-044	11	2	5	CARDINAL
+chapter-044	11	3	Polar	ORG
+chapter-044	11	4	two	CARDINAL
+chapter-044	11	5	Polar	ORG
+chapter-044	13	1	Polar	ORG
+chapter-044	14	1	French	NORP
+chapter-044	15	1	Romish	NORP
+chapter-044	16	1	French	NORP
+chapter-044	18	1	Nature	ORG
+chapter-044	19	1	6	CARDINAL
+chapter-044	19	2	6	CARDINAL
+chapter-044	19	3	first	ORDINAL
+chapter-044	20	1	Antarctic	GPE
+chapter-044	21	1	Roman	PERSON
+chapter-044	26	1	Abraham	PERSON
+chapter-044	35	1	Coleridge	ORG
+chapter-044	35	2	Rhyme	PRODUCT
+chapter-044	36	1	Rhyme	PERSON
+chapter-044	38	1	Antarctic	GPE
+chapter-044	43	1	Western	NORP
+chapter-044	43	2	Indian	NORP
+chapter-044	43	3	thousand	CARDINAL
+chapter-044	44	1	Xerxes	PERSON
+chapter-044	44	2	those days	DATE
+chapter-044	44	3	the Rocky Mountains	LOC
+chapter-044	47	1	Adam	PERSON
+chapter-044	48	1	Ohio	GPE
+chapter-044	48	2	Indians	NORP
+chapter-044	50	1	Albatross	PERSON
+chapter-044	51	1	Albino	LOC
+chapter-044	55	1	Nature	WORK_OF_ART
+chapter-044	56	1	the Southern Seas	LOC
+chapter-044	56	2	the White Squall	FAC
+chapter-044	58	1	Froissart	GPE
+chapter-044	58	2	White Hoods of Ghent	ORG
+chapter-044	60	1	one	CARDINAL
+chapter-044	62	1	Yea	PERSON
+chapter-044	70	1	the day	DATE
+chapter-044	71	1	the Middle American	NORP
+chapter-044	71	2	a White Friar	FAC
+chapter-044	71	3	a White Nun	FAC
+chapter-044	72	1	the White Tower of London	FAC
+chapter-044	72	2	American	NORP
+chapter-044	72	3	the Byward Tower	FAC
+chapter-044	72	4	Bloody	GPE
+chapter-044	73	1	the White Mountains of New Hampshire	LOC
+chapter-044	73	2	Virginia	GPE
+chapter-044	73	3	Blue Ridge	FAC
+chapter-044	74	1	White Sea	LOC
+chapter-044	74	2	Yellow Sea	LOC
+chapter-044	75	1	Central Europe	LOC
+chapter-044	75	2	Hartz	PERSON
+chapter-044	75	3	Blocksburg	ORG
+chapter-044	76	1	Lima	GPE
+chapter-044	77	1	Lima	GPE
+chapter-044	78	1	Pizarro	ORG
+chapter-044	80	1	two	CARDINAL
+chapter-044	81	1	First	ORDINAL
+chapter-044	81	2	night	TIME
+chapter-044	81	3	midnight	TIME
+chapter-044	83	1	Second	ORDINAL
+chapter-044	83	2	Indian	NORP
+chapter-044	83	3	Peru	GPE
+chapter-044	83	4	Andes	LOC
+chapter-044	84	1	West	LOC
+chapter-044	85	1	Antarctic	GPE
+chapter-044	85	2	half	CARDINAL
+chapter-044	86	1	Ishmael	GPE
+chapter-044	87	1	Vermont	GPE
+chapter-044	88	1	New England	LOC
+chapter-044	88	2	Oregon	GPE
+chapter-044	90	1	thousands of miles	QUANTITY
+chapter-044	90	2	Oregon	GPE
+chapter-044	91	1	Ishmael	GPE
+chapter-044	94	1	Christian	NORP
+chapter-044	94	2	Deity	ORG
+chapter-044	97	1	Nature	ORG
+chapter-044	97	2	Lapland	GPE
+chapter-044	98	1	Albino	PERSON

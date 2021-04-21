@@ -1,0 +1,47 @@
+id	sid	eid	entity	type
+chapter-094	2	1	1791	DATE
+chapter-094	2	2	Captain Coffin	ORG
+chapter-094	2	3	the English House of Commons	ORG
+chapter-094	3	1	late day	DATE
+chapter-094	4	1	French	NORP
+chapter-094	4	2	two	CARDINAL
+chapter-094	5	1	ambergris	PERSON
+chapter-094	7	1	Turks	NORP
+chapter-094	7	2	Mecca	GPE
+chapter-094	7	3	St. Peter's	PERSON
+chapter-094	7	4	Rome	GPE
+chapter-094	12	1	three or four	CARDINAL
+chapter-094	12	2	Brandreth	PERSON
+chapter-094	13	1	first	ORDINAL
+chapter-094	13	2	Stubb	PERSON
+chapter-094	15	1	St. Paul	GPE
+chapter-094	15	2	Corinthians	NORP
+chapter-094	17	1	Cologne	PERSON
+chapter-094	18	1	Frenchman	NORP
+chapter-094	18	2	two	CARDINAL
+chapter-094	23	1	first	ORDINAL
+chapter-094	23	2	Greenland	PERSON
+chapter-094	23	3	London	GPE
+chapter-094	23	4	more than two centuries ago	DATE
+chapter-094	24	1	Southern	NORP
+chapter-094	24	2	Icy Seas	PERSON
+chapter-094	25	1	Greenland	PERSON
+chapter-094	26	1	Greenland	GPE
+chapter-094	26	2	Dutch	NORP
+chapter-094	26	3	Schmerenburgh	GPE
+chapter-094	26	4	Smeerenberg	PERSON
+chapter-094	26	5	Fogo Von Slack	PERSON
+chapter-094	26	6	Smells	EVENT
+chapter-094	27	1	berg	PERSON
+chapter-094	27	2	Dutch	NORP
+chapter-094	27	3	Holland	GPE
+chapter-094	29	1	South Sea	LOC
+chapter-094	29	2	Sperm Whaler	PERSON
+chapter-094	29	3	a voyage of four years	DATE
+chapter-094	29	4	fifty days	DATE
+chapter-094	30	1	the middle ages	DATE
+chapter-094	30	2	Jew	ORG
+chapter-094	32	1	Sperm Whale's	PERSON
+chapter-094	33	1	Sperm	PERSON
+chapter-094	34	1	Indian	NORP
+chapter-094	34	2	Alexander the Great	PERSON

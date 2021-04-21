@@ -1,0 +1,64 @@
+id	sid	eid	entity	type
+chapter-015	2	1	Next morning	TIME
+chapter-015	2	2	Monday	DATE
+chapter-015	3	1	Queequeg	PERSON
+chapter-015	3	2	Peter Coffin's	ORG
+chapter-015	4	1	Queequeg	PERSON
+chapter-015	4	2	Moss	PERSON
+chapter-015	5	1	Queequeg	PERSON
+chapter-015	6	1	Queequeg	PERSON
+chapter-015	9	1	Queequeg	PERSON
+chapter-015	10	1	first	ORDINAL
+chapter-015	11	1	Sag Harbor	FAC
+chapter-015	13	1	Queequeg	PERSON
+chapter-015	14	1	Queequeg	PERSON
+chapter-015	17	1	Rokovoko	GPE
+chapter-015	18	1	Rokovoko	ORG
+chapter-015	18	2	Queequeg	PERSON
+chapter-015	18	3	ten	CARDINAL
+chapter-015	19	1	Queequeg	PERSON
+chapter-015	20	1	Grace	ORG
+chapter-015	20	2	Queequeg	PERSON
+chapter-015	20	3	Grace	PERSON
+chapter-015	21	1	Priest	LOC
+chapter-015	21	2	Captain	ORG
+chapter-015	22	1	Queequeg	PERSON
+chapter-015	25	1	one	CARDINAL
+chapter-015	25	2	New Bedford	GPE
+chapter-015	26	1	coopers	ORG
+chapter-015	26	2	one	CARDINAL
+chapter-015	26	3	second	ORDINAL
+chapter-015	26	4	second	ORDINAL
+chapter-015	26	5	third	ORDINAL
+chapter-015	28	1	Moss	PERSON
+chapter-015	29	1	Tartar	ORG
+chapter-015	30	1	Queequeg	PERSON
+chapter-015	32	1	Moss	PERSON
+chapter-015	32	2	Sultan	PERSON
+chapter-015	33	1	two	CARDINAL
+chapter-015	33	2	Indian	NORP
+chapter-015	34	1	two	CARDINAL
+chapter-015	34	2	negro	GPE
+chapter-015	36	1	one	CARDINAL
+chapter-015	38	1	Queequeg	PERSON
+chapter-015	41	1	Capting, Capting	WORK_OF_ART
+chapter-015	42	1	Hallo	PERSON
+chapter-015	42	2	Queequeg	PERSON
+chapter-015	45	1	Queequeg	PERSON
+chapter-015	47	1	Queequeg	PERSON
+chapter-015	48	1	Queequeg	PERSON
+chapter-015	48	2	Queequeg	PERSON
+chapter-015	52	1	Queequeg	PERSON
+chapter-015	53	1	one	CARDINAL
+chapter-015	55	1	Queequeg	PERSON
+chapter-015	56	1	Queequeg	PERSON
+chapter-015	57	1	three minutes	TIME
+chapter-015	60	1	Queequeg	PERSON
+chapter-015	61	1	A few minutes more	TIME
+chapter-015	64	1	Queequeg	PERSON
+chapter-015	65	1	that hour	TIME
+chapter-015	65	2	Queequeg	PERSON
+chapter-015	65	3	Queequeg	PERSON
+chapter-015	67	1	the Humane and Magnanimous Societies	ORG
+chapter-015	68	1	himself--"It	ORG
+chapter-015	69	1	Christians	NORP

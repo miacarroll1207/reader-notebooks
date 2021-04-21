@@ -1,0 +1,287 @@
+id	sid	eid	entity	type
+chapter-034	2	1	CETOLOGY	ORG
+chapter-034	3	1	Pequod	ORG
+chapter-034	8	1	Zoology	GPE
+chapter-034	8	2	Cetology	GPE
+chapter-034	8	3	Captain Scoresby	PERSON
+chapter-034	8	4	A.D. 1820	DATE
+chapter-034	10	1	sperm whale	PERSON
+chapter-034	10	2	Surgeon Beale	PERSON
+chapter-034	10	3	A.D. 1839	DATE
+chapter-034	15	1	John Hunter	PERSON
+chapter-034	15	2	Lesson	PERSON
+chapter-034	18	1	few:--The Authors	ORG
+chapter-034	18	2	Bible	WORK_OF_ART
+chapter-034	18	3	Aristotle	PERSON
+chapter-034	18	4	Aldrovandi	PERSON
+chapter-034	18	5	Thomas Browne	PERSON
+chapter-034	18	6	Gesner	PERSON
+chapter-034	18	7	Ray	PERSON
+chapter-034	18	8	Linnus	GPE
+chapter-034	18	9	Rondeletius	PERSON
+chapter-034	18	10	Willoughby	PERSON
+chapter-034	18	11	Green	PERSON
+chapter-034	18	12	Artedi	PERSON
+chapter-034	18	13	Sibbald	PERSON
+chapter-034	18	14	Brisson	PERSON
+chapter-034	18	15	Marten	PERSON
+chapter-034	18	16	Lacpde	PERSON
+chapter-034	18	17	Bonneterre	PERSON
+chapter-034	18	18	Desmarest	LOC
+chapter-034	18	19	Cuvier	PERSON
+chapter-034	18	20	Frederick Cuvier	PERSON
+chapter-034	18	21	John Hunter	PERSON
+chapter-034	18	22	Owen	PERSON
+chapter-034	18	23	Scoresby	PERSON
+chapter-034	18	24	Beale	PERSON
+chapter-034	18	25	Bennett	PERSON
+chapter-034	18	26	J. Ross Browne	PERSON
+chapter-034	18	27	the Author of Miriam Coffin	GPE
+chapter-034	18	28	Olmstead	PERSON
+chapter-034	19	1	T. Cheever	ORG
+chapter-034	21	1	Owen	ORG
+chapter-034	21	2	one	CARDINAL
+chapter-034	22	1	Captain Scoresby	PERSON
+chapter-034	23	1	Greenland	PERSON
+chapter-034	24	1	Scoresby	PERSON
+chapter-034	24	2	Greenland	PERSON
+chapter-034	25	1	Greenland	PERSON
+chapter-034	27	1	some seventy years	DATE
+chapter-034	28	1	past days	DATE
+chapter-034	28	2	Greenland	PERSON
+chapter-034	30	1	Charing Cross	PERSON
+chapter-034	31	1	Greenland	PERSON
+chapter-034	32	1	only two	CARDINAL
+chapter-034	33	1	Beale	ORG
+chapter-034	33	2	Bennett	PERSON
+chapter-034	33	3	English South-Sea	LOC
+chapter-034	43	1	Post	ORG
+chapter-034	46	1	Job	GPE
+chapter-034	51	1	First	ORDINAL
+chapter-034	51	2	Cetology	GPE
+chapter-034	51	3	some quarters	DATE
+chapter-034	52	1	A.D. 1776	DATE
+chapter-034	52	2	Linnus	PERSON
+chapter-034	53	1	the year 1850	DATE
+chapter-034	53	2	Linnus	ORG
+chapter-034	53	3	Leviathan	GPE
+chapter-034	54	1	Linnus	GPE
+chapter-034	54	2	lege natur	PERSON
+chapter-034	54	3	meritoque	PERSON
+chapter-034	55	1	Simeon Macey	PERSON
+chapter-034	55	2	Charley Coffin	PERSON
+chapter-034	55	3	Nantucket	GPE
+chapter-034	59	1	Linnus	PERSON
+chapter-034	66	1	first	ORDINAL
+chapter-034	70	1	Cetology	GPE
+chapter-034	72	1	3	CARDINAL
+chapter-034	72	2	Lamatins	ORG
+chapter-034	72	3	Dugongs	PERSON
+chapter-034	72	4	the Coffins of Nantucket	ORG
+chapter-034	73	1	the Kingdom of Cetology	GPE
+chapter-034	74	1	First	ORDINAL
+chapter-034	74	2	three	CARDINAL
+chapter-034	74	3	BOOKS	ORG
+chapter-034	75	1	I.	ORG
+chapter-034	76	1	II	ORG
+chapter-034	77	1	the OCTAVO WHALE	ORG
+chapter-034	77	2	III	ORG
+chapter-034	78	1	DUODECIMO	PERSON
+chapter-034	79	1	Sperm Whale	PERSON
+chapter-034	79	2	OCTAVO	ORG
+chapter-034	79	3	Grampus	PRODUCT
+chapter-034	79	4	DUODECIMO	PERSON
+chapter-034	79	5	Porpoise	ORG
+chapter-034	82	1	Sperm	PERSON
+chapter-034	82	2	II	ORG
+chapter-034	83	1	Whale	PERSON
+chapter-034	83	2	III	ORG
+chapter-034	85	1	Hump	PERSON
+chapter-034	85	2	Whale	ORG
+chapter-034	85	3	V. the Razor Back Whale	PERSON
+chapter-034	85	4	VI	GPE
+chapter-034	89	1	Sperm	PERSON
+chapter-034	89	2	English	LANGUAGE
+chapter-034	89	3	Trumpa	PERSON
+chapter-034	89	4	Physeter	PERSON
+chapter-034	89	5	French	NORP
+chapter-034	89	6	Pottfisch	PERSON
+chapter-034	89	7	Germans	NORP
+chapter-034	89	8	Macrocephalus of the Long Words	WORK_OF_ART
+chapter-034	94	1	Some centuries ago	DATE
+chapter-034	94	2	Sperm	PERSON
+chapter-034	94	3	those days spermaceti	DATE
+chapter-034	94	4	England	GPE
+chapter-034	94	5	Greenland	FAC
+chapter-034	95	1	first	ORDINAL
+chapter-034	101	1	CHAPTER II	LAW
+chapter-034	102	1	one	CARDINAL
+chapter-034	102	2	first	ORDINAL
+chapter-034	104	1	Whale	PERSON
+chapter-034	104	2	the Black Whale	ORG
+chapter-034	104	3	the Great Whale	ORG
+chapter-034	104	4	the True Whale	ORG
+chapter-034	104	5	the Right Whale	PERSON
+chapter-034	106	1	second	ORDINAL
+chapter-034	107	1	English	NORP
+chapter-034	107	2	the English Whalemen	ORG
+chapter-034	107	3	the Baliene Ordinaire	PERSON
+chapter-034	107	4	French	NORP
+chapter-034	107	5	the Growlands Walfish	PERSON
+chapter-034	107	6	Swedes	NORP
+chapter-034	108	1	more than two centuries	DATE
+chapter-034	108	2	Dutch	NORP
+chapter-034	108	3	English	LANGUAGE
+chapter-034	108	4	Arctic	LOC
+chapter-034	108	5	American	NORP
+chapter-034	108	6	the Indian ocean	LOC
+chapter-034	108	7	the Brazil Banks	ORG
+chapter-034	108	8	West Coast	LOC
+chapter-034	109	1	Greenland	PERSON
+chapter-034	109	2	English	LANGUAGE
+chapter-034	109	3	Americans	NORP
+chapter-034	115	1	Fin-Back).--Under	PERSON
+chapter-034	115	2	Fin-Back	PERSON
+chapter-034	115	3	Tall-Spout	PERSON
+chapter-034	115	4	Long-John	PERSON
+chapter-034	115	5	Atlantic	LOC
+chapter-034	115	6	New York	GPE
+chapter-034	116	1	Fin	ORG
+chapter-034	119	1	some three or four feet	CARDINAL
+chapter-034	126	1	Whalebone	ORG
+chapter-034	127	1	Whalebone	ORG
+chapter-034	129	1	Leviathan	GPE
+chapter-034	129	2	Cetology	GPE
+chapter-034	133	1	Greenland	PERSON
+chapter-034	135	1	one	CARDINAL
+chapter-034	138	1	Nay	PERSON
+chapter-034	138	2	Greenland	PERSON
+chapter-034	139	1	Greenland	PERSON
+chapter-034	140	1	fiftieth	ORDINAL
+chapter-034	143	1	Bibliographical	FAC
+chapter-034	146	1	CHAPTER IV	ORG
+chapter-034	147	1	American	NORP
+chapter-034	149	1	Elephant	ORG
+chapter-034	149	2	Castle	ORG
+chapter-034	156	1	Cape Horn	GPE
+chapter-034	162	1	CHAPTER VI	ORG
+chapter-034	163	1	Sulphur Bottom).--Another	PERSON
+chapter-034	163	2	Tartarian	NORP
+chapter-034	168	1	Nantucketer	ORG
+chapter-034	170	1	Folio	ORG
+chapter-034	171	1	Octavo	ORG
+chapter-034	172	1	OCTAVOES	ORG
+chapter-034	173	1	4	CARDINAL
+chapter-034	173	2	numbered:--I.	PERSON
+chapter-034	173	3	Grampus	PRODUCT
+chapter-034	173	4	the Black Fish	LOC
+chapter-034	173	5	Narwhale	PERSON
+chapter-034	173	6	IV.	GPE
+chapter-034	173	7	Thrasher	PERSON
+chapter-034	173	8	Killer	PERSON
+chapter-034	174	1	4	CARDINAL
+chapter-034	174	2	Quarto	PERSON
+chapter-034	175	1	Quarto	ORG
+chapter-034	175	2	Folio	ORG
+chapter-034	175	3	Octavo	ORG
+chapter-034	177	1	Octavo	ORG
+chapter-034	180	1	fifteen to twenty-five feet	DATE
+chapter-034	184	1	Octavo	ORG
+chapter-034	184	2	CHAPTER II	ORG
+chapter-034	187	1	the Black Fish	LOC
+chapter-034	188	1	the Hyena Whale	ORG
+chapter-034	189	1	Mephistophelean	NORP
+chapter-034	190	1	some sixteen or eighteen feet	QUANTITY
+chapter-034	192	1	Roman	NORP
+chapter-034	193	1	Hyena	PERSON
+chapter-034	194	1	thirty gallons	QUANTITY
+chapter-034	196	1	Octavo	ORG
+chapter-034	196	2	CHAPTER III	ORG
+chapter-034	197	1	Narwhale	PERSON
+chapter-034	197	2	Nostril	ORG
+chapter-034	198	1	some sixteen feet	QUANTITY
+chapter-034	198	2	five feet	QUANTITY
+chapter-034	198	3	ten	CARDINAL
+chapter-034	198	4	fifteen feet	QUANTITY
+chapter-034	202	1	Narwhale	PERSON
+chapter-034	203	1	Charley Coffin	PERSON
+chapter-034	203	2	Narwhale	PERSON
+chapter-034	203	3	the Polar Sea	LOC
+chapter-034	205	1	one	CARDINAL
+chapter-034	205	2	Narwhale	PERSON
+chapter-034	206	1	Horned	ORG
+chapter-034	206	2	Unicorn	ORG
+chapter-034	207	1	Unicornism	ORG
+chapter-034	208	1	days	DATE
+chapter-034	211	1	Black Letter	ORG
+chapter-034	211	2	Martin Frobisher	PERSON
+chapter-034	211	3	Queen Bess	PERSON
+chapter-034	211	4	Greenwich Palace	FAC
+chapter-034	211	5	Thames	PERSON
+chapter-034	211	6	Martin	PERSON
+chapter-034	211	7	Black Letter	ORG
+chapter-034	211	8	Narwhale	PERSON
+chapter-034	211	9	Windsor	GPE
+chapter-034	212	1	Irish	NORP
+chapter-034	212	2	the Earl of Leicester	FAC
+chapter-034	213	1	Narwhale	PERSON
+chapter-034	213	2	picturesque	GPE
+chapter-034	217	1	Octavo	ORG
+chapter-034	217	2	CHAPTER IV	ORG
+chapter-034	218	1	Killer).--Of	PERSON
+chapter-034	218	2	Nantucketer	ORG
+chapter-034	220	1	Feegee	GPE
+chapter-034	222	1	Killer	PERSON
+chapter-034	225	1	Bonapartes	GPE
+chapter-034	225	2	Sharks	ORG
+chapter-034	227	1	Octavo	ORG
+chapter-034	229	1	Folio	ORG
+chapter-034	230	1	Killer	ORG
+chapter-034	233	1	Octavo	ORG
+chapter-034	234	1	Duodecimo	PERSON
+chapter-034	236	1	I.	ORG
+chapter-034	240	1	III	ORG
+chapter-034	241	1	Porpoise	ORG
+chapter-034	242	1	four or five feet	QUANTITY
+chapter-034	242	2	WHALES	ORG
+chapter-034	243	1	Duodecimoes	ORG
+chapter-034	245	1	Duodecimo	PERSON
+chapter-034	245	2	Huzza	NORP
+chapter-034	246	1	more than one	CARDINAL
+chapter-034	247	1	July	DATE
+chapter-034	252	1	three	CARDINAL
+chapter-034	252	2	ye	PERSON
+chapter-034	252	3	ye	GPE
+chapter-034	253	1	Huzza Porpoise	PERSON
+chapter-034	253	2	one good gallon	QUANTITY
+chapter-034	260	1	Sperm	PERSON
+chapter-034	262	1	Duodecimo	PERSON
+chapter-034	262	2	CHAPTER II	ORG
+chapter-034	265	1	Pacific	LOC
+chapter-034	270	1	Duodecimo	PERSON
+chapter-034	270	2	CHAPTER III	ORG
+chapter-034	271	1	Porpoise	ORG
+chapter-034	272	1	Porpoise	ORG
+chapter-034	272	2	Pacific	LOC
+chapter-034	273	1	English	LANGUAGE
+chapter-034	273	2	Folio	ORG
+chapter-034	275	1	Indian	NORP
+chapter-034	277	1	two	CARDINAL
+chapter-034	282	1	Leviathans	NORP
+chapter-034	283	1	half	CARDINAL
+chapter-034	283	2	American	NORP
+chapter-034	285	1	System	ORG
+chapter-034	285	2	Folio, Octavo	ORG
+chapter-034	285	3	Duodecimo	PERSON
+chapter-034	285	4	the Leading Whale	ORG
+chapter-034	285	5	the Cannon Whale	PERSON
+chapter-034	285	6	the Scragg Whale	ORG
+chapter-034	285	7	the Coppered Whale	ORG
+chapter-034	285	8	the Elephant Whale	ORG
+chapter-034	285	9	Iceberg Whale	PERSON
+chapter-034	285	10	Quog Whale	PERSON
+chapter-034	285	11	Blue Whale	ORG
+chapter-034	286	1	Icelandic	ORG
+chapter-034	286	2	Dutch	NORP
+chapter-034	286	3	English	LANGUAGE
+chapter-034	291	1	first	ORDINAL

@@ -1,0 +1,62 @@
+id	sid	eid	entity	type
+chapter-074	1	1	CHAPTER LXII	ORG
+chapter-074	4	1	one	CARDINAL
+chapter-074	4	2	one	CARDINAL
+chapter-074	7	1	first	ORDINAL
+chapter-074	9	1	Queequeg	PERSON
+chapter-074	12	1	some ten feet	QUANTITY
+chapter-074	12	2	half	CARDINAL
+chapter-074	12	3	half	CARDINAL
+chapter-074	13	1	Queequeg	PERSON
+chapter-074	13	2	Highland	EVENT
+chapter-074	14	1	second	ORDINAL
+chapter-074	15	1	Italian	NORP
+chapter-074	16	1	Queequeg	PERSON
+chapter-074	18	1	Queequeg	PERSON
+chapter-074	19	1	two	CARDINAL
+chapter-074	19	2	Queequeg	PERSON
+chapter-074	20	1	Siamese	NORP
+chapter-074	21	1	Queequeg	PERSON
+chapter-074	22	1	two	CARDINAL
+chapter-074	23	1	Providence	GPE
+chapter-074	24	1	one	CARDINAL
+chapter-074	27	1	Queequeg	PERSON
+chapter-074	28	1	one	CARDINAL
+chapter-074	29	1	16	CARDINAL
+chapter-074	29	2	16	CARDINAL
+chapter-074	29	3	Pequod	PERSON
+chapter-074	30	1	Stubb	PERSON
+chapter-074	31	1	Queequeg	PERSON
+chapter-074	33	1	the night	TIME
+chapter-074	34	1	Queequeg	PERSON
+chapter-074	38	1	one	CARDINAL
+chapter-074	38	2	Tashtego	PERSON
+chapter-074	38	3	Daggoo	PERSON
+chapter-074	40	1	Queequeg	PERSON
+chapter-074	41	1	Queequeg	PERSON
+chapter-074	41	2	Queequeg	PERSON
+chapter-074	41	3	Yojo	PERSON
+chapter-074	46	1	Queequeg	PERSON
+chapter-074	48	1	Cognac	GPE
+chapter-074	50	1	ye	PERSON
+chapter-074	54	1	Stubb	ORG
+chapter-074	56	1	Ginger	PERSON
+chapter-074	58	1	Dough-Boy	PERSON
+chapter-074	61	1	ginger?--sea	PERSON
+chapter-074	61	2	Queequeg	PERSON
+chapter-074	62	1	Starbuck	PERSON
+chapter-074	64	1	Starbuck	PERSON
+chapter-074	64	2	Queequeg	PERSON
+chapter-074	67	1	Starbuck	PERSON
+chapter-074	68	1	Aye	PERSON
+chapter-074	68	2	Stubb	PERSON
+chapter-074	70	1	Dough-Boy	PERSON
+chapter-074	70	2	Aunt Charity	ORG
+chapter-074	74	1	ye	PERSON
+chapter-074	75	1	Starbuck	PERSON
+chapter-074	77	1	Starbuck	PERSON
+chapter-074	80	1	Stubb	PERSON
+chapter-074	81	1	first	ORDINAL
+chapter-074	81	2	Queequeg	PERSON
+chapter-074	81	3	second	ORDINAL
+chapter-074	81	4	Aunt Charity's	ORG

@@ -1,0 +1,56 @@
+id	sid	eid	entity	type
+chapter-115	2	1	mid-day	DATE
+chapter-115	2	2	Perth	GPE
+chapter-115	2	3	Ahab	PERSON
+chapter-115	3	1	Perth	GPE
+chapter-115	3	2	Ahab	ORG
+chapter-115	4	1	Mother Carey's	PERSON
+chapter-115	4	2	Perth	GPE
+chapter-115	6	1	Captain Ahab	PERSON
+chapter-115	6	2	Perth	GPE
+chapter-115	9	1	Paradise	LOC
+chapter-115	10	1	Thou should'st go mad	PERSON
+chapter-115	17	1	Aye	PERSON
+chapter-115	18	1	Perth	ORG
+chapter-115	18	2	one	CARDINAL
+chapter-115	18	3	thou could'st	PERSON
+chapter-115	24	1	Aye	PERSON
+chapter-115	28	1	one	CARDINAL
+chapter-115	28	2	a thousand yoke	QUANTITY
+chapter-115	28	3	Perth	GPE
+chapter-115	32	1	Captain Ahab	PERSON
+chapter-115	36	1	first	ORDINAL
+chapter-115	36	2	twelve	CARDINAL
+chapter-115	36	3	twelve	CARDINAL
+chapter-115	39	1	twelve	CARDINAL
+chapter-115	42	1	Perth	GPE
+chapter-115	43	1	Perth	ORG
+chapter-115	43	2	twelve	CARDINAL
+chapter-115	43	3	Ahab	PERSON
+chapter-115	44	1	Perth	ORG
+chapter-115	44	2	Parsee	ORG
+chapter-115	47	1	Stubb	PERSON
+chapter-115	48	1	Parsee	ORG
+chapter-115	49	1	Perth	ORG
+chapter-115	49	2	Ahab	ORG
+chapter-115	50	1	Would'st	ORG
+chapter-115	50	2	Perth	GPE
+chapter-115	52	1	Captain Ahab	PERSON
+chapter-115	53	1	the White Whale	ORG
+chapter-115	56	1	the Icy Sea	LOC
+chapter-115	57	1	a moment	TIME
+chapter-115	59	1	Perth	GPE
+chapter-115	62	1	Tashtego	ORG
+chapter-115	62	2	Queequeg	PERSON
+chapter-115	62	3	Daggoo	PERSON
+chapter-115	63	1	ye	PERSON
+chapter-115	67	1	Three	CARDINAL
+chapter-115	67	2	the White Whale's	ORG
+chapter-115	68	1	nomine patris	GPE
+chapter-115	69	1	Ahab	ORG
+chapter-115	70	1	one	CARDINAL
+chapter-115	74	1	one	CARDINAL
+chapter-115	74	2	half	CARDINAL
+chapter-115	75	1	Three	CARDINAL
+chapter-115	76	1	half	CARDINAL
+chapter-115	77	1	Pip	PERSON

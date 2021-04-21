@@ -1,0 +1,51 @@
+id	sid	eid	entity	type
+chapter-017	1	1	CHAPTER XV	ORG
+chapter-017	2	1	Moss	PERSON
+chapter-017	2	2	Queequeg	PERSON
+chapter-017	2	3	that day	DATE
+chapter-017	3	1	the Spouter-Inn	LOC
+chapter-017	3	2	Hosea Hussey	PERSON
+chapter-017	3	3	Nantucket	GPE
+chapter-017	3	4	Hosea	PERSON
+chapter-017	4	1	the Try Pots	FAC
+chapter-017	5	1	three	CARDINAL
+chapter-017	5	2	first	ORDINAL
+chapter-017	5	3	first	ORDINAL
+chapter-017	5	4	Queequeg	PERSON
+chapter-017	5	5	first	ORDINAL
+chapter-017	5	6	Peter Coffin	PERSON
+chapter-017	7	1	Two	CARDINAL
+chapter-017	10	1	two	CARDINAL
+chapter-017	10	2	two	CARDINAL
+chapter-017	10	3	one	CARDINAL
+chapter-017	10	4	Queequeg	PERSON
+chapter-017	12	1	Coffin my Innkeeper	ORG
+chapter-017	12	2	first	ORDINAL
+chapter-017	14	1	Tophet	ORG
+chapter-017	17	1	Queequeg	PERSON
+chapter-017	20	1	Hosea Hussey	PERSON
+chapter-017	20	2	Hussey	PERSON
+chapter-017	21	1	Hussey	PERSON
+chapter-017	22	1	Cods	PERSON
+chapter-017	24	1	Clam or Cod	WORK_OF_ART
+chapter-017	29	1	winter	DATE
+chapter-017	29	2	Mrs Hussey	PERSON
+chapter-017	30	1	Hussey	PERSON
+chapter-017	30	2	two	CARDINAL
+chapter-017	31	1	Queequeg	PERSON
+chapter-017	31	2	one	CARDINAL
+chapter-017	37	1	Queequeg	PERSON
+chapter-017	37	2	Hussey	PERSON
+chapter-017	42	1	Queequeg	PERSON
+chapter-017	47	1	Hussey	PERSON
+chapter-017	47	2	Hosea Hussey	PERSON
+chapter-017	48	1	one morning	TIME
+chapter-017	48	2	Hosea	PERSON
+chapter-017	49	1	Hussey	PERSON
+chapter-017	49	2	Queequeg	PERSON
+chapter-017	53	1	Stiggs	PERSON
+chapter-017	53	2	four years and a half	DATE
+chapter-017	53	3	only three barrels	QUANTITY
+chapter-017	53	4	first	ORDINAL
+chapter-017	53	5	night	TIME
+chapter-017	54	1	Queequeg	PERSON

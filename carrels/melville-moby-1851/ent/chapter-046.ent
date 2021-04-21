@@ -1,0 +1,80 @@
+id	sid	eid	entity	type
+chapter-046	2	1	the night	TIME
+chapter-046	2	2	yellowish	NORP
+chapter-046	4	1	sperm whales	PERSON
+chapter-046	5	1	lamp	DATE
+chapter-046	6	1	this night	TIME
+chapter-046	8	1	four	CARDINAL
+chapter-046	10	1	Ahab	ORG
+chapter-046	11	1	one	CARDINAL
+chapter-046	13	1	7	CARDINAL
+chapter-046	13	2	7	CARDINAL
+chapter-046	13	3	Lieutenant Maury	PERSON
+chapter-046	13	4	the National Observatory	ORG
+chapter-046	13	5	Washington	GPE
+chapter-046	13	6	April 16th, 1851	DATE
+chapter-046	15	1	five degrees	QUANTITY
+chapter-046	15	2	five degrees	QUANTITY
+chapter-046	15	3	twelve	CARDINAL
+chapter-046	15	4	the twelve months	DATE
+chapter-046	15	5	three	CARDINAL
+chapter-046	15	6	one	CARDINAL
+chapter-046	15	7	the number of days	DATE
+chapter-046	15	8	each month	DATE
+chapter-046	15	9	two	CARDINAL
+chapter-046	16	1	one	CARDINAL
+chapter-046	16	2	Deity	ORG
+chapter-046	17	1	one	CARDINAL
+chapter-046	17	2	some few miles	QUANTITY
+chapter-046	20	1	first	ORDINAL
+chapter-046	22	1	this year	DATE
+chapter-046	22	2	the preceding season	DATE
+chapter-046	24	1	Moby Dick	PERSON
+chapter-046	24	2	a former year	DATE
+chapter-046	24	3	Seychelle	PERSON
+chapter-046	24	4	the Indian ocean	LOC
+chapter-046	24	5	Volcano Bay	LOC
+chapter-046	24	6	the Japanese Coast	LOC
+chapter-046	24	7	Pequod	PERSON
+chapter-046	27	1	Ahab	ORG
+chapter-046	28	1	one	CARDINAL
+chapter-046	29	1	several consecutive years	DATE
+chapter-046	29	2	Moby Dick	PERSON
+chapter-046	29	3	annual	DATE
+chapter-046	29	4	one	CARDINAL
+chapter-046	31	1	Ahab	ORG
+chapter-046	31	2	one	CARDINAL
+chapter-046	32	1	Pequod	PERSON
+chapter-046	32	2	Nantucket	GPE
+chapter-046	33	1	Cape Horn	LOC
+chapter-046	33	2	sixty degrees	QUANTITY
+chapter-046	33	3	Pacific	LOC
+chapter-046	34	1	the next ensuing season	DATE
+chapter-046	35	1	the premature hour	TIME
+chapter-046	35	2	Pequod	PERSON
+chapter-046	35	3	Ahab	ORG
+chapter-046	36	1	three hundred and sixty-five days	CARDINAL
+chapter-046	36	2	the White Whale	ORG
+chapter-046	36	3	the Persian Gulf	LOC
+chapter-046	36	4	the Bengal Bay	LOC
+chapter-046	36	5	China	GPE
+chapter-046	37	1	Monsoons	ORG
+chapter-046	37	2	Pampas	PERSON
+chapter-046	37	3	Harmattans	NORP
+chapter-046	37	4	the Levanter and Simoom	ORG
+chapter-046	37	5	Moby Dick	PERSON
+chapter-046	37	6	Pequod	PERSON
+chapter-046	38	1	one	CARDINAL
+chapter-046	38	2	Mufti	FAC
+chapter-046	38	3	Constantinople	ORG
+chapter-046	40	1	Moby Dick	PERSON
+chapter-046	41	1	Ahab	ORG
+chapter-046	41	2	midnight	TIME
+chapter-046	45	1	one	CARDINAL
+chapter-046	47	1	the night	TIME
+chapter-046	47	2	the day	DATE
+chapter-046	47	3	Ahab	ORG
+chapter-046	49	1	Ahab	ORG
+chapter-046	51	1	Ahab	ORG
+chapter-046	51	2	one	CARDINAL
+chapter-046	54	1	Prometheus	PERSON

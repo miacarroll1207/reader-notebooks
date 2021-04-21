@@ -1,0 +1,242 @@
+id	sid	eid	entity	type
+chapter-002	1	1	CHAPTER B EXTRACTS	PERSON
+chapter-002	3	1	Vaticans	NORP
+chapter-002	6	1	Leviathan	GPE
+chapter-002	8	1	Pale Sherry	PERSON
+chapter-002	8	2	one	CARDINAL
+chapter-002	8	3	Sub-Subs	ORG
+chapter-002	10	1	Hampton Court	ORG
+chapter-002	11	1	seven	CARDINAL
+chapter-002	11	2	Gabriel	PERSON
+chapter-002	11	3	Michael	PERSON
+chapter-002	11	4	Raphael	PERSON
+chapter-002	12	1	ye shall	PERSON
+chapter-002	13	1	EXTRACTS	ORG
+chapter-002	16	1	Leviathan	PERSON
+chapter-002	20	1	Leviathan	PERSON
+chapter-002	22	1	that day	DATE
+chapter-002	22	2	Leviathan	PERSON
+chapter-002	22	3	Leviathan	GPE
+chapter-002	25	1	Plutarch's Morals	WORK_OF_ART
+chapter-002	26	1	The Indian Sea	LOC
+chapter-002	26	2	Whales	GPE
+chapter-002	26	3	Whirlpooles	GPE
+chapter-002	26	4	Balne	ORG
+chapter-002	26	5	four acres	QUANTITY
+chapter-002	28	1	two days	DATE
+chapter-002	28	2	Whales	GPE
+chapter-002	31	1	--Tooke	ORG
+chapter-002	31	2	Lucian	NORP
+chapter-002	32	1	The True History	WORK_OF_ART
+chapter-002	34	1	forty-eight	DATE
+chapter-002	34	2	some fifty yards	QUANTITY
+chapter-002	35	1	one	CARDINAL
+chapter-002	35	2	six	CARDINAL
+chapter-002	35	3	sixty	CARDINAL
+chapter-002	35	4	two days	DATE
+chapter-002	36	1	Octher	PERSON
+chapter-002	36	2	King Alfred	GPE
+chapter-002	39	1	Raimond Sebond	PERSON
+chapter-002	41	1	Nick	PERSON
+chapter-002	41	2	Leviathan	PERSON
+chapter-002	41	3	Job	GPE
+chapter-002	43	1	two	CARDINAL
+chapter-002	44	1	--Stowe's Annals	ORG
+chapter-002	45	1	Leviathan	GPE
+chapter-002	46	1	--Lord Bacon's	PERSON
+chapter-002	48	1	one	CARDINAL
+chapter-002	50	1	History of Life and Death	WORK_OF_ART
+chapter-002	51	1	earth	LOC
+chapter-002	52	1	Henry	PERSON
+chapter-002	55	1	Mote	ORG
+chapter-002	55	2	maine	GPE
+chapter-002	56	1	--The Fairie Queen.	PERSON
+chapter-002	58	1	--Sir William Davenant	PERSON
+chapter-002	59	1	Gondibert	PERSON
+chapter-002	60	1	Hosmannus	ORG
+chapter-002	60	2	thirty years	DATE
+chapter-002	60	3	Nescio	ORG
+chapter-002	61	1	--Sir T. Browne	PERSON
+chapter-002	62	1	Sperma Ceti	ORG
+chapter-002	62	2	Sperma Ceti Whale	ORG
+chapter-002	63	1	Spencer	PERSON
+chapter-002	63	2	Talus	ORG
+chapter-002	64	1	jav'lins	PRODUCT
+chapter-002	66	1	Leviathan	PERSON
+chapter-002	66	2	Commonwealth	ORG
+chapter-002	66	3	Latin	NORP
+chapter-002	66	4	Civitas	PERSON
+chapter-002	67	1	Hobbes	GPE
+chapter-002	67	2	Leviathan	GPE
+chapter-002	68	1	Silly Mansoul	PERSON
+chapter-002	70	1	Leviathan	GPE
+chapter-002	72	1	Leviathan	PERSON
+chapter-002	75	1	--Fuller	ORG
+chapter-002	75	2	Profane	ORG
+chapter-002	75	3	Holy State	GPE
+chapter-002	76	1	Leviathan	GPE
+chapter-002	77	1	Annus Mirabilis	ORG
+chapter-002	78	1	twelve or thirteen feet	QUANTITY
+chapter-002	79	1	Ten Voyages	WORK_OF_ART
+chapter-002	79	2	Spitzbergen	ORG
+chapter-002	79	3	Purchass	GPE
+chapter-002	81	1	Asia	LOC
+chapter-002	81	2	Africa	LOC
+chapter-002	82	1	Harris Coll	PERSON
+chapter-002	85	1	Elbe	ORG
+chapter-002	86	1	The Jonas-in-the-Whale	WORK_OF_ART
+chapter-002	88	1	first	ORDINAL
+chapter-002	89	1	Shetland	GPE
+chapter-002	90	1	One	CARDINAL
+chapter-002	90	2	Spitzbergen	ORG
+chapter-002	91	1	Greenland	GPE
+chapter-002	91	2	A.D. 1671	DATE
+chapter-002	92	1	Harris Coll	PERSON
+chapter-002	93	1	Fife)	WORK_OF_ART
+chapter-002	93	2	one eighty feet	QUANTITY
+chapter-002	93	3	500	CARDINAL
+chapter-002	94	1	Pitferren	ORG
+chapter-002	95	1	--Sibbald	PERSON
+chapter-002	95	2	Fife and Kinross	WORK_OF_ART
+chapter-002	96	1	Sperma	GPE
+chapter-002	97	1	--Richard Strafford's	PERSON
+chapter-002	98	1	Phil	PERSON
+chapter-002	100	1	A.D. 1668	DATE
+chapter-002	101	1	Whales	PERSON
+chapter-002	102	1	--N. E. Primer.	PERSON
+chapter-002	103	1	a hundred to one	CARDINAL
+chapter-002	104	1	Cowley	PERSON
+chapter-002	104	2	Globe	ORG
+chapter-002	104	3	A.D. 1729	DATE
+chapter-002	106	1	South America	LOC
+chapter-002	107	1	fifty	CARDINAL
+chapter-002	108	1	seven-fold	CARDINAL
+chapter-002	108	2	Tho	PERSON
+chapter-002	112	1	Nat	PERSON
+chapter-002	115	1	Johnson	PERSON
+chapter-002	116	1	the afternoon	TIME
+chapter-002	120	1	carry dung	PERSON
+chapter-002	121	1	Von Troil's	PERSON
+chapter-002	121	2	Letters on Banks's	WORK_OF_ART
+chapter-002	121	3	Solander's Voyage to Iceland	ORG
+chapter-002	121	4	1772	DATE
+chapter-002	122	1	The Spermacetti Whale	ORG
+chapter-002	122	2	Nantuckois	ORG
+chapter-002	123	1	--Thomas Jefferson's	PERSON
+chapter-002	123	2	Whale Memorial	WORK_OF_ART
+chapter-002	123	3	French	NORP
+chapter-002	123	4	1778	DATE
+chapter-002	125	1	--Edmund Burke's	PERSON
+chapter-002	125	2	Parliament	ORG
+chapter-002	125	3	the Nantucket Whale-Fishery	ORG
+chapter-002	126	1	Spain	GPE
+chapter-002	126	2	Europe	LOC
+chapter-002	127	1	--Edmund Burke	PERSON
+chapter-002	136	1	the Queen's Visit to London	WORK_OF_ART
+chapter-002	137	1	Ten or fifteen gallons	QUANTITY
+chapter-002	138	1	--John Hunter's	PERSON
+chapter-002	140	1	London Bridge	FAC
+chapter-002	141	1	--Paley's Theology	ORG
+chapter-002	144	1	40 degrees	QUANTITY
+chapter-002	144	2	Spermacetti Whales	PERSON
+chapter-002	144	3	first	ORDINAL
+chapter-002	144	4	May	DATE
+chapter-002	146	1	Leviathan	GPE
+chapter-002	146	2	millions	CARDINAL
+chapter-002	146	3	trackless	ORDINAL
+chapter-002	146	4	Whales	GPE
+chapter-002	147	1	--Montgomery	ORG
+chapter-002	147	2	World before the Flood	WORK_OF_ART
+chapter-002	153	1	Atlantic	LOC
+chapter-002	153	2	Flounders	NORP
+chapter-002	153	3	the Polar Sea	LOC
+chapter-002	155	1	the year 1690	DATE
+chapter-002	156	1	Macy	ORG
+chapter-002	157	1	Susan	PERSON
+chapter-002	157	2	a Gothic Arch	EVENT
+chapter-002	159	1	first	ORDINAL
+chapter-002	159	2	the Pacific ocean	LOC
+chapter-002	159	3	no less than forty years ago	DATE
+chapter-002	161	1	Tom	PERSON
+chapter-002	161	2	Christian	NORP
+chapter-002	164	1	the Berlin Gazette	FAC
+chapter-002	165	1	--Eckermann	ORG
+chapter-002	167	1	Chace	PERSON
+chapter-002	169	1	Sperm Whale	PERSON
+chapter-002	169	2	the Pacific Ocean	LOC
+chapter-002	170	1	Owen Chace	PERSON
+chapter-002	170	2	Nantucket	GPE
+chapter-002	170	3	first	ORDINAL
+chapter-002	171	1	New York	GPE
+chapter-002	171	2	1821	DATE
+chapter-002	172	1	one night	TIME
+chapter-002	173	1	--Elizabeth Oakes Smith.	PERSON
+chapter-002	174	1	10,440 yards	QUANTITY
+chapter-002	174	2	nearly six English miles	QUANTITY
+chapter-002	175	1	three or four miles	QUANTITY
+chapter-002	177	1	Sperm Whale	PERSON
+chapter-002	178	1	Sperm	PERSON
+chapter-002	178	2	late years	DATE
+chapter-002	179	1	1839	DATE
+chapter-002	180	1	The Cachalot	WORK_OF_ART
+chapter-002	180	2	Sperm Whale	PERSON
+chapter-002	180	3	the True Whale	ORG
+chapter-002	180	4	Greenland	PERSON
+chapter-002	181	1	Debell Bennett's	PERSON
+chapter-002	181	2	1840	DATE
+chapter-002	182	1	October 13	DATE
+chapter-002	186	1	Three	CARDINAL
+chapter-002	186	2	the lee bow	PERSON
+chapter-002	193	1	Sperm Whales	PERSON
+chapter-002	198	1	Ay Ay	WORK_OF_ART
+chapter-002	202	1	Two miles and a half	QUANTITY
+chapter-002	207	1	1846	DATE
+chapter-002	208	1	Globe	ORG
+chapter-002	208	2	Nantucket	GPE
+chapter-002	209	1	the Globe Mutiny	ORG
+chapter-002	209	2	Lay	ORG
+chapter-002	209	3	Hussey	GPE
+chapter-002	210	1	A.D. 1828	PERSON
+chapter-002	212	1	--Missionary Journal of Tyerman	ORG
+chapter-002	212	2	Bennett	PERSON
+chapter-002	213	1	Webster	PERSON
+chapter-002	213	2	National	ORG
+chapter-002	214	1	eight or nine thousand	QUANTITY
+chapter-002	214	2	National	ORG
+chapter-002	215	1	Daniel Webster's	PERSON
+chapter-002	215	2	Speech in the U. S. Senate	WORK_OF_ART
+chapter-002	215	3	the Erection of a Breakwater at Nantucket	WORK_OF_ART
+chapter-002	216	1	1828	DATE
+chapter-002	218	1	Captors	ORG
+chapter-002	218	2	The Whaleman's Adventures	ORG
+chapter-002	218	3	Whale	PERSON
+chapter-002	218	4	Biography	WORK_OF_ART
+chapter-002	220	1	Henry T. Cheever	PERSON
+chapter-002	221	1	Samuel	PERSON
+chapter-002	222	1	--Life	CARDINAL
+chapter-002	222	2	Samuel Comstock	PERSON
+chapter-002	222	3	William Comstock	PERSON
+chapter-002	223	1	Globe	ORG
+chapter-002	224	1	Dutch	NORP
+chapter-002	224	2	English	LANGUAGE
+chapter-002	224	3	the Northern Ocean	LOC
+chapter-002	224	4	India	GPE
+chapter-002	225	1	--McCulloch	GPE
+chapter-002	226	1	North-West	GPE
+chapter-002	231	1	U.S.	GPE
+chapter-002	233	1	Pedestrians	NORP
+chapter-002	233	2	London	GPE
+chapter-002	234	1	the Arctic Ocean	LOC
+chapter-002	237	1	American	NORP
+chapter-002	238	1	a Whale Boat	GPE
+chapter-002	241	1	the Whale Fisherman	ORG
+chapter-002	244	1	one	CARDINAL
+chapter-002	244	2	two	CARDINAL
+chapter-002	244	3	one	CARDINAL
+chapter-002	244	4	beech	NORP
+chapter-002	245	1	Naturalist	ORG
+chapter-002	247	1	Sperm Whale	PERSON
+chapter-002	248	1	--Wharton the Whale Killer	PERSON
+chapter-002	250	1	--Nantucket Song	PERSON
+chapter-002	251	1	Whale	PERSON
+chapter-002	252	1	--Whale Song	PERSON

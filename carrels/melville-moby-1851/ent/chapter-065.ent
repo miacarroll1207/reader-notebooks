@@ -1,0 +1,20 @@
+id	sid	eid	entity	type
+chapter-065	1	1	CHAPTER LXIII	ORG
+chapter-065	5	1	some two feet	QUANTITY
+chapter-065	7	1	two harpoons	TIME
+chapter-065	7	2	first	ORDINAL
+chapter-065	7	3	second	ORDINAL
+chapter-065	8	1	two	QUANTITY
+chapter-065	8	2	one	CARDINAL
+chapter-065	10	1	first	ORDINAL
+chapter-065	10	2	second	ORDINAL
+chapter-065	11	1	second	ORDINAL
+chapter-065	14	1	second	ORDINAL
+chapter-065	16	1	four	CARDINAL
+chapter-065	16	2	one	CARDINAL
+chapter-065	16	3	thousand	CARDINAL
+chapter-065	16	4	eight	CARDINAL
+chapter-065	16	5	ten	CARDINAL
+chapter-065	16	6	second	ORDINAL
+chapter-065	17	1	several harpoons	CARDINAL
+chapter-065	17	2	first	ORDINAL

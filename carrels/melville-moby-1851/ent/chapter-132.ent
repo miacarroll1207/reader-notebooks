@@ -1,0 +1,79 @@
+id	sid	eid	entity	type
+chapter-132	1	1	CHAPTER CXXX	ORG
+chapter-132	2	1	the very day	DATE
+chapter-132	2	2	Moby Dick;--and	PERSON
+chapter-132	3	1	arctic	LOC
+chapter-132	3	2	six months'	DATE
+chapter-132	3	3	Ahab	ORG
+chapter-132	7	1	Ahab	ORG
+chapter-132	9	1	more secret confidential hours	TIME
+chapter-132	9	2	Ahab	ORG
+chapter-132	9	3	Parsee	LOC
+chapter-132	10	1	Fedallah	ORG
+chapter-132	10	2	half	CARDINAL
+chapter-132	12	1	night	TIME
+chapter-132	12	2	Fedallah	ORG
+chapter-132	13	1	hours	TIME
+chapter-132	13	2	two	CARDINAL
+chapter-132	14	1	night	TIME
+chapter-132	14	2	Ahab	PERSON
+chapter-132	14	3	two	CARDINAL
+chapter-132	14	4	days	DATE
+chapter-132	14	5	nights	TIME
+chapter-132	14	6	a whole hour	TIME
+chapter-132	15	1	the night	TIME
+chapter-132	15	2	the next day's	DATE
+chapter-132	16	1	two	CARDINAL
+chapter-132	17	1	one	CARDINAL
+chapter-132	17	2	Parsee	GPE
+chapter-132	17	3	two	CARDINAL
+chapter-132	17	4	one	CARDINAL
+chapter-132	19	1	day	DATE
+chapter-132	19	2	one	CARDINAL
+chapter-132	19	3	night	TIME
+chapter-132	20	1	longest hours	TIME
+chapter-132	20	2	Parsee	GPE
+chapter-132	20	3	the Parsee Ahab	LOC
+chapter-132	20	4	Ahab	GPE
+chapter-132	20	5	Parsee	GPE
+chapter-132	21	1	daily	DATE
+chapter-132	21	2	hourly	TIME
+chapter-132	21	3	subordinates,--Ahab	CARDINAL
+chapter-132	21	4	Parsee	GPE
+chapter-132	23	1	Parsee	GPE
+chapter-132	24	1	first	ORDINAL
+chapter-132	25	1	the day	DATE
+chapter-132	25	2	every hour	TIME
+chapter-132	25	3	helmsman	PERSON
+chapter-132	27	1	three or four days	DATE
+chapter-132	27	2	Rachel	PERSON
+chapter-132	27	3	Pagan	PERSON
+chapter-132	27	4	Stubb	PERSON
+chapter-132	29	1	first	ORDINAL
+chapter-132	32	1	two	CARDINAL
+chapter-132	33	1	Daggoo	ORG
+chapter-132	33	2	Queequeg	PERSON
+chapter-132	33	3	Tashtego	PERSON
+chapter-132	33	4	Fedallah	PERSON
+chapter-132	33	5	Starbuck	PERSON
+chapter-132	35	1	miles,--ahead	ORG
+chapter-132	35	2	that,--within	PERSON
+chapter-132	36	1	some one	CARDINAL
+chapter-132	37	1	every few minutes	TIME
+chapter-132	38	1	Ahab	ORG
+chapter-132	38	2	Starbuck	PERSON
+chapter-132	38	3	one	CARDINAL
+chapter-132	38	4	one	CARDINAL
+chapter-132	39	1	first	ORDINAL
+chapter-132	39	2	Ahab	EVENT
+chapter-132	39	3	ten minutes	TIME
+chapter-132	39	4	one	CARDINAL
+chapter-132	39	5	one	CARDINAL
+chapter-132	40	1	a thousand feet	QUANTITY
+chapter-132	41	1	one	CARDINAL
+chapter-132	43	1	Sicilian	NORP
+chapter-132	43	2	Ahab	ORG
+chapter-132	45	1	Tarquin	PERSON
+chapter-132	45	2	Tanaquil	PERSON
+chapter-132	45	3	Tarquin	PERSON
+chapter-132	45	4	Rome	GPE

@@ -1,0 +1,47 @@
+id	sid	eid	entity	type
+chapter-059	2	1	WHALES	ORG
+chapter-059	2	2	TEETH	ORG
+chapter-059	2	3	SHEET-IRON	ORG
+chapter-059	2	4	London	GPE
+chapter-059	3	1	three	CARDINAL
+chapter-059	3	2	three	CARDINAL
+chapter-059	3	3	one	CARDINAL
+chapter-059	4	1	these ten years	DATE
+chapter-059	6	1	three	CARDINAL
+chapter-059	6	2	Wapping	GPE
+chapter-059	8	1	Pacific	LOC
+chapter-059	8	2	Nantucket	GPE
+chapter-059	8	3	New Bedford	GPE
+chapter-059	8	4	Sag Harbor	PERSON
+chapter-059	8	5	Sperm Whale-teeth	PERSON
+chapter-059	8	6	hours	TIME
+chapter-059	11	1	Christendom	GPE
+chapter-059	11	2	i. e.	PERSON
+chapter-059	12	1	Iroquois	NORP
+chapter-059	13	1	the King of the Cannibals	PERSON
+chapter-059	14	1	his domestic hours	TIME
+chapter-059	15	1	Hawaiian	NORP
+chapter-059	15	2	Latin	NORP
+chapter-059	16	1	years	DATE
+chapter-059	17	1	Hawaiian	NORP
+chapter-059	18	1	one	CARDINAL
+chapter-059	18	2	Greek	NORP
+chapter-059	18	3	Achilles	PERSON
+chapter-059	18	4	Dutch	NORP
+chapter-059	18	5	Albert Durer	PERSON
+chapter-059	19	1	South Sea	LOC
+chapter-059	19	2	American	NORP
+chapter-059	26	1	earth	LOC
+chapter-059	26	2	Leviathan	GPE
+chapter-059	26	3	a windy day	DATE
+chapter-059	28	1	first	ORDINAL
+chapter-059	28	2	Solomon	NORP
+chapter-059	28	3	Mendanna	PERSON
+chapter-059	28	4	Figuera	PERSON
+chapter-059	29	1	Eastern	NORP
+chapter-059	30	1	North	LOC
+chapter-059	30	2	Leviathan	GPE
+chapter-059	30	3	first	ORDINAL
+chapter-059	31	1	the Argo-Navis	ORG
+chapter-059	31	2	Cetus	ORG
+chapter-059	31	3	Hydrus	PERSON

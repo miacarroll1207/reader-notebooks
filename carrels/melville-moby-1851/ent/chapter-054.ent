@@ -1,0 +1,24 @@
+id	sid	eid	entity	type
+chapter-054	2	1	Cape	LOC
+chapter-054	2	2	Crozetts	PERSON
+chapter-054	2	3	Goney	PERSON
+chapter-054	2	4	Albatross	PERSON
+chapter-054	7	1	three	CARDINAL
+chapter-054	8	1	nearly four years	DATE
+chapter-054	9	1	six	CARDINAL
+chapter-054	9	2	one	CARDINAL
+chapter-054	9	3	one	CARDINAL
+chapter-054	9	4	quarter	CARDINAL
+chapter-054	11	1	the White Whale	ORG
+chapter-054	14	1	Pequod	PERSON
+chapter-054	14	2	first	ORDINAL
+chapter-054	14	3	the White Whale's	ORG
+chapter-054	15	1	Nantucketer	ORG
+chapter-054	16	1	Pequod	PERSON
+chapter-054	17	1	the Pacific ocean	LOC
+chapter-054	18	1	three years	DATE
+chapter-054	18	2	two	CARDINAL
+chapter-054	18	3	some days before	DATE
+chapter-054	21	1	Ahab	PERSON
+chapter-054	23	1	voice,--"Up	FAC
+chapter-054	28	1	Solomon	PERSON

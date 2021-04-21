@@ -1,0 +1,36 @@
+id	sid	eid	entity	type
+chapter-022	2	1	day	DATE
+chapter-022	2	2	two	CARDINAL
+chapter-022	2	3	Pequod	PERSON
+chapter-022	5	1	the day	DATE
+chapter-022	5	2	Queequeg	PERSON
+chapter-022	5	3	night	TIME
+chapter-022	6	1	Queequeg	PERSON
+chapter-022	7	1	several days	DATE
+chapter-022	8	1	Pequod	PERSON
+chapter-022	10	1	three-years'	DATE
+chapter-022	14	1	Island	LOC
+chapter-022	14	2	Pequod	PERSON
+chapter-022	16	1	Bildad	PERSON
+chapter-022	16	2	Pequod	PERSON
+chapter-022	17	1	one	CARDINAL
+chapter-022	17	2	third	ORDINAL
+chapter-022	18	1	Aunt Charity	ORG
+chapter-022	19	1	Aunt Charity	ORG
+chapter-022	19	2	Bildad	PERSON
+chapter-022	19	3	two	CARDINAL
+chapter-022	20	1	Quakeress	ORG
+chapter-022	20	2	the last day	DATE
+chapter-022	21	1	Bildad	PERSON
+chapter-022	22	1	Bildad	PERSON
+chapter-022	23	1	hatchways	DATE
+chapter-022	24	1	these days	DATE
+chapter-022	24	2	Queequeg	PERSON
+chapter-022	25	1	every day	DATE
+chapter-022	25	2	two	CARDINAL
+chapter-022	25	3	Captains	ORG
+chapter-022	25	4	Bildad	PERSON
+chapter-022	26	1	half	CARDINAL
+chapter-022	30	1	next day	DATE
+chapter-022	31	1	next morning	TIME
+chapter-022	31	2	Queequeg	PERSON

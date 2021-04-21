@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-130	2	1	Next day	DATE
+chapter-130	2	2	Rachel	PERSON
+chapter-130	2	3	Pequod	PERSON
+chapter-130	3	1	Pequod	PERSON
+chapter-130	3	2	windward stranger	FAC
+chapter-130	4	1	Manxman	PERSON
+chapter-130	5	1	Ahab	ORG
+chapter-130	6	1	the White Whale	ORG
+chapter-130	7	1	Aye	PERSON
+chapter-130	7	2	yesterday	DATE
+chapter-130	10	1	Pequod	PERSON
+chapter-130	16	1	late on the afternoon of the day previous	TIME
+chapter-130	16	2	three	CARDINAL
+chapter-130	16	3	some four or five miles	QUANTITY
+chapter-130	16	4	windward	GPE
+chapter-130	16	5	Moby Dick	PERSON
+chapter-130	16	6	fourth	ORDINAL
+chapter-130	17	1	fourth	ORDINAL
+chapter-130	20	1	three	CARDINAL
+chapter-130	20	2	fourth	ORDINAL
+chapter-130	20	3	midnight	TIME
+chapter-130	22	1	day	DATE
+chapter-130	24	1	some four or five miles	QUANTITY
+chapter-130	25	1	some one	CARDINAL
+chapter-130	25	2	Captain	ORG
+chapter-130	26	1	two	CARDINAL
+chapter-130	26	2	one	CARDINAL
+chapter-130	26	3	the whaling season	DATE
+chapter-130	29	1	eight-and-	DATE
+chapter-130	29	2	forty hours	TIME
+chapter-130	29	3	eight-and-forty hours	DATE
+chapter-130	31	1	Stubb	PERSON
+chapter-130	32	1	Ahab	PERSON
+chapter-130	34	1	last night	TIME
+chapter-130	34	2	Manx	PERSON
+chapter-130	35	1	Rachel	PERSON
+chapter-130	35	2	Captain	ORG
+chapter-130	35	3	first	ORDINAL
+chapter-130	36	1	Ahab	ORG
+chapter-130	36	2	twelve years old	DATE
+chapter-130	36	3	Nantucketer	ORG
+chapter-130	37	1	three or four years'	DATE
+chapter-130	37	2	first	ORDINAL
+chapter-130	38	1	Ahab	ORG
+chapter-130	38	2	Ahab	ORG
+chapter-130	42	1	Gardiner	PERSON
+chapter-130	45	1	God	PERSON
+chapter-130	46	1	Starbuck	PERSON
+chapter-130	46	2	three minutes	TIME
+chapter-130	48	1	Gardiner	PERSON
+chapter-130	49	1	two	CARDINAL
+chapter-130	50	1	three	CARDINAL
+chapter-130	52	1	Rachel	PERSON

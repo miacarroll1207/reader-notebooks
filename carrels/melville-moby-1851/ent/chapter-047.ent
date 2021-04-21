@@ -1,0 +1,168 @@
+id	sid	eid	entity	type
+chapter-047	2	1	AFFIDAVIT	ORG
+chapter-047	2	2	one	CARDINAL
+chapter-047	2	3	two	CARDINAL
+chapter-047	4	1	First	ORDINAL
+chapter-047	4	2	three	CARDINAL
+chapter-047	4	3	one	CARDINAL
+chapter-047	4	4	three years	DATE
+chapter-047	4	5	two	CARDINAL
+chapter-047	5	1	three years	DATE
+chapter-047	5	2	two	QUANTITY
+chapter-047	5	3	Africa	LOC
+chapter-047	5	4	nearly two years	DATE
+chapter-047	6	1	Africa	LOC
+chapter-047	7	1	one	CARDINAL
+chapter-047	8	1	three	CARDINAL
+chapter-047	8	2	two	CARDINAL
+chapter-047	8	3	second	ORDINAL
+chapter-047	8	4	two	CARDINAL
+chapter-047	9	1	three-year	DATE
+chapter-047	9	2	first	ORDINAL
+chapter-047	9	3	three years previous	DATE
+chapter-047	10	1	three years	DATE
+chapter-047	11	1	three	CARDINAL
+chapter-047	12	1	Secondly	ORDINAL
+chapter-047	14	1	Rinaldo Rinaldini	PERSON
+chapter-047	16	1	Cambyses or Csar	ORG
+chapter-047	17	1	Tom	PERSON
+chapter-047	18	1	thou famed leviathan	PERSON
+chapter-047	18	2	Oriental	NORP
+chapter-047	18	3	Ombay	GPE
+chapter-047	19	1	Jack	PERSON
+chapter-047	22	1	Japan	GPE
+chapter-047	23	1	O Don Miguel	PERSON
+chapter-047	24	1	thou Chilian	PERSON
+chapter-047	25	1	four	CARDINAL
+chapter-047	25	2	Cetacean History	PERSON
+chapter-047	25	3	Marius	ORG
+chapter-047	25	4	Sylla	PRODUCT
+chapter-047	27	1	New Zealand Tom	PERSON
+chapter-047	27	2	Don Miguel	PERSON
+chapter-047	27	3	the Narragansett Woods	FAC
+chapter-047	27	4	Captain Butler	PERSON
+chapter-047	27	5	Annawon	PERSON
+chapter-047	27	6	Indian	NORP
+chapter-047	28	1	one	CARDINAL
+chapter-047	28	2	two	CARDINAL
+chapter-047	28	3	the White Whale	ORG
+chapter-047	30	1	Moby Dick	FAC
+chapter-047	31	1	First	ORDINAL
+chapter-047	32	1	One	CARDINAL
+chapter-047	32	2	one	CARDINAL
+chapter-047	32	3	fifty	CARDINAL
+chapter-047	33	1	New Guinea	GPE
+chapter-047	34	1	New Guinea	GPE
+chapter-047	35	1	New Guinea	GPE
+chapter-047	36	1	Pacific	LOC
+chapter-047	36	2	thirty	CARDINAL
+chapter-047	36	3	three	CARDINAL
+chapter-047	38	1	gallon	QUANTITY
+chapter-047	38	2	at least one	CARDINAL
+chapter-047	39	1	Secondly	ORDINAL
+chapter-047	39	2	two-fold	CARDINAL
+chapter-047	39	3	Egypt	GPE
+chapter-047	41	1	Sperm Whale	PERSON
+chapter-047	42	1	First	ORDINAL
+chapter-047	42	2	the year 1820	DATE
+chapter-047	42	3	Essex	PERSON
+chapter-047	42	4	Pollard	PERSON
+chapter-047	42	5	Nantucket	GPE
+chapter-047	42	6	the Pacific Ocean	LOC
+chapter-047	43	1	One	CARDINAL
+chapter-047	45	1	less than "ten minutes	TIME
+chapter-047	48	1	Pollard	PERSON
+chapter-047	48	2	Pacific	LOC
+chapter-047	48	3	second	ORDINAL
+chapter-047	49	1	Pollard	PERSON
+chapter-047	49	2	Nantucket	GPE
+chapter-047	50	1	Owen Chace	PERSON
+chapter-047	50	2	a few miles	QUANTITY
+chapter-047	51	1	8	CARDINAL
+chapter-047	51	2	8	CARDINAL
+chapter-047	51	3	Chace	ORG
+chapter-047	51	4	two	CARDINAL
+chapter-047	51	5	two	CARDINAL
+chapter-047	53	1	three	CARDINAL
+chapter-047	55	1	a black night	TIME
+chapter-047	56	1	day	DATE
+chapter-047	57	1	45,--he	CARDINAL
+chapter-047	58	1	Secondly	ORDINAL
+chapter-047	58	2	Nantucket	GPE
+chapter-047	58	3	the year 1807	DATE
+chapter-047	58	4	Azores	ORG
+chapter-047	59	1	Thirdly	ORDINAL
+chapter-047	59	2	American	NORP
+chapter-047	59	3	first	ORDINAL
+chapter-047	59	4	Oahu	GPE
+chapter-047	59	5	Sandwich Islands	GPE
+chapter-047	63	1	Some weeks	DATE
+chapter-047	63	2	Valparaiso	GPE
+chapter-047	65	1	Commodore	ORG
+chapter-047	66	1	Commodore	ORG
+chapter-047	70	1	Russian	NORP
+chapter-047	70	2	Krusenstern	PERSON
+chapter-047	70	3	Discovery Expedition	ORG
+chapter-047	70	4	the present century	DATE
+chapter-047	71	1	Langsdorff	PERSON
+chapter-047	71	2	seventeenth	ORDINAL
+chapter-047	72	1	thirteenth of May	DATE
+chapter-047	72	2	the next day	DATE
+chapter-047	72	3	Ochotsh	ORG
+chapter-047	74	1	some days	DATE
+chapter-047	76	1	three feet	QUANTITY
+chapter-047	78	1	D'Wolf	PERSON
+chapter-047	79	1	D'Wolf	PERSON
+chapter-047	79	2	New Englander	NORP
+chapter-047	79	3	this day	DATE
+chapter-047	79	4	Dorchester	GPE
+chapter-047	79	5	Boston	GPE
+chapter-047	81	1	Langsdorff	GPE
+chapter-047	83	1	Russian	NORP
+chapter-047	83	2	Siberian	NORP
+chapter-047	84	1	Lionel Wafer	PERSON
+chapter-047	84	2	one	CARDINAL
+chapter-047	84	3	Dampier	GPE
+chapter-047	84	4	Langsdorff	GPE
+chapter-047	85	1	Lionel	ORG
+chapter-047	85	2	John Ferdinando	PERSON
+chapter-047	85	3	Juan Fernandes	PERSON
+chapter-047	86	1	about four o'clock in the morning	TIME
+chapter-047	86	2	about one hundred and fifty	CARDINAL
+chapter-047	86	3	the Main of America	LOC
+chapter-047	89	1	Davis	PERSON
+chapter-047	90	1	Spanish	NORP
+chapter-047	91	1	that early hour of the morning	TIME
+chapter-047	92	1	one	CARDINAL
+chapter-047	93	1	more than one	CARDINAL
+chapter-047	94	1	English	LANGUAGE
+chapter-047	94	2	Pusie Hall	FAC
+chapter-047	95	1	several consecutive minutes	TIME
+chapter-047	96	1	only one	CARDINAL
+chapter-047	96	2	the present day	DATE
+chapter-047	96	3	Solomon	PERSON
+chapter-047	97	1	the sixth Christian century	DATE
+chapter-047	97	2	Procopius	ORG
+chapter-047	97	3	Christian	NORP
+chapter-047	97	4	Constantinople	ORG
+chapter-047	97	5	the days	DATE
+chapter-047	97	6	Justinian	GPE
+chapter-047	97	7	Belisarius	ORG
+chapter-047	99	1	some one or two	CARDINAL
+chapter-047	100	1	Procopius	PERSON
+chapter-047	100	2	Constantinople	ORG
+chapter-047	100	3	Propontis	GPE
+chapter-047	100	4	Sea	PERSON
+chapter-047	100	5	Marmora	GPE
+chapter-047	100	6	more than fifty years	DATE
+chapter-047	106	1	Mediterranean	LOC
+chapter-047	108	1	Mediterranean	LOC
+chapter-047	109	1	the Barbary coast	LOC
+chapter-047	109	2	a Commodore Davis	PERSON
+chapter-047	109	3	British	NORP
+chapter-047	110	1	Dardanelles	PERSON
+chapter-047	110	2	Mediterranean	LOC
+chapter-047	110	3	Propontis	PRODUCT
+chapter-047	111	1	Propontis	PERSON
+chapter-047	113	1	Procopius	ORG
+chapter-047	113	2	half a century	DATE

@@ -1,0 +1,121 @@
+id	sid	eid	entity	type
+chapter-066	1	1	CHAPTER LXIV	ORG
+chapter-066	2	1	SUPPER Stubb's	PERSON
+chapter-066	3	1	three	CARDINAL
+chapter-066	3	2	Pequod	PERSON
+chapter-066	4	1	eighteen	CARDINAL
+chapter-066	4	2	thirty-six	QUANTITY
+chapter-066	4	3	one hundred and eighty	CARDINAL
+chapter-066	4	4	hour after hour	TIME
+chapter-066	5	1	Hang-Ho	PERSON
+chapter-066	5	2	China	GPE
+chapter-066	5	3	four	CARDINAL
+chapter-066	5	4	five	CARDINAL
+chapter-066	5	5	a mile an hour	QUANTITY
+chapter-066	6	1	three	CARDINAL
+chapter-066	6	2	Pequod	PERSON
+chapter-066	6	3	one	CARDINAL
+chapter-066	7	1	the night	TIME
+chapter-066	7	2	seaman	NORP
+chapter-066	7	3	morning	TIME
+chapter-066	8	1	Moby Dick	PERSON
+chapter-066	8	2	thousand	CARDINAL
+chapter-066	9	1	Pequod	ORG
+chapter-066	11	1	the night	TIME
+chapter-066	11	2	two	CARDINAL
+chapter-066	11	3	one	CARDINAL
+chapter-066	12	1	14	CARDINAL
+chapter-066	12	2	14	CARDINAL
+chapter-066	16	1	moody Ahab	PERSON
+chapter-066	16	2	Stubb	PERSON
+chapter-066	16	3	second	ORDINAL
+chapter-066	17	1	Starbuck	PRODUCT
+chapter-066	18	1	One	CARDINAL
+chapter-066	18	2	Stubb	GPE
+chapter-066	21	1	Daggoo	ORG
+chapter-066	23	1	Nantucketers	PERSON
+chapter-066	23	2	Sperm	PERSON
+chapter-066	23	3	Stubb	PERSON
+chapter-066	24	1	About midnight	TIME
+chapter-066	24	2	two	CARDINAL
+chapter-066	26	1	thousands on thousands	CARDINAL
+chapter-066	27	1	a few inches	QUANTITY
+chapter-066	32	1	sharkish	NORP
+chapter-066	32	2	Atlantic	LOC
+chapter-066	32	3	one	CARDINAL
+chapter-066	32	4	two	CARDINAL
+chapter-066	32	5	sperm whale	PERSON
+chapter-066	32	6	night	TIME
+chapter-066	34	1	Stubb	PERSON
+chapter-066	35	1	Cook	PERSON
+chapter-066	35	2	Fleece	PERSON
+chapter-066	37	1	a most unseasonable hour	TIME
+chapter-066	37	2	Fleece	PERSON
+chapter-066	37	3	Ebony	PERSON
+chapter-066	37	4	Stubb	ORG
+chapter-066	37	5	two	CARDINAL
+chapter-066	38	1	Cook	PERSON
+chapter-066	38	2	Stubb	PERSON
+chapter-066	39	1	cook	PERSON
+chapter-066	43	1	Cook	PERSON
+chapter-066	47	1	Fleece	PERSON
+chapter-066	47	2	Stubb	PERSON
+chapter-066	51	1	massa Stubb	PERSON
+chapter-066	51	2	Gor	ORG
+chapter-066	53	1	Cook	PERSON
+chapter-066	53	2	Stubb	PERSON
+chapter-066	55	1	Cook	PERSON
+chapter-066	58	1	Cook	PERSON
+chapter-066	59	1	Belubed	ORG
+chapter-066	60	1	exclaimed Stubb	PERSON
+chapter-066	60	2	coax 'em	WORK_OF_ART
+chapter-066	60	3	Fleece	PERSON
+chapter-066	61	1	natur wery	PERSON
+chapter-066	61	2	dat dat woraciousness--'top dat dam slappin	PERSON
+chapter-066	63	1	Cook	PERSON
+chapter-066	63	2	Stubb	PERSON
+chapter-066	70	1	one	CARDINAL
+chapter-066	71	1	Gor	ORG
+chapter-066	71	2	some one	CARDINAL
+chapter-066	72	1	fry ob sharks	PERSON
+chapter-066	73	1	Fleece	PERSON
+chapter-066	74	1	Stubb	PERSON
+chapter-066	75	1	Massa Stubb	PERSON
+chapter-066	75	2	one	CARDINAL
+chapter-066	75	3	de sea	LOC
+chapter-066	76	1	Fleece	PERSON
+chapter-066	77	1	Fleece	PERSON
+chapter-066	79	1	cook	PERSON
+chapter-066	79	2	Stubb	PERSON
+chapter-066	80	1	Fleece	PERSON
+chapter-066	81	1	Stubb	PERSON
+chapter-066	82	1	first	ORDINAL
+chapter-066	83	1	wid de '	PERSON
+chapter-066	87	1	one hundred years	DATE
+chapter-066	87	2	cook	PERSON
+chapter-066	90	1	ober de Roanoke	PERSON
+chapter-066	94	1	de Roanoke	PERSON
+chapter-066	102	1	Cook	PERSON
+chapter-066	102	2	Stubb	PERSON
+chapter-066	103	1	one	CARDINAL
+chapter-066	103	2	Cape-Down	GPE
+chapter-066	104	1	Cape-Town	GPE
+chapter-066	106	1	Stubb	PERSON
+chapter-066	108	1	half	CARDINAL
+chapter-066	114	1	negro	ORG
+chapter-066	114	2	angel	ORG
+chapter-066	117	1	four	CARDINAL
+chapter-066	117	2	Elijah	NORP
+chapter-066	119	1	Fleece	PERSON
+chapter-066	123	1	Fleece	PERSON
+chapter-066	129	1	ye	PERSON
+chapter-066	130	1	t'other a'top	PERSON
+chapter-066	130	2	cook	PERSON
+chapter-066	136	1	one	CARDINAL
+chapter-066	140	1	morrow	DATE
+chapter-066	140	2	cook	PERSON
+chapter-066	143	1	Fleece	PERSON
+chapter-066	143	2	three	CARDINAL
+chapter-066	144	1	Cook	PERSON
+chapter-066	150	1	gor	ORG
+chapter-066	152	1	Massa Shark	PERSON

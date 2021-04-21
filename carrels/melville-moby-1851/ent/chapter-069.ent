@@ -1,0 +1,22 @@
+id	sid	eid	entity	type
+chapter-069	1	1	CHAPTER LXVII	ORG
+chapter-069	2	1	Saturday	DATE
+chapter-069	2	2	night	TIME
+chapter-069	2	3	Sabbath	NORP
+chapter-069	3	1	Sabbath	NORP
+chapter-069	5	1	ten thousand	CARDINAL
+chapter-069	6	1	first	ORDINAL
+chapter-069	7	1	some one hundred pounds	QUANTITY
+chapter-069	8	1	Starbuck and Stubb	PERSON
+chapter-069	8	2	two	CARDINAL
+chapter-069	9	1	one	CARDINAL
+chapter-069	13	1	one	CARDINAL
+chapter-069	13	2	Starbuck and Stubb	ORG
+chapter-069	13	3	two	CARDINAL
+chapter-069	14	1	One	CARDINAL
+chapter-069	15	1	second	ORDINAL
+chapter-069	16	1	Whereupon	ORG
+chapter-069	17	1	one	CARDINAL
+chapter-069	17	2	second	ORDINAL
+chapter-069	17	3	first	ORDINAL
+chapter-069	19	1	two	CARDINAL

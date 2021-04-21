@@ -1,0 +1,25 @@
+id	sid	eid	entity	type
+chapter-082	1	1	CHAPTER LXXX	ORG
+chapter-082	2	1	NUT	ORG
+chapter-082	2	2	Sperm	PERSON
+chapter-082	2	3	Sphinx	FAC
+chapter-082	3	1	at least twenty feet	QUANTITY
+chapter-082	6	1	ten inches	QUANTITY
+chapter-082	7	1	at least twenty feet	QUANTITY
+chapter-082	7	2	fortifications	CARDINAL
+chapter-082	7	3	Quebec	GPE
+chapter-082	8	1	Sperm	PERSON
+chapter-082	8	2	one	CARDINAL
+chapter-082	8	3	the cubic-yards	QUANTITY
+chapter-082	10	1	Leviathan	GPE
+chapter-082	14	1	one	CARDINAL
+chapter-082	18	1	German	NORP
+chapter-082	19	1	Germans	NORP
+chapter-082	19	2	first	ORDINAL
+chapter-082	25	1	half	CARDINAL
+chapter-082	26	1	Sperm	PERSON
+chapter-082	27	1	first	ORDINAL
+chapter-082	27	2	ten inches	QUANTITY
+chapter-082	27	3	eight	CARDINAL
+chapter-082	34	1	august	DATE
+chapter-082	35	1	Sperm	PERSON

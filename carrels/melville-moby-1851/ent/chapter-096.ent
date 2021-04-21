@@ -1,0 +1,26 @@
+id	sid	eid	entity	type
+chapter-096	2	1	Stubb	ORG
+chapter-096	2	2	Pequod	PERSON
+chapter-096	2	3	the Heidelburgh Tun	FAC
+chapter-096	4	1	Constantine	ORG
+chapter-096	12	1	only a few minutes	TIME
+chapter-096	13	1	the hour	TIME
+chapter-096	13	2	aroma,--literally	ORG
+chapter-096	13	3	Paracelsan	LOC
+chapter-096	17	1	morning	TIME
+chapter-096	20	1	kindness	ORG
+chapter-096	25	1	First	ORDINAL
+chapter-096	27	1	first	ORDINAL
+chapter-096	35	1	Louis le Gros	ORG
+chapter-096	35	2	the first day	DATE
+chapter-096	35	3	the venison season	DATE
+chapter-096	35	4	Champagne	GPE
+chapter-096	40	1	Gurry	ORG
+chapter-096	41	1	Greenland	PERSON
+chapter-096	41	2	Leviathan	GPE
+chapter-096	45	1	Leviathan	GPE
+chapter-096	45	2	an inch	QUANTITY
+chapter-096	49	1	night	TIME
+chapter-096	50	1	one	CARDINAL
+chapter-096	57	1	one	CARDINAL
+chapter-096	57	2	one	CARDINAL

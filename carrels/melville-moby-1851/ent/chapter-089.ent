@@ -1,0 +1,174 @@
+id	sid	eid	entity	type
+chapter-089	2	1	Birmah	PERSON
+chapter-089	2	2	Asia	LOC
+chapter-089	3	1	Sumatra	ORG
+chapter-089	3	2	Java	ORG
+chapter-089	3	3	Bally	ORG
+chapter-089	3	4	Timor	GPE
+chapter-089	3	5	Asia	LOC
+chapter-089	3	6	Australia	GPE
+chapter-089	3	7	Indian	NORP
+chapter-089	4	1	Sunda	ORG
+chapter-089	4	2	Malacca	PERSON
+chapter-089	5	1	Sunda	GPE
+chapter-089	5	2	China	GPE
+chapter-089	5	3	China	GPE
+chapter-089	6	1	Sunda	ORG
+chapter-089	6	2	Sumatra	ORG
+chapter-089	6	3	Java	ORG
+chapter-089	6	4	Java Head	PERSON
+chapter-089	6	5	thousand	CARDINAL
+chapter-089	6	6	oriental	NORP
+chapter-089	7	1	Sunda	ORG
+chapter-089	7	2	Mediterranean	LOC
+chapter-089	7	3	Baltic	LOC
+chapter-089	7	4	Propontis	PERSON
+chapter-089	8	1	centuries	DATE
+chapter-089	8	2	night	TIME
+chapter-089	8	3	Sumatra and	ORG
+chapter-089	8	4	Java	ORG
+chapter-089	10	1	Malays	PRODUCT
+chapter-089	10	2	Sumatra	ORG
+chapter-089	11	1	European	NORP
+chapter-089	11	2	English	LANGUAGE
+chapter-089	11	3	American	NORP
+chapter-089	12	1	Pequod	PERSON
+chapter-089	12	2	the Javan sea	LOC
+chapter-089	12	3	Sperm Whale	PERSON
+chapter-089	12	4	the Philippine Islands	GPE
+chapter-089	12	5	Japan	GPE
+chapter-089	13	1	Pequod	ORG
+chapter-089	13	2	Sperm	PERSON
+chapter-089	13	3	Line	LOC
+chapter-089	13	4	Pacific	LOC
+chapter-089	13	5	Ahab	ORG
+chapter-089	13	6	Moby Dick	PERSON
+chapter-089	21	1	Mark	PERSON
+chapter-089	25	1	years	DATE
+chapter-089	26	1	three years	DATE
+chapter-089	26	2	Nantucketer	ORG
+chapter-089	26	3	Pacific	LOC
+chapter-089	26	4	yesterday	DATE
+chapter-089	26	5	Peruvian	NORP
+chapter-089	26	6	Indian	NORP
+chapter-089	27	1	China	GPE
+chapter-089	27	2	New York	GPE
+chapter-089	27	3	one	CARDINAL
+chapter-089	29	1	Sperm Whales	PERSON
+chapter-089	29	2	Java	ORG
+chapter-089	29	3	Straits	LOC
+chapter-089	29	4	Sunda	GPE
+chapter-089	29	5	Pequod	PERSON
+chapter-089	29	6	Java Head	PERSON
+chapter-089	32	1	four	CARDINAL
+chapter-089	33	1	Sperm	PERSON
+chapter-089	33	2	weeks	DATE
+chapter-089	33	3	months	DATE
+chapter-089	33	4	thousands on thousands	CARDINAL
+chapter-089	34	1	some two or three miles	QUANTITY
+chapter-089	34	2	one half	CARDINAL
+chapter-089	34	3	noon-day	DATE
+chapter-089	35	1	two	CARDINAL
+chapter-089	35	2	Sperm Whale	ORG
+chapter-089	35	3	bush	PERSON
+chapter-089	36	1	Pequod	PERSON
+chapter-089	37	1	march	DATE
+chapter-089	37	2	one	CARDINAL
+chapter-089	38	1	Pequod	PERSON
+chapter-089	39	1	Sunda	ORG
+chapter-089	39	2	Oriental	NORP
+chapter-089	40	1	Moby Dick	PERSON
+chapter-089	40	2	Siamese	WORK_OF_ART
+chapter-089	41	1	Tashtego	PERSON
+chapter-089	45	1	Pequod	PERSON
+chapter-089	45	2	Asiatics	LOC
+chapter-089	46	1	Pequod	PERSON
+chapter-089	46	2	pursuit,--mere	ORG
+chapter-089	48	1	Ahab	ORG
+chapter-089	49	1	Pequod	PERSON
+chapter-089	49	2	Cockatoo Point	PERSON
+chapter-089	49	3	Sumatra	ORG
+chapter-089	49	4	Malays	PRODUCT
+chapter-089	51	1	Sperm Whale	PERSON
+chapter-089	51	2	three	CARDINAL
+chapter-089	51	3	them,--though	PERSON
+chapter-089	51	4	rear,--than	PERSON
+chapter-089	52	1	several hours	TIME
+chapter-089	53	1	King Porus'	ORG
+chapter-089	53	2	Indian	NORP
+chapter-089	53	3	Alexander	PERSON
+chapter-089	56	1	three	CARDINAL
+chapter-089	58	1	tens of thousands	CARDINAL
+chapter-089	58	2	West	LOC
+chapter-089	60	1	earth	LOC
+chapter-089	61	1	one	CARDINAL
+chapter-089	62	1	some one	CARDINAL
+chapter-089	63	1	about three minutes'	TIME
+chapter-089	63	2	Queequeg	PERSON
+chapter-089	67	1	Queequeg	PERSON
+chapter-089	67	2	Starbuck	PERSON
+chapter-089	73	1	second	ORDINAL
+chapter-089	74	1	the Nantucket Indians	NORP
+chapter-089	75	1	Two	CARDINAL
+chapter-089	77	1	one	CARDINAL
+chapter-089	78	1	every day	DATE
+chapter-089	81	1	three	CARDINAL
+chapter-089	82	1	first	ORDINAL
+chapter-089	82	2	second	ORDINAL
+chapter-089	84	1	third	ORDINAL
+chapter-089	85	1	two or three	CARDINAL
+chapter-089	87	1	two	CARDINAL
+chapter-089	87	2	valley lake	LOC
+chapter-089	91	1	eight	CARDINAL
+chapter-089	91	2	ten	CARDINAL
+chapter-089	91	3	Titanic	GPE
+chapter-089	95	1	one	CARDINAL
+chapter-089	95	2	at least two	CARDINAL
+chapter-089	99	1	Queequeg	PERSON
+chapter-089	99	2	Starbuck	ORG
+chapter-089	102	1	two	CARDINAL
+chapter-089	104	1	One	CARDINAL
+chapter-089	104	2	a day old	DATE
+chapter-089	104	3	some fourteen feet	QUANTITY
+chapter-089	104	4	some six feet	QUANTITY
+chapter-089	105	1	the final spring	DATE
+chapter-089	105	2	Tartar	ORG
+chapter-089	109	1	Queequeg	PERSON
+chapter-089	112	1	Two	CARDINAL
+chapter-089	112	2	one	CARDINAL
+chapter-089	112	3	one	CARDINAL
+chapter-089	113	1	ails ye	PERSON
+chapter-089	115	1	Queequeg	PERSON
+chapter-089	116	1	hundreds	CARDINAL
+chapter-089	116	2	Madame Leviathan	PERSON
+chapter-089	119	1	Leviathan	PERSON
+chapter-089	120	1	20	CARDINAL
+chapter-089	120	2	20	CARDINAL
+chapter-089	120	3	Leviathan	PERSON
+chapter-089	120	4	all seasons	DATE
+chapter-089	120	5	nine months	DATE
+chapter-089	120	6	two	CARDINAL
+chapter-089	124	1	yea	ORG
+chapter-089	125	1	Atlantic	LOC
+chapter-089	126	1	first	ORDINAL
+chapter-089	130	1	half	CARDINAL
+chapter-089	130	2	desperado Arnold	PERSON
+chapter-089	130	3	Saratoga	NORP
+chapter-089	131	1	first	ORDINAL
+chapter-089	132	1	one	CARDINAL
+chapter-089	135	1	First	ORDINAL
+chapter-089	135	2	half	CARDINAL
+chapter-089	137	1	Hudson	LOC
+chapter-089	137	2	Spring	GPE
+chapter-089	137	3	one	CARDINAL
+chapter-089	138	1	Starbuck	PERSON
+chapter-089	138	2	Queequeg	PERSON
+chapter-089	138	3	Starbuck	PERSON
+chapter-089	143	1	Queequeg	PERSON
+chapter-089	146	1	between two	CARDINAL
+chapter-089	146	2	Dardanelles	PERSON
+chapter-089	148	1	one	CARDINAL
+chapter-089	149	1	Queequeg	PERSON
+chapter-089	150	1	one	CARDINAL
+chapter-089	152	1	two or three	CARDINAL
+chapter-089	154	1	only one	CARDINAL

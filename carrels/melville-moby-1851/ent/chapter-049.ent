@@ -1,0 +1,27 @@
+id	sid	eid	entity	type
+chapter-049	2	1	afternoon	TIME
+chapter-049	3	1	Queequeg	PERSON
+chapter-049	5	1	Queequeg	PERSON
+chapter-049	6	1	Queequeg	PERSON
+chapter-049	6	2	the Loom of Time	WORK_OF_ART
+chapter-049	7	1	one	CARDINAL
+chapter-049	9	1	Queequeg	PERSON
+chapter-049	12	1	Tashtego	GPE
+chapter-049	14	1	hundreds	CARDINAL
+chapter-049	14	2	Tashtego	GPE
+chapter-049	14	3	Indian	NORP
+chapter-049	15	1	half	CARDINAL
+chapter-049	15	2	Fate	ORG
+chapter-049	23	1	about two miles	QUANTITY
+chapter-049	26	1	Sperm Whale	ORG
+chapter-049	29	1	Tashtego	GPE
+chapter-049	37	1	Sperm	PERSON
+chapter-049	37	2	one	CARDINAL
+chapter-049	37	3	the opposite quarter	DATE
+chapter-049	37	4	Tashtego	PERSON
+chapter-049	38	1	One	CARDINAL
+chapter-049	38	2	Indian	NORP
+chapter-049	39	1	three	CARDINAL
+chapter-049	39	2	three	CARDINAL
+chapter-049	40	1	one foot	QUANTITY
+chapter-049	43	1	five	CARDINAL

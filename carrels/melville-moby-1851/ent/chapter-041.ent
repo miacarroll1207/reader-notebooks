@@ -1,0 +1,17 @@
+id	sid	eid	entity	type
+chapter-041	2	1	FIRST	ORDINAL
+chapter-041	7	1	hem	ORG
+chapter-041	10	1	one	CARDINAL
+chapter-041	11	1	Starbuck	ORG
+chapter-041	11	2	Starbuck	PRODUCT
+chapter-041	12	1	Mogul	PERSON
+chapter-041	14	1	Stubb	PERSON
+chapter-041	14	2	Stubb	PERSON
+chapter-041	14	3	Stubb	PERSON
+chapter-041	20	1	lirra	ORG
+chapter-041	20	2	skirra	ORG
+chapter-041	23	1	lirra	ORG
+chapter-041	23	2	skirra	ORG
+chapter-041	26	1	Starbuck	PERSON
+chapter-041	27	1	Aye	ORG
+chapter-041	27	2	aye, sir--(Aside	GPE

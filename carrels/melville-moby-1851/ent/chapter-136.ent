@@ -1,0 +1,120 @@
+id	sid	eid	entity	type
+chapter-136	1	1	CHAPTER CXXXIV	ORG
+chapter-136	2	1	three	CARDINAL
+chapter-136	9	1	one	CARDINAL
+chapter-136	9	2	night	TIME
+chapter-136	9	3	night	TIME
+chapter-136	9	4	South sea	LOC
+chapter-136	11	1	unseen headland	PERSON
+chapter-136	11	2	several hours	TIME
+chapter-136	11	3	night	TIME
+chapter-136	13	1	Leviathan	PERSON
+chapter-136	13	2	Nantucketers	PERSON
+chapter-136	13	3	Leviathan	PERSON
+chapter-136	13	4	many hours	TIME
+chapter-136	13	5	two hundred miles	QUANTITY
+chapter-136	14	1	ninety-three	CARDINAL
+chapter-136	14	2	a quarter	DATE
+chapter-136	18	1	Stubb	PERSON
+chapter-136	19	1	two	CARDINAL
+chapter-136	27	1	Aye	PERSON
+chapter-136	28	1	Stubb	PERSON
+chapter-136	31	1	miller	PERSON
+chapter-136	32	1	Stubb	PERSON
+chapter-136	34	1	Ahab	ORG
+chapter-136	35	1	Fate	ORG
+chapter-136	35	2	the previous day	DATE
+chapter-136	35	3	the past night's	TIME
+chapter-136	37	1	one	CARDINAL
+chapter-136	37	2	thirty	CARDINAL
+chapter-136	38	1	one	CARDINAL
+chapter-136	38	2	one	CARDINAL
+chapter-136	38	3	one	CARDINAL
+chapter-136	45	1	some minutes	TIME
+chapter-136	45	2	first	ORDINAL
+chapter-136	46	1	Dick	PERSON
+chapter-136	46	2	one	CARDINAL
+chapter-136	48	1	thirty	CARDINAL
+chapter-136	48	2	less than a mile	QUANTITY
+chapter-136	48	3	Moby Dick bodily	PERSON
+chapter-136	49	1	the White Whale	ORG
+chapter-136	50	1	Sperm	PERSON
+chapter-136	50	2	seven miles	QUANTITY
+chapter-136	54	1	the White Whale	ORG
+chapter-136	56	1	Aye	PERSON
+chapter-136	56	2	Moby Dick	PERSON
+chapter-136	57	1	thy hour	TIME
+chapter-136	57	2	hand!--Down	ORG
+chapter-136	58	1	ye	ORG
+chapter-136	58	2	one	CARDINAL
+chapter-136	61	1	the afternoon	TIME
+chapter-136	62	1	Starbuck	PERSON
+chapter-136	64	1	first	ORDINAL
+chapter-136	64	2	Moby Dick	PERSON
+chapter-136	64	3	three	CARDINAL
+chapter-136	65	1	Ahab	ORG
+chapter-136	66	1	three	CARDINAL
+chapter-136	66	2	three	QUANTITY
+chapter-136	66	3	White Whale	ORG
+chapter-136	67	1	Ahab	ORG
+chapter-136	68	1	the White Whale	ORG
+chapter-136	68	2	a thousand	CARDINAL
+chapter-136	68	3	three	CARDINAL
+chapter-136	70	1	Ahab	ORG
+chapter-136	71	1	Only one	CARDINAL
+chapter-136	73	1	the White Whale	ORG
+chapter-136	73	2	Stubb and Flask	ORG
+chapter-136	73	3	two	CARDINAL
+chapter-136	74	1	two	CARDINAL
+chapter-136	74	2	Stubb	PERSON
+chapter-136	74	3	a thousand	CARDINAL
+chapter-136	74	4	perils,--Ahab	ORG
+chapter-136	74	5	perpendicularly	DATE
+chapter-136	74	6	the White Whale	ORG
+chapter-136	74	7	Ahab	ORG
+chapter-136	75	1	first	ORDINAL
+chapter-136	79	1	Fedallah	PERSON
+chapter-136	79	2	the previous day's	DATE
+chapter-136	80	1	half	CARDINAL
+chapter-136	80	2	Starbuck	ORG
+chapter-136	81	1	one	CARDINAL
+chapter-136	82	1	Aye	PERSON
+chapter-136	82	2	Starbuck	PERSON
+chapter-136	82	3	Ahab	PERSON
+chapter-136	86	1	Ahab	ORG
+chapter-136	93	1	first	ORDINAL
+chapter-136	106	1	Parsee	ORG
+chapter-136	107	1	Parsee	ORG
+chapter-136	108	1	ye above	FAC
+chapter-136	109	1	Parsee	GPE
+chapter-136	110	1	Aye	PERSON
+chapter-136	114	1	Ahab	PERSON
+chapter-136	115	1	it!--'tis	PRODUCT
+chapter-136	115	2	fish!--Aloft	FAC
+chapter-136	117	1	sheets!--helm	PRODUCT
+chapter-136	119	1	ten	CARDINAL
+chapter-136	121	1	one	CARDINAL
+chapter-136	121	2	Starbuck	PERSON
+chapter-136	121	3	Jesus	PERSON
+chapter-136	122	1	Two days	DATE
+chapter-136	126	1	that hour	TIME
+chapter-136	130	1	a billion years	DATE
+chapter-136	132	1	I am the Fates'	PERSON
+chapter-136	136	1	Ahab	ORG
+chapter-136	136	2	hundred	CARDINAL
+chapter-136	137	1	half	CARDINAL
+chapter-136	138	1	Ahab	ORG
+chapter-136	139	1	Believe ye	PERSON
+chapter-136	142	1	Moby Dick	PERSON
+chapter-136	142	2	two days	DATE
+chapter-136	142	3	third	ORDINAL
+chapter-136	143	1	Aye	ORG
+chapter-136	146	1	Ahab	ORG
+chapter-136	148	1	yesterday	DATE
+chapter-136	148	2	Starbuck	ORG
+chapter-136	150	1	mine!--The Parsee	GPE
+chapter-136	153	1	dusk	TIME
+chapter-136	154	1	the previous night	TIME
+chapter-136	154	2	morrow	DATE
+chapter-136	155	1	Ahab	ORG
+chapter-136	155	2	the night	TIME

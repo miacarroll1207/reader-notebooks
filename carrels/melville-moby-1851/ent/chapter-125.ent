@@ -1,0 +1,32 @@
+id	sid	eid	entity	type
+chapter-125	2	1	Typhoon	LOC
+chapter-125	2	2	Pequod	PERSON
+chapter-125	4	1	Pequod	PERSON
+chapter-125	5	1	Some hours after midnight	TIME
+chapter-125	5	2	Typhoon	LOC
+chapter-125	5	3	Starbuck and Stubb	ORG
+chapter-125	5	4	one	CARDINAL
+chapter-125	6	1	three	CARDINAL
+chapter-125	6	2	East	LOC
+chapter-125	16	1	one	CARDINAL
+chapter-125	16	2	the twenty-four hours	DATE
+chapter-125	21	1	Starbuck	ORG
+chapter-125	26	1	Aye	ORG
+chapter-125	31	1	Moby Dick	PERSON
+chapter-125	36	1	Typhoon	LOC
+chapter-125	37	1	thirty	CARDINAL
+chapter-125	43	1	aye	ORG
+chapter-125	47	1	Aye	ORG
+chapter-125	47	2	Ahabs	ORG
+chapter-125	56	1	hundreds	CARDINAL
+chapter-125	56	2	Japan	GPE
+chapter-125	57	1	two	CARDINAL
+chapter-125	57	2	half	CARDINAL
+chapter-125	58	1	Ahab	ORG
+chapter-125	59	1	Starbuck	ORG
+chapter-125	62	1	Starbuck	PERSON
+chapter-125	62	2	this day week	DATE
+chapter-125	67	1	Moby Dick	PERSON
+chapter-125	68	1	Starbuck	ORG
+chapter-125	70	1	Mr Stubb	PERSON
+chapter-125	72	1	Thou know'st	PERSON

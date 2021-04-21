@@ -1,0 +1,44 @@
+id	sid	eid	entity	type
+chapter-077	3	1	Sperm Whale's	PERSON
+chapter-077	3	2	Roman	LOC
+chapter-077	3	3	Right Whale's	PERSON
+chapter-077	4	1	Two hundred years ago	DATE
+chapter-077	4	2	Dutch	NORP
+chapter-077	7	1	two	CARDINAL
+chapter-077	8	1	Greenlanders	ORG
+chapter-077	8	2	Southern	NORP
+chapter-077	9	1	crown	ORG
+chapter-077	13	1	carpenter	PERSON
+chapter-077	13	2	about twenty feet	QUANTITY
+chapter-077	13	3	five feet	QUANTITY
+chapter-077	13	4	some 500 gallons	QUANTITY
+chapter-077	16	1	Peruvian	NORP
+chapter-077	18	1	Mackinaw	PERSON
+chapter-077	18	2	Indian	NORP
+chapter-077	21	1	about twelve feet	QUANTITY
+chapter-077	21	2	half	CARDINAL
+chapter-077	21	3	three hundred	CARDINAL
+chapter-077	21	4	Venetian	NORP
+chapter-077	25	1	first	ORDINAL
+chapter-077	27	1	One	CARDINAL
+chapter-077	27	2	mouth;[17	DATE
+chapter-077	27	3	third	ORDINAL
+chapter-077	27	4	Hackluyt	PERSON
+chapter-077	27	5	two hundred and fifty	CARDINAL
+chapter-077	28	1	17	CARDINAL
+chapter-077	32	1	Queen Anne's	PERSON
+chapter-077	34	1	Whale	PERSON
+chapter-077	35	1	thousand	CARDINAL
+chapter-077	36	1	Turkey	GPE
+chapter-077	38	1	six	CARDINAL
+chapter-077	39	1	Sperm	PERSON
+chapter-077	40	1	Sperm	PERSON
+chapter-077	40	2	Whale	PERSON
+chapter-077	41	1	Sperm	PERSON
+chapter-077	42	1	two	CARDINAL
+chapter-077	42	2	Sperm Whale	PERSON
+chapter-077	44	1	Sperm	PERSON
+chapter-077	44	2	Whale	PERSON
+chapter-077	50	1	Sperm Whale	PERSON
+chapter-077	50	2	Platonian	NORP
+chapter-077	50	3	Spinoza	PERSON

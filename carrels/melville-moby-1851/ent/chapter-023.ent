@@ -1,0 +1,40 @@
+id	sid	eid	entity	type
+chapter-023	2	1	nearly six o'clock	TIME
+chapter-023	2	2	misty dawn	PERSON
+chapter-023	3	1	Queequeg	PERSON
+chapter-023	5	1	us	GPE
+chapter-023	5	2	Queequeg	PERSON
+chapter-023	9	1	Lookee	GPE
+chapter-023	9	2	Queequeg	PERSON
+chapter-023	12	1	Elijah	PERSON
+chapter-023	13	1	Elijah	NORP
+chapter-023	13	2	Queequeg	PERSON
+chapter-023	15	1	Indian	NORP
+chapter-023	15	2	Pacific Oceans	NORP
+chapter-023	18	1	Queequeg	PERSON
+chapter-023	20	1	Elijah	NORP
+chapter-023	21	1	Queequeg	PERSON
+chapter-023	22	1	said--"Did ye	PERSON
+chapter-023	23	1	four or five	CARDINAL
+chapter-023	25	1	Morning	TIME
+chapter-023	28	1	Morning	TIME
+chapter-023	32	1	this morning	TIME
+chapter-023	36	1	Pequod	PERSON
+chapter-023	40	1	two	CARDINAL
+chapter-023	42	1	Queequeg	PERSON
+chapter-023	44	1	Queequeg	PERSON
+chapter-023	44	2	Elijah	ORG
+chapter-023	45	1	Queequeg	PERSON
+chapter-023	50	1	Queequeg	PERSON
+chapter-023	53	1	Queequeg	PERSON
+chapter-023	57	1	Queequeg	PERSON
+chapter-023	60	1	Queequeg	PERSON
+chapter-023	60	2	eight or	CARDINAL
+chapter-023	60	3	ten	CARDINAL
+chapter-023	62	1	Queequeg	PERSON
+chapter-023	63	1	Queequeg	PERSON
+chapter-023	66	1	two	CARDINAL
+chapter-023	72	1	Aye	PERSON
+chapter-023	73	1	day	DATE
+chapter-023	74	1	last night	TIME
+chapter-023	79	1	Starbuck	ORG

@@ -1,0 +1,80 @@
+id	sid	eid	entity	type
+chapter-024	2	1	MERRY	ORG
+chapter-024	2	2	noon	TIME
+chapter-024	2	3	Pequod	PERSON
+chapter-024	2	4	Charity	ORG
+chapter-024	2	5	Stubb	PERSON
+chapter-024	2	6	second	ORDINAL
+chapter-024	2	7	two	CARDINAL
+chapter-024	2	8	Starbuck	PERSON
+chapter-024	3	1	Ahab	PERSON
+chapter-024	6	1	Bildad	PERSON
+chapter-024	6	2	Starbuck	PERSON
+chapter-024	8	1	Bildad	PERSON
+chapter-024	13	1	Peleg	PERSON
+chapter-024	15	1	ye sons of bachelors	ORG
+chapter-024	16	1	Starbuck	PERSON
+chapter-024	19	1	marquee	NORP
+chapter-024	19	2	Pequod	PERSON
+chapter-024	19	3	thirty years	DATE
+chapter-024	24	1	Bildad	PERSON
+chapter-024	24	2	Bildad	PERSON
+chapter-024	24	3	Booble Alley	ORG
+chapter-024	25	1	three days previous	DATE
+chapter-024	25	2	Bildad	PERSON
+chapter-024	25	3	Pequod	PERSON
+chapter-024	25	4	Charity	ORG
+chapter-024	25	5	Watts	LOC
+chapter-024	27	1	Queequeg	PERSON
+chapter-024	28	1	Bildad	PERSON
+chapter-024	28	2	seven hundred and seventy-seventh	CARDINAL
+chapter-024	29	1	first	ORDINAL
+chapter-024	35	1	thou chap	PERSON
+chapter-024	35	2	Scotchcap	PERSON
+chapter-024	35	3	spring	DATE
+chapter-024	36	1	ye	GPE
+chapter-024	37	1	Bildad	LOC
+chapter-024	38	1	day	DATE
+chapter-024	40	1	Christmas	DATE
+chapter-024	40	2	night	TIME
+chapter-024	40	3	the wintry ocean	LOC
+chapter-024	42	1	Lank Bildad	PERSON
+chapter-024	42	2	first	ORDINAL
+chapter-024	43	1	Jews	NORP
+chapter-024	43	2	Canaan	GPE
+chapter-024	43	3	Jordan	PERSON
+chapter-024	46	1	Atlantic	LOC
+chapter-024	46	2	the spring	DATE
+chapter-024	46	3	untrodden	GPE
+chapter-024	46	4	midsummer	DATE
+chapter-024	47	1	two	CARDINAL
+chapter-024	49	1	Bildad	PERSON
+chapter-024	49	2	Bildad	PERSON
+chapter-024	50	1	Capes	GPE
+chapter-024	50	2	some thousands	CARDINAL
+chapter-024	50	3	Bildad	GPE
+chapter-024	50	4	Eastern Continents	ORG
+chapter-024	52	1	Starbuck	PERSON
+chapter-024	53	1	him,--"Captain Bildad	ORG
+chapter-024	57	1	Bildad	PERSON
+chapter-024	58	1	Stubb	PERSON
+chapter-024	58	2	Flask	PERSON
+chapter-024	58	3	this day three years	DATE
+chapter-024	58	4	Nantucket	GPE
+chapter-024	59	1	Hurrah	PERSON
+chapter-024	60	1	God	PERSON
+chapter-024	60	2	ye	PERSON
+chapter-024	60	3	Bildad	PERSON
+chapter-024	63	1	ye harpooneers	PERSON
+chapter-024	63	2	three per cent	MONEY
+chapter-024	64	1	the year	DATE
+chapter-024	66	1	Starbuck	PERSON
+chapter-024	69	1	days	DATE
+chapter-024	70	1	Stubb	PERSON
+chapter-024	71	1	Flask	PERSON
+chapter-024	73	1	Starbuck	PERSON
+chapter-024	74	1	twenty cents	MONEY
+chapter-024	74	2	Bildad	PERSON
+chapter-024	76	1	two	CARDINAL
+chapter-024	76	2	three	CARDINAL
+chapter-024	76	3	Atlantic	LOC

@@ -1,0 +1,26 @@
+id	sid	eid	entity	type
+chapter-007	1	1	CHAPTER V. BREAKFAST	PERSON
+chapter-007	4	1	one	CARDINAL
+chapter-007	6	1	the night	TIME
+chapter-007	7	1	second	ORDINAL
+chapter-007	7	2	third	ORDINAL
+chapter-007	7	3	morning	TIME
+chapter-007	9	1	three days	DATE
+chapter-007	9	2	Indian	NORP
+chapter-007	11	1	a third	CARDINAL
+chapter-007	11	2	weeks	DATE
+chapter-007	12	1	Queequeg	PERSON
+chapter-007	13	1	Andes	LOC
+chapter-007	13	2	one	CARDINAL
+chapter-007	17	1	Ledyard	PERSON
+chapter-007	17	2	New England	ORG
+chapter-007	17	3	Mungo Park	PERSON
+chapter-007	17	4	Scotch	ORG
+chapter-007	18	1	Siberia	LOC
+chapter-007	18	2	Ledyard	PERSON
+chapter-007	18	3	Africa	LOC
+chapter-007	18	4	Mungo	PRODUCT
+chapter-007	22	1	the Green Mountains	LOC
+chapter-007	24	1	Queequeg	PERSON
+chapter-007	24	2	Queequeg	PERSON
+chapter-007	28	1	Queequeg	PERSON

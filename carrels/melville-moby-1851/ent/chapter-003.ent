@@ -1,0 +1,61 @@
+id	sid	eid	entity	type
+chapter-003	1	1	Ishmael	GPE
+chapter-003	2	1	Some years ago	DATE
+chapter-003	4	1	November	DATE
+chapter-003	6	1	Cato	ORG
+chapter-003	9	1	Manhattoes	ORG
+chapter-003	9	2	Indian	NORP
+chapter-003	11	1	a few hours	TIME
+chapter-003	13	1	Sabbath afternoon	TIME
+chapter-003	14	1	Corlears Hook to Coenties Slip	WORK_OF_ART
+chapter-003	14	2	Whitehall	PERSON
+chapter-003	15	1	thousands upon thousands	CARDINAL
+chapter-003	16	1	China	GPE
+chapter-003	17	1	week days	DATE
+chapter-003	27	1	miles	QUANTITY
+chapter-003	28	1	avenues,--north	LOC
+chapter-003	33	1	ten to one	CARDINAL
+chapter-003	36	1	American	NORP
+chapter-003	39	1	Saco	ORG
+chapter-003	44	1	Prairies	ORG
+chapter-003	44	2	June	DATE
+chapter-003	44	3	miles	QUANTITY
+chapter-003	44	4	one	CARDINAL
+chapter-003	45	1	Niagara	ORG
+chapter-003	46	1	Tennessee	GPE
+chapter-003	46	2	two	CARDINAL
+chapter-003	46	3	Rockaway Beach	GPE
+chapter-003	48	1	first	ORDINAL
+chapter-003	49	1	Persians	NORP
+chapter-003	50	1	Greeks	PERSON
+chapter-003	50	2	Jove	PERSON
+chapter-003	52	1	Narcissus	GPE
+chapter-003	57	1	nights	TIME
+chapter-003	57	2	Cook	PERSON
+chapter-003	61	1	cook,--though	ORG
+chapter-003	62	1	Egyptians	NORP
+chapter-003	64	1	May	DATE
+chapter-003	65	1	first	ORDINAL
+chapter-003	66	1	the van Rensselaers	PERSON
+chapter-003	66	2	Randolphs	PERSON
+chapter-003	66	3	Hardicanutes	WORK_OF_ART
+chapter-003	68	1	Seneca	ORG
+chapter-003	68	2	Stoics	ORG
+chapter-003	72	1	Gabriel	PERSON
+chapter-003	76	1	a single penny	MONEY
+chapter-003	79	1	two	CARDINAL
+chapter-003	80	1	paid,--what	ORG
+chapter-003	85	1	second	ORDINAL
+chapter-003	86	1	first	ORDINAL
+chapter-003	88	1	Fates	ORG
+chapter-003	89	1	Providence	ORG
+chapter-003	91	1	Grand Contested Election for the Presidency of the United States	WORK_OF_ART
+chapter-003	92	1	ONE	CARDINAL
+chapter-003	93	1	AFFGHANISTAN	GPE
+chapter-003	94	1	Fates	GPE
+chapter-003	97	1	thousand	CARDINAL
+chapter-003	97	2	Patagonian	NORP
+chapter-003	100	1	one	CARDINAL
+chapter-003	101	1	two	CARDINAL
+chapter-003	101	2	two	CARDINAL
+chapter-003	101	3	one	CARDINAL

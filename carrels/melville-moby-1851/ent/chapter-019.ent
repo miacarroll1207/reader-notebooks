@@ -1,0 +1,76 @@
+id	sid	eid	entity	type
+chapter-019	2	1	Queequeg	PERSON
+chapter-019	2	2	Fasting and Humiliation	WORK_OF_ART
+chapter-019	2	3	night	TIME
+chapter-019	3	1	Presbyterian	NORP
+chapter-019	3	2	christians	NORP
+chapter-019	3	3	half	CARDINAL
+chapter-019	4	1	Queequeg	PERSON
+chapter-019	4	2	Yojo	PERSON
+chapter-019	6	1	Presbyterians	NORP
+chapter-019	6	2	Pagans	NORP
+chapter-019	7	1	evening	TIME
+chapter-019	9	1	Queequeg	PERSON
+chapter-019	10	1	Queequeg	PERSON
+chapter-019	18	1	Queequeg	PERSON
+chapter-019	20	1	Queequeg!--Queequeg	ORG
+chapter-019	25	1	first	ORDINAL
+chapter-019	34	1	Hussey	PERSON
+chapter-019	37	1	Hussey	PERSON
+chapter-019	42	1	Hussey	PERSON
+chapter-019	53	1	Queequeg	PERSON
+chapter-019	57	1	girl?--there	PERSON
+chapter-019	57	2	Betty	PERSON
+chapter-019	57	3	Snarles the Painter	WORK_OF_ART
+chapter-019	64	1	one	CARDINAL
+chapter-019	64	2	about a mile	QUANTITY
+chapter-019	68	1	Queequeg	PERSON
+chapter-019	71	1	Queequeg	PERSON
+chapter-019	71	2	Yojo	PERSON
+chapter-019	72	1	one	CARDINAL
+chapter-019	73	1	Queequeg	PERSON
+chapter-019	73	2	Queequeg	PERSON
+chapter-019	74	1	all day	DATE
+chapter-019	76	1	eight or ten hours	TIME
+chapter-019	77	1	Hussey	PERSON
+chapter-019	82	1	Ramadan	DATE
+chapter-019	84	1	the Atlantic Ocean	LOC
+chapter-019	84	2	nearly eleven o'clock	TIME
+chapter-019	84	3	Queequeg	PERSON
+chapter-019	84	4	Ramadan	PERSON
+chapter-019	86	1	all day	DATE
+chapter-019	86	2	half the night	TIME
+chapter-019	87	1	Queequeg	PERSON
+chapter-019	88	1	Queequeg	PERSON
+chapter-019	93	1	Queequeg	PERSON
+chapter-019	93	2	four feet	QUANTITY
+chapter-019	94	1	all night	TIME
+chapter-019	95	1	day	DATE
+chapter-019	95	2	Queequeg	PERSON
+chapter-019	96	1	first	ORDINAL
+chapter-019	99	1	Queequeg	PERSON
+chapter-019	100	1	Queequeg	PERSON
+chapter-019	101	1	Queequeg	PERSON
+chapter-019	101	2	Ramadans	NORP
+chapter-019	101	3	Hygiene	NORP
+chapter-019	103	1	half	CARDINAL
+chapter-019	105	1	one	CARDINAL
+chapter-019	105	2	Queequeg	PERSON
+chapter-019	105	3	Ramadans	NORP
+chapter-019	106	1	Queequeg	PERSON
+chapter-019	107	1	one	CARDINAL
+chapter-019	108	1	fifty	CARDINAL
+chapter-019	108	2	about two o'clock in the afternoon	TIME
+chapter-019	108	3	evening	TIME
+chapter-019	109	1	Queequeg	PERSON
+chapter-019	110	1	barbecue	GPE
+chapter-019	110	2	victor	PRODUCT
+chapter-019	110	3	one	CARDINAL
+chapter-019	110	4	one	CARDINAL
+chapter-019	110	5	Christmas	DATE
+chapter-019	111	1	Queequeg	PERSON
+chapter-019	112	1	first	ORDINAL
+chapter-019	112	2	second	ORDINAL
+chapter-019	112	3	more than one third	CARDINAL
+chapter-019	114	1	Queequeg	PERSON
+chapter-019	114	2	Pequod	PERSON

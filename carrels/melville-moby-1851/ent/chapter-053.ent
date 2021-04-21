@@ -1,0 +1,54 @@
+id	sid	eid	entity	type
+chapter-053	1	1	CHAPTER LI	ORG
+chapter-053	2	1	weeks	DATE
+chapter-053	2	2	easy sail	PERSON
+chapter-053	2	3	four	CARDINAL
+chapter-053	2	4	Azores	ORG
+chapter-053	2	5	the Cape de Verdes	LOC
+chapter-053	2	6	the Rio de la Plata	FAC
+chapter-053	2	7	the Carrol Ground	ORG
+chapter-053	2	8	St. Helena	GPE
+chapter-053	3	1	one	CARDINAL
+chapter-053	6	1	these moonlight nights	TIME
+chapter-053	7	1	night	TIME
+chapter-053	7	2	one	CARDINAL
+chapter-053	7	3	a hundred	CARDINAL
+chapter-053	8	1	Oriental	NORP
+chapter-053	8	2	such unusual hours	TIME
+chapter-053	8	3	one	CARDINAL
+chapter-053	9	1	several successive nights	DATE
+chapter-053	9	2	moon	PERSON
+chapter-053	9	3	mariner	PERSON
+chapter-053	12	1	a most unwonted hour	TIME
+chapter-053	16	1	two	CARDINAL
+chapter-053	17	1	Ahab	ORG
+chapter-053	17	2	two	CARDINAL
+chapter-053	18	1	one	CARDINAL
+chapter-053	20	1	that night	TIME
+chapter-053	21	1	second	ORDINAL
+chapter-053	22	1	midnight	TIME
+chapter-053	22	2	some days	DATE
+chapter-053	23	1	the same silent hour	TIME
+chapter-053	24	1	night	TIME
+chapter-053	25	1	one whole day	DATE
+chapter-053	25	2	two days	DATE
+chapter-053	25	3	three	CARDINAL
+chapter-053	26	1	Pequod	PERSON
+chapter-053	26	2	one	CARDINAL
+chapter-053	26	3	Moby Dick	PERSON
+chapter-053	28	1	days	DATE
+chapter-053	28	2	days	DATE
+chapter-053	29	1	Cape	PERSON
+chapter-053	29	2	Pequod	GPE
+chapter-053	31	1	every morning	TIME
+chapter-053	32	1	the black sea	LOC
+chapter-053	36	1	Ahab	ORG
+chapter-053	39	1	hours and hours	TIME
+chapter-053	41	1	day	DATE
+chapter-053	41	2	day	DATE
+chapter-053	42	1	night	TIME
+chapter-053	44	1	one night	TIME
+chapter-053	44	2	half	CARDINAL
+chapter-053	48	1	9	CARDINAL
+chapter-053	49	1	Starbuck	ORG
+chapter-053	50	1	9	CARDINAL

@@ -1,0 +1,30 @@
+id	sid	eid	entity	type
+chapter-060	2	1	Crozetts	LOC
+chapter-060	4	1	the second day	DATE
+chapter-060	4	2	Whales	PERSON
+chapter-060	4	3	Sperm Whaler	PERSON
+chapter-060	4	4	Pequod	PERSON
+chapter-060	4	5	Venetian	NORP
+chapter-060	5	1	morning	TIME
+chapter-060	6	1	11	CARDINAL
+chapter-060	6	2	11	CARDINAL
+chapter-060	6	3	Newfoundland	GPE
+chapter-060	7	1	one	CARDINAL
+chapter-060	9	1	India	GPE
+chapter-060	9	2	first	ORDINAL
+chapter-060	14	1	Columbus	ORG
+chapter-060	14	2	one	CARDINAL
+chapter-060	14	3	tens and hundreds of thousands	CARDINAL
+chapter-060	15	1	first	ORDINAL
+chapter-060	15	2	Portuguese	NORP
+chapter-060	16	1	last year	DATE
+chapter-060	17	1	Yea	PERSON
+chapter-060	17	2	Noah	PERSON
+chapter-060	17	3	two thirds	CARDINAL
+chapter-060	18	1	Wherein	PERSON
+chapter-060	19	1	Hebrews	ORG
+chapter-060	19	2	Korah	PERSON
+chapter-060	20	1	Persian	NORP
+chapter-060	28	1	one	CARDINAL
+chapter-060	28	2	Tahiti	ORG
+chapter-060	28	3	half	CARDINAL

@@ -1,0 +1,151 @@
+id	sid	eid	entity	type
+chapter-137	2	1	THIRD DAY	TIME
+chapter-137	2	2	The morning	TIME
+chapter-137	2	3	third	ORDINAL
+chapter-137	7	1	day	DATE
+chapter-137	7	2	summer	DATE
+chapter-137	7	3	this morning	TIME
+chapter-137	7	4	a fairer day	DATE
+chapter-137	13	1	Greenland	GPE
+chapter-137	13	2	Vesuvius	ORG
+chapter-137	29	1	Trade Winds	WORK_OF_ART
+chapter-137	30	1	Poles	NORP
+chapter-137	31	1	Trades	LOC
+chapter-137	37	1	noon	TIME
+chapter-137	40	1	Aye	ORG
+chapter-137	43	1	Aye	ORG
+chapter-137	46	1	Aye	ORG
+chapter-137	46	2	last night	TIME
+chapter-137	51	1	Pequod	ORG
+chapter-137	51	2	quarter	DATE
+chapter-137	52	1	Starbuck	PERSON
+chapter-137	58	1	Aye	PERSON
+chapter-137	58	2	Ahab	ORG
+chapter-137	59	1	A whole hour	TIME
+chapter-137	60	1	Time	ORG
+chapter-137	61	1	some three	CARDINAL
+chapter-137	61	2	three	CARDINAL
+chapter-137	61	3	three	CARDINAL
+chapter-137	62	1	third	ORDINAL
+chapter-137	62	2	Moby Dick	PERSON
+chapter-137	64	1	Starbuck	PERSON
+chapter-137	68	1	one	CARDINAL
+chapter-137	70	1	Noah	PERSON
+chapter-137	75	1	the bitterer quarter	DATE
+chapter-137	77	1	this?--green	GPE
+chapter-137	78	1	aye	ORG
+chapter-137	79	1	Ahab	ORG
+chapter-137	82	1	Aye	ORG
+chapter-137	89	1	all night	TIME
+chapter-137	90	1	Aye	ORG
+chapter-137	90	2	Parsee	GPE
+chapter-137	90	3	Ahab	ORG
+chapter-137	92	1	morrow	DATE
+chapter-137	94	1	one	CARDINAL
+chapter-137	97	1	third	ORDINAL
+chapter-137	97	2	Starbuck	PERSON
+chapter-137	98	1	Aye	PERSON
+chapter-137	101	1	Starbuck	ORG
+chapter-137	103	1	Starbuck	ORG
+chapter-137	104	1	weeps	PERSON
+chapter-137	115	1	first	ORDINAL
+chapter-137	115	2	Pequod	PERSON
+chapter-137	115	3	the White Whale	ORG
+chapter-137	115	4	Ahab	PERSON
+chapter-137	115	5	them,--however	NORP
+chapter-137	115	6	one	CARDINAL
+chapter-137	117	1	Starbuck	PERSON
+chapter-137	117	2	third	ORDINAL
+chapter-137	117	3	three days	DATE
+chapter-137	117	4	one	CARDINAL
+chapter-137	117	5	first	ORDINAL
+chapter-137	117	6	the morning	TIME
+chapter-137	117	7	the second the noon	TIME
+chapter-137	117	8	the third the evening	TIME
+chapter-137	122	1	Mary	PERSON
+chapter-137	123	1	thou fadest	ORG
+chapter-137	126	1	all day	DATE
+chapter-137	129	1	hill?--Crazed;--aloft	PERSON
+chapter-137	134	1	Ahab!--shudder	PERSON
+chapter-137	138	1	ye	ORG
+chapter-137	144	1	thirty feet	QUANTITY
+chapter-137	146	1	yesterday	DATE
+chapter-137	146	2	Moby Dick	PERSON
+chapter-137	147	1	two	CARDINAL
+chapter-137	147	2	one	CARDINAL
+chapter-137	147	3	Ahab	ORG
+chapter-137	148	1	Daggoo	PERSON
+chapter-137	148	2	Queequeg	PERSON
+chapter-137	148	3	one	CARDINAL
+chapter-137	149	1	the past night	TIME
+chapter-137	149	2	half	CARDINAL
+chapter-137	149	3	Parsee	GPE
+chapter-137	152	1	Parsee	GPE
+chapter-137	155	1	second	ORDINAL
+chapter-137	157	1	ye	PERSON
+chapter-137	157	2	Ahab	PERSON
+chapter-137	158	1	first	ORDINAL
+chapter-137	161	1	Moby Dick	PERSON
+chapter-137	161	2	ship,--which	ORG
+chapter-137	164	1	Starbuck	ORG
+chapter-137	164	2	the third day	DATE
+chapter-137	166	1	Moby Dick	PERSON
+chapter-137	169	1	Ahab	PERSON
+chapter-137	169	2	Starbuck	PERSON
+chapter-137	170	1	Tashtego	PERSON
+chapter-137	170	2	Queequeg	PERSON
+chapter-137	170	3	Daggoo	PERSON
+chapter-137	170	4	three	CARDINAL
+chapter-137	170	5	two	CARDINAL
+chapter-137	171	1	One	CARDINAL
+chapter-137	171	2	Stubb and Flask	ORG
+chapter-137	174	1	Tashtego	GPE
+chapter-137	175	1	the three days'	DATE
+chapter-137	175	2	the White Whale's	ORG
+chapter-137	176	1	Ahab	ORG
+chapter-137	184	1	Aye	ORG
+chapter-137	186	1	two	CARDINAL
+chapter-137	187	1	the White Whale's	ORG
+chapter-137	187	2	Ahab	ORG
+chapter-137	188	1	Moby Dick	PERSON
+chapter-137	188	2	Ahab	ORG
+chapter-137	189	1	three	CARDINAL
+chapter-137	189	2	two	CARDINAL
+chapter-137	189	3	third	ORDINAL
+chapter-137	190	1	the White Whale	ORG
+chapter-137	205	1	thy depths	DATE
+chapter-137	209	1	two	CARDINAL
+chapter-137	209	2	half	CARDINAL
+chapter-137	210	1	one	CARDINAL
+chapter-137	210	2	Tashtego	PERSON
+chapter-137	210	3	half	CARDINAL
+chapter-137	210	4	Starbuck and Stubb	PERSON
+chapter-137	221	1	helmsman	PERSON
+chapter-137	227	1	Stubb	PERSON
+chapter-137	227	2	Stubb	PERSON
+chapter-137	229	1	Stubb	PERSON
+chapter-137	229	2	Stubb	PERSON
+chapter-137	230	1	Stubb	PERSON
+chapter-137	232	1	ye, sun	ORG
+chapter-137	232	2	moon	GPE
+chapter-137	234	1	ye	PERSON
+chapter-137	237	1	thou grinning	PERSON
+chapter-137	243	1	one	CARDINAL
+chapter-137	246	1	Stubb	PERSON
+chapter-137	253	1	second	ORDINAL
+chapter-137	254	1	American	NORP
+chapter-137	255	1	a few yards	QUANTITY
+chapter-137	255	2	Ahab	ORG
+chapter-137	260	1	ye three	ORG
+chapter-137	266	1	pour ye	PERSON
+chapter-137	266	2	ye	PERSON
+chapter-137	268	1	one	CARDINAL
+chapter-137	272	1	Turkish	NORP
+chapter-137	277	1	Fata Morgana	PERSON
+chapter-137	278	1	one	CARDINAL
+chapter-137	278	2	Pequod	FAC
+chapter-137	279	1	Indian	NORP
+chapter-137	279	2	a few inches	QUANTITY
+chapter-137	280	1	Tashtego	ORG
+chapter-137	280	2	Ahab	PERSON
+chapter-137	281	1	five thousand years ago	DATE

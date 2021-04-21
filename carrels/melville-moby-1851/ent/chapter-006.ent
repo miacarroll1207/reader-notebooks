@@ -1,0 +1,44 @@
+id	sid	eid	entity	type
+chapter-006	1	1	CHAPTER IV	ORG
+chapter-006	2	1	COUNTERPANE	ORG
+chapter-006	2	2	next morning	TIME
+chapter-006	2	3	Queequeg	PERSON
+chapter-006	4	1	Cretan labyrinth	ORG
+chapter-006	4	2	two	CARDINAL
+chapter-006	4	3	one	CARDINAL
+chapter-006	5	1	first	ORDINAL
+chapter-006	5	2	Queequeg	PERSON
+chapter-006	10	1	a few days previous	DATE
+chapter-006	10	2	only two o'clock in the afternoon of the 21st June	TIME
+chapter-006	10	3	the longest day in the year	DATE
+chapter-006	12	1	third	ORDINAL
+chapter-006	13	1	sixteen entire hours	TIME
+chapter-006	14	1	Sixteen hours	TIME
+chapter-006	19	1	several hours	TIME
+chapter-006	20	1	half	CARDINAL
+chapter-006	23	1	one single inch	QUANTITY
+chapter-006	24	1	days	DATE
+chapter-006	24	2	weeks	DATE
+chapter-006	24	3	months	DATE
+chapter-006	25	1	Nay	PERSON
+chapter-006	25	2	this very hour	TIME
+chapter-006	26	1	Queequeg	PERSON
+chapter-006	27	1	one	CARDINAL
+chapter-006	27	2	one	CARDINAL
+chapter-006	33	1	the broad day	DATE
+chapter-006	34	1	Queequeg	PERSON
+chapter-006	35	1	Newfoundland	GPE
+chapter-006	37	1	first	ORDINAL
+chapter-006	38	1	Queequeg	PERSON
+chapter-006	39	1	Queequeg	PERSON
+chapter-006	40	1	Queequeg	PERSON
+chapter-006	40	2	every day	DATE
+chapter-006	43	1	Queequeg	PERSON
+chapter-006	48	1	first	ORDINAL
+chapter-006	49	1	Queequeg	PERSON
+chapter-006	51	1	morning	TIME
+chapter-006	51	2	Christian	NORP
+chapter-006	51	3	Queequeg	PERSON
+chapter-006	53	1	lo	PERSON
+chapter-006	54	1	Queequeg	PERSON
+chapter-006	54	2	Rogers	PERSON

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">keyword</li>
+		</ol>
+	</nav>
+
+<h1>keyword</h1>
+<p>This is a table of type keyword and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>keyword</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>ahab</td><td>31</td></tr>
+<tr><td>whale</td><td>26</td></tr>
+<tr><td>stubb</td><td>11</td></tr>
+<tr><td>queequeg</td><td>10</td></tr>
+<tr><td>sperm</td><td>9</td></tr>
+<tr><td>starbuck</td><td>8</td></tr>
+<tr><td>pequod</td><td>6</td></tr>
+<tr><td>flask</td><td>5</td></tr>
+<tr><td>captain</td><td>5</td></tr>
+<tr><td>head</td><td>4</td></tr>
+<tr><td>pip</td><td>4</td></tr>
+<tr><td>ship</td><td>4</td></tr>
+<tr><td>sea</td><td>3</td></tr>
+<tr><td>peleg</td><td>3</td></tr>
+<tr><td>man</td><td>3</td></tr>
+<tr><td>leviathan</td><td>3</td></tr>
+<tr><td>bildad</td><td>3</td></tr>
+<tr><td>harpooneer</td><td>2</td></tr>
+<tr><td>chapter</td><td>2</td></tr>
+<tr><td>dick</td><td>2</td></tr>
+<tr><td>jonah</td><td>2</td></tr>
+<tr><td>tashtego</td><td>2</td></tr>
+<tr><td>white</td><td>2</td></tr>
+<tr><td>oil</td><td>2</td></tr>
+<tr><td>father</td><td>1</td></tr>
+<tr><td>george</td><td>1</td></tr>
+<tr><td>fish</td><td>1</td></tr>
+<tr><td>fleece</td><td>1</td></tr>
+<tr><td>folio</td><td>1</td></tr>
+<tr><td>foot</td><td>1</td></tr>
+<tr><td>gabriel</td><td>1</td></tr>
+<tr><td>greenland</td><td>1</td></tr>
+<tr><td>god</td><td>1</td></tr>
+<tr><td>guernsey</td><td>1</td></tr>
+<tr><td>hand</td><td>1</td></tr>
+<tr><td>hussey</td><td>1</td></tr>
+<tr><td>idol</td><td>1</td></tr>
+<tr><td>iron</td><td>1</td></tr>
+<tr><td>lakeman</td><td>1</td></tr>
+<tr><td>fire</td><td>1</td></tr>
+<tr><td>book</td><td>1</td></tr>
+<tr><td>english</td><td>1</td></tr>
+<tr><td>brain</td><td>1</td></tr>
+<tr><td>bed</td><td>1</td></tr>
+<tr><td>bedford</td><td>1</td></tr>
+<tr><td>blacksmith</td><td>1</td></tr>
+<tr><td>blubber</td><td>1</td></tr>
+<tr><td>boat</td><td>1</td></tr>
+<tr><td>leg</td><td>1</td></tr>
+<tr><td>bulkington</td><td>1</td></tr>
+<tr><td>dutch</td><td>1</td></tr>
+<tr><td>bunger</td><td>1</td></tr>
+<tr><td>cabaco</td><td>1</td></tr>
+<tr><td>carpenter</td><td>1</td></tr>
+<tr><td>derick</td><td>1</td></tr>
+<tr><td>don</td><td>1</td></tr>
+<tr><td>duke</td><td>1</td></tr>
+<tr><td>landlord</td><td>1</td></tr>
+<tr><td>parsee</td><td>1</td></tr>
+<tr><td>line</td><td>1</td></tr>
+<tr><td>thing</td><td>1</td></tr>
+<tr><td>sir</td><td>1</td></tr>
+<tr><td>sleet</td><td>1</td></tr>
+<tr><td>steelkilt</td><td>1</td></tr>
+<tr><td>sub</td><td>1</td></tr>
+<tr><td>tail</td><td>1</td></tr>
+<tr><td>temple</td><td>1</td></tr>
+<tr><td>thunder</td><td>1</td></tr>
+<tr><td>look</td><td>1</td></tr>
+<tr><td>time</td><td>1</td></tr>
+<tr><td>town</td><td>1</td></tr>
+<tr><td>tranquo</td><td>1</td></tr>
+<tr><td>water</td><td>1</td></tr>
+<tr><td>whiteness</td><td>1</td></tr>
+<tr><td>work</td><td>1</td></tr>
+<tr><td>shipmate</td><td>1</td></tr>
+<tr><td>shark</td><td>1</td></tr>
+<tr><td>school</td><td>1</td></tr>
+<tr><td>sailor</td><td>1</td></tr>
+<tr><td>sail</td><td>1</td></tr>
+<tr><td>ramadan</td><td>1</td></tr>
+<tr><td>radney</td><td>1</td></tr>
+<tr><td>pliny</td><td>1</td></tr>
+<tr><td>pacific</td><td>1</td></tr>
+<tr><td>nuee</td><td>1</td></tr>
+<tr><td>night</td><td>1</td></tr>
+<tr><td>new</td><td>1</td></tr>
+<tr><td>nantucket</td><td>1</td></tr>
+<tr><td>mr.</td><td>1</td></tr>
+<tr><td>moby</td><td>1</td></tr>
+<tr><td>memory</td><td>1</td></tr>
+<tr><td>mast</td><td>1</td></tr>
+<tr><td>bachelor</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

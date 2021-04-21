@@ -1,0 +1,101 @@
+id	sid	eid	entity	type
+chapter-073	2	1	Pequod	PERSON
+chapter-073	4	1	Pequod	PERSON
+chapter-073	6	1	the American Whale Fleet	ORG
+chapter-073	8	1	Pequod	PERSON
+chapter-073	9	1	Pequod	PERSON
+chapter-073	9	2	lee	PERSON
+chapter-073	9	3	Starbuck	PERSON
+chapter-073	10	1	Jeroboam	PERSON
+chapter-073	10	2	Mayhew	PERSON
+chapter-073	10	3	Pequod	PERSON
+chapter-073	11	1	half	CARDINAL
+chapter-073	11	2	Pequod	PRODUCT
+chapter-073	13	1	some few yards	QUANTITY
+chapter-073	13	2	Jeroboam	PERSON
+chapter-073	13	3	Pequod	PERSON
+chapter-073	14	1	two	CARDINAL
+chapter-073	15	1	Jeroboam	PERSON
+chapter-073	19	1	Stubb	PERSON
+chapter-073	21	1	the Town-Ho's	FAC
+chapter-073	22	1	Jeroboam	PERSON
+chapter-073	22	2	Pequod	PERSON
+chapter-073	22	3	the Town-Ho	FAC
+chapter-073	23	1	Jeroboam	PERSON
+chapter-073	24	1	Neskyeuna Shakers	PERSON
+chapter-073	24	2	seventh	ORDINAL
+chapter-073	24	3	laudanum	GPE
+chapter-073	25	1	Neskyeuna	PERSON
+chapter-073	25	2	Nantucket	GPE
+chapter-073	25	3	Jeroboam	PERSON
+chapter-073	27	1	Gabriel	PERSON
+chapter-073	28	1	Oceanica	GPE
+chapter-073	29	1	Gabriel	PERSON
+chapter-073	31	1	first	ORDINAL
+chapter-073	31	2	archangel forthwith	PERSON
+chapter-073	32	1	Gabriel	PERSON
+chapter-073	34	1	Gabriel	PERSON
+chapter-073	34	2	Gabriel	PERSON
+chapter-073	38	1	half	CARDINAL
+chapter-073	39	1	Pequod	PERSON
+chapter-073	40	1	Captain Mayhew	PERSON
+chapter-073	41	1	Gabriel	PERSON
+chapter-073	44	1	Gabriel	PERSON
+chapter-073	44	2	Gabriel	PERSON
+chapter-073	45	1	Captain Mayhew	PERSON
+chapter-073	46	1	the White Whale	ORG
+chapter-073	50	1	Gabriel	PERSON
+chapter-073	51	1	one	CARDINAL
+chapter-073	52	1	sperm whale's	PERSON
+chapter-073	52	2	Gabriel	PERSON
+chapter-073	53	1	Captain Mayhew	PERSON
+chapter-073	53	2	Moby Dick	PERSON
+chapter-073	53	3	Gabriel	PERSON
+chapter-073	54	1	Jeroboam	PERSON
+chapter-073	54	2	Moby Dick	PERSON
+chapter-073	55	1	Gabriel	PERSON
+chapter-073	55	2	the White Whale	ORG
+chapter-073	55	3	the White Whale	ORG
+chapter-073	55	4	Shaker	NORP
+chapter-073	55	5	Shakers	ORG
+chapter-073	55	6	Bible	WORK_OF_ART
+chapter-073	56	1	year	DATE
+chapter-073	56	2	two	CARDINAL
+chapter-073	56	3	Moby Dick	PERSON
+chapter-073	56	4	Macey	PERSON
+chapter-073	56	5	Macey	PERSON
+chapter-073	56	6	five	CARDINAL
+chapter-073	57	1	one	CARDINAL
+chapter-073	58	1	Gabriel	PERSON
+chapter-073	58	2	one	CARDINAL
+chapter-073	59	1	Macey	PERSON
+chapter-073	61	1	about fifty yards	QUANTITY
+chapter-073	66	1	Macey	GPE
+chapter-073	67	1	shriek--"The	DATE
+chapter-073	69	1	Gabriel	PERSON
+chapter-073	70	1	one	CARDINAL
+chapter-073	72	1	the White Whale	ORG
+chapter-073	73	1	Ahab answered--"Aye	ORG
+chapter-073	74	1	Straightway	GPE
+chapter-073	74	2	Gabriel	PERSON
+chapter-073	75	1	Mayhew	ORG
+chapter-073	75	2	one	CARDINAL
+chapter-073	77	1	four	CARDINAL
+chapter-073	78	1	two or three years or more	DATE
+chapter-073	85	1	Aye	ORG
+chapter-073	86	1	Starbuck	PERSON
+chapter-073	87	1	Har	PERSON
+chapter-073	87	2	Harry--(a	PERSON
+chapter-073	87	3	wager)--Aye	ORG
+chapter-073	87	4	Harry Macey	PERSON
+chapter-073	87	5	Ship Jeroboam;--why	PERSON
+chapter-073	87	6	Macey	PERSON
+chapter-073	90	1	Mayhew	ORG
+chapter-073	91	1	Gabriel	PERSON
+chapter-073	91	2	Ahab	PERSON
+chapter-073	94	1	Captain Mayhew	PERSON
+chapter-073	94	2	Starbuck	PERSON
+chapter-073	95	1	Gabriel	PERSON
+chapter-073	97	1	Ahab	ORG
+chapter-073	98	1	Gabriel	PERSON
+chapter-073	98	2	Pequod	PERSON

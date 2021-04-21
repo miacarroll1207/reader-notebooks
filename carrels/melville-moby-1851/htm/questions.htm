@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 0, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Questions</li>
+		</ol>
+	</nav>
+
+<h1>Questions</h1>
+<p>This is a list of all the questions and their associated study carrel identifiers. One can learn a lot of the "aboutness" of a text simply by reading the questions.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>identifier</th>
+                <th>question</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>chapter-007</td><td>But who could show a cheek like Queequeg?</td></tr>
+<tr><td>chapter-009</td><td>But what then?</td></tr>
+<tr><td>chapter-008</td><td>Can Herr Alexander perform a feat like that?</td></tr>
+<tr><td>chapter-008</td><td>Whence came they?</td></tr>
+<tr><td>chapter-008</td><td>how planted upon this once scraggy scoria of a country?</td></tr>
+<tr><td>chapter-028</td><td>What doom was his own father''s?</td></tr>
+<tr><td>chapter-028</td><td>Where, in the bottomless deeps, could he find the torn limbs of his brother?</td></tr>
+<tr><td>chapter-002</td><td>And pray, sir, what in the world is equal to it?</td></tr>
+<tr><td>chapter-002</td><td>How far off?</td></tr>
+<tr><td>chapter-002</td><td>Where away?</td></tr>
+<tr><td>chapter-002</td><td>Do you see that whale now?"</td></tr>
+<tr><td>chapter-002</td><td>Mr. Chace, what is the matter?"</td></tr>
+<tr><td>chapter-012</td><td>And what do I wish that this Queequeg would do to me?</td></tr>
+<tr><td>chapter-012</td><td>But what is worship?</td></tr>
+<tr><td>chapter-012</td><td>How then could I unite with this wild idolator in worshipping his piece of wood?</td></tr>
+<tr><td>chapter-032</td><td>How could one look at Ahab then, seated on that tripod of bones, without bethinking him of the royalty it symbolized?</td></tr>
+<tr><td>chapter-032</td><td>What business have I with this pipe?</td></tr>
+<tr><td>chapter-025</td><td>Know ye, now, Bulkington?</td></tr>
+<tr><td>chapter-025</td><td>is all this agony so vain?</td></tr>
+<tr><td>chapter-024</td><td>Is that the way they heave in the marchant service?</td></tr>
+<tr><td>chapter-024</td><td>Captain Ahab is all ready-- just spoke to him-- nothing more to be got from shore, eh?</td></tr>
+<tr><td>chapter-036</td><td>A problem?</td></tr>
+<tr><td>chapter-036</td><td>Wherefore this difference?</td></tr>
+<tr><td>chapter-049</td><td>Where- away?</td></tr>
+<tr><td>chapter-053</td><td>Cape of Good Hope, do they call ye?</td></tr>
+<tr><td>chapter-043</td><td>The subterranean miner that works in us all, how can one tell whither leads his shaft by the ever shifting, muffled sound of his pick?</td></tr>
+<tr><td>chapter-043</td><td>What skiff in tow of a seventy- four can stand still?</td></tr>
+<tr><td>chapter-043</td><td>Who does not feel the irresistible arm drag?</td></tr>
+<tr><td>chapter-027</td><td>But the only thing to be considered here, is this-- what kind of oil is used at coronations?</td></tr>
+<tr><td>chapter-027</td><td>Can it be, though, that they anoint it with a view of making its interior run well, as they anoint machinery?</td></tr>
+<tr><td>chapter-027</td><td>How they use the salt, precisely-- who knows?</td></tr>
+<tr><td>chapter-027</td><td>What then can it possibly be, but sperm oil in its unmanufactured, unpolluted state, the sweetest of all oils?</td></tr>
+<tr><td>chapter-015</td><td>Hallo, you sir,cried the Captain, a gaunt rib of the sea, stalking up to Queequeg,"what in thunder do you mean by that?</td></tr>
+<tr><td>chapter-015</td><td>Now,said Queequeg,"what you tink now,--Didn''t our people laugh?"</td></tr>
+<tr><td>chapter-015</td><td>What him say?</td></tr>
+<tr><td>chapter-015</td><td>Did n''t the people laugh?"</td></tr>
+<tr><td>chapter-015</td><td>Do n''t you know you might have killed that chap?"</td></tr>
+<tr><td>chapter-015</td><td>Was there ever such unconsciousness?</td></tr>
+<tr><td>chapter-039</td><td>Dry heat upon my brow?</td></tr>
+<tr><td>chapter-039</td><td>Is, then, the crown too heavy that I wear?</td></tr>
+<tr><td>chapter-039</td><td>Swerve me?</td></tr>
+<tr><td>chapter-039</td><td>Swerve me?</td></tr>
+<tr><td>chapter-062</td><td>But why say more?</td></tr>
+<tr><td>chapter-004</td><td>But go on, Ishmael, said I at last; do n''t you hear?</td></tr>
+<tr><td>chapter-004</td><td>But what thinks Lazarus?</td></tr>
+<tr><td>chapter-004</td><td>But"The Crossed Harpoons,"and"The Sword- Fish?"</td></tr>
+<tr><td>chapter-004</td><td>Can he warm his blue hands by holding them up to the grand northern lights?</td></tr>
+<tr><td>chapter-004</td><td>Where else but from Nantucket did those aboriginal whalemen, the Red- Men, first sally out in canoes to give chase to the Leviathan?</td></tr>
+<tr><td>chapter-004</td><td>Would not Lazarus rather be in Sumatra than here?</td></tr>
+<tr><td>chapter-004</td><td>go down to the fiery pit itself, in order to keep out this frost?</td></tr>
+<tr><td>chapter-004</td><td>thought I, ha, as the flying particles almost choked me, are these ashes from that destroyed city, Gomorrah?</td></tr>
+<tr><td>chapter-034</td><td>Will he( the leviathan) make a covenant with thee?
+chapter-034	How then?
+chapter-034	Nay; what thing, for example, is there in the Greenland whale''s anatomy more striking than his baleen?
+chapter-034	Next: how shall we define the whale, by his obvious externals, so as conspicuously to label him for all time to come?
+chapter-034	What then is the whale, which I include in the second species of my Folios?
+chapter-034	What then remains?
+chapter-045	Did you hear that noise, Cabaco?
+chapter-045	Take the bucket, will ye, Archy?
+chapter-045	did you hear that noise, Cabaco?
+chapter-045	have done, shipmate, will ye?
+chapter-045	what noise d''ye mean?
+chapter-054	Swim away from me, do ye?"</td></tr>
+<tr><td>chapter-054</td><td>Have ye seen the White Whale?"</td></tr>
+<tr><td>chapter-054</td><td>There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct?</td></tr>
+<tr><td>chapter-060</td><td>Wherein differ the sea and the land, that a miracle upon one is not a miracle upon the other?</td></tr>
+<tr><td>chapter-041</td><td>A brave stave that-- who calls?</td></tr>
+<tr><td>chapter-041</td><td>Mr. Starbuck?</td></tr>
+<tr><td>chapter-041</td><td>Well, Stubb, wise Stubb-- that''s my title-- well, Stubb, what of it, Stubb?</td></tr>
+<tr><td>chapter-041</td><td>What''s my juicy little pear at home doing now?</td></tr>
+<tr><td>chapter-041</td><td>Why so?</td></tr>
+<tr><td>chapter-082</td><td>Under all these circumstances, would it be unreasonable to survey and map out the whale''s spine phrenologically?</td></tr>
+<tr><td>chapter-057</td><td>As for the sign- painters''whales seen in the streets hanging over the shops of oil- dealers, what shall be said of them?</td></tr>
+<tr><td>chapter-057</td><td>Of course, he never had the benefit of a whaling voyage( such men seldom have), but whence he derived that picture, who can tell?</td></tr>
+<tr><td>chapter-057</td><td>What shall be said of these?</td></tr>
+<tr><td>chapter-057</td><td>Where did Guido get the model of such a strange creature as that?</td></tr>
+<tr><td>chapter-055</td><td>--the same way that whalers hail--"How many barrels?"</td></tr>
+<tr><td>chapter-055</td><td>And as for Pirates, when they chance to cross each other''s cross- bones, the first hail is--"How many skulls?"</td></tr>
+<tr><td>chapter-055</td><td>But what is a Gam?</td></tr>
+<tr><td>chapter-055</td><td>What does the whaler do when she meets another whaler in any sort of decent weather?</td></tr>
+<tr><td>chapter-070</td><td>The question is, what and where is the skin of the whale?</td></tr>
+<tr><td>chapter-070</td><td>What would become of a Greenland whale, say, in those shuddering, icy seas of the north, if unsupplied with his cosy surtout?</td></tr>
+<tr><td>chapter-072</td><td>Aye?
+chapter-072	That lively cry upon this deadly calm might almost convert a better man.--Where away?"</td></tr>
+<tr><td>chapter-072</td><td>Do you not marvel, then, at Stubb''s boast, that he demanded but ten minutes to behead a sperm whale?</td></tr>
+<tr><td>chapter-073</td><td>Can''st not read it?</td></tr>
+<tr><td>chapter-073</td><td>Hast thou seen the White Whale?</td></tr>
+<tr><td>chapter-073</td><td>Aye, aye it''s but a dim scrawl;--what''s this?"</td></tr>
+<tr><td>chapter-086</td><td>What then remained?</td></tr>
+<tr><td>chapter-096</td><td>If he cuts off one of his own toes, or one of his assistants'', would you be very much astonished?</td></tr>
+<tr><td>chapter-061</td><td>What was it, Sir?</td></tr>
+<tr><td>chapter-061</td><td>It seemed not a whale; and yet is this Moby Dick?</td></tr>
+<tr><td>chapter-047</td><td>In fact, did you ever hear what might be called regular news direct or indirect from New Guinea?</td></tr>
+<tr><td>chapter-047</td><td>King of Japan, whose lofty jet they say at times assumed the semblance of a snow- white cross against the sky?</td></tr>
+<tr><td>chapter-047</td><td>Was not Saul of Tarsus converted from unbelief by a similar fright?</td></tr>
+<tr><td>chapter-047</td><td>thou terror of all cruisers that crossed their wakes in the vicinity of the Tattoo Land?</td></tr>
+<tr><td>chapter-019</td><td>He hain''t been a sittin''so all day, has he?</td></tr>
+<tr><td>chapter-019</td><td>Queequeg,said I, going up to him,"Queequeg, what''s the matter with you?"</td></tr>
+<tr><td>chapter-019</td><td>What''s the matter with you, young man?</td></tr>
+<tr><td>chapter-019</td><td>What''s the matter with you?
+chapter-019	Has the poor lad a sister?
+chapter-019	Kill?
+chapter-019	There was Queequeg, now, certainly entertaining the most absurd notions about Yojo and his Ramadan;--but what of that?
+chapter-019	What''s that noise there?
+chapter-019	What''s the matter with you, shipmate?</td></tr>
+<tr><td>chapter-019</td><td>cried I,"which way to it?</td></tr>
+<tr><td>chapter-019</td><td>why do n''t you speak?</td></tr>
+<tr><td>chapter-084</td><td>If I claim the demigod then, why not the prophet?</td></tr>
+<tr><td>chapter-084</td><td>Was not this Vishnoo a whaleman, then?</td></tr>
+<tr><td>chapter-084</td><td>What club but the whaleman''s can head off like that?</td></tr>
+<tr><td>chapter-084</td><td>even as a man who rides a horse is called a horseman?</td></tr>
+<tr><td>chapter-088</td><td>But if I know not even the tail of this whale, how understand his head?</td></tr>
+<tr><td>chapter-088</td><td>much more, how comprehend his face, when face he has none?</td></tr>
+<tr><td>chapter-080</td><td>But, peradventure, it may be sagaciously urged, how is this?</td></tr>
+<tr><td>chapter-080</td><td>How many, think ye, have likewise fallen into Plato''s honey head, and sweetly perished there?</td></tr>
+<tr><td>chapter-080</td><td>How will that help him; jamming that iron- bound bucket on top of his head?</td></tr>
+<tr><td>chapter-080</td><td>Now, how had this noble rescue been accomplished?</td></tr>
+<tr><td>chapter-081</td><td>But how?</td></tr>
+<tr><td>chapter-081</td><td>Genius in the Sperm Whale?</td></tr>
+<tr><td>chapter-081</td><td>Has the Sperm Whale ever written a book, spoken a speech?</td></tr>
+<tr><td>chapter-095</td><td>But had Stubb really abandoned the poor little negro to his fate?</td></tr>
+<tr><td>chapter-095</td><td>Snatching the boat- knife from its sheath, he suspended its sharp edge over the line, and turning towards Stubb, exclaimed interrogatively, cut?</td></tr>
+<tr><td>chapter-095</td><td>who can tell it?</td></tr>
+<tr><td>chapter-078</td><td>But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?</td></tr>
+<tr><td>chapter-078</td><td>What befel the weakling youth lifting the dread goddess''s veil at Lais?</td></tr>
+<tr><td>chapter-078</td><td>When two large, loaded Indiamen chance to crowd and crush towards each other in the docks, what do the sailors do?</td></tr>
+<tr><td>chapter-031</td><td>Am I a cannon- ball, Stubb,said Ahab,"that thou wouldst wad me that fashion?</td></tr>
+<tr><td>chapter-031</td><td>Ai n''t that queer, now?</td></tr>
+<tr><td>chapter-031</td><td>But how''s that?</td></tr>
+<tr><td>chapter-031</td><td>By the Lord, I must have been dreaming, though-- How?</td></tr>
+<tr><td>chapter-031</td><td>Stop, Stubb; somehow, now, I do n''t well know whether to go back and strike him, or-- what''s that?--down here on my knees and pray for him?</td></tr>
+<tr><td>chapter-031</td><td>What the devil''s the matter with me?</td></tr>
+<tr><td>chapter-031</td><td>Who''s made appointments with him in the hold?</td></tr>
+<tr><td>chapter-031</td><td>did n''t he call me a dog?</td></tr>
+<tr><td>chapter-031</td><td>how?</td></tr>
+<tr><td>chapter-031</td><td>is he mad?</td></tr>
+<tr><td>chapter-051</td><td>Ca n''t you twist that smaller?</td></tr>
+<tr><td>chapter-051</td><td>I suppose then, that going plump on a flying whale with your sail set in a foggy squall is the height of a whaleman''s discretion?"</td></tr>
+<tr><td>chapter-103</td><td>Did I say we had flip?</td></tr>
+<tr><td>chapter-103</td><td>Flip?</td></tr>
+<tr><td>chapter-107</td><td>But will any whaleman believe these stories?</td></tr>
+<tr><td>chapter-107</td><td>DOES THE WHALE''S MAGNITUDE DIMINISH?--WILL HE PERISH?</td></tr>
+<tr><td>chapter-114</td><td>Oh, Death, why canst thou not sometimes be timely?</td></tr>
+<tr><td>chapter-114</td><td>Why tell the whole?</td></tr>
+<tr><td>chapter-071</td><td>Are you a believer in ghosts, my friend?</td></tr>
+<tr><td>chapter-117</td><td>Hast seen the White Whale?</td></tr>
+<tr><td>chapter-117</td><td>Hast lost any men?"</td></tr>
+<tr><td>chapter-076</td><td>How is it, then, with the whale?</td></tr>
+<tr><td>chapter-076</td><td>Not at all.--Why then do you try to"enlarge"your mind?</td></tr>
+<tr><td>chapter-077</td><td>Can you catch the expression of the Sperm Whale''s there?</td></tr>
+<tr><td>chapter-077</td><td>Does not this whole head seem to speak of an enormous practical resolution in facing death?</td></tr>
+<tr><td>chapter-077</td><td>is this the road that Jonah went?</td></tr>
+<tr><td>chapter-126</td><td>Heading East at this hour in the morning, and the sun astern?</td></tr>
+<tr><td>chapter-026</td><td>And who composed the first narrative of a whaling- voyage?</td></tr>
+<tr><td>chapter-026</td><td>And who pronounced our glowing eulogy in Parliament?</td></tr>
+<tr><td>chapter-026</td><td>How comes all this, if there be not something puissant in whaling?</td></tr>
+<tr><td>chapter-026</td><td>No dignity in whaling?</td></tr>
+<tr><td>chapter-026</td><td>No good blood in their veins?</td></tr>
+<tr><td>chapter-026</td><td>The whale never figured in any grand imposing way?</td></tr>
+<tr><td>chapter-026</td><td>The whale no famous author, and whaling no famous chronicler?</td></tr>
+<tr><td>chapter-026</td><td>Whaling not respectable?</td></tr>
+<tr><td>chapter-026</td><td>Who wrote the first account of our Leviathan?</td></tr>
+<tr><td>chapter-026</td><td>Why did Britain between the years 1750 and 1788 pay to her whalemen in bounties upwards of 1,000,000?</td></tr>
+<tr><td>chapter-026</td><td>Why did the Dutch in De Witt''s time have admirals of their whaling fleets?</td></tr>
+<tr><td>chapter-011</td><td>''I seek a passage in this ship to Tarshish; how soon sail ye, sir?''</td></tr>
+<tr><td>chapter-011</td><td>''No sooner, sir?''</td></tr>
+<tr><td>chapter-011</td><td>''What is thine occupation?</td></tr>
+<tr><td>chapter-011</td><td>''Who''s there?''</td></tr>
+<tr><td>chapter-011</td><td>And what was that, shipmates?</td></tr>
+<tr><td>chapter-011</td><td>And where is Cadiz, shipmates?</td></tr>
+<tr><td>chapter-011</td><td>But what is this lesson that the book of Jonah teaches?</td></tr>
+<tr><td>chapter-011</td><td>Fear him, O Jonah?</td></tr>
+<tr><td>chapter-011</td><td>Is not the main- truck higher than the kelson is low?</td></tr>
+<tr><td>chapter-011</td><td>See ye not then, shipmates, that Jonah sought to flee world- wide from God?</td></tr>
+<tr><td>chapter-011</td><td>Thy country?</td></tr>
+<tr><td>chapter-011</td><td>What people?''</td></tr>
+<tr><td>chapter-011</td><td>Whence comest thou?</td></tr>
+<tr><td>chapter-011</td><td>Yet this is nothing; I leave eternity to Thee; for what is man that he should live out the lifetime of his God?"</td></tr>
+<tr><td>chapter-011</td><td>cries the Captain at his busy desk, hurriedly making out his papers for the Customs--''Who''s there?''</td></tr>
+<tr><td>chapter-124</td><td>What''s the use of thunder?</td></tr>
+<tr><td>chapter-098</td><td>All ready there?
+chapter-098	what is the matter with me?
+chapter-085	But was there no other way for the whale to land the prophet within that short distance of Nineveh?
+chapter-085	How is that?
+chapter-017	A clam for supper?</td></tr>
+<tr><td>chapter-017</td><td>But look, Queequeg, ai n''t that a live eel in your bowl?
+chapter-017	Clam or Cod?"</td></tr>
+<tr><td>chapter-017</td><td>Queequeg,said I,"do you think that we can make out a supper for us both on one clam?"</td></tr>
+<tr><td>chapter-017</td><td>What''s that about Cods, ma''am?</td></tr>
+<tr><td>chapter-017</td><td>Why not?</td></tr>
+<tr><td>chapter-017</td><td>Are these last throwing out oblique hints touching Tophet?</td></tr>
+<tr><td>chapter-017</td><td>But the chowder; clam or cod to- morrow for breakfast, men?"</td></tr>
+<tr><td>chapter-017</td><td>Hussey?"</td></tr>
+<tr><td>chapter-017</td><td>We resumed business; and while plying our spoons in the bowl, thinks I to myself, I wonder now if this here has any effect on the head?</td></tr>
+<tr><td>chapter-017</td><td>What''s that stultifying saying about chowder- headed people?</td></tr>
+<tr><td>chapter-017</td><td>Where''s your harpoon?"</td></tr>
+<tr><td>chapter-017</td><td>said I;"every true whaleman sleeps with his harpoon-- but why not?"</td></tr>
+<tr><td>chapter-017</td><td>says I;"but that''s a rather cold and clammy reception in the winter time, ai n''t it, Mrs Hussey?"</td></tr>
+<tr><td>chapter-105</td><td>Think you not then that brains, like yoked cattle, should be put to this leviathan, to make him at all budge to any landsman''s imagination?</td></tr>
+<tr><td>chapter-089</td><td>What ails ye, man?</td></tr>
+<tr><td>chapter-089</td><td>But how now?</td></tr>
+<tr><td>chapter-089</td><td>Who struck?</td></tr>
+<tr><td>chapter-089</td><td>does his crew drink air?</td></tr>
+<tr><td>chapter-089</td><td>in this zoned quest, does Ahab touch no land?</td></tr>
+<tr><td>chapter-003</td><td>Are the green fields gone?</td></tr>
+<tr><td>chapter-003</td><td>But being paid,--what will compare with it?</td></tr>
+<tr><td>chapter-003</td><td>How then is this?</td></tr>
+<tr><td>chapter-003</td><td>Tell me, does the magnetic virtue of the needles of the compasses of all those ships attract them thither?</td></tr>
+<tr><td>chapter-003</td><td>Were Niagara but a cataract of sand, would you travel your thousand miles to see it?</td></tr>
+<tr><td>chapter-003</td><td>What do they here?</td></tr>
+<tr><td>chapter-003</td><td>What does that indignity amount to, weighed, I mean, in the scales of the New Testament?</td></tr>
+<tr><td>chapter-003</td><td>What is the chief element he employs?</td></tr>
+<tr><td>chapter-003</td><td>What of it, if some old hunks of a sea- captain orders me to get a broom and sweep down the decks?</td></tr>
+<tr><td>chapter-003</td><td>Who ai nt a slave?</td></tr>
+<tr><td>chapter-003</td><td>Why did the Greeks give it a separate deity, and own brother of Jove?</td></tr>
+<tr><td>chapter-003</td><td>Why did the old Persians hold the sea holy?</td></tr>
+<tr><td>chapter-003</td><td>Why is almost every robust healthy boy with a robust healthy soul in him, at some time or other crazy to go to sea?</td></tr>
+<tr><td>chapter-120</td><td>Or canst thou tell where some other thing besides me is this moment living?</td></tr>
+<tr><td>chapter-120</td><td>Where is Moby Dick?</td></tr>
+<tr><td>chapter-120</td><td>thou tellest me truly where I am-- but canst thou cast the least hint where I shall be?</td></tr>
+<tr><td>chapter-094</td><td>Now how did this odious stigma originate?</td></tr>
+<tr><td>chapter-094</td><td>Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?</td></tr>
+<tr><td>chapter-094</td><td>What then shall I liken the Sperm Whale to for fragrance, considering his magnitude?</td></tr>
+<tr><td>chapter-067</td><td>And what do you pick your teeth with, after devouring that fat goose?</td></tr>
+<tr><td>chapter-067</td><td>And with what quill did the Secretary of the Society for the Suppression of Cruelty to Ganders formally indite his circulars?</td></tr>
+<tr><td>chapter-067</td><td>But Stubb, he eats the whale by its own light, does he?</td></tr>
+<tr><td>chapter-067</td><td>Cannibals?</td></tr>
+<tr><td>chapter-067</td><td>Does not that sight take a tooth out of the cannibal''s jaw?</td></tr>
+<tr><td>chapter-067</td><td>and that is adding insult to injury, is it?</td></tr>
+<tr><td>chapter-067</td><td>who is not a cannibal?</td></tr>
+<tr><td>chapter-106</td><td>How, then, with me, writing of this Leviathan?</td></tr>
+<tr><td>chapter-106</td><td>Who can show a pedigree like Leviathan?</td></tr>
+<tr><td>chapter-116</td><td>In what rapt ether sails the world, of which the weariest will never weary?</td></tr>
+<tr><td>chapter-116</td><td>Where is the foundling''s father hidden?</td></tr>
+<tr><td>chapter-116</td><td>Where lies the final harbor, whence we unmoor no more?</td></tr>
+<tr><td>chapter-112</td><td>But if the currents carry ye to those sweet Antilles where the beaches are only beat with water- lilies, will ye do one little errand for me?</td></tr>
+<tr><td>chapter-112</td><td>Ho, where''s his harpoon?</td></tr>
+<tr><td>chapter-112</td><td>Where go ye now?</td></tr>
+<tr><td>chapter-112</td><td>will ye never have done with all this weary roving?</td></tr>
+<tr><td>chapter-020</td><td>Do tell, now,cried Bildad,"is this Philistine a regular member of Deacon Deuteronomy''s meeting?</td></tr>
+<tr><td>chapter-020</td><td>How long hath he been a member?</td></tr>
+<tr><td>chapter-020</td><td>What do you mean by that, Captain Peleg?</td></tr>
+<tr><td>chapter-020</td><td>Death and the judgment then?</td></tr>
+<tr><td>chapter-020</td><td>I say, Quohog, or whatever your name is, did you ever stand in the head of a whale- boat?</td></tr>
+<tr><td>chapter-020</td><td>I say, tell Quohog there-- what''s that you call him?</td></tr>
+<tr><td>chapter-020</td><td>Son of darkness,"he added, turning to Queequeg,"art thou at present in communion with any christian church?"</td></tr>
+<tr><td>chapter-020</td><td>Think of Death and the Judgment then?</td></tr>
+<tr><td>chapter-020</td><td>What church dost thee mean?</td></tr>
+<tr><td>chapter-020</td><td>What?</td></tr>
+<tr><td>chapter-020</td><td>You see him?</td></tr>
+<tr><td>chapter-020</td><td>did you ever strike a fish?"</td></tr>
+<tr><td>chapter-020</td><td>dost thou sign thy name or make thy mark?"</td></tr>
+<tr><td>chapter-020</td><td>that worships in Deacon Deuteronomy Coleman''s meeting- house?"</td></tr>
+<tr><td>chapter-092</td><td>But the duke had nothing to do with taking this fish?</td></tr>
+<tr><td>chapter-092</td><td>Is the Duke so very poor as to be forced to this desperate mode of getting a livelihood?</td></tr>
+<tr><td>chapter-092</td><td>Please, sir, who is the Lord Warden?</td></tr>
+<tr><td>chapter-092</td><td>Wo n''t the Duke be content with a quarter or a half?</td></tr>
+<tr><td>chapter-092</td><td>But is the Queen a mermaid, to be presented with a tail?</td></tr>
+<tr><td>chapter-092</td><td>But why should the King have the head, and the Queen the tail?</td></tr>
+<tr><td>chapter-092</td><td>Is this the still militant old man, standing at the corners of the three kingdoms, on all hands coercing alms of beggars?</td></tr>
+<tr><td>chapter-087</td><td>But then again, what has the whale to say?</td></tr>
+<tr><td>chapter-087</td><td>But what does he want of them?</td></tr>
+<tr><td>chapter-087</td><td>But why pester one with all this reasoning on the subject?</td></tr>
+<tr><td>chapter-087</td><td>How is this?</td></tr>
+<tr><td>chapter-087</td><td>Now, why should the whale thus insist upon having his spoutings out, unless it be to replenish his reservoir of air, ere descending for good?</td></tr>
+<tr><td>chapter-087</td><td>You have seen him spout; then declare what the spout is; can you not tell water from air?</td></tr>
+<tr><td>chapter-119</td><td>And what was that saying about thyself?</td></tr>
+<tr><td>chapter-119</td><td>And when thou art so gone before-- if that ever befall-- then ere I can follow, thou must still appear to me, to pilot me still?--Was it not so?
+chapter-119	And who are hearsed that die on the sea?"</td></tr>
+<tr><td>chapter-119</td><td>Of the hearses?
+chapter-119	Have I not said, old man, that neither hearse nor coffin can be thine?</td></tr>
+<tr><td>chapter-131</td><td>Jumped from a whale- boat once;--seen him?</td></tr>
+<tr><td>chapter-131</td><td>What?</td></tr>
+<tr><td>chapter-131</td><td>Who''s seen Pip?</td></tr>
+<tr><td>chapter-131</td><td>what''s this?</td></tr>
+<tr><td>chapter-133</td><td>Hast killed him?</td></tr>
+<tr><td>chapter-133</td><td>Hast seen the White Whale?</td></tr>
+<tr><td>chapter-133</td><td>Then turning to his crew--"Are ye ready there?</td></tr>
+<tr><td>chapter-042</td><td>Damn me, wo n''t you dance?</td></tr>
+<tr><td>chapter-042</td><td>Eh, Pagan?</td></tr>
+<tr><td>chapter-042</td><td>Form, now, Indian- file, and gallop into the double- shuffle?</td></tr>
+<tr><td>chapter-042</td><td>How then, if so be transplanted to yon sky?</td></tr>
+<tr><td>chapter-042</td><td>Jollies?</td></tr>
+<tr><td>chapter-042</td><td>Me too; where''s your girls?</td></tr>
+<tr><td>chapter-042</td><td>No?</td></tr>
+<tr><td>chapter-042</td><td>What of that?</td></tr>
+<tr><td>chapter-042</td><td>What say ye?</td></tr>
+<tr><td>chapter-042</td><td>What''s that I saw-- lightning?</td></tr>
+<tr><td>chapter-042</td><td>White squalls?</td></tr>
+<tr><td>chapter-042</td><td>Who but a fool would take his left hand by his right, and say to himself, how d''ye do?</td></tr>
+<tr><td>chapter-042</td><td>Who''d go climbing after chestnuts now?</td></tr>
+<tr><td>chapter-042</td><td>Why then, God, mad''st thou the ring?</td></tr>
+<tr><td>chapter-042</td><td>d''ye hear, bell- boy?</td></tr>
+<tr><td>chapter-122</td><td>Sir?--in God''s name!--sir?</td></tr>
+<tr><td>chapter-122</td><td>Shall I get them inboard?"</td></tr>
+<tr><td>chapter-122</td><td>Shall I strike it, sir?"</td></tr>
+<tr><td>chapter-122</td><td>Shall I strike that?</td></tr>
+<tr><td>chapter-104</td><td>Aye, priests-- well, how long do ye make him, then?</td></tr>
+<tr><td>chapter-104</td><td>But how now, Ishmael?</td></tr>
+<tr><td>chapter-104</td><td>Can you land a full- grown whale on your deck for examination, as a cook dishes a roast- pig?</td></tr>
+<tr><td>chapter-104</td><td>How is it, that you, a mere oarsman in the fishery, pretend to know aught about the subterranean parts of the whale?</td></tr>
+<tr><td>chapter-104</td><td>Think you I let that chance go, without using my boat- hatchet and jack- knife, and breaking the seal and reading all the contents of that young cub?</td></tr>
+<tr><td>chapter-104</td><td>unseen weaver!--pause!--one word!--whither flows the fabric?</td></tr>
+<tr><td>chapter-104</td><td>what palace may it deck?</td></tr>
+<tr><td>chapter-104</td><td>wherefore all these ceaseless toilings?</td></tr>
+<tr><td>chapter-111</td><td>Up Burtons and break out?
+chapter-111	What will the owners say, sir?"</td></tr>
+<tr><td>chapter-111</td><td>Who''s there?</td></tr>
+<tr><td>chapter-111</td><td>Now that we are nearing Japan; heave- to here for a week to tinker a parcel of old hoops?"</td></tr>
+<tr><td>chapter-111</td><td>Owners, owners?</td></tr>
+<tr><td>chapter-111</td><td>Shall we not understand each other better than hitherto, Captain Ahab?"</td></tr>
+<tr><td>chapter-111</td><td>What cares Ahab?</td></tr>
+<tr><td>chapter-111</td><td>Yet I do n''t stop to plug my leak; for who can find it in the deep- loaded hull; or how hope to plug it, even if found, in this life''s howling gale?</td></tr>
+<tr><td>chapter-023</td><td>Ai nt going aboard, then?</td></tr>
+<tr><td>chapter-023</td><td>Aye, aye, ye are going in her, be ye?
+chapter-023	Find who?"</td></tr>
+<tr><td>chapter-023</td><td>Going aboard?</td></tr>
+<tr><td>chapter-023</td><td>Shipped men,answered I,"when does she sail?"</td></tr>
+<tr><td>chapter-023</td><td>Those sailors we saw, Queequeg, where can they have gone to?</td></tr>
+<tr><td>chapter-023</td><td>What Captain?--Ahab?</td></tr>
+<tr><td>chapter-023</td><td>What''s that for, Queequeg?</td></tr>
+<tr><td>chapter-023</td><td>Who but him indeed?</td></tr>
+<tr><td>chapter-023</td><td>Ye be, be ye?
+chapter-023	Yes, we are,"said I,"but what business is that of yours?</td></tr>
+<tr><td>chapter-023</td><td>Coming back afore breakfast?"</td></tr>
+<tr><td>chapter-023</td><td>Do you know, Mr. Elijah, that I consider you a little impertinent?"</td></tr>
+<tr><td>chapter-023</td><td>I was going to warn ye against-- but never mind, never mind-- it''s all one, all in the family too;--sharp frost this morning, ai n''t it?</td></tr>
+<tr><td>chapter-023</td><td>Once more we quitted him; but once more he came softly after us; and touching my shoulder again, said,"See if you can find''em now, will ye?"</td></tr>
+<tr><td>chapter-023</td><td>he breathed at last,"who be ye smokers?"</td></tr>
+<tr><td>chapter-023</td><td>said I,"call that his face?</td></tr>
+<tr><td>chapter-050</td><td>Captain Ahab?</td></tr>
+<tr><td>chapter-050</td><td>Lower away then; d''ye hear?</td></tr>
+<tr><td>chapter-050</td><td>Why do n''t you break your backbones, my boys?
+chapter-050	And did n''t I tell Cabaco here of it?
+chapter-050	But what the devil are you hurrying about?
+chapter-050	Did n''t I hear''em in the hold?
+chapter-050	Fits?
+chapter-050	Pull, will ye?
+chapter-050	Those chaps in yonder boat?
+chapter-050	What is it you stare at?
+chapter-050	What say ye, Cabaco?
+chapter-050	Why do n''t you snap your oars, you rascals?
+chapter-050	Will you mount?</td></tr>
+<tr><td>chapter-050</td><td>pull, ca n''t ye?</td></tr>
+<tr><td>chapter-050</td><td>pull, wo n''t ye?</td></tr>
+<tr><td>chapter-033</td><td>What d''ye think of that now, Flask?
+chapter-033	''And what business is that of yours, I should like to know, Mr. Humpback?
+chapter-033	''Halloa,''says I,''what''s the matter now, old fellow?''
+chapter-033	''Very good,''says he--''he used his ivory leg, did n''t he?''
+chapter-033	''Well then,''says he,''wise Stubb, what have you to complain of?
+chapter-033	''What am I about?''
+chapter-033	''What are you''bout?''
+chapter-033	''Why,''thinks I,''what''s the row?
+chapter-033	A white whale-- did ye mark that, man?
+chapter-033	Captain Ahab kicked ye, did n''t he?''
+chapter-033	D''ye see Ahab standing there, sideways looking over the stern?
+chapter-033	Did n''t he kick with right good will?
+chapter-033	Do n''t you see that pyramid?''
+chapter-033	Do you want a kick?''
+chapter-033	Now, what do you think of that dream, Flask?</td></tr>
+<tr><td>chapter-033</td><td>ai n''t there a small drop of something queer about that, eh?</td></tr>
+<tr><td>chapter-033</td><td>it was n''t a common pitch pine leg he kicked with, was it?</td></tr>
+<tr><td>chapter-033</td><td>what''s that he shouts?</td></tr>
+<tr><td>chapter-130</td><td>Hast seen the White Whale?</td></tr>
+<tr><td>chapter-130</td><td>How was it?</td></tr>
+<tr><td>chapter-130</td><td>Have ye seen a whale- boat adrift?"</td></tr>
+<tr><td>chapter-130</td><td>I take back the coat and watch-- what says Ahab?</td></tr>
+<tr><td>chapter-130</td><td>Who ever heard of two pious whale- ships cruising after one missing whale- boat in the height of the whaling season?</td></tr>
+<tr><td>chapter-021</td><td>About what?</td></tr>
+<tr><td>chapter-021</td><td>All about it, eh-- sure you do?--all?</td></tr>
+<tr><td>chapter-021</td><td>Anything down there about your souls?</td></tr>
+<tr><td>chapter-021</td><td>Have ye shipped in her?</td></tr>
+<tr><td>chapter-021</td><td>What are you jabbering about, shipmate?</td></tr>
+<tr><td>chapter-021</td><td>What did they tell you about him?
+chapter-021	What do you know about him?"</td></tr>
+<tr><td>chapter-021</td><td>Who''s Old Thunder?</td></tr>
+<tr><td>chapter-021</td><td>Ye said true-- ye hav''n''t seen Old Thunder yet, have ye?</td></tr>
+<tr><td>chapter-021</td><td>But stop, tell me your name, will you?"</td></tr>
+<tr><td>chapter-021</td><td>Did n''t ye hear a word about them matters and something more, eh?</td></tr>
+<tr><td>chapter-021</td><td>Names down on the papers?</td></tr>
+<tr><td>chapter-021</td><td>No, I do n''t think ye did; how could ye?</td></tr>
+<tr><td>chapter-021</td><td>Nothing about the silver calabash he spat into?</td></tr>
+<tr><td>chapter-021</td><td>THE PROPHET"Shipmates, have ye shipped in that ship?"</td></tr>
+<tr><td>chapter-021</td><td>Who knows it?</td></tr>
+<tr><td>chapter-021</td><td>Ye hav''n''t seen him yet, have ye?"</td></tr>
+<tr><td>chapter-021</td><td>the captain of our ship, the Pequod?"</td></tr>
+<tr><td>chapter-128</td><td>And shall I caulk the seams, sir?</td></tr>
+<tr><td>chapter-128</td><td>And shall I nail down the lid, sir?</td></tr>
+<tr><td>chapter-128</td><td>And shall I then pay over the same with pitch, sir?</td></tr>
+<tr><td>chapter-128</td><td>Are all my pains to go for nothing with that coffin?</td></tr>
+<tr><td>chapter-128</td><td>Dost thou hear me?</td></tr>
+<tr><td>chapter-128</td><td>I''ll have me-- let''s see-- how many in the ship''s company, all told?</td></tr>
+<tr><td>chapter-128</td><td>Were ever such things done before with a coffin?</td></tr>
+<tr><td>chapter-128</td><td>What possesses thee to this?</td></tr>
+<tr><td>chapter-005</td><td>Broke,said I--"broke, do you mean?"</td></tr>
+<tr><td>chapter-005</td><td>But avast,he added, tapping his forehead,"you haint no objections to sharing a harpooneer''s blanket, have ye?</td></tr>
+<tr><td>chapter-005</td><td>Ca n''t sell his head?--What sort of a bamboozingly story is this you are telling me?</td></tr>
+<tr><td>chapter-005</td><td>Landlord,I whispered,"that ai nt the harpooneer, is it?"</td></tr>
+<tr><td>chapter-005</td><td>Stop your grinning,shouted I,"and why did n''t you tell me that that infernal harpooneer was a cannibal?"</td></tr>
+<tr><td>chapter-005</td><td>Where is that harpooneer?
+chapter-005	Who- e debel you?"</td></tr>
+<tr><td>chapter-005</td><td>With heads to be sure; ai n''t there too many heads in the world?</td></tr>
+<tr><td>chapter-005</td><td>With what?</td></tr>
+<tr><td>chapter-005</td><td>But could it be possible that any sober harpooneer would get into a door mat, and parade the streets of any Christian town in that sort of guise?</td></tr>
+<tr><td>chapter-005</td><td>But stop; does it not bear a faint resemblance to a gigantic fish?</td></tr>
+<tr><td>chapter-005</td><td>But what is this on the chest?</td></tr>
+<tr><td>chapter-005</td><td>Is he here?"</td></tr>
+<tr><td>chapter-005</td><td>Queequeg, look here-- you sabbee me, I sabbee you-- this man sleepe you-- you sabbee?"</td></tr>
+<tr><td>chapter-005</td><td>Supper?--you want supper?</td></tr>
+<tr><td>chapter-005</td><td>Suppose now, he should tumble in upon me at midnight-- how could I tell from what vile hole he had been coming?</td></tr>
+<tr><td>chapter-005</td><td>even the great leviathan himself?</td></tr>
+<tr><td>chapter-005</td><td>said I,"what sort of a chap is he-- does he always keep such late hours?"</td></tr>
+<tr><td>chapter-005</td><td>where''s Bulkington?"</td></tr>
+<tr><td>chapter-044</td><td>Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?</td></tr>
+<tr><td>chapter-044</td><td>But how had the mystic thing been caught?</td></tr>
+<tr><td>chapter-044</td><td>But though without dissent this point be fixed, how is mortal man to account for it?</td></tr>
+<tr><td>chapter-044</td><td>Why should this be so?</td></tr>
+<tr><td>chapter-044</td><td>Wonder ye then at the fiery hunt?</td></tr>
+<tr><td>chapter-121</td><td>Are they overboard?
+chapter-121	I do n''t half understand ye: what''s in the wind?"</td></tr>
+<tr><td>chapter-121</td><td>I own thy speechless, placeless power; said I not so?
+chapter-121	Who''s there?"</td></tr>
+<tr><td>chapter-121</td><td>But do they only have mercy on long faces?--have they no bowels for a laugh?</td></tr>
+<tr><td>chapter-121</td><td>The javelins cease; open eyes; see, or not?</td></tr>
+<tr><td>chapter-121</td><td>how can you see better of a dark night than anybody else, never mind how foolish?"</td></tr>
+<tr><td>chapter-121</td><td>now mark his boat there; where is that stove?</td></tr>
+<tr><td>chapter-121</td><td>the very course he swung to this day noon?</td></tr>
+<tr><td>chapter-121</td><td>what hast thou done with her?</td></tr>
+<tr><td>chapter-093</td><td>A wooden rose- bud, eh?</td></tr>
+<tr><td>chapter-093</td><td>Broke it?</td></tr>
+<tr><td>chapter-093</td><td>But what are you holding yours for?</td></tr>
+<tr><td>chapter-093</td><td>The White Whale-- a Sperm Whale-- Moby Dick, have ye seen him?</td></tr>
+<tr><td>chapter-093</td><td>Well, then, my Bouton- de- Rose- bud, have you seen the White Whale?</td></tr>
+<tr><td>chapter-093</td><td>What in the devil''s name do you want here?</td></tr>
+<tr><td>chapter-093</td><td>What now?</td></tr>
+<tr><td>chapter-093</td><td>What now?</td></tr>
+<tr><td>chapter-093</td><td>What shall I say to him first?</td></tr>
+<tr><td>chapter-093</td><td>What whale?</td></tr>
+<tr><td>chapter-093</td><td>What''s the matter with your nose, there?</td></tr>
+<tr><td>chapter-093</td><td>Air rather gardenny, I should say; throw us a bunch of posies, will ye, Bouton- de- Rose?"</td></tr>
+<tr><td>chapter-093</td><td>But joking aside, though; do you know, Rose- bud, that it''s all nonsense trying to get any oil out of such whales?</td></tr>
+<tr><td>chapter-093</td><td>Fine day, ai nt it?</td></tr>
+<tr><td>chapter-093</td><td>are there any of you Bouton- de- Roses that speak English?"</td></tr>
+<tr><td>chapter-093</td><td>keep cool-- cool?</td></tr>
+<tr><td>chapter-093</td><td>yes, that''s the word; why do n''t you pack those whales in ice while you''re working at''em?</td></tr>
+<tr><td>chapter-074</td><td>Aye, aye, steward,cried Stubb,"we''ll teach you to drug a harpooneer; none of your apothecary''s medicine here; you want to poison us, do ye?</td></tr>
+<tr><td>chapter-074</td><td>Ginger?
+chapter-074	Are you not the precious image of each and all of us men in this whaling world?
+chapter-074	But how did so clumsy and weighty a mass as that same hook get fixed in that hole?
+chapter-074	Do I smell ginger?</td></tr>
+<tr><td>chapter-074</td><td>Is the steward an apothecary, sir?</td></tr>
+<tr><td>chapter-074</td><td>Some hot Cognac?</td></tr>
+<tr><td>chapter-074</td><td>Then standing as if incredulous for a while, he calmly walked towards the astonished steward slowly saying,"Ginger?</td></tr>
+<tr><td>chapter-074</td><td>What were you about saying, sir?"</td></tr>
+<tr><td>chapter-074</td><td>You have got out insurances on our lives and want to murder us all, and pocket the proceeds, do ye?"</td></tr>
+<tr><td>chapter-074</td><td>and may I ask whether this is the sort of bitters by which he blows back the life into a half- drowned man?"</td></tr>
+<tr><td>chapter-074</td><td>and will you have the goodness to tell me, Mr. Dough- Boy, where lies the virtue of ginger?</td></tr>
+<tr><td>chapter-074</td><td>ginger?</td></tr>
+<tr><td>chapter-074</td><td>is ginger the sort of fuel you use, Dough- boy, to kindle a fire in this shivering cannibal?</td></tr>
+<tr><td>chapter-115</td><td>And I suppose thou can''st smoothe almost any seams and dents; never mind how hard the metal, blacksmith?</td></tr>
+<tr><td>chapter-115</td><td>And can''st thou make it all smooth, again, blacksmith, after such hard usage as it had?</td></tr>
+<tr><td>chapter-115</td><td>Are these thy Mother Carey''s chickens, Perth?
+chapter-115	Horse- shoe stubbs, sir?</td></tr>
+<tr><td>chapter-115</td><td>What''s that bunch of lucifers dodging about there for?</td></tr>
+<tr><td>chapter-115</td><td>Would''st thou brand me, Perth?</td></tr>
+<tr><td>chapter-115</td><td>Can''st thou smoothe this seam?"</td></tr>
+<tr><td>chapter-115</td><td>Do the heavens yet hate thee, that thou can''st not go mad?--What wert thou making there?"</td></tr>
+<tr><td>chapter-115</td><td>How can''st thou endure without being mad?</td></tr>
+<tr><td>chapter-115</td><td>Is not this harpoon for the White Whale?"</td></tr>
+<tr><td>chapter-115</td><td>Said I not all seams and dents but one?"</td></tr>
+<tr><td>chapter-115</td><td>Thou should''st go mad, blacksmith; say, why dost thou not go mad?</td></tr>
+<tr><td>chapter-115</td><td>Will ye give me as much blood as will cover this barb?"</td></tr>
+<tr><td>chapter-115</td><td>wincing for a moment with the pain;"have I been but forging my own branding- iron, then?"</td></tr>
+<tr><td>chapter-136</td><td>D''ye see him?</td></tr>
+<tr><td>chapter-136</td><td>Sir?</td></tr>
+<tr><td>chapter-136</td><td>Why sing ye not out for him, if ye see him?</td></tr>
+<tr><td>chapter-136</td><td>Believe ye, men, in the things called omens?</td></tr>
+<tr><td>chapter-136</td><td>D''ye feel brave men, brave?"</td></tr>
+<tr><td>chapter-136</td><td>Gone?--gone?</td></tr>
+<tr><td>chapter-136</td><td>Shall we be dragged by him to the bottom of the sea?</td></tr>
+<tr><td>chapter-136</td><td>Shall we be towed by him to the infernal world?</td></tr>
+<tr><td>chapter-136</td><td>how valiantly I seek to drive out of others''hearts what''s clinched so fast in mine!--The Parsee-- the Parsee!--gone, gone?</td></tr>
+<tr><td>chapter-136</td><td>my line?</td></tr>
+<tr><td>chapter-136</td><td>which way?"</td></tr>
+<tr><td>chapter-135</td><td>And did none of ye see it before?</td></tr>
+<tr><td>chapter-135</td><td>How heading when last seen?</td></tr>
+<tr><td>chapter-135</td><td>Lay it before me;--any missing men?</td></tr>
+<tr><td>chapter-135</td><td>Omen?
+chapter-135	The harpoon,"said Ahab, half way rising, and draggingly leaning on one bended arm--"is it safe?"</td></tr>
+<tr><td>chapter-135</td><td>What d''ye see?</td></tr>
+<tr><td>chapter-135</td><td>What soulless thing is this that laughs before a wreck?
+chapter-135	All ready the boats there?
+chapter-135	Cold, cold-- I shiver!--How now?
+chapter-135	D''ye see him?
+chapter-135	D''ye see him?</td></tr>
+<tr><td>chapter-101</td><td>Ai n''t I a crow?</td></tr>
+<tr><td>chapter-101</td><td>And what''s the horse- shoe sign?</td></tr>
+<tr><td>chapter-101</td><td>And where''s the scare- crow?</td></tr>
+<tr><td>chapter-101</td><td>But, unscrew your navel, and what''s the consequence?</td></tr>
+<tr><td>chapter-101</td><td>How did it get there?</td></tr>
+<tr><td>chapter-101</td><td>Now, in what sign will the sun then be?</td></tr>
+<tr><td>chapter-101</td><td>Signs and wonders, eh?</td></tr>
+<tr><td>chapter-101</td><td>So, what''s all this staring been about?</td></tr>
+<tr><td>chapter-101</td><td>What does he say, with that look of his?</td></tr>
+<tr><td>chapter-101</td><td>What says the Cannibal?</td></tr>
+<tr><td>chapter-101</td><td>What then should there be in this doubloon of the Equator that is so killing wonderful?</td></tr>
+<tr><td>chapter-125</td><td>But how fair?</td></tr>
+<tr><td>chapter-125</td><td>Does he not say he will not strike his spars to any gale?</td></tr>
+<tr><td>chapter-125</td><td>Great God forbid!--But is there no other way?</td></tr>
+<tr><td>chapter-125</td><td>Great God, where art thou?</td></tr>
+<tr><td>chapter-125</td><td>Has he not dashed his heavenly quadrant?</td></tr>
+<tr><td>chapter-125</td><td>Loaded?</td></tr>
+<tr><td>chapter-125</td><td>Shall I?</td></tr>
+<tr><td>chapter-125</td><td>Sleeping?</td></tr>
+<tr><td>chapter-125</td><td>What, then, remains?</td></tr>
+<tr><td>chapter-125</td><td>and in these same perilous seas, gropes he not his way by mere dead reckoning of the error- abounding log?</td></tr>
+<tr><td>chapter-125</td><td>and in this very Typhoon, did he not swear that he would have no lightning- rods?</td></tr>
+<tr><td>chapter-125</td><td>hope to wrest this old man''s living power from his own living hands?</td></tr>
+<tr><td>chapter-125</td><td>is he muttering in his sleep?</td></tr>
+<tr><td>chapter-125</td><td>no lawful way?--Make him a prisoner to be taken home?</td></tr>
+<tr><td>chapter-110</td><td>Canst thou not drive that old Adam away?</td></tr>
+<tr><td>chapter-110</td><td>Carpenter?</td></tr>
+<tr><td>chapter-110</td><td>In thy most solitary hours, then, dost thou not fear eavesdroppers?</td></tr>
+<tr><td>chapter-110</td><td>Is''t a riddle?</td></tr>
+<tr><td>chapter-110</td><td>Look ye, pudding- heads should never grant premises.--How long before this leg is done?</td></tr>
+<tr><td>chapter-110</td><td>May I humbly ask if it be really so, sir?</td></tr>
+<tr><td>chapter-110</td><td>Now, what''s he speaking about, and who''s he speaking to, I should like to know?</td></tr>
+<tr><td>chapter-110</td><td>Shall I keep standing here?</td></tr>
+<tr><td>chapter-110</td><td>Sir?</td></tr>
+<tr><td>chapter-110</td><td>Sir?--Clay?</td></tr>
+<tr><td>chapter-110</td><td>That''s it, hey?</td></tr>
+<tr><td>chapter-110</td><td>What art thou sneezing about?</td></tr>
+<tr><td>chapter-110</td><td>What art thou thrusting that thief- catcher into my face for, man?</td></tr>
+<tr><td>chapter-110</td><td>What was that now about one leg standing in three places, and all three places standing in one hell-- how was that?</td></tr>
+<tr><td>chapter-110</td><td>What''s Prometheus about there?--the blacksmith, I mean-- what''s he about?</td></tr>
+<tr><td>chapter-110</td><td>clay, sir?</td></tr>
+<tr><td>chapter-127</td><td>And who art thou, boy?
+chapter-127	In the Isle of Man, hey?</td></tr>
+<tr><td>chapter-127</td><td>Pip?
+chapter-127	What''s that?</td></tr>
+<tr><td>chapter-127</td><td>What''s this?
+chapter-127	Ha, Pip?
+chapter-127	Here''s a man from Man; a man born in once independent Man, and now unmanned of Man; which is sucked in-- by what?
+chapter-127	Long heat and wet, have they spoiled thee?
+chapter-127	Mend it, eh?
+chapter-127	Where sayest thou Pip was, boy?</td></tr>
+<tr><td>chapter-127</td><td>Where wert thou born?"</td></tr>
+<tr><td>chapter-127</td><td>Who art thou, boy?"</td></tr>
+<tr><td>chapter-127</td><td>Who''s seen Pip the coward?"</td></tr>
+<tr><td>chapter-127</td><td>come to help; eh, Pip?"</td></tr>
+<tr><td>chapter-127</td><td>whom call ye Pip?</td></tr>
+<tr><td>chapter-134</td><td>But do I look very old, so very, very old, Starbuck?</td></tr>
+<tr><td>chapter-134</td><td>Is Ahab, Ahab?</td></tr>
+<tr><td>chapter-134</td><td>Is it I, God, or who, that lifts this arm?</td></tr>
+<tr><td>chapter-134</td><td>Sleep?</td></tr>
+<tr><td>chapter-134</td><td>Sleeping?</td></tr>
+<tr><td>chapter-134</td><td>Who''s to doom, when the judge himself is dragged to the bar?</td></tr>
+<tr><td>chapter-134</td><td>Why this strife of the chase?</td></tr>
+<tr><td>chapter-134</td><td>bitter, biting mockery of grey hairs, have I lived enough joy to wear ye; and seem and feel thus intolerably old?</td></tr>
+<tr><td>chapter-134</td><td>how the richer or better is Ahab now?</td></tr>
+<tr><td>chapter-134</td><td>is it not hard, that with this weary load I bear, one poor leg should have been snatched from under me?</td></tr>
+<tr><td>chapter-134</td><td>who put it into him to chase and fang that flying- fish?</td></tr>
+<tr><td>chapter-134</td><td>why weary, and palsy the arm at the oar, and the iron, and the lance?</td></tr>
+<tr><td>chapter-123</td><td>Well, suppose I did?
+chapter-123	And how long ago is it since you said the very contrary?
+chapter-123	Do n''t you see, then, that for these extra risks the Marine Insurance companies have extra guarantees?
+chapter-123	Do n''t you see, you timber- head, that no harm can come to the holder of the rod, unless the mast is first struck?
+chapter-123	I say, just wring out my jacket skirts, will ye?
+chapter-123	I''ve part changed my flesh since that time, why not my mind?
+chapter-123	Stop, now; did n''t you say so?</td></tr>
+<tr><td>chapter-123</td><td>These are your iron fists, hey?</td></tr>
+<tr><td>chapter-123</td><td>What are you talking about, then?</td></tr>
+<tr><td>chapter-123</td><td>What then?</td></tr>
+<tr><td>chapter-123</td><td>Why do n''t ye be sensible, Flask?</td></tr>
+<tr><td>chapter-123</td><td>it''s easy to be sensible; why do n''t ye, then?</td></tr>
+<tr><td>chapter-038</td><td>And has he a curious spout,too, said Daggoo,"very bushy, even for a parmacetty, and mighty quick, Captain Ahab?"</td></tr>
+<tr><td>chapter-038</td><td>And what do ye next, men?</td></tr>
+<tr><td>chapter-038</td><td>And what tune is it ye pull to, men?</td></tr>
+<tr><td>chapter-038</td><td>Captain Ahab, I have heard of Moby Dick-- but it was not Moby Dick that took off thy leg?</td></tr>
+<tr><td>chapter-038</td><td>D''ye mark him, Flask?</td></tr>
+<tr><td>chapter-038</td><td>Do ye know the white whale then, Tash?</td></tr>
+<tr><td>chapter-038</td><td>Does he fan- tail a little curious, sir, before he goes down?</td></tr>
+<tr><td>chapter-038</td><td>He smites his chest,whispered Stubb,"what''s that for?</td></tr>
+<tr><td>chapter-038</td><td>Moby Dick?</td></tr>
+<tr><td>chapter-038</td><td>Who told thee that?</td></tr>
+<tr><td>chapter-038</td><td>And what is it?</td></tr>
+<tr><td>chapter-038</td><td>Are they not one and all with Ahab, in this matter of the whale?</td></tr>
+<tr><td>chapter-038</td><td>But what''s this long face about, Mr. Starbuck; wilt thou not chase the white whale?</td></tr>
+<tr><td>chapter-038</td><td>D''ye see it?</td></tr>
+<tr><td>chapter-038</td><td>Disdain the task?</td></tr>
+<tr><td>chapter-038</td><td>From this one poor hunt, then, the best lance out of all Nantucket, surely he will not hang back, when every foremast- hand has clutched a whetstone?</td></tr>
+<tr><td>chapter-038</td><td>How can the prisoner reach outside except by thrusting through the wall?</td></tr>
+<tr><td>chapter-038</td><td>How many barrels will thy vengeance yield thee even if thou gettest it, Captain Ahab?</td></tr>
+<tr><td>chapter-038</td><td>Vehemently pausing, he cried:--"What do ye do when ye see a whale, men?"</td></tr>
+<tr><td>chapter-038</td><td>What is it more?</td></tr>
+<tr><td>chapter-038</td><td>What say ye, men, will ye splice hands on it, now?</td></tr>
+<tr><td>chapter-038</td><td>What, when the great Pope washes the feet of beggars, using his tiara for ewer?</td></tr>
+<tr><td>chapter-038</td><td>Who''s over me?</td></tr>
+<tr><td>chapter-038</td><td>art not game for Moby Dick?"</td></tr>
+<tr><td>chapter-038</td><td>boy, come back?</td></tr>
+<tr><td>chapter-038</td><td>d''ye see this Spanish ounce of gold?"</td></tr>
+<tr><td>chapter-038</td><td>know ye not the goblet end?</td></tr>
+<tr><td>chapter-038</td><td>why stay ye not when ye come?</td></tr>
+<tr><td>chapter-129</td><td>Art not thou the leg- maker?</td></tr>
+<tr><td>chapter-129</td><td>But art thou not also the undertaker?</td></tr>
+<tr><td>chapter-129</td><td>Do I sing?</td></tr>
+<tr><td>chapter-129</td><td>Does it go further?</td></tr>
+<tr><td>chapter-129</td><td>Dost thou never?</td></tr>
+<tr><td>chapter-129</td><td>Dost thou spin thy own shroud out of thyself?</td></tr>
+<tr><td>chapter-129</td><td>Faith, sir, I''ve---- Faith?</td></tr>
+<tr><td>chapter-129</td><td>Hark ye, dost thou not ever sing working about a coffin?</td></tr>
+<tr><td>chapter-129</td><td>Hast thou ever helped carry a bier, and heard the coffin knock against the churchyard gate, going in?</td></tr>
+<tr><td>chapter-129</td><td>I believe it did, sir; does the ferrule stand, sir?</td></tr>
+<tr><td>chapter-129</td><td>I was about to say, sir, that---- Art thou a silk- worm?</td></tr>
+<tr><td>chapter-129</td><td>Look, did not this stump come from thy shop?</td></tr>
+<tr><td>chapter-129</td><td>Sing, sir?</td></tr>
+<tr><td>chapter-129</td><td>Sir?</td></tr>
+<tr><td>chapter-129</td><td>The hatchway?</td></tr>
+<tr><td>chapter-129</td><td>What things real are there, but imponderable thoughts?</td></tr>
+<tr><td>chapter-129</td><td>What''s here?</td></tr>
+<tr><td>chapter-129</td><td>What''s that?</td></tr>
+<tr><td>chapter-129</td><td>Will ye never have done, Carpenter, with that accursed sound?</td></tr>
+<tr><td>chapter-102</td><td>And he took that arm off, did he?</td></tr>
+<tr><td>chapter-102</td><td>Aye, he was the cause of it, at least; and that leg, too?</td></tr>
+<tr><td>chapter-102</td><td>But could not fasten?</td></tr>
+<tr><td>chapter-102</td><td>Did n''t want to try to: ai n''t one limb enough?
+chapter-102	Did''st thou cross his wake again?"</td></tr>
+<tr><td>chapter-102</td><td>Hast seen the White Whale?</td></tr>
+<tr><td>chapter-102</td><td>See you this?</td></tr>
+<tr><td>chapter-102</td><td>Spin me the yarn,said Ahab;"how was it?"</td></tr>
+<tr><td>chapter-102</td><td>What became of the White Whale?</td></tr>
+<tr><td>chapter-102</td><td>What''s the matter?
+chapter-102	Hast seen the White Whale?</td></tr>
+<tr><td>chapter-102</td><td>He was heading east, I think.--Is your Captain crazy?"</td></tr>
+<tr><td>chapter-102</td><td>How long since thou saw''st him last?</td></tr>
+<tr><td>chapter-102</td><td>What should I do without this other arm?</td></tr>
+<tr><td>chapter-102</td><td>Where did''st thou see the White Whale?--how long ago?"</td></tr>
+<tr><td>chapter-102</td><td>Which way heading?"</td></tr>
+<tr><td>chapter-102</td><td>Which way heading?"</td></tr>
+<tr><td>chapter-102</td><td>was there ever such another Bunger in the watery world?</td></tr>
+<tr><td>chapter-102</td><td>why do n''t ye?</td></tr>
+<tr><td>chapter-083</td><td>Hold on, hold on, wo n''t ye?</td></tr>
+<tr><td>chapter-083</td><td>Knife?
+chapter-083	What has he in his hand there?"</td></tr>
+<tr><td>chapter-083</td><td>Who''s got some paregoric?</td></tr>
+<tr><td>chapter-083</td><td>And when?</td></tr>
+<tr><td>chapter-083</td><td>Are ye going to let that rascal beat ye?</td></tr>
+<tr><td>chapter-083</td><td>Come, why do n''t some of ye burst a blood- vessel?</td></tr>
+<tr><td>chapter-083</td><td>Do n''t ye love sperm?</td></tr>
+<tr><td>chapter-083</td><td>Do ye love brandy?</td></tr>
+<tr><td>chapter-083</td><td>Is this the creature of whom it was once so triumphantly said--"Canst thou fill his skin with barbed irons?</td></tr>
+<tr><td>chapter-083</td><td>It''s the first foul wind I ever knew to blow from astern; but look, did ever whale yaw so before?</td></tr>
+<tr><td>chapter-083</td><td>Suspended?</td></tr>
+<tr><td>chapter-083</td><td>The bank of England!--Oh, do, do, do!--What''s that Yarman about now?"</td></tr>
+<tr><td>chapter-083</td><td>The short and long of it is, men, will ye spit fire or not?"</td></tr>
+<tr><td>chapter-083</td><td>This the creature?</td></tr>
+<tr><td>chapter-083</td><td>What d''ye say, Tashtego; are you the man to snap your spine in two- and- twenty pieces for the honor of old Gay- head?</td></tr>
+<tr><td>chapter-083</td><td>What d''ye say?"</td></tr>
+<tr><td>chapter-083</td><td>Who had darted that stone lance?</td></tr>
+<tr><td>chapter-083</td><td>and to what?</td></tr>
+<tr><td>chapter-083</td><td>or his head with fish- spears?</td></tr>
+<tr><td>chapter-083</td><td>this he?</td></tr>
+<tr><td>chapter-018</td><td>And what dost thou want of Captain Ahab?
+chapter-018	Bildad,"cried Captain Peleg,"at it again, Bildad, eh?</td></tr>
+<tr><td>chapter-018</td><td>But what takes thee a- whaling?
+chapter-018	Captain Peleg,"said I,"I have a friend with me who wants to ship too-- shall I bring him down to- morrow?"</td></tr>
+<tr><td>chapter-018</td><td>Dost know nothing at all about whaling, I dare say-- eh?</td></tr>
+<tr><td>chapter-018</td><td>Dost thee?</td></tr>
+<tr><td>chapter-018</td><td>Has he ever whaled it any?</td></tr>
+<tr><td>chapter-018</td><td>Is this the Captain of the Pequod?</td></tr>
+<tr><td>chapter-018</td><td>Supposing it be the Captain of the Pequod, what dost thou want of him?</td></tr>
+<tr><td>chapter-018</td><td>Thou wast, wast thou?
+chapter-018	Want to see what whaling is, eh?</td></tr>
+<tr><td>chapter-018</td><td>Well, what dost thou think then of seeing the world?
+chapter-018	Well, what''s the report?</td></tr>
+<tr><td>chapter-018</td><td>What do ye think of him,Bildad?</td></tr>
+<tr><td>chapter-018</td><td>What do you mean, sir?
+chapter-018	What lay does he want?"</td></tr>
+<tr><td>chapter-018</td><td>Who is Captain Ahab, sir?</td></tr>
+<tr><td>chapter-018</td><td>Ca n''t ye see the world where you stand?"</td></tr>
+<tr><td>chapter-018</td><td>Do ye wish to go round Cape Horn to see any more of it, eh?</td></tr>
+<tr><td>chapter-018</td><td>Have ye clapped eye on Captain Ahab?"</td></tr>
+<tr><td>chapter-018</td><td>How far ye got, Bildad?"</td></tr>
+<tr><td>chapter-018</td><td>I have given thee a hint about what whaling is; do ye yet feel inclined for it?"</td></tr>
+<tr><td>chapter-018</td><td>I see thou are no Nantucketer-- ever been in a stove boat?"</td></tr>
+<tr><td>chapter-018</td><td>Now then, my young man, Ishmael''s thy name, did n''t ye say?</td></tr>
+<tr><td>chapter-018</td><td>Now then, thou not only wantest to go a- whaling, to find out by experience what whaling is, but ye also want to go in order to see the world?</td></tr>
+<tr><td>chapter-018</td><td>Now, art thou the man to pitch a harpoon down a live whale''s throat, and then jump after it?</td></tr>
+<tr><td>chapter-018</td><td>Sure, ye''ve been to sea before now; sure of that?"</td></tr>
+<tr><td>chapter-018</td><td>Think of that; by that sweet girl that old man has a child: hold ye then there can be any utter, hopeless harm in Ahab?</td></tr>
+<tr><td>chapter-018</td><td>Was not that what ye said?</td></tr>
+<tr><td>chapter-018</td><td>Was the other one lost by a whale?"</td></tr>
+<tr><td>chapter-018</td><td>When that wicked king was slain, the dogs, did they not lick his blood?"</td></tr>
+<tr><td>chapter-018</td><td>said Peleg when I came back; what did ye see?"</td></tr>
+<tr><td>chapter-066</td><td>And have you lived in this world hard upon one hundred years, cook, and do n''t know yet how to cook a whale- steak?</td></tr>
+<tr><td>chapter-066</td><td>Come back, cook;--here, hand me those tongs;--now take that bit of steak there, and tell me if you think that steak cooked as it should be?
+chapter-066	Cook, cook!--where''s that old Fleece?"</td></tr>
+<tr><td>chapter-066</td><td>Cook,said Stubb, rapidly lifting a rather reddish morsel to his mouth,"do n''t you think this steak is rather overdone?</td></tr>
+<tr><td>chapter-066</td><td>Cook,said Stubb, squaring himself once more;"do you belong to the church?"</td></tr>
+<tr><td>chapter-066</td><td>Did n''t I say de Roanoke country?</td></tr>
+<tr><td>chapter-066</td><td>Fetch him?
+chapter-066	So, then, you expect to go up into our main- top, do you, cook, when you are dead?</td></tr>
+<tr><td>chapter-066</td><td>Well then, cook; you see this whale- steak of yours was so very bad, that I have put it out of sight as soon as possible; you see that, do n''t you?
+chapter-066	Where do you expect to go to, cook?"</td></tr>
+<tr><td>chapter-066</td><td>Where were you born, cook?</td></tr>
+<tr><td>chapter-066</td><td>Who dat?
+chapter-066	And fetch him where?</td></tr>
+<tr><td>chapter-066</td><td>And yet you come here, and tell me such a dreadful lie as you did just now, eh?"</td></tr>
+<tr><td>chapter-066</td><td>But I want to know what country you were born in, cook?"</td></tr>
+<tr><td>chapter-066</td><td>But do n''t you know the higher you climb, the colder it gets?</td></tr>
+<tr><td>chapter-066</td><td>D''ye hear?</td></tr>
+<tr><td>chapter-066</td><td>Do n''t I always say that to be good, a whale- steak must be tough?</td></tr>
+<tr><td>chapter-066</td><td>Do ye hear?</td></tr>
+<tr><td>chapter-066</td><td>Hold the steak in one hand, and show a live coal to it with the other; that done, dish it; d''ye hear?</td></tr>
+<tr><td>chapter-066</td><td>How old are you, cook?"</td></tr>
+<tr><td>chapter-066</td><td>How you tink to hear,''spose you keep up such a dam slappin''and bitin''dare?"</td></tr>
+<tr><td>chapter-066</td><td>How?</td></tr>
+<tr><td>chapter-066</td><td>In a coach and four, as they fetched Elijah?</td></tr>
+<tr><td>chapter-066</td><td>In the first place, how old are you, cook?"</td></tr>
+<tr><td>chapter-066</td><td>Is not one shark dood right as toder to dat whale?</td></tr>
+<tr><td>chapter-066</td><td>Main- top, eh?"</td></tr>
+<tr><td>chapter-066</td><td>Now what''s your answer?"</td></tr>
+<tr><td>chapter-066</td><td>There are those sharks now over the side, do n''t you see they prefer it tough and rare?</td></tr>
+<tr><td>chapter-066</td><td>You hear?</td></tr>
+<tr><td>chapter-056</td><td>''Aye?
+chapter-056	''Better turn to, now?''</td></tr>
+<tr><td>chapter-056</td><td>''How?
+chapter-056	''Is that a friar passing?''</td></tr>
+<tr><td>chapter-056</td><td>''Is there a copy of the Holy Evangelists in the Golden Inn, gentlemen?''
+chapter-056	''Say ye so?</td></tr>
+<tr><td>chapter-056</td><td>''Shall we?''
+chapter-056	''Sink the ship?''</td></tr>
+<tr><td>chapter-056</td><td>''Then I entreat you, tell me if to the best of your own convictions, this story is in substance really true?
+chapter-056	''What are you making there?''</td></tr>
+<tr><td>chapter-056</td><td>''What do you think?
+chapter-056	''What do you want of me?''</td></tr>
+<tr><td>chapter-056</td><td>''Where are you bound?
+chapter-056	''Why not?</td></tr>
+<tr><td>chapter-056</td><td>''Will you be so good as to bring the priest also, Don?''
+chapter-056	''Will you promise not to touch us, if we do?''</td></tr>
+<tr><td>chapter-056</td><td>****"''Are you through?''</td></tr>
+<tr><td>chapter-056</td><td>Did you get it from an unquestionable source?</td></tr>
+<tr><td>chapter-056</td><td>Do you think he wo n''t do me a turn, when it''s to help himself in the end, shipmate?''</td></tr>
+<tr><td>chapter-056</td><td>Do you want to sink the ship, by knocking off at a time like this?</td></tr>
+<tr><td>chapter-056</td><td>I go for it; but are you well advised?</td></tr>
+<tr><td>chapter-056</td><td>Pardon: who and what are they?''</td></tr>
+<tr><td>chapter-056</td><td>Pray, what is a Lakeman, and where is Buffalo?''</td></tr>
+<tr><td>chapter-056</td><td>Shipmate, I have n''t enough twine,--have you any?''</td></tr>
+<tr><td>chapter-056</td><td>Sir sailor, but do whales have christenings?</td></tr>
+<tr><td>chapter-056</td><td>What say ye, men?''</td></tr>
+<tr><td>chapter-056</td><td>Whom call you Moby Dick?''</td></tr>
+<tr><td>chapter-056</td><td>and for what are you bound?''</td></tr>
+<tr><td>chapter-056</td><td>what does it look like?''</td></tr>
+<tr><td>chapter-056</td><td>what''s that pump stopping for?''</td></tr>
+<tr><td>chapter-091</td><td>And concerning all these, is not Possession the whole of the law?</td></tr>
+<tr><td>chapter-091</td><td>And what are you, reader, but a Loose- Fish and a Fast- Fish, too?</td></tr>
+<tr><td>chapter-091</td><td>First: What is a Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>Is it not a saying in every one''s mouth, Possession is half of the law: that is, regardless of how the thing came into possession?</td></tr>
+<tr><td>chapter-091</td><td>What Greece to the Turk?</td></tr>
+<tr><td>chapter-091</td><td>What India to England?</td></tr>
+<tr><td>chapter-091</td><td>What all men''s minds and opinions but Loose- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What are the Duke of Dunder''s hereditary towns and hamlets but Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What are the Rights of Man and the Liberties of the World but Loose- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What are the sinews and souls of Russian serfs and Republican slaves but Fast- Fish, whereof possession is the whole of the law?</td></tr>
+<tr><td>chapter-091</td><td>What at last will Mexico be to the United States?</td></tr>
+<tr><td>chapter-091</td><td>What is the great globe itself but a Loose- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What is the principle of religious belief in them but a Loose- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What is yonder undetected villain''s marble mansion with a door- plate for a waif; what is that but a Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What to that apostolic lancer, Brother Jonathan, is Texas but a Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What to that redoubted harpooneer, John Bull, is poor Ireland, but a Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What to the ostentatious smuggling verbalists are the thoughts of thinkers but Loose- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What to the rapacious landlord is the widow''s last mite but a Fast- Fish?</td></tr>
+<tr><td>chapter-091</td><td>What was America in 1492 but a Loose- Fish, in which Columbus struck the Spanish standard by way of waifing it for his royal master and mistress?</td></tr>
+<tr><td>chapter-091</td><td>What was Poland to the Czar?</td></tr>
+<tr><td>chapter-075</td><td>Am I the same man that helped kill this whale?
+chapter-075	And what will you do with the tail, Stubb?"</td></tr>
+<tr><td>chapter-075</td><td>Bargain?--about what?</td></tr>
+<tr><td>chapter-075</td><td>Did n''t I tell you so?</td></tr>
+<tr><td>chapter-075</td><td>Do I suppose it?
+chapter-075	Do with it?</td></tr>
+<tr><td>chapter-075</td><td>Do you see that mainmast there?</td></tr>
+<tr><td>chapter-075</td><td>Do you suppose Fedallah wants to kidnap Captain Ahab?</td></tr>
+<tr><td>chapter-075</td><td>He sleeps in his boots, do n''t he?
+chapter-075	How old do you suppose Fedallah is, Stubb?"</td></tr>
+<tr><td>chapter-075</td><td>Now, do you mean what you say, and have been saying all along, Stubb?</td></tr>
+<tr><td>chapter-075</td><td>Suppose he should take it into his head to duck you, though-- yes, and drown you-- what then?</td></tr>
+<tr><td>chapter-075</td><td>Three Spaniards?
+chapter-075	Wants with it?"</td></tr>
+<tr><td>chapter-075</td><td>What''s the old man have so much to do with him for?</td></tr>
+<tr><td>chapter-075</td><td>Why not?</td></tr>
+<tr><td>chapter-075</td><td>''What for?''</td></tr>
+<tr><td>chapter-075</td><td>Adventures of those three bloody- minded soldadoes?</td></tr>
+<tr><td>chapter-075</td><td>And if the devil has a latch- key to get into the admiral''s cabin, do n''t you suppose he can crawl into a port- hole?</td></tr>
+<tr><td>chapter-075</td><td>But look sharp-- aint you all ready there?</td></tr>
+<tr><td>chapter-075</td><td>But now, tell me, Stubb, do you suppose that that devil you was speaking of just now, was the same you say is now on board the Pequod?"</td></tr>
+<tr><td>chapter-075</td><td>Damn the devil, Flask; do you suppose I''m afraid of the devil?</td></tr>
+<tr><td>chapter-075</td><td>Did ye read it there, Flask?</td></tr>
+<tr><td>chapter-075</td><td>Did you ever notice how that tusk of his is a sort of carved into a snake''s head, Stubb?"</td></tr>
+<tr><td>chapter-075</td><td>Did you ever see any parson a wearing mourning for the devil?</td></tr>
+<tr><td>chapter-075</td><td>Do you believe that cock and bull story about his having been stowed away on board ship?</td></tr>
+<tr><td>chapter-075</td><td>Does n''t the devil live for ever; who ever heard that the devil was dead?</td></tr>
+<tr><td>chapter-075</td><td>Flask?"</td></tr>
+<tr><td>chapter-075</td><td>I guess ye did?"</td></tr>
+<tr><td>chapter-075</td><td>Sell it for an ox whip when we get home;--what else?"</td></tr>
+<tr><td>chapter-075</td><td>Stubb, you are skylarking; how can Fedallah do that?"</td></tr>
+<tr><td>chapter-137</td><td>Cherries?
+chapter-137	D''ye see him?"</td></tr>
+<tr><td>chapter-137</td><td>Sir?</td></tr>
+<tr><td>chapter-137</td><td>The ship?
+chapter-137	What breaks in me?</td></tr>
+<tr><td>chapter-137</td><td>Am I cut off from the last fond pride of meanest shipwrecked captains?</td></tr>
+<tr><td>chapter-137</td><td>But aye, old mast, we both grow old together; sound in our hulls, though, are we not, my ship?</td></tr>
+<tr><td>chapter-137</td><td>But where?</td></tr>
+<tr><td>chapter-137</td><td>Great God, where is the ship?"</td></tr>
+<tr><td>chapter-137</td><td>How, got the start?</td></tr>
+<tr><td>chapter-137</td><td>Is this the end of all my bursting prayers?</td></tr>
+<tr><td>chapter-137</td><td>Is''t night?"</td></tr>
+<tr><td>chapter-137</td><td>Strangest problems of life seem clearing; but clouds sweep between-- Is my journey''s end coming?</td></tr>
+<tr><td>chapter-137</td><td>What d''ye see?"</td></tr>
+<tr><td>chapter-137</td><td>What''s that he said?</td></tr>
+<tr><td>chapter-137</td><td>What''s this?--green?</td></tr>
+<tr><td>chapter-137</td><td>Where is the second hearse?</td></tr>
+<tr><td>chapter-137</td><td>Who ever helped Stubb, or kept Stubb awake, but Stubb''s own unwinking eye?</td></tr>
+<tr><td>chapter-137</td><td>Will I have eyes at the bottom of the sea, supposing I descend those endless stairs?</td></tr>
+<tr><td>chapter-137</td><td>Will ye not save my ship?"</td></tr>
+<tr><td>chapter-137</td><td>Ye are not other men, but my arms and my legs; and so obey me.--Where''s the whale?</td></tr>
+<tr><td>chapter-137</td><td>all my life- long fidelities?</td></tr>
+<tr><td>chapter-137</td><td>gone down again?"</td></tr>
+<tr><td>chapter-137</td><td>he should still go before me, my pilot; and yet to be seen again?</td></tr>
+<tr><td>chapter-137</td><td>he soars away with it!--Where''s the old man now?</td></tr>
+<tr><td>chapter-137</td><td>must ye then perish, and without me?</td></tr>
+<tr><td>chapter-137</td><td>who ever conquered it?</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

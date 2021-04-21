@@ -1,0 +1,19 @@
+id	sid	eid	entity	type
+chapter-033	2	1	Next morning	TIME
+chapter-033	2	2	Stubb	PERSON
+chapter-033	3	1	King-Post	ORG
+chapter-033	7	1	Ahab	ORG
+chapter-033	11	1	fifty	CARDINAL
+chapter-033	24	1	next moment	TIME
+chapter-033	27	1	Humpback	PERSON
+chapter-033	30	1	second	ORDINAL
+chapter-033	31	1	Wise Stubb	PERSON
+chapter-033	31	2	Stubb	PERSON
+chapter-033	36	1	Ahab	PERSON
+chapter-033	38	1	he--'he	ORG
+chapter-033	39	1	I.	PERSON
+chapter-033	43	1	Stubb	PERSON
+chapter-033	46	1	England	GPE
+chapter-033	46	2	Stubb	PERSON
+chapter-033	46	3	Ahab	PERSON
+chapter-033	66	1	ye mark	PERSON

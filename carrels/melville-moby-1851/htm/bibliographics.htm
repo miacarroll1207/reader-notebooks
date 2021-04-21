@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "asc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Bibliographics</li>
+		</ol>
+	</nav>
+
+<h1>Bibliographics</h1>
+<p>This is a table of authors, titles, dates and other bibliographic information; it is a list metadata describing the content of your study carrel. Think of it as your library.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>author</th>
+                <th>title</th>
+                <th>date</th>
+                <th>words</th>
+                <th>sentences</th>
+                <th>pages</th>
+                <th>cache</th>
+                <th>text</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>chapter-001</td><td>nan</td><td>chapter-001</td><td>nan</td><td>195</td><td>37</td><td>nan</td><td>./cache/chapter-001.txt</td><td>./txt/chapter-001.txt</td></tr>
+<tr><td>chapter-002</td><td>nan</td><td>chapter-002</td><td>nan</td><td>3523</td><td>329</td><td>nan</td><td>./cache/chapter-002.txt</td><td>./txt/chapter-002.txt</td></tr>
+<tr><td>chapter-003</td><td>nan</td><td>chapter-003</td><td>nan</td><td>2241</td><td>124</td><td>nan</td><td>./cache/chapter-003.txt</td><td>./txt/chapter-003.txt</td></tr>
+<tr><td>chapter-004</td><td>nan</td><td>chapter-004</td><td>nan</td><td>1449</td><td>77</td><td>nan</td><td>./cache/chapter-004.txt</td><td>./txt/chapter-004.txt</td></tr>
+<tr><td>chapter-005</td><td>nan</td><td>chapter-005</td><td>nan</td><td>5979</td><td>314</td><td>nan</td><td>./cache/chapter-005.txt</td><td>./txt/chapter-005.txt</td></tr>
+<tr><td>chapter-006</td><td>nan</td><td>chapter-006</td><td>nan</td><td>1673</td><td>69</td><td>nan</td><td>./cache/chapter-006.txt</td><td>./txt/chapter-006.txt</td></tr>
+<tr><td>chapter-007</td><td>nan</td><td>chapter-007</td><td>nan</td><td>757</td><td>38</td><td>nan</td><td>./cache/chapter-007.txt</td><td>./txt/chapter-007.txt</td></tr>
+<tr><td>chapter-008</td><td>nan</td><td>chapter-008</td><td>nan</td><td>835</td><td>52</td><td>nan</td><td>./cache/chapter-008.txt</td><td>./txt/chapter-008.txt</td></tr>
+<tr><td>chapter-009</td><td>nan</td><td>chapter-009</td><td>nan</td><td>953</td><td>73</td><td>nan</td><td>./cache/chapter-009.txt</td><td>./txt/chapter-009.txt</td></tr>
+<tr><td>chapter-010</td><td>nan</td><td>chapter-010</td><td>nan</td><td>970</td><td>36</td><td>nan</td><td>./cache/chapter-010.txt</td><td>./txt/chapter-010.txt</td></tr>
+<tr><td>chapter-011</td><td>nan</td><td>chapter-011</td><td>nan</td><td>3631</td><td>202</td><td>nan</td><td>./cache/chapter-011.txt</td><td>./txt/chapter-011.txt</td></tr>
+<tr><td>chapter-012</td><td>nan</td><td>chapter-012</td><td>nan</td><td>1571</td><td>80</td><td>nan</td><td>./cache/chapter-012.txt</td><td>./txt/chapter-012.txt</td></tr>
+<tr><td>chapter-013</td><td>nan</td><td>chapter-013</td><td>nan</td><td>736</td><td>26</td><td>nan</td><td>./cache/chapter-013.txt</td><td>./txt/chapter-013.txt</td></tr>
+<tr><td>chapter-014</td><td>nan</td><td>chapter-014</td><td>nan</td><td>891</td><td>40</td><td>nan</td><td>./cache/chapter-014.txt</td><td>./txt/chapter-014.txt</td></tr>
+<tr><td>chapter-015</td><td>nan</td><td>chapter-015</td><td>nan</td><td>1726</td><td>85</td><td>nan</td><td>./cache/chapter-015.txt</td><td>./txt/chapter-015.txt</td></tr>
+<tr><td>chapter-016</td><td>nan</td><td>chapter-016</td><td>nan</td><td>765</td><td>31</td><td>nan</td><td>./cache/chapter-016.txt</td><td>./txt/chapter-016.txt</td></tr>
+<tr><td>chapter-017</td><td>nan</td><td>chapter-017</td><td>nan</td><td>1213</td><td>63</td><td>nan</td><td>./cache/chapter-017.txt</td><td>./txt/chapter-017.txt</td></tr>
+<tr><td>chapter-018</td><td>nan</td><td>chapter-018</td><td>nan</td><td>5595</td><td>304</td><td>nan</td><td>./cache/chapter-018.txt</td><td>./txt/chapter-018.txt</td></tr>
+<tr><td>chapter-019</td><td>nan</td><td>chapter-019</td><td>nan</td><td>2330</td><td>133</td><td>nan</td><td>./cache/chapter-019.txt</td><td>./txt/chapter-019.txt</td></tr>
+<tr><td>chapter-020</td><td>nan</td><td>chapter-020</td><td>nan</td><td>1390</td><td>89</td><td>nan</td><td>./cache/chapter-020.txt</td><td>./txt/chapter-020.txt</td></tr>
+<tr><td>chapter-021</td><td>nan</td><td>chapter-021</td><td>nan</td><td>1244</td><td>86</td><td>nan</td><td>./cache/chapter-021.txt</td><td>./txt/chapter-021.txt</td></tr>
+<tr><td>chapter-022</td><td>nan</td><td>chapter-022</td><td>nan</td><td>938</td><td>34</td><td>nan</td><td>./cache/chapter-022.txt</td><td>./txt/chapter-022.txt</td></tr>
+<tr><td>chapter-023</td><td>nan</td><td>chapter-023</td><td>nan</td><td>1101</td><td>91</td><td>nan</td><td>./cache/chapter-023.txt</td><td>./txt/chapter-023.txt</td></tr>
+<tr><td>chapter-024</td><td>nan</td><td>chapter-024</td><td>nan</td><td>1669</td><td>94</td><td>nan</td><td>./cache/chapter-024.txt</td><td>./txt/chapter-024.txt</td></tr>
+<tr><td>chapter-025</td><td>nan</td><td>chapter-025</td><td>nan</td><td>378</td><td>23</td><td>nan</td><td>./cache/chapter-025.txt</td><td>./txt/chapter-025.txt</td></tr>
+<tr><td>chapter-026</td><td>nan</td><td>chapter-026</td><td>nan</td><td>1680</td><td>86</td><td>nan</td><td>./cache/chapter-026.txt</td><td>./txt/chapter-026.txt</td></tr>
+<tr><td>chapter-027</td><td>nan</td><td>chapter-027</td><td>nan</td><td>289</td><td>19</td><td>nan</td><td>./cache/chapter-027.txt</td><td>./txt/chapter-027.txt</td></tr>
+<tr><td>chapter-028</td><td>nan</td><td>chapter-028</td><td>nan</td><td>1236</td><td>52</td><td>nan</td><td>./cache/chapter-028.txt</td><td>./txt/chapter-028.txt</td></tr>
+<tr><td>chapter-029</td><td>nan</td><td>chapter-029</td><td>nan</td><td>1704</td><td>73</td><td>nan</td><td>./cache/chapter-029.txt</td><td>./txt/chapter-029.txt</td></tr>
+<tr><td>chapter-030</td><td>nan</td><td>chapter-030</td><td>nan</td><td>1422</td><td>53</td><td>nan</td><td>./cache/chapter-030.txt</td><td>./txt/chapter-030.txt</td></tr>
+<tr><td>chapter-031</td><td>nan</td><td>chapter-031</td><td>nan</td><td>1246</td><td>77</td><td>nan</td><td>./cache/chapter-031.txt</td><td>./txt/chapter-031.txt</td></tr>
+<tr><td>chapter-032</td><td>nan</td><td>chapter-032</td><td>nan</td><td>294</td><td>18</td><td>nan</td><td>./cache/chapter-032.txt</td><td>./txt/chapter-032.txt</td></tr>
+<tr><td>chapter-033</td><td>nan</td><td>chapter-033</td><td>nan</td><td>885</td><td>84</td><td>nan</td><td>./cache/chapter-033.txt</td><td>./txt/chapter-033.txt</td></tr>
+<tr><td>chapter-034</td><td>nan</td><td>chapter-034</td><td>nan</td><td>5190</td><td>325</td><td>nan</td><td>./cache/chapter-034.txt</td><td>./txt/chapter-034.txt</td></tr>
+<tr><td>chapter-035</td><td>nan</td><td>chapter-035</td><td>nan</td><td>986</td><td>32</td><td>nan</td><td>./cache/chapter-035.txt</td><td>./txt/chapter-035.txt</td></tr>
+<tr><td>chapter-036</td><td>nan</td><td>chapter-036</td><td>nan</td><td>2252</td><td>98</td><td>nan</td><td>./cache/chapter-036.txt</td><td>./txt/chapter-036.txt</td></tr>
+<tr><td>chapter-037</td><td>nan</td><td>chapter-037</td><td>nan</td><td>2635</td><td>82</td><td>nan</td><td>./cache/chapter-037.txt</td><td>./txt/chapter-037.txt</td></tr>
+<tr><td>chapter-038</td><td>nan</td><td>chapter-038</td><td>nan</td><td>2846</td><td>242</td><td>nan</td><td>./cache/chapter-038.txt</td><td>./txt/chapter-038.txt</td></tr>
+<tr><td>chapter-039</td><td>nan</td><td>chapter-039</td><td>nan</td><td>527</td><td>55</td><td>nan</td><td>./cache/chapter-039.txt</td><td>./txt/chapter-039.txt</td></tr>
+<tr><td>chapter-040</td><td>nan</td><td>chapter-040</td><td>nan</td><td>399</td><td>46</td><td>nan</td><td>./cache/chapter-040.txt</td><td>./txt/chapter-040.txt</td></tr>
+<tr><td>chapter-041</td><td>nan</td><td>chapter-041</td><td>nan</td><td>282</td><td>35</td><td>nan</td><td>./cache/chapter-041.txt</td><td>./txt/chapter-041.txt</td></tr>
+<tr><td>chapter-042</td><td>nan</td><td>chapter-042</td><td>nan</td><td>1633</td><td>279</td><td>nan</td><td>./cache/chapter-042.txt</td><td>./txt/chapter-042.txt</td></tr>
+<tr><td>chapter-043</td><td>nan</td><td>chapter-043</td><td>nan</td><td>3809</td><td>133</td><td>nan</td><td>./cache/chapter-043.txt</td><td>./txt/chapter-043.txt</td></tr>
+<tr><td>chapter-044</td><td>nan</td><td>chapter-044</td><td>nan</td><td>3667</td><td>137</td><td>nan</td><td>./cache/chapter-044.txt</td><td>./txt/chapter-044.txt</td></tr>
+<tr><td>chapter-045</td><td>nan</td><td>chapter-045</td><td>nan</td><td>318</td><td>35</td><td>nan</td><td>./cache/chapter-045.txt</td><td>./txt/chapter-045.txt</td></tr>
+<tr><td>chapter-046</td><td>nan</td><td>chapter-046</td><td>nan</td><td>2067</td><td>67</td><td>nan</td><td>./cache/chapter-046.txt</td><td>./txt/chapter-046.txt</td></tr>
+<tr><td>chapter-047</td><td>nan</td><td>chapter-047</td><td>nan</td><td>3577</td><td>139</td><td>nan</td><td>./cache/chapter-047.txt</td><td>./txt/chapter-047.txt</td></tr>
+<tr><td>chapter-048</td><td>nan</td><td>chapter-048</td><td>nan</td><td>1009</td><td>35</td><td>nan</td><td>./cache/chapter-048.txt</td><td>./txt/chapter-048.txt</td></tr>
+<tr><td>chapter-049</td><td>nan</td><td>chapter-049</td><td>nan</td><td>943</td><td>49</td><td>nan</td><td>./cache/chapter-049.txt</td><td>./txt/chapter-049.txt</td></tr>
+<tr><td>chapter-050</td><td>nan</td><td>chapter-050</td><td>nan</td><td>4035</td><td>244</td><td>nan</td><td>./cache/chapter-050.txt</td><td>./txt/chapter-050.txt</td></tr>
+<tr><td>chapter-051</td><td>nan</td><td>chapter-051</td><td>nan</td><td>848</td><td>37</td><td>nan</td><td>./cache/chapter-051.txt</td><td>./txt/chapter-051.txt</td></tr>
+<tr><td>chapter-052</td><td>nan</td><td>chapter-052</td><td>nan</td><td>1034</td><td>36</td><td>nan</td><td>./cache/chapter-052.txt</td><td>./txt/chapter-052.txt</td></tr>
+<tr><td>chapter-053</td><td>nan</td><td>chapter-053</td><td>nan</td><td>1531</td><td>61</td><td>nan</td><td>./cache/chapter-053.txt</td><td>./txt/chapter-053.txt</td></tr>
+<tr><td>chapter-054</td><td>nan</td><td>chapter-054</td><td>nan</td><td>728</td><td>33</td><td>nan</td><td>./cache/chapter-054.txt</td><td>./txt/chapter-054.txt</td></tr>
+<tr><td>chapter-055</td><td>nan</td><td>chapter-055</td><td>nan</td><td>1660</td><td>65</td><td>nan</td><td>./cache/chapter-055.txt</td><td>./txt/chapter-055.txt</td></tr>
+<tr><td>chapter-056</td><td>nan</td><td>chapter-056</td><td>nan</td><td>8093</td><td>398</td><td>nan</td><td>./cache/chapter-056.txt</td><td>./txt/chapter-056.txt</td></tr>
+<tr><td>chapter-057</td><td>nan</td><td>chapter-057</td><td>nan</td><td>1925</td><td>79</td><td>nan</td><td>./cache/chapter-057.txt</td><td>./txt/chapter-057.txt</td></tr>
+<tr><td>chapter-058</td><td>nan</td><td>chapter-058</td><td>nan</td><td>1332</td><td>55</td><td>nan</td><td>./cache/chapter-058.txt</td><td>./txt/chapter-058.txt</td></tr>
+<tr><td>chapter-059</td><td>nan</td><td>chapter-059</td><td>nan</td><td>980</td><td>36</td><td>nan</td><td>./cache/chapter-059.txt</td><td>./txt/chapter-059.txt</td></tr>
+<tr><td>chapter-060</td><td>nan</td><td>chapter-060</td><td>nan</td><td>1015</td><td>36</td><td>nan</td><td>./cache/chapter-060.txt</td><td>./txt/chapter-060.txt</td></tr>
+<tr><td>chapter-061</td><td>nan</td><td>chapter-061</td><td>nan</td><td>935</td><td>42</td><td>nan</td><td>./cache/chapter-061.txt</td><td>./txt/chapter-061.txt</td></tr>
+<tr><td>chapter-062</td><td>nan</td><td>chapter-062</td><td>nan</td><td>1499</td><td>41</td><td>nan</td><td>./cache/chapter-062.txt</td><td>./txt/chapter-062.txt</td></tr>
+<tr><td>chapter-063</td><td>nan</td><td>chapter-063</td><td>nan</td><td>2003</td><td>105</td><td>nan</td><td>./cache/chapter-063.txt</td><td>./txt/chapter-063.txt</td></tr>
+<tr><td>chapter-064</td><td>nan</td><td>chapter-064</td><td>nan</td><td>577</td><td>20</td><td>nan</td><td>./cache/chapter-064.txt</td><td>./txt/chapter-064.txt</td></tr>
+<tr><td>chapter-065</td><td>nan</td><td>chapter-065</td><td>nan</td><td>478</td><td>19</td><td>nan</td><td>./cache/chapter-065.txt</td><td>./txt/chapter-065.txt</td></tr>
+<tr><td>chapter-066</td><td>nan</td><td>chapter-066</td><td>nan</td><td>3067</td><td>182</td><td>nan</td><td>./cache/chapter-066.txt</td><td>./txt/chapter-066.txt</td></tr>
+<tr><td>chapter-067</td><td>nan</td><td>chapter-067</td><td>nan</td><td>1007</td><td>48</td><td>nan</td><td>./cache/chapter-067.txt</td><td>./txt/chapter-067.txt</td></tr>
+<tr><td>chapter-068</td><td>nan</td><td>chapter-068</td><td>nan</td><td>641</td><td>22</td><td>nan</td><td>./cache/chapter-068.txt</td><td>./txt/chapter-068.txt</td></tr>
+<tr><td>chapter-069</td><td>nan</td><td>chapter-069</td><td>nan</td><td>746</td><td>23</td><td>nan</td><td>./cache/chapter-069.txt</td><td>./txt/chapter-069.txt</td></tr>
+<tr><td>chapter-070</td><td>nan</td><td>chapter-070</td><td>nan</td><td>1214</td><td>58</td><td>nan</td><td>./cache/chapter-070.txt</td><td>./txt/chapter-070.txt</td></tr>
+<tr><td>chapter-071</td><td>nan</td><td>chapter-071</td><td>nan</td><td>447</td><td>31</td><td>nan</td><td>./cache/chapter-071.txt</td><td>./txt/chapter-071.txt</td></tr>
+<tr><td>chapter-072</td><td>nan</td><td>chapter-072</td><td>nan</td><td>894</td><td>42</td><td>nan</td><td>./cache/chapter-072.txt</td><td>./txt/chapter-072.txt</td></tr>
+<tr><td>chapter-073</td><td>nan</td><td>chapter-073</td><td>nan</td><td>2306</td><td>117</td><td>nan</td><td>./cache/chapter-073.txt</td><td>./txt/chapter-073.txt</td></tr>
+<tr><td>chapter-074</td><td>nan</td><td>chapter-074</td><td>nan</td><td>1675</td><td>99</td><td>nan</td><td>./cache/chapter-074.txt</td><td>./txt/chapter-074.txt</td></tr>
+<tr><td>chapter-075</td><td>nan</td><td>chapter-075</td><td>nan</td><td>2238</td><td>133</td><td>nan</td><td>./cache/chapter-075.txt</td><td>./txt/chapter-075.txt</td></tr>
+<tr><td>chapter-076</td><td>nan</td><td>chapter-076</td><td>nan</td><td>1670</td><td>69</td><td>nan</td><td>./cache/chapter-076.txt</td><td>./txt/chapter-076.txt</td></tr>
+<tr><td>chapter-077</td><td>nan</td><td>chapter-077</td><td>nan</td><td>1258</td><td>56</td><td>nan</td><td>./cache/chapter-077.txt</td><td>./txt/chapter-077.txt</td></tr>
+<tr><td>chapter-078</td><td>nan</td><td>chapter-078</td><td>nan</td><td>880</td><td>32</td><td>nan</td><td>./cache/chapter-078.txt</td><td>./txt/chapter-078.txt</td></tr>
+<tr><td>chapter-079</td><td>nan</td><td>chapter-079</td><td>nan</td><td>652</td><td>29</td><td>nan</td><td>./cache/chapter-079.txt</td><td>./txt/chapter-079.txt</td></tr>
+<tr><td>chapter-080</td><td>nan</td><td>chapter-080</td><td>nan</td><td>1676</td><td>73</td><td>nan</td><td>./cache/chapter-080.txt</td><td>./txt/chapter-080.txt</td></tr>
+<tr><td>chapter-081</td><td>nan</td><td>chapter-081</td><td>nan</td><td>951</td><td>50</td><td>nan</td><td>./cache/chapter-081.txt</td><td>./txt/chapter-081.txt</td></tr>
+<tr><td>chapter-082</td><td>nan</td><td>chapter-082</td><td>nan</td><td>918</td><td>38</td><td>nan</td><td>./cache/chapter-082.txt</td><td>./txt/chapter-082.txt</td></tr>
+<tr><td>chapter-083</td><td>nan</td><td>chapter-083</td><td>nan</td><td>4440</td><td>219</td><td>nan</td><td>./cache/chapter-083.txt</td><td>./txt/chapter-083.txt</td></tr>
+<tr><td>chapter-084</td><td>nan</td><td>chapter-084</td><td>nan</td><td>1167</td><td>45</td><td>nan</td><td>./cache/chapter-084.txt</td><td>./txt/chapter-084.txt</td></tr>
+<tr><td>chapter-085</td><td>nan</td><td>chapter-085</td><td>nan</td><td>793</td><td>36</td><td>nan</td><td>./cache/chapter-085.txt</td><td>./txt/chapter-085.txt</td></tr>
+<tr><td>chapter-086</td><td>nan</td><td>chapter-086</td><td>nan</td><td>819</td><td>38</td><td>nan</td><td>./cache/chapter-086.txt</td><td>./txt/chapter-086.txt</td></tr>
+<tr><td>chapter-087</td><td>nan</td><td>chapter-087</td><td>nan</td><td>2090</td><td>87</td><td>nan</td><td>./cache/chapter-087.txt</td><td>./txt/chapter-087.txt</td></tr>
+<tr><td>chapter-088</td><td>nan</td><td>chapter-088</td><td>nan</td><td>1866</td><td>79</td><td>nan</td><td>./cache/chapter-088.txt</td><td>./txt/chapter-088.txt</td></tr>
+<tr><td>chapter-089</td><td>nan</td><td>chapter-089</td><td>nan</td><td>4799</td><td>177</td><td>nan</td><td>./cache/chapter-089.txt</td><td>./txt/chapter-089.txt</td></tr>
+<tr><td>chapter-090</td><td>nan</td><td>chapter-090</td><td>nan</td><td>1203</td><td>58</td><td>nan</td><td>./cache/chapter-090.txt</td><td>./txt/chapter-090.txt</td></tr>
+<tr><td>chapter-091</td><td>nan</td><td>chapter-091</td><td>nan</td><td>1447</td><td>73</td><td>nan</td><td>./cache/chapter-091.txt</td><td>./txt/chapter-091.txt</td></tr>
+<tr><td>chapter-092</td><td>nan</td><td>chapter-092</td><td>nan</td><td>1066</td><td>59</td><td>nan</td><td>./cache/chapter-092.txt</td><td>./txt/chapter-092.txt</td></tr>
+<tr><td>chapter-093</td><td>nan</td><td>chapter-093</td><td>nan</td><td>2593</td><td>126</td><td>nan</td><td>./cache/chapter-093.txt</td><td>./txt/chapter-093.txt</td></tr>
+<tr><td>chapter-094</td><td>nan</td><td>chapter-094</td><td>nan</td><td>985</td><td>39</td><td>nan</td><td>./cache/chapter-094.txt</td><td>./txt/chapter-094.txt</td></tr>
+<tr><td>chapter-095</td><td>nan</td><td>chapter-095</td><td>nan</td><td>1651</td><td>79</td><td>nan</td><td>./cache/chapter-095.txt</td><td>./txt/chapter-095.txt</td></tr>
+<tr><td>chapter-096</td><td>nan</td><td>chapter-096</td><td>nan</td><td>1295</td><td>64</td><td>nan</td><td>./cache/chapter-096.txt</td><td>./txt/chapter-096.txt</td></tr>
+<tr><td>chapter-097</td><td>nan</td><td>chapter-097</td><td>nan</td><td>505</td><td>20</td><td>nan</td><td>./cache/chapter-097.txt</td><td>./txt/chapter-097.txt</td></tr>
+<tr><td>chapter-098</td><td>nan</td><td>chapter-098</td><td>nan</td><td>1848</td><td>97</td><td>nan</td><td>./cache/chapter-098.txt</td><td>./txt/chapter-098.txt</td></tr>
+<tr><td>chapter-099</td><td>nan</td><td>chapter-099</td><td>nan</td><td>250</td><td>14</td><td>nan</td><td>./cache/chapter-099.txt</td><td>./txt/chapter-099.txt</td></tr>
+<tr><td>chapter-100</td><td>nan</td><td>chapter-100</td><td>nan</td><td>1037</td><td>36</td><td>nan</td><td>./cache/chapter-100.txt</td><td>./txt/chapter-100.txt</td></tr>
+<tr><td>chapter-101</td><td>nan</td><td>chapter-101</td><td>nan</td><td>2525</td><td>185</td><td>nan</td><td>./cache/chapter-101.txt</td><td>./txt/chapter-101.txt</td></tr>
+<tr><td>chapter-102</td><td>nan</td><td>chapter-102</td><td>nan</td><td>2768</td><td>148</td><td>nan</td><td>./cache/chapter-102.txt</td><td>./txt/chapter-102.txt</td></tr>
+<tr><td>chapter-103</td><td>nan</td><td>chapter-103</td><td>nan</td><td>1782</td><td>77</td><td>nan</td><td>./cache/chapter-103.txt</td><td>./txt/chapter-103.txt</td></tr>
+<tr><td>chapter-104</td><td>nan</td><td>chapter-104</td><td>nan</td><td>1581</td><td>77</td><td>nan</td><td>./cache/chapter-104.txt</td><td>./txt/chapter-104.txt</td></tr>
+<tr><td>chapter-105</td><td>nan</td><td>chapter-105</td><td>nan</td><td>941</td><td>42</td><td>nan</td><td>./cache/chapter-105.txt</td><td>./txt/chapter-105.txt</td></tr>
+<tr><td>chapter-106</td><td>nan</td><td>chapter-106</td><td>nan</td><td>1446</td><td>61</td><td>nan</td><td>./cache/chapter-106.txt</td><td>./txt/chapter-106.txt</td></tr>
+<tr><td>chapter-107</td><td>nan</td><td>chapter-107</td><td>nan</td><td>1587</td><td>47</td><td>nan</td><td>./cache/chapter-107.txt</td><td>./txt/chapter-107.txt</td></tr>
+<tr><td>chapter-108</td><td>nan</td><td>chapter-108</td><td>nan</td><td>945</td><td>28</td><td>nan</td><td>./cache/chapter-108.txt</td><td>./txt/chapter-108.txt</td></tr>
+<tr><td>chapter-109</td><td>nan</td><td>chapter-109</td><td>nan</td><td>1069</td><td>40</td><td>nan</td><td>./cache/chapter-109.txt</td><td>./txt/chapter-109.txt</td></tr>
+<tr><td>chapter-110</td><td>nan</td><td>chapter-110</td><td>nan</td><td>1639</td><td>161</td><td>nan</td><td>./cache/chapter-110.txt</td><td>./txt/chapter-110.txt</td></tr>
+<tr><td>chapter-111</td><td>nan</td><td>chapter-111</td><td>nan</td><td>936</td><td>63</td><td>nan</td><td>./cache/chapter-111.txt</td><td>./txt/chapter-111.txt</td></tr>
+<tr><td>chapter-112</td><td>nan</td><td>chapter-112</td><td>nan</td><td>2280</td><td>103</td><td>nan</td><td>./cache/chapter-112.txt</td><td>./txt/chapter-112.txt</td></tr>
+<tr><td>chapter-113</td><td>nan</td><td>chapter-113</td><td>nan</td><td>431</td><td>17</td><td>nan</td><td>./cache/chapter-113.txt</td><td>./txt/chapter-113.txt</td></tr>
+<tr><td>chapter-114</td><td>nan</td><td>chapter-114</td><td>nan</td><td>956</td><td>39</td><td>nan</td><td>./cache/chapter-114.txt</td><td>./txt/chapter-114.txt</td></tr>
+<tr><td>chapter-115</td><td>nan</td><td>chapter-115</td><td>nan</td><td>1253</td><td>84</td><td>nan</td><td>./cache/chapter-115.txt</td><td>./txt/chapter-115.txt</td></tr>
+<tr><td>chapter-116</td><td>nan</td><td>chapter-116</td><td>nan</td><td>653</td><td>31</td><td>nan</td><td>./cache/chapter-116.txt</td><td>./txt/chapter-116.txt</td></tr>
+<tr><td>chapter-117</td><td>nan</td><td>chapter-117</td><td>nan</td><td>910</td><td>43</td><td>nan</td><td>./cache/chapter-117.txt</td><td>./txt/chapter-117.txt</td></tr>
+<tr><td>chapter-118</td><td>nan</td><td>chapter-118</td><td>nan</td><td>524</td><td>26</td><td>nan</td><td>./cache/chapter-118.txt</td><td>./txt/chapter-118.txt</td></tr>
+<tr><td>chapter-119</td><td>nan</td><td>chapter-119</td><td>nan</td><td>478</td><td>29</td><td>nan</td><td>./cache/chapter-119.txt</td><td>./txt/chapter-119.txt</td></tr>
+<tr><td>chapter-120</td><td>nan</td><td>chapter-120</td><td>nan</td><td>913</td><td>46</td><td>nan</td><td>./cache/chapter-120.txt</td><td>./txt/chapter-120.txt</td></tr>
+<tr><td>chapter-121</td><td>nan</td><td>chapter-121</td><td>nan</td><td>2580</td><td>167</td><td>nan</td><td>./cache/chapter-121.txt</td><td>./txt/chapter-121.txt</td></tr>
+<tr><td>chapter-122</td><td>nan</td><td>chapter-122</td><td>nan</td><td>192</td><td>27</td><td>nan</td><td>./cache/chapter-122.txt</td><td>./txt/chapter-122.txt</td></tr>
+<tr><td>chapter-123</td><td>nan</td><td>chapter-123</td><td>nan</td><td>652</td><td>54</td><td>nan</td><td>./cache/chapter-123.txt</td><td>./txt/chapter-123.txt</td></tr>
+<tr><td>chapter-124</td><td>nan</td><td>chapter-124</td><td>nan</td><td>55</td><td>10</td><td>nan</td><td>./cache/chapter-124.txt</td><td>./txt/chapter-124.txt</td></tr>
+<tr><td>chapter-125</td><td>nan</td><td>chapter-125</td><td>nan</td><td>1250</td><td>93</td><td>nan</td><td>./cache/chapter-125.txt</td><td>./txt/chapter-125.txt</td></tr>
+<tr><td>chapter-126</td><td>nan</td><td>chapter-126</td><td>nan</td><td>1229</td><td>62</td><td>nan</td><td>./cache/chapter-126.txt</td><td>./txt/chapter-126.txt</td></tr>
+<tr><td>chapter-127</td><td>nan</td><td>chapter-127</td><td>nan</td><td>1145</td><td>119</td><td>nan</td><td>./cache/chapter-127.txt</td><td>./txt/chapter-127.txt</td></tr>
+<tr><td>chapter-128</td><td>nan</td><td>chapter-128</td><td>nan</td><td>1428</td><td>82</td><td>nan</td><td>./cache/chapter-128.txt</td><td>./txt/chapter-128.txt</td></tr>
+<tr><td>chapter-129</td><td>nan</td><td>chapter-129</td><td>nan</td><td>742</td><td>86</td><td>nan</td><td>./cache/chapter-129.txt</td><td>./txt/chapter-129.txt</td></tr>
+<tr><td>chapter-130</td><td>nan</td><td>chapter-130</td><td>nan</td><td>1438</td><td>65</td><td>nan</td><td>./cache/chapter-130.txt</td><td>./txt/chapter-130.txt</td></tr>
+<tr><td>chapter-131</td><td>nan</td><td>chapter-131</td><td>nan</td><td>594</td><td>60</td><td>nan</td><td>./cache/chapter-131.txt</td><td>./txt/chapter-131.txt</td></tr>
+<tr><td>chapter-132</td><td>nan</td><td>chapter-132</td><td>nan</td><td>1716</td><td>59</td><td>nan</td><td>./cache/chapter-132.txt</td><td>./txt/chapter-132.txt</td></tr>
+<tr><td>chapter-133</td><td>nan</td><td>chapter-133</td><td>nan</td><td>434</td><td>31</td><td>nan</td><td>./cache/chapter-133.txt</td><td>./txt/chapter-133.txt</td></tr>
+<tr><td>chapter-134</td><td>nan</td><td>chapter-134</td><td>nan</td><td>1639</td><td>128</td><td>nan</td><td>./cache/chapter-134.txt</td><td>./txt/chapter-134.txt</td></tr>
+<tr><td>chapter-135</td><td>nan</td><td>chapter-135</td><td>nan</td><td>3615</td><td>191</td><td>nan</td><td>./cache/chapter-135.txt</td><td>./txt/chapter-135.txt</td></tr>
+<tr><td>chapter-136</td><td>nan</td><td>chapter-136</td><td>nan</td><td>3350</td><td>185</td><td>nan</td><td>./cache/chapter-136.txt</td><td>./txt/chapter-136.txt</td></tr>
+<tr><td>chapter-137</td><td>nan</td><td>chapter-137</td><td>nan</td><td>4596</td><td>329</td><td>nan</td><td>./cache/chapter-137.txt</td><td>./txt/chapter-137.txt</td></tr>
+<tr><td>chapter-138</td><td>nan</td><td>chapter-138</td><td>nan</td><td>277</td><td>16</td><td>nan</td><td>./cache/chapter-138.txt</td><td>./txt/chapter-138.txt</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

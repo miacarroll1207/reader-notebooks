@@ -1,0 +1,342 @@
+id	sid	eid	entity	type
+chapter-056	2	1	the Golden Inn	FAC
+chapter-056	3	1	four	CARDINAL
+chapter-056	4	1	Goney	PERSON
+chapter-056	4	2	the Town-Ho,[10	ORG
+chapter-056	5	1	Polynesians	NORP
+chapter-056	6	1	Moby Dick	PERSON
+chapter-056	7	1	the White Whale	ORG
+chapter-056	7	2	the Town-Ho's	FAC
+chapter-056	7	3	one	CARDINAL
+chapter-056	9	1	the Town-Ho	FAC
+chapter-056	10	1	three	CARDINAL
+chapter-056	10	2	one	CARDINAL
+chapter-056	10	3	Tashtego	PERSON
+chapter-056	10	4	Romish	NORP
+chapter-056	10	5	Tashtego	PERSON
+chapter-056	11	1	Pequod	PERSON
+chapter-056	11	2	Pequod	PERSON
+chapter-056	13	1	10	CARDINAL
+chapter-056	13	2	first	ORDINAL
+chapter-056	14	1	Lima	GPE
+chapter-056	14	2	Spanish	NORP
+chapter-056	14	3	one	CARDINAL
+chapter-056	14	4	the Golden Inn	FAC
+chapter-056	15	1	Pedro	PERSON
+chapter-056	15	2	Sebastian	NORP
+chapter-056	16	1	Some two years	DATE
+chapter-056	16	2	first	ORDINAL
+chapter-056	16	3	the Town-Ho	FAC
+chapter-056	16	4	Sperm Whaler	PERSON
+chapter-056	16	5	Nantucket	GPE
+chapter-056	16	6	Pacific	LOC
+chapter-056	18	1	One morning	TIME
+chapter-056	18	2	daily	DATE
+chapter-056	20	1	more days	DATE
+chapter-056	22	1	six-and-	QUANTITY
+chapter-056	23	1	the Town-Ho	FAC
+chapter-056	23	2	Radney	PERSON
+chapter-056	23	3	Vineyarder	PERSON
+chapter-056	23	4	Steelkilt	GPE
+chapter-056	23	5	Lakeman	NORP
+chapter-056	23	6	Buffalo	GPE
+chapter-056	25	1	Pray	ORG
+chapter-056	25	2	Lakeman	PERSON
+chapter-056	25	3	Buffalo	GPE
+chapter-056	26	1	Don Sebastian	PERSON
+chapter-056	27	1	Lake Erie	LOC
+chapter-056	27	2	Don	PERSON
+chapter-056	28	1	three	CARDINAL
+chapter-056	28	2	Callao	PERSON
+chapter-056	28	3	Manilla	PERSON
+chapter-056	28	4	lakeman	ORDINAL
+chapter-056	28	5	America	GPE
+chapter-056	28	6	agrarian	NORP
+chapter-056	29	1	Erie	PERSON
+chapter-056	29	2	Ontario	GPE
+chapter-056	29	3	Huron	PERSON
+chapter-056	29	4	Superior	PERSON
+chapter-056	30	1	Polynesian	NORP
+chapter-056	30	2	two	CARDINAL
+chapter-056	30	3	Atlantic	LOC
+chapter-056	30	4	East	LOC
+chapter-056	30	5	Mackinaw	LOC
+chapter-056	30	6	Gothic	LOC
+chapter-056	30	7	Buffalo	GPE
+chapter-056	30	8	Cleveland	GPE
+chapter-056	30	9	Winnebago	ORG
+chapter-056	30	10	State	ORG
+chapter-056	30	11	Borean	PERSON
+chapter-056	31	1	Steelkilt	PERSON
+chapter-056	32	1	Radney	PERSON
+chapter-056	32	2	Nantucket beach	GPE
+chapter-056	32	3	Atlantic	LOC
+chapter-056	32	4	Pacific	LOC
+chapter-056	33	1	Lakeman	PERSON
+chapter-056	34	1	Radney	PERSON
+chapter-056	34	2	Steelkilt	PERSON
+chapter-056	35	1	more than a day	DATE
+chapter-056	35	2	two	CARDINAL
+chapter-056	35	3	the Town-Ho's	FAC
+chapter-056	35	4	every day	DATE
+chapter-056	36	1	Atlantic	LOC
+chapter-056	36	2	sleepy night	TIME
+chapter-056	39	1	the Town-Ho	FAC
+chapter-056	39	2	Radney	PERSON
+chapter-056	41	1	Radney	PERSON
+chapter-056	43	1	that evening	TIME
+chapter-056	43	2	lee	PERSON
+chapter-056	44	1	one	CARDINAL
+chapter-056	45	1	Steelkilt	ORG
+chapter-056	45	2	Roman	PERSON
+chapter-056	45	3	Steelkilt Charlemagne	PERSON
+chapter-056	45	4	Charlemagne	PERSON
+chapter-056	46	1	Radney	PERSON
+chapter-056	47	1	Steelkilt	ORG
+chapter-056	47	2	Steelkilt	PERSON
+chapter-056	48	1	Lakeman	PERSON
+chapter-056	49	1	Aye	PERSON
+chapter-056	49	2	ye	GPE
+chapter-056	51	1	Rad	PERSON
+chapter-056	59	1	Damn	PERSON
+chapter-056	61	1	Radney	PERSON
+chapter-056	63	1	Aye	PERSON
+chapter-056	63	2	Steelkilt	PERSON
+chapter-056	65	1	fifty	CARDINAL
+chapter-056	66	1	Lakeman	PERSON
+chapter-056	67	1	Radney	PERSON
+chapter-056	69	1	every evening	TIME
+chapter-056	70	1	first	ORDINAL
+chapter-056	72	1	the Town-Ho	FAC
+chapter-056	72	2	Steelkilt	PERSON
+chapter-056	72	3	one	CARDINAL
+chapter-056	73	1	two	CARDINAL
+chapter-056	74	1	Steelkilt	ORG
+chapter-056	74	2	Radney	PERSON
+chapter-056	75	1	Lakeman	PERSON
+chapter-056	76	1	Steelkilt	ORG
+chapter-056	78	1	three	CARDINAL
+chapter-056	78	2	all day	DATE
+chapter-056	79	1	Radney	PERSON
+chapter-056	79	2	Lakeman	PERSON
+chapter-056	80	1	first	ORDINAL
+chapter-056	80	2	Steelkilt	WORK_OF_ART
+chapter-056	80	3	Radney	PERSON
+chapter-056	80	4	a few inches	QUANTITY
+chapter-056	83	1	two	CARDINAL
+chapter-056	83	2	Lakeman	ORDINAL
+chapter-056	84	1	Radney	PERSON
+chapter-056	86	1	Lakeman	NORP
+chapter-056	86	2	an inch	QUANTITY
+chapter-056	87	1	thousandth	CARDINAL
+chapter-056	87	2	Steelkilt	PERSON
+chapter-056	90	1	Steelkilt	PERSON
+chapter-056	90	2	two	CARDINAL
+chapter-056	91	1	Canallers	PRODUCT
+chapter-056	93	1	Don Pedro	PERSON
+chapter-056	95	1	Don	PERSON
+chapter-056	97	1	Nay	PERSON
+chapter-056	97	2	Senor	PERSON
+chapter-056	97	3	North	PERSON
+chapter-056	98	1	Aye	PERSON
+chapter-056	99	1	Don	PERSON
+chapter-056	100	1	Canallers	NORP
+chapter-056	101	1	three hundred and sixty miles	QUANTITY
+chapter-056	101	2	New York	GPE
+chapter-056	101	3	Roman	PERSON
+chapter-056	101	4	Indian	NORP
+chapter-056	101	5	Mohawk	NORP
+chapter-056	101	6	one	CARDINAL
+chapter-056	102	1	Ashantee	ORG
+chapter-056	102	2	lee	PERSON
+chapter-056	105	1	Don Pedro	PERSON
+chapter-056	106	1	Dame Isabella's	PERSON
+chapter-056	106	2	Lima	GPE
+chapter-056	106	3	Don Sebastian	PERSON
+chapter-056	111	1	Lima	GPE
+chapter-056	111	2	Venice	GPE
+chapter-056	113	1	Lima	GPE
+chapter-056	114	1	Corrupt as Lima	WORK_OF_ART
+chapter-056	115	1	Venice	GPE
+chapter-056	121	1	Mark Antony	PERSON
+chapter-056	121	2	days	DATE
+chapter-056	121	3	days	DATE
+chapter-056	121	4	Nile	PERSON
+chapter-056	121	5	Cleopatra	PERSON
+chapter-056	125	1	one	CARDINAL
+chapter-056	125	2	Canallers	NORP
+chapter-056	126	1	Sydney	PERSON
+chapter-056	127	1	thousands	CARDINAL
+chapter-056	127	2	Grand Canal	FAC
+chapter-056	127	3	Christian	NORP
+chapter-056	130	1	Don Pedro	PERSON
+chapter-056	132	1	one	CARDINAL
+chapter-056	132	2	Lima	GPE
+chapter-056	134	1	Lakeman	PERSON
+chapter-056	135	1	three	CARDINAL
+chapter-056	135	2	four	CARDINAL
+chapter-056	136	1	two	CARDINAL
+chapter-056	136	2	Canallers	NORP
+chapter-056	139	1	about three or four	CARDINAL
+chapter-056	139	2	sea-Parisians	NORP
+chapter-056	140	1	ye	PERSON
+chapter-056	142	1	ye	PERSON
+chapter-056	154	1	Aye	PERSON
+chapter-056	159	1	Lakeman	NORP
+chapter-056	164	1	Lakeman	PERSON
+chapter-056	164	2	one	CARDINAL
+chapter-056	167	1	ye	ORG
+chapter-056	167	2	ye attack	PERSON
+chapter-056	168	1	ye	PERSON
+chapter-056	168	2	ye	PERSON
+chapter-056	173	1	Lakeman	PERSON
+chapter-056	174	1	Captain	ORG
+chapter-056	174	2	ten	CARDINAL
+chapter-056	174	3	twenty or more	CARDINAL
+chapter-056	175	1	All night	TIME
+chapter-056	176	1	the hours	TIME
+chapter-056	176	2	the dreary night	TIME
+chapter-056	178	1	Captain	ORG
+chapter-056	179	1	three days	DATE
+chapter-056	179	2	the fourth morning	TIME
+chapter-056	179	3	four	CARDINAL
+chapter-056	181	1	Steelkilt	ORG
+chapter-056	182	1	the fifth morning	TIME
+chapter-056	182	2	three	CARDINAL
+chapter-056	183	1	Only three	CARDINAL
+chapter-056	189	1	Captain	ORG
+chapter-056	190	1	seven	CARDINAL
+chapter-056	190	2	Steelkilt	PERSON
+chapter-056	190	3	two	CARDINAL
+chapter-056	190	4	Canallers	NORP
+chapter-056	190	5	one	CARDINAL
+chapter-056	192	1	the last night	TIME
+chapter-056	193	1	two	CARDINAL
+chapter-056	194	1	first	ORDINAL
+chapter-056	195	1	two	CARDINAL
+chapter-056	195	2	first	ORDINAL
+chapter-056	195	3	one	CARDINAL
+chapter-056	197	1	first	ORDINAL
+chapter-056	197	2	three	CARDINAL
+chapter-056	197	3	ten	CARDINAL
+chapter-056	198	1	Steelkilt	PERSON
+chapter-056	198	2	three	CARDINAL
+chapter-056	198	3	midnight	TIME
+chapter-056	200	1	a few minutes	TIME
+chapter-056	201	1	three quarters	DATE
+chapter-056	202	1	Damn ye	PERSON
+chapter-056	202	2	ye	GPE
+chapter-056	202	3	ye villains	PERSON
+chapter-056	204	1	ye carrion	FAC
+chapter-056	204	2	three	CARDINAL
+chapter-056	204	3	two	CARDINAL
+chapter-056	204	4	two	CARDINAL
+chapter-056	210	1	ye frighten	PERSON
+chapter-056	211	1	Lakeman	PERSON
+chapter-056	213	1	two or three	CARDINAL
+chapter-056	214	1	Radney	PERSON
+chapter-056	215	1	that morning	TIME
+chapter-056	218	1	Lakeman	PERSON
+chapter-056	221	1	Steelkilt	ORG
+chapter-056	222	1	three	CARDINAL
+chapter-056	223	1	that day	DATE
+chapter-056	223	2	one	CARDINAL
+chapter-056	223	3	two	CARDINAL
+chapter-056	226	1	Steelkilt	ORG
+chapter-056	228	1	the Town-Ho	FAC
+chapter-056	228	2	the day	DATE
+chapter-056	228	3	first	ORDINAL
+chapter-056	228	4	Radney	PERSON
+chapter-056	229	1	Lakeman	PERSON
+chapter-056	230	1	Radney	PERSON
+chapter-056	230	2	more than half	CARDINAL
+chapter-056	230	3	night	TIME
+chapter-056	231	1	one	CARDINAL
+chapter-056	231	2	two	CARDINAL
+chapter-056	232	1	the night	TIME
+chapter-056	232	2	Radney	PERSON
+chapter-056	232	3	the bulwarks of the quarter-deck	DATE
+chapter-056	235	1	two o'clock	TIME
+chapter-056	235	2	the morning of the third day	TIME
+chapter-056	241	1	'Like a lanyard for your bag; but it's an odd one, seems to me	WORK_OF_ART
+chapter-056	242	1	Lakeman	PERSON
+chapter-056	243	1	twine,--have	ORG
+chapter-056	251	1	the next night	TIME
+chapter-056	251	2	Lakeman	PERSON
+chapter-056	252	1	Twenty-four hours	TIME
+chapter-056	252	2	that fatal hour	TIME
+chapter-056	252	3	Steelkilt	GPE
+chapter-056	256	1	the morning of the second day	TIME
+chapter-056	256	2	Teneriffe	ORG
+chapter-056	258	1	Jesu	ORG
+chapter-056	259	1	Moby Dick	PERSON
+chapter-056	260	1	Moby Dick	PERSON
+chapter-056	261	1	Don Sebastian	PERSON
+chapter-056	264	1	Moby Dick	PERSON
+chapter-056	268	1	Spaniards	NORP
+chapter-056	269	1	Nay	PERSON
+chapter-056	271	1	Sirs	GPE
+chapter-056	274	1	Don Pedro	PERSON
+chapter-056	275	1	one	CARDINAL
+chapter-056	275	2	fifty yards	QUANTITY
+chapter-056	275	3	Teneriffe	ORG
+chapter-056	275	4	three	CARDINAL
+chapter-056	277	1	The White Whale--the White Whale	WORK_OF_ART
+chapter-056	278	1	blue morning sea	FAC
+chapter-056	280	1	Radney	PERSON
+chapter-056	281	1	four	CARDINAL
+chapter-056	281	2	Steelkilt	PERSON
+chapter-056	282	1	Radney	PERSON
+chapter-056	285	1	two	CARDINAL
+chapter-056	286	1	Radney	PERSON
+chapter-056	287	1	Moby Dick	PERSON
+chapter-056	289	1	first	ORDINAL
+chapter-056	289	2	Lakeman	PERSON
+chapter-056	292	1	Moby Dick	PERSON
+chapter-056	292	2	Radney	PERSON
+chapter-056	293	1	four	CARDINAL
+chapter-056	295	1	Lakeman	PERSON
+chapter-056	295	2	five	CARDINAL
+chapter-056	295	3	six	CARDINAL
+chapter-056	297	1	night	TIME
+chapter-056	297	2	day	DATE
+chapter-056	298	1	two	CARDINAL
+chapter-056	298	2	Islanders	PERSON
+chapter-056	298	3	one	CARDINAL
+chapter-056	298	4	Tahiti	GPE
+chapter-056	298	5	five hundred miles	QUANTITY
+chapter-056	299	1	the fourth day	DATE
+chapter-056	300	1	Steelkilt	ORG
+chapter-056	302	1	one foot	QUANTITY
+chapter-056	302	2	Lakeman	PERSON
+chapter-056	308	1	Tahiti	ORG
+chapter-056	314	1	Steelkilt	ORG
+chapter-056	314	2	six days	DATE
+chapter-056	316	1	Lakeman	PERSON
+chapter-056	319	1	Tahiti	ORG
+chapter-056	320	1	two	CARDINAL
+chapter-056	320	2	France	GPE
+chapter-056	322	1	Some ten days	DATE
+chapter-056	322	2	French	NORP
+chapter-056	322	3	Tahitians	NORP
+chapter-056	324	1	Nantucket	GPE
+chapter-056	324	2	Radney	PERSON
+chapter-056	326	1	Don Sebastian	PERSON
+chapter-056	327	1	Don	PERSON
+chapter-056	332	1	Don Sebastian's	PERSON
+chapter-056	333	1	the Holy Evangelists	ORG
+chapter-056	333	2	the Golden Inn	LOC
+chapter-056	334	1	Nay	PERSON
+chapter-056	334	2	Don Sebastian	PERSON
+chapter-056	334	3	one	CARDINAL
+chapter-056	337	1	Don	PERSON
+chapter-056	338	1	Lima	GPE
+chapter-056	338	2	one	CARDINAL
+chapter-056	341	1	Don Sebastian	PERSON
+chapter-056	341	2	Evangelists	ORG
+chapter-056	342	1	Evangelists	ORG
+chapter-056	342	2	Don Sebastian	PERSON
+chapter-056	344	1	the Holy Book	WORK_OF_ART
+chapter-056	345	1	ye	PERSON
+chapter-056	346	1	Steelkilt	ORG
+chapter-056	346	2	Radney	PERSON
